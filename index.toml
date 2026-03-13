@@ -46,6 +46,11 @@ hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "f596d49b8d8a5ce74b39bfb9dd140175ae97b30e822c113cdc5c093926177426"
 metafile = true
 
 [[files]]
@@ -153,4 +163,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "97a62d0b00bdb7f6a2ba51ad05b2ed8c3ebe06098ce893b3d638d59498addf7f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
