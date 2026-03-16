@@ -21,6 +21,11 @@ hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
@@ -173,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "97a62d0b00bdb7f6a2ba51ad05b2ed8c3ebe06098ce893b3d638d59498addf7f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/distant-horizons-zh.pw.toml"
+hash = "b3a9ae33814cd0d33dd2c9450f53485f939cbe7427024b0c9ee035ffcf0114ef"
 metafile = true
 
 [[files]]

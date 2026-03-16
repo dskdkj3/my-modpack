@@ -1,0 +1,13 @@
+name = "Distant Horizons 遥远的地平线汉化包"
+filename = "Distant Horizons汉化材质包2.4.3-1.16.5-1.21.11.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lk0fz74T/versions/7eCjkSDn/Distant%20Horizons%E6%B1%89%E5%8C%96%E6%9D%90%E8%B4%A8%E5%8C%852.4.3-1.16.5-1.21.11.zip"
+hash-format = "sha512"
+hash = "6fcdef5c3f6128282eb6267aa35b01a90d12dfb1f00aa4c45a8280d1d9d5469c4f0b143341418138d746724047a330eba1ed3ba0c2dbb8ddf659b02e3afe8b21"
+
+[update]
+[update.modrinth]
+mod-id = "Lk0fz74T"
+version = "7eCjkSDn"
