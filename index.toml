@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
-hash = "f596d49b8d8a5ce74b39bfb9dd140175ae97b30e822c113cdc5c093926177426"
+hash = "c8bf1fead08f237f88f21482e0c9416cf51297e566cf82ec95e0365f8953651b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,38 @@
+name: release-i18nupdatemod-3.7.0-hmclfix1
+
+on:
+  push:
+    tags:
+      - "i18nupdatemod-3.7.0-hmclfix1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Build patched jar
+        run: ./scripts/build-i18nupdatemod-3.7.0-hmclfix1.sh
+
+      - name: Publish release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: i18nupdatemod-3.7.0-hmclfix1
+          name: I18nUpdateMod 3.7.0 HMCL hotfix 1
+          body_path: docs/i18nupdatemod-3.7.0-hmclfix1.md
+          files: |
+            dist/I18nUpdateMod-3.7.0-hmclfix1-all.jar
+            dist/I18nUpdateMod-3.7.0-hmclfix1-all.jar.sha256
+            dist/I18nUpdateMod-3.7.0-hmclfix1-all.jar.sha512
