@@ -1,6 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/euphoria_patcher/settings.toml"
+hash = "e71fde0d5154a426680f0b89d617966be721cc5e69db0b578d74acb7ceaf53dc"
+preserve = true
+
+[[files]]
+file = "config/modmenu.json"
+hash = "697b68c462edd944d4cbd23fd21195e81c170595e69a1294a85dbcdcf1894925"
+preserve = true
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "82b008e200d962d65caa845b3c9c4b9319adffac66a6568145f58f3a0a7ab32f"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "5becce9b6f4a7c83c4ffd6568562b81f613f14b9ea0455981478e42eb1aef1f5"
+preserve = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "01174ec973f9c2267f4d6ae6040941a3e764af58f9fa0b0a9f2914ce5630d728"
 metafile = true
