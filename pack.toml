@@ -1,12 +1,12 @@
 name = "My Modpack"
-version = "1.0.3"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8e72aa763f4e638f9a07ff3008421740290662e89a921f1db32fecca6666ebe3"
+hash = "13a7dc18af2143a55e6ca33fb71cf69097a33a3874dcbe023f94aac66d4442be"
 
 [versions]
-fabric = "0.18.4"
+fabric = "0.19.2"
 minecraft = "1.21.1"

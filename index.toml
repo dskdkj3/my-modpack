@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
 metafile = true
 
 [[files]]
@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "7494d3ab9667c29b19cc48b65e39b3623bd6c521e4357526176f71ace8ec17eb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "46c8bb2566dfbf52592c4d0a57d9090fa14e9a31bcb188ecd5b95017364a184f"
+hash = "e7820822a31d29cf5227b19046d7e84e73b7ae3e689c96e5fbdf1f8073b6f9ad"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "183d7866328971a71ef6948ef832afc4a43d6b807fdcafe682bc0265d5d651fa"
+hash = "78eafe609d6474acab89104fe0f47d15c00348974c1d4d9b95599ee20a213dbe"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
 metafile = true
 
 [[files]]
