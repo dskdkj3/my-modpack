@@ -1,0 +1,8 @@
+name = "ftbpc_pad_actions"
+filename = "ftbpc_pad_actions.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74a5396f949aefa7d034dd0b6f8e259b079c37f435b86be384245ed075815af7.snbt"
+hash-format = "sha512"
+hash = "072d768a761d21a00cf494711bf275596316bc7699b966f2be16afe20446c6fdf4cc652b8b9b323e0f78518922d7b737f901c74029fffac576cac52ba5caf4bb"

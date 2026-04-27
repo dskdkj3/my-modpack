@@ -1,0 +1,8 @@
+name = "dummmmmmy-client"
+filename = "dummmmmmy-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/9679c6d0c6a462de1400c17ea0e04bcf87f7258f2d6d371837686fa5ee0678ab.toml"
+hash-format = "sha512"
+hash = "d41f82967fcea7967df5adc22b9f031496c872d034a7a081ee2e87562d9762f1bdba047635918fa759c799b197f5764d396acb95d8e0fcc3747d15fc99ef86af"

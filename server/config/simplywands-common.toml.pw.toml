@@ -1,0 +1,8 @@
+name = "simplywands-common"
+filename = "simplywands-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c8c3ca8ebc26c7fe68add8acd122aade1ef5f9296c8bbd0c886a881f6e875911.toml"
+hash-format = "sha512"
+hash = "b88a48e5314d8cfafa92979b4ff49d400cb76cee09e9856f0fa39ce1565ad3d02bb74cf07d26e19d625c1d525bf95bf69f471f316ec1de402b9c7a8427812990"

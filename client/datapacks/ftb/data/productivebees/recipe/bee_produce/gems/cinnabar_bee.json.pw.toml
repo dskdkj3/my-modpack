@@ -1,0 +1,8 @@
+name = "cinnabar_bee"
+filename = "cinnabar_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a7e189ab3b2f644c52ae62538db36d825af4668e272190345720c0ee611bbd8a.json"
+hash-format = "sha512"
+hash = "08c03e63d9ca59e827f7d72c886418d9cea0a2fcf76e4f15c50d85b6dce10b3fd3d982bc562d2cd535f01c3c62708a2e356a9e928fb6847c9eb79a8c42ea920e"

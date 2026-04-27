@@ -1,0 +1,8 @@
+name = "waystones-common"
+filename = "waystones-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0cde3dc76dd8451a86daa90a235d8f1e0b00a5a28b0e40c971757045cbae122.toml"
+hash-format = "sha512"
+hash = "1f5e27e1b684133373aa0d6f9f9ccf4788df229191d0aace70cc81491acdd81db5ac0610ba7d2a178519cb0025bd5a917ffd9038c8be9e82802750b8c307ba16"

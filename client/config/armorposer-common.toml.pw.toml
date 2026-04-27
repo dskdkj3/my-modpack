@@ -1,0 +1,8 @@
+name = "armorposer-common"
+filename = "armorposer-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9d49caf2218080880d9d7df98986cff37621b82a03d033014982747a8c5fe61.toml"
+hash-format = "sha512"
+hash = "047aaab99b97eae0b9179fc415893f636f383b54c9203b4d373f5608b8d6032f894937081fef303d39cdb8fb8e1a40dd44cb177f1c8b154bb23285b12a45168a"

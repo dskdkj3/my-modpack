@@ -1,0 +1,8 @@
+name = "coal_coke"
+filename = "coal_coke.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/56f9566fb941292a28171c9876ffa38bcbf57c43137f4f8bcc407f0744be8886.json"
+hash-format = "sha512"
+hash = "d447819b9d9aeba51a64fa5f2ec5cfbad745ac4b60355770d22af0723084d7c4a5f44b54207f2462ab78bfa154532cbf6ad2b0cfb99d2b471117861609f865ef"

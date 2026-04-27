@@ -1,0 +1,8 @@
+name = "roots_4"
+filename = "roots_4.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/cad2a1f30e7a0b4c0d22de20bc2b2115613e0022bb0bda574b25a2c5716a1a63.snbt"
+hash-format = "sha512"
+hash = "96611cfa0b26e5a88f97129799be87757c086b1ed0a8847b3b85e28413b0eb9c974e01e3530b99fb8a5584c64ec89eeba2ce26e1f91a105726bcd79e0df025fb"

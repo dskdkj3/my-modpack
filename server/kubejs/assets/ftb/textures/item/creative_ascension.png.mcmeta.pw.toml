@@ -1,0 +1,8 @@
+name = "creative_ascension.png.mcmeta"
+filename = "creative_ascension.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d5b64e95e173b40a57842dd4c6b619d87e7adeafccf75007b4d2cdeda25755d.mcmeta"
+hash-format = "sha512"
+hash = "718845c20f0c57306ed7a40ccbbd7b6874388ad142f7cd9e44bd3a6add5c0657d8c886ef29776a8563c5233e86222a490fc6cc64a5b55be9ac04c5612bd3a79c"

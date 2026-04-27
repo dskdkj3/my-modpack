@@ -1,0 +1,8 @@
+name = "ccl"
+filename = "ccl.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/6437e37db767ede842de33e9568caaceb6e22f901d5e63badc687be74c2dda31.cfg"
+hash-format = "sha512"
+hash = "ff42ee96d49a6f776c51c5009c45741383ab09cfe8b42d4af70717d3c3886d1879a2b51a97741190af245e14971399a2a1ffc044e84c9a72d66bb104005205b2"

@@ -1,0 +1,8 @@
+name = "soulstone_cobblestone"
+filename = "soulstone_cobblestone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebfe01e6be5bd85a7843442cffcd117ababe10ec21c5b1f88a7242f74917bc31.json"
+hash-format = "sha512"
+hash = "40691208b6e88a8712da187d879a37d93a5bdd73a9753be8fde9fd20ce08903fcf6455da2cdfcbd5372b3238076015dccc4dbaa7cd678b6b3e5d381cec3396bc"

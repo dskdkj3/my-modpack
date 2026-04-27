@@ -1,0 +1,8 @@
+name = "findit-client"
+filename = "findit-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/863e0c13a1d98585f0dc599cef4fe276ff9d729a8b604efccaa7d67e0c9f70ed.toml"
+hash-format = "sha512"
+hash = "a347bb5d7cdb3bf0b40c49f0f76a25a87d5ea5b1e20ea9dc4baba4083e07e5fea847a3d24e37f8b5241cfd47d2c07cc57d93810935ff9044bc4ec7d99d98a189"

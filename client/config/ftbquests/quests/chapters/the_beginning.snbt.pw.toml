@@ -1,0 +1,8 @@
+name = "the_beginning"
+filename = "the_beginning.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9ed172f973cd4e5d05904288be4fcd87331058da2e57dbadb5096f7e57863433.snbt"
+hash-format = "sha512"
+hash = "7078f058224c2df8d59b00ff8a312962f66bf1bc6ad33925502096ca79e0fb9358a08ad0c0b55b867e5177793c87bd902340ac0796f95fe6ecef6393318ea2d2"

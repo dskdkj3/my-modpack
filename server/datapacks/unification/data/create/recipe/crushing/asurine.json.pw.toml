@@ -1,0 +1,8 @@
+name = "asurine"
+filename = "asurine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f8b9d2dc3cc346febdb2a2836a715befa2709bc5497750e3a3ac30bbac99c8c.json"
+hash-format = "sha512"
+hash = "acdbc44372606d068d3881f70fb5f6c5e1cb7a455fc1de1a08fc17eca4ce59d8c718203a3bb01df20cf1a69125b5abd137f7df5e012fd0cfb46a189f73924c9c"

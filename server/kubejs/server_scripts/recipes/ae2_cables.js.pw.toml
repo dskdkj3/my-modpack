@@ -1,0 +1,8 @@
+name = "ae2_cables"
+filename = "ae2_cables.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bbcc6a0accb19805268b7278fe064cf37fa603dfe5ecd685522bfd540178009a.js"
+hash-format = "sha512"
+hash = "ebbb33c093c4f4900dba40b665b1e3bdd6895e239364886c7657ad88358a75c36a08cf1db4ec7e0a47d63096470136dfd8025e424dc6f5d4d948f0ae7a52f1f8"

@@ -1,0 +1,8 @@
+name = "bricked_item_input_hatch"
+filename = "bricked_item_input_hatch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e29bfa9a5ce3fa7cb88a8f196709bb3fadc813b43a665143a29b998f798389f8.json"
+hash-format = "sha512"
+hash = "13dbedd9b8bca79ee2000d8378e84444ce6e3046a8f3a49cc601943d57ad13b95e041091e5bba8008af9efb5780d93f500f8d3c290ad0db8a3a0fe835fab3fc3"

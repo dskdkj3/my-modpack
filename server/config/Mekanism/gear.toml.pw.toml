@@ -1,0 +1,8 @@
+name = "gear"
+filename = "gear.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/3067761a0590e71ccd012033325cb966cdfeb1f1a7b28c3d4a023d1b05629700.toml"
+hash-format = "sha512"
+hash = "ce2ac42092f0da52cbffcd0dc01340bc56672f9cba6f0abf38412c6ff497ae4a3144803daf9316ce578a2103b3b84ce7852cebee7e20875f29652c9109aff20d"

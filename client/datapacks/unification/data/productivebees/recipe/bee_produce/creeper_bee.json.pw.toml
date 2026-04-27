@@ -1,0 +1,8 @@
+name = "creeper_bee"
+filename = "creeper_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73e12234bb7b4197c43f02a701a276ff17f093e60ac06801f93dbf21aa1185bf.json"
+hash-format = "sha512"
+hash = "e9c0eef991a449d66c8c07bce42818a6dc22c39a792f8ac2f9000df18cf4f6b4210cc0b1176b68840e3e067188f6284a2a12f63dd5643097992aeb280e0484d2"

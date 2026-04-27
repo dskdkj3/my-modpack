@@ -1,0 +1,8 @@
+name = "enderman"
+filename = "enderman.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af03ddb2bec0f1de4790c43574abe92367fa2918806bdeccc69c7310bc937823.json"
+hash-format = "sha512"
+hash = "c9d4ca542b785846f171df3defcbdb19263b96ff71d00299a128f88491a27c50b94e51a35b7199f9ac458a43561671ed5874ae06dd00303360c8f09c72283a3f"

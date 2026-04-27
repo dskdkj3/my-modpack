@@ -1,0 +1,8 @@
+name = "kivi_still.png"
+filename = "kivi_still.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c87447fd57ce04fc04090c6e441b10548e869c3c73fc5e19b7448734423342f8.png"
+hash-format = "sha512"
+hash = "c599fd181e566010d52af3996f4a3e0d25d1f53c9c0319f42d0988930e679ad4deb55dcc5f5e483a3ad58cfda9682297586bc50b759077153f8eff9402bcec1e"

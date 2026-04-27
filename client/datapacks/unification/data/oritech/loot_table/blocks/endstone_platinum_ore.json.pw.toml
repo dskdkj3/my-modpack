@@ -1,0 +1,8 @@
+name = "endstone_platinum_ore"
+filename = "endstone_platinum_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b97b6ec4d568b8918503e9f7531de2fcc2df8d0b75a0cb9fa64618299da3be18.json"
+hash-format = "sha512"
+hash = "0b592b07cdb850751a6533921e896d0ecfbeb002008bbac75557555dd7acd58ab14e2c8b7d4e9948a8b4e0cd946bd33a5992da612c97c35828c9115d26b7e57c"

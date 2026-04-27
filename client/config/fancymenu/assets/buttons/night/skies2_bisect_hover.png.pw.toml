@@ -1,0 +1,8 @@
+name = "skies2_bisect_hover.png"
+filename = "skies2_bisect_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/88220c6dd29f75268db456e66537251a5757010162015b345b1b07d8df3c7b23.png"
+hash-format = "sha512"
+hash = "f98d52645fd63855daecd3e309e4af0a03bfa686cdd408087e33c7196049ffe7fe61d7fdf67501f9a23a67798b99c9459d82b2576a7824cc8467f2b330ddeb6e"

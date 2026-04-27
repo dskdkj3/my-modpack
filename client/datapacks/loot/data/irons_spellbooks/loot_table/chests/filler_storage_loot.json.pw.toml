@@ -1,0 +1,8 @@
+name = "filler_storage_loot"
+filename = "filler_storage_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14e8b546268083fed159989a7b3df1bca7c219a5f8e39d4bc064b6a01ffa9318.json"
+hash-format = "sha512"
+hash = "5b361136365633e018a716f36f0c15545f49274b6076158cd2e7856d7198f5e2f4acadda3519f682774dde4e711ca705d695538f8f6e84db38d2edfd36dce7f8"

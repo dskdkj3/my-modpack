@@ -1,0 +1,8 @@
+name = "inferium_leggings"
+filename = "inferium_leggings.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05066fcc0fd1ec183957a5b58f590387acd9d687781ba71e8ded5be5c7f2dc29.json"
+hash-format = "sha512"
+hash = "af95417e31b054482145137027a8dcc2fdaf2a65576f690c09de14c395ebd412fd7bd19a79f3522b0627d69ad84002aa7d73b2487391c386a05580ed88d63d1b"

@@ -1,0 +1,8 @@
+name = "watut-client"
+filename = "watut-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e478f05f4cec485cb135e087da7ed577919fa4fcd6b9c1e17e9330880e23e413.toml"
+hash-format = "sha512"
+hash = "233f38ac4396100b1ec9917ca64d0404decf272dd8bf1d16aebb373e37bb8c51ca7e8fa67f34f53fa2346c307be27959655bbf42d3ecea8ccd8d87fe3e052c58"

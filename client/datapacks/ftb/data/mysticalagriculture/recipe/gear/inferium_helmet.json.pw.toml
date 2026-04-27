@@ -1,0 +1,8 @@
+name = "inferium_helmet"
+filename = "inferium_helmet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc16b105d7f416974836d701bbbb559006e0ab67da593ac651e1a79f6792a09d.json"
+hash-format = "sha512"
+hash = "f4a0fd334727e00659acb51f1d9d5d5883a2a84af7c70d25dbe81b3ea7356a613e4266bc9eb895a178162a02104da7c6047f1e7969552dfc28be08e2f935fd29"

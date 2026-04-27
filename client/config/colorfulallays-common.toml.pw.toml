@@ -1,0 +1,8 @@
+name = "colorfulallays-common"
+filename = "colorfulallays-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc8aac0402f2ed9581fae37e195d0ba615b5b1c62240aa55234bc6424c853ae7.toml"
+hash-format = "sha512"
+hash = "19044a0c37454ea6187450c05e40f47298e1ef0275fdedbda4a940bc042dbe660c5ec24604f890ec12b5861d13ea8c2355908f48009e7981d1fa43e7d6b889fe"

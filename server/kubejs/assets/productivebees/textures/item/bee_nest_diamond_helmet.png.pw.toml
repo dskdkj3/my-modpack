@@ -1,0 +1,8 @@
+name = "bee_nest_diamond_helmet.png"
+filename = "bee_nest_diamond_helmet.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc260f3db7ad3178e38579528918bbea93879460cb7118d96aec88cb1f9a6e86.png"
+hash-format = "sha512"
+hash = "50de57c84634a3acf6c6b3f526bf172ebd7abdf77b7bfc6c96f21bbee1d27e28eaeb254e766478c33fdfe4831fc799a1fe1f8032578fcf7f0aa3dc66dafc5783"

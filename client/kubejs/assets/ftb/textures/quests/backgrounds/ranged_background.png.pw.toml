@@ -1,0 +1,8 @@
+name = "ranged_background.png"
+filename = "ranged_background.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95b7f3449acd5c4d94a85de0ff3db7b554dc3d6783ca9fbce0d05052a290bbcf.png"
+hash-format = "sha512"
+hash = "68bd0ccf65f733d23ad3fe9433f70aaf0712391dcf416a76030dda3d09a6d6bdc43b0552bb6fe43ed485d1ad5fab5ecaf64d3f24d3a932ca964fe53bd5c77145"

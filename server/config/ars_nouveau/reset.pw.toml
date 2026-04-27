@@ -1,0 +1,8 @@
+name = "reset"
+filename = "reset"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4611b96542108543853b25da57fa962b83160cea3bfbf7598d05a3269581d51"
+hash-format = "sha512"
+hash = "884d786c2e7e09855815b29cd03a44c14b1675fcc1700219dae31287e1c2109c272d6744cf689a84cd1d06e48b8cf490c9abbc4f4f518221244c255d49379d4b"

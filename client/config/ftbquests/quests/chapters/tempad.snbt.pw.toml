@@ -1,0 +1,8 @@
+name = "tempad"
+filename = "tempad.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f6f80edff63d36b7b485e236334d3ca67b965b618b35469d8419704ce489e37.snbt"
+hash-format = "sha512"
+hash = "22e624110d1fbf1d89877770be6abe2e39df1424fc862627d2fad59f1ced897624672a263ae8e0c65f12816cf630c050baacb9439625117f6631a2b9e7db7f7e"

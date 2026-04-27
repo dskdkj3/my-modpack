@@ -1,0 +1,8 @@
+name = "essence"
+filename = "essence.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df1913bdc87ac748fa40d83a8ed8682ae84c1db3a6b39413324064a450543848.json"
+hash-format = "sha512"
+hash = "9bcba8f29f89717a39ae856acfca641877d6192aa5e1e3f432fb685b583103d5c6297ef2964c1476635169c62d10229f911aeedc66780810b2dc1aa2235ec57d"

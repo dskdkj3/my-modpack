@@ -1,0 +1,8 @@
+name = "roots-4.0.0.22-alpha"
+filename = "roots-4.0.0.22-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7774/830/roots-4.0.0.22-alpha.jar"
+hash-format = "sha512"
+hash = "495d6dff1c1524cb160ad8069d95309801998d336cadca9c9bcc30e6bd1714c4382e0d585fa31db1aa4130f572e957e45ed8dcf710f769ebd7c14843b16c9af0"

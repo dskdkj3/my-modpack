@@ -1,0 +1,8 @@
+name = "iron_gear"
+filename = "iron_gear.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb9d4acca125d12e35c8095416fd08af3faa838bc152aeac8c02d184cdcd9938.json"
+hash-format = "sha512"
+hash = "eb17e75d392cf23e42f050b74e71bd967f1492fd0f0b8d02ab6b98503f7d509c423a2644a080d2993647fbf9dea7a0dd0d912da10bb3b111f2d4429171c8c0ba"

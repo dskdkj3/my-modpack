@@ -1,0 +1,8 @@
+name = "batteryacid"
+filename = "batteryacid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/052221dd15f41e8568c07639a5ccbe9592f6abee22556b9f5576b1b1f2f1b839.json"
+hash-format = "sha512"
+hash = "060c0127a302bb2217ce6bf3d8ddde8da1615ab306b51e4a939a4456c36b3930ec45c17ab6932ce1ed504ccdb03ac1535807fc65543a9848d687ac291af79e60"

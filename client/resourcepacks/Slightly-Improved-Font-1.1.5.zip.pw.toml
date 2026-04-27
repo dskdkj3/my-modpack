@@ -1,0 +1,8 @@
+name = "Slightly-Improved-Font-1.1.5"
+filename = "Slightly-Improved-Font-1.1.5.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe929947dccdbc5f0f5b6b1badcd3f93862702c5aa44a285660196d4cea771b1.zip"
+hash-format = "sha512"
+hash = "f7d8bade8f1e924e06e062beda759fda2e390bcac4d7200b11938f87128f22dc931e929de5ddfc1f80be3ad5dbc00b18c7299f804aa1b3264423a4defc275308"

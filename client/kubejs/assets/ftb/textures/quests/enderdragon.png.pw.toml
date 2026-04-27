@@ -1,0 +1,8 @@
+name = "enderdragon.png"
+filename = "enderdragon.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46f84633094d0e3350934d6d66d122fba121224f29640036eddcfbcad39c1851.png"
+hash-format = "sha512"
+hash = "9897b0c4add91cc7c81a286a9428ceeaed09de69eb8d72aa0ac90fabdec1edec5f5763a6c723b8203e86d95f464c5dfd93c422f5fbdcb25f07ef010d21f97090"

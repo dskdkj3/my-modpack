@@ -1,0 +1,8 @@
+name = "enders_hand"
+filename = "enders_hand.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9477465ef76ec9966802d28cc212404371e4012bb46c84b85be0b5a6600be8c.json"
+hash-format = "sha512"
+hash = "b7a083c59afedb6cb2a0def7dd4fa69d70985db4dce483cc7d6ee0663152396d68cbb69fd80230896c7a4bd681959727b1bee24884fd07fa930f0d4de55a9243"

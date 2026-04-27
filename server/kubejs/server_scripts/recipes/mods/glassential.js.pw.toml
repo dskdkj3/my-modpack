@@ -1,0 +1,8 @@
+name = "glassential"
+filename = "glassential.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c17fbb6915f811ac663384fc0880478a1f522d4a4f9ed374ce2efff3cf8551c.js"
+hash-format = "sha512"
+hash = "fff1ba6a1950e97269cb3d150b5418df36b52d56212fab57296fc9a2596cab10f321bebe008718b6050dc2735d0f387ddd480f8e6af8fc4996ec1a453179a0a3"

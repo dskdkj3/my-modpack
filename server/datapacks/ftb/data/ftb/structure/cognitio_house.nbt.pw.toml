@@ -1,0 +1,8 @@
+name = "cognitio_house.nbt"
+filename = "cognitio_house.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d0141a0af6c2b4b20784e13023b8fe3be3fe051ee0a666c9b74ca1f9a0be6d5.nbt"
+hash-format = "sha512"
+hash = "cde30a1eec4fa736cab619a2875fcef14b54b8ab7c4573ce21998966d2a87ff8a1efac53a42309ec08bdd4a20ae63bf30e8bd68ba60e489c725d96b9980cedd0"

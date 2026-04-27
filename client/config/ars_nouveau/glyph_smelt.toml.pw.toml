@@ -1,0 +1,8 @@
+name = "glyph_smelt"
+filename = "glyph_smelt.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a121a1e6537618823422f92937b2ac75cc5a155217085e0fd3ee3fd4cf026f92.toml"
+hash-format = "sha512"
+hash = "22718ee9aabcf3edf3a486cad1e42c3a520a24df4730dcf24c1eefb96500dd1510e6b61d3478319a3154a4ce21595f9b28505cd97457f2d1107045f9efff5f67"

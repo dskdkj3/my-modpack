@@ -1,0 +1,8 @@
+name = "Modern-Industrialization-2.4.1"
+filename = "Modern-Industrialization-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7309/662/Modern-Industrialization-2.4.1.jar"
+hash-format = "sha512"
+hash = "a1c52be839f0378194f6c57710cba6f1752bfef4aaf5fbc0136dc20c24dac50c8311b75d161ae01f65ea33a885da24dc08dd93da7d3cfd8ba4f184b5928a4d4c"

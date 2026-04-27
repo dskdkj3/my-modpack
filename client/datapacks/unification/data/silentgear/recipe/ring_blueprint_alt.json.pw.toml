@@ -1,0 +1,8 @@
+name = "ring_blueprint_alt"
+filename = "ring_blueprint_alt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/bede248bd886eaee8ad58235102eecdac0e767126aa1c66048c1407f004ad654.json"
+hash-format = "sha512"
+hash = "d697a42272c5bc03892184b5b2b66999ce9e9f40c011aa31322b333cb269920a12f1335ecc85567c6f3e71af509a4d5e48a0e6908d51dd22e0efedc53d289402"

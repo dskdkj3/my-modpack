@@ -1,0 +1,8 @@
+name = "emojiful-client"
+filename = "emojiful-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d629d8e80cce771e0b08f172cbb086c30bb51ef234b32de814a4900f2232fa17.toml"
+hash-format = "sha512"
+hash = "befa0d64ec93e81c7ea60af544e2f10d9f7cfe834fd007f82f27bb24b12bc3ca84d481ec6a5b11eca0f3d1146ea44008fbd29e68fc88ce5370a9e5a0c63e4bb2"

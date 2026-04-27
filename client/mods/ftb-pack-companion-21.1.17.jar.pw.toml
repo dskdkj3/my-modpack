@@ -1,0 +1,8 @@
+name = "ftb-pack-companion-21.1.17"
+filename = "ftb-pack-companion-21.1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7545/385/ftb-pack-companion-21.1.17.jar"
+hash-format = "sha512"
+hash = "3092124a4272344ae82da967621f5c3ca02d12fd502852b143c422ddb4349804a135b46a21c24c1a77fe1dbafa68992ab676d43ec01f0057fdb5ab4d50510080"

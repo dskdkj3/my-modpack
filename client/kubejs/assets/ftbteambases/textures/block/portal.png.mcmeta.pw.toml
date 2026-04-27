@@ -1,0 +1,8 @@
+name = "portal.png.mcmeta"
+filename = "portal.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/dec6154cc7de8848fae2d1c8a855500158d0a6ae581e73c5e29c1bb66b7e29f7.mcmeta"
+hash-format = "sha512"
+hash = "a12b22667f45b49c7f2c3f126b25f89e49570b399593e4e5d627eec7477aa97d8eecb140385975f12a1536ceafb11933005b887eddec8faa55133206476788e3"

@@ -1,0 +1,8 @@
+name = "diresoil_3"
+filename = "diresoil_3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1eed0ee2c69f0528fcbb180d0bc85fac4cd68e0e97e36554df3d8a76edbb1cf8.json"
+hash-format = "sha512"
+hash = "fe74f79ff0cd978f09dfaf567bdfdc735ec68402ad15801fcdeca19d18039809a8fe8b40e381f98abe614ac9ceb150bbfc19767243e581933fa4be82a0a79002"

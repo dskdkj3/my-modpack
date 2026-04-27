@@ -1,0 +1,8 @@
+name = "flourish"
+filename = "flourish.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce69cf7ec9e8ee6fcf46216707c6088ec85bd8dfe475a0cc78fca7e2218cc9b5.json"
+hash-format = "sha512"
+hash = "97fdae72038d02369401e8c0f999039c78d755734dc0c9e9e6f7be529be685bfbbc76863d1b23f64063b39fecd6935d5e614a4cc187feaafe0660e781fa6d782"

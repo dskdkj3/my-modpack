@@ -1,0 +1,8 @@
+name = "glyph_cut"
+filename = "glyph_cut"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e2df2acc6cbab638acb4b01f54920a571f9e2eb4a74ef794f6429d35d79647e9"
+hash-format = "sha512"
+hash = "0033298e7e138c1cc15ade988b1640d5ba4c4eff05980ea149a50d19e829edd6da4ac76dc1b3ba656188c8b327cef407509af8775e9c31327f67eafa835615ea"

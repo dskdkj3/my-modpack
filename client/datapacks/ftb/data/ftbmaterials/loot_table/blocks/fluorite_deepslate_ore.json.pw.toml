@@ -1,0 +1,8 @@
+name = "fluorite_deepslate_ore"
+filename = "fluorite_deepslate_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0eb8ada77a58aa48a4b65aa259b5329edfd24243121a358101d6a16928d4cd3d.json"
+hash-format = "sha512"
+hash = "3875233d111507bb04c5d6ef1031aa10d227fe73c8882b8802e5b0775d43e877214fa0d894c7bca2622990b009728d70356e8f9c60e62a824f4ed2e5e9a4d3ee"

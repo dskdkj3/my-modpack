@@ -1,0 +1,8 @@
+name = "ironspells_king.png"
+filename = "ironspells_king.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1f77f87b321aaa446b9457f22af3d5df3588d84a3e4f60590bd02e50b12dcbe.png"
+hash-format = "sha512"
+hash = "80bdbc2ae369b81d662e01dd3cd3441a2c19bba67e557c49fb8059b6bc16011a342471417705cd38d8828906352d5c210aa89680aa93b9e8d0ac2d4d7e6e723e"

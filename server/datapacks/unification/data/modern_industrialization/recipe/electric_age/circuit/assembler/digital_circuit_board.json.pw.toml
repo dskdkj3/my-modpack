@@ -1,0 +1,8 @@
+name = "digital_circuit_board"
+filename = "digital_circuit_board.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/150e48694640e12719cfdda91e7b374f25d2ec4b6510a129dc8918a5e5e8c257.json"
+hash-format = "sha512"
+hash = "725ec67f60c5b153a5018533e6027168a47d8f495bd461f12c7e0875a349ff46af374772d5d0401b00ed64355b8652fd341a878d996300672ab2e01f25f20333"

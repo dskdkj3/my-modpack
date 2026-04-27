@@ -1,0 +1,8 @@
+name = "ars_elemental-client"
+filename = "ars_elemental-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a8643164f58ece41c9996d6bc7bb74a34bfd80467cbca946af6badfbf495558.toml"
+hash-format = "sha512"
+hash = "96268f9deb0f4143f242dc1134e0da09cf679c3ecf4dab6514d18879eeb6720f9ab60b0fca9945eff93648d002f05b61c2a5ddc228836ea81898fc8ab0f2a4dc"

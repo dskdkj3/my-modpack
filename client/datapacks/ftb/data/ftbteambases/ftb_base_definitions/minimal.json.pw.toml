@@ -1,0 +1,8 @@
+name = "minimal"
+filename = "minimal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4aff7da0f409f3c4287cda74f13fd6a1e1f67204b4a87596d3a4b1b2b30d2167.json"
+hash-format = "sha512"
+hash = "09e168e6a47bc9709b545508ab71726595f17d084e81f2bbbbc123a8d2360c041aec7d37deff82bec7b1ae31cf3233e37c2c992df8c04f6b25b8a23b0848c982"

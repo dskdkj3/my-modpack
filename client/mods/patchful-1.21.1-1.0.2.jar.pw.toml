@@ -1,0 +1,8 @@
+name = "patchful-1.21.1-1.0.2"
+filename = "patchful-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6403/27/patchful-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "c98cab25ded372e2176692648dc16ff0f6434ac5c3f14e4b2edb5948c295003c2a5e7ebf79e75d06ee0f068f1691d133bbe10bd79c77240c8b884ee5ab6270f5"

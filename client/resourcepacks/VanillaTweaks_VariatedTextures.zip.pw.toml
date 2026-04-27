@@ -1,0 +1,8 @@
+name = "VanillaTweaks_VariatedTextures"
+filename = "VanillaTweaks_VariatedTextures.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/046f76cf4f1a28dc8beccddd46db2278210faca96496b7d18a1f16155ace3954.zip"
+hash-format = "sha512"
+hash = "b47e337fff3b6ebd3e3bdb2c3b841e42c75db809efb09c07d00415d9c5fcd73332bf24007f501e1677e6f922857cb241f50334ca2f5ca69c143b57f9313d8041"

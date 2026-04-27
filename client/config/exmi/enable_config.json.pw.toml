@@ -1,0 +1,8 @@
+name = "enable_config"
+filename = "enable_config.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/18/1847b87c0621cf4d1bd7e497202c2938a212022666a7dee05f2a5119d061a02f.json"
+hash-format = "sha512"
+hash = "c8b22b1e7756f474c35047dcd1287982d5a52d8088d2373769ef897242a9c87e53c74118b367b2afe392b686115d502947582be14fc82393be0ba6fa8c69547c"

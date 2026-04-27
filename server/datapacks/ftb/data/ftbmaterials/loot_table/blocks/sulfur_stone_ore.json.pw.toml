@@ -1,0 +1,8 @@
+name = "sulfur_stone_ore"
+filename = "sulfur_stone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac087e408cef0b40a49cf76b1f2914ec74363d8b217887e7a1aaffefcd0337e3.json"
+hash-format = "sha512"
+hash = "f2530fcf4e5f23a307566763e2ab5d1c9832ba9c393324fafe60d0e596b62d8c8051618e47705625fccd1045ec21a0aa1b655d12755d29b69ace5d10be40872a"

@@ -1,0 +1,8 @@
+name = "farmexample.png"
+filename = "farmexample.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/757af9c1c37c66c642b80f67b00097948d6efdaaa2f00cb9ed2b1ced68da07b6.png"
+hash-format = "sha512"
+hash = "ad9e30a365d5aec5ff5301523bc3278889b082b91beb09d3b7011efc315d1fca56d9f7af242d233783d0d5bcb6d78c1e77aaa31316d15630786e993880ce2ec0"

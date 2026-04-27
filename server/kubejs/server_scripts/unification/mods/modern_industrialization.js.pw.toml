@@ -1,0 +1,8 @@
+name = "modern_industrialization"
+filename = "modern_industrialization.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddacbdc869a465eb984d7ce2a4fd06ed14471bc6110e9d7b59cbc6fad124d969.js"
+hash-format = "sha512"
+hash = "cece73c27f7f41365c97d857b29bad921774e255dad51fbba8188bf571c1d0e23fb1a37b0fb7ff9ec116af12eb919a59dd0858c1b2c64e2aacbc174ff6b89cb4"

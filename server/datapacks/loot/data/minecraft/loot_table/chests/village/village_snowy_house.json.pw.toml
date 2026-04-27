@@ -1,0 +1,8 @@
+name = "village_snowy_house"
+filename = "village_snowy_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/01604519c4ded34e8c0aaaf2d71eaea60bcef5c15a8a40f339eb54890abb575c.json"
+hash-format = "sha512"
+hash = "02597566b9879fb04d9e5e598fed84f3219467c0c22417dbdbe567a1e604d30d601a489d2c8b9af810e4911f50fa1c9e7945bc53a18099178830983bc58a991e"

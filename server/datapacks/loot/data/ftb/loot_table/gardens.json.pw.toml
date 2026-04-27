@@ -1,0 +1,8 @@
+name = "gardens"
+filename = "gardens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a535c410311cf0b238c7793e80c20a4464ca1f997b249401f85242182fd1f53.json"
+hash-format = "sha512"
+hash = "635a3b2d2a16e792324a57da906115d79beb95f7015d34b56c44cc42b9a3bab688e517ed2d8b1eaeb19cc45fc6b0d77fed1ebd71819cb14a8d631189f958be4f"

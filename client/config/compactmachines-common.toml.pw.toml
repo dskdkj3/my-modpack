@@ -1,0 +1,8 @@
+name = "compactmachines-common"
+filename = "compactmachines-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d1be1f980ed7f55d592bc74c97837277d995e67ceb68433ca5981ebeaf26070d.toml"
+hash-format = "sha512"
+hash = "78bd8d8fe475d7048ea6536ac5ce549e1919a8c09af2cce8b709dafc3ed9b8cc355b871afbba2aef02c53410a09ffbb70b500958c57daab2c72f75c67635200f"

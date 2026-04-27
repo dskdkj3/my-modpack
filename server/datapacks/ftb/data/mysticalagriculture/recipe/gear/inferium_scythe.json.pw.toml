@@ -1,0 +1,8 @@
+name = "inferium_scythe"
+filename = "inferium_scythe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a8885eedc5c93dacbe2bb3d3ea2e0a4ec14a32b95e04405ecfddcbde388a331.json"
+hash-format = "sha512"
+hash = "c1923a8c605a2b528cef7be6191436bd47c6f8ffc7fa162f10a50671bdf0989b7f1e078d76252dcaeb13d8f2a3c1c2109e56b064f595edccca9d5a84e35fb429"

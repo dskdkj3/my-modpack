@@ -1,0 +1,8 @@
+name = "pt_br"
+filename = "pt_br.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ceb0499a6d66c2fb12080f1161bd8293ee334d27afd6171a533b8da292591c31.json"
+hash-format = "sha512"
+hash = "8cbee928a9a32f83dae8af9cffbff3c1eae1c8dfe65547753bbff00ea61a3b6527ae254649f442d6c6477d6fd820ad63406329405583e4a133a0291252d45192"

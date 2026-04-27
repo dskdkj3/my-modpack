@@ -1,0 +1,8 @@
+name = "andesite_amalgam_block.png"
+filename = "andesite_amalgam_block.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44eeb9a897950c5fc830ff6fe1f6716c0418b05b850834ef6020cfb535685b23.png"
+hash-format = "sha512"
+hash = "b698bd08e1cbadb732161caa8c2a66ebed199b15e46f6a3229af4ba92e8025d11631972377729b3a3d34d0fd59639772cec64ea4fbb01d4b4d9932bdfb58bff2"

@@ -1,0 +1,8 @@
+name = "birch_river"
+filename = "birch_river.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f2b8226e2e356ec4e8d7009f6c091805a4200457fc10c3d9fb33b755c0ba74c.json"
+hash-format = "sha512"
+hash = "79a67c45863604d99fa145cd82640d605e42942df1cacf5e56305e1736b6c0f74a0ae626981cd94a7a184aabbb8915678134407fe15417b3661a0883fb941442"

@@ -1,0 +1,8 @@
+name = "after_iron"
+filename = "after_iron.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b0723131b79fdf27c7ef3679651db77209c2adb217056d9e32d08610480775f.js"
+hash-format = "sha512"
+hash = "4d4f8fbf0388bbc2028d64c6661b516caa98981ade396fddf9bfca4ce618672a7206db49678d40229e72965765e8d86fb6dafa7027558f42713166f820deb0e2"

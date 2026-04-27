@@ -1,0 +1,8 @@
+name = "rune_fire"
+filename = "rune_fire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5b87d061bd62ab8c38531610baeb379e0277ed929bb11923f575d5338648171.json"
+hash-format = "sha512"
+hash = "39a08ac5b39c0191751483d712195db0fc49d270318a32fa6d270d04122e4264362d44d71121821251eb1101d3e6a1e6785e38db1aa9092b8d196f4e8df46164"

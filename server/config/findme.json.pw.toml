@@ -1,0 +1,8 @@
+name = "findme"
+filename = "findme.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e93c16729ab5f616fe14eb37390f5a99e481cdf97beeae47ab9d65cc7072ffad.json"
+hash-format = "sha512"
+hash = "c492db9bd0184b202f9e712055d2007fbbacf593bf3d22a5564c87a2d74e52cbf5f3c00cfd353a9d42fa13108eff0a9b80624c1687f8c2a662e2cdd68f200f6e"

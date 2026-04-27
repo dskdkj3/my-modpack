@@ -1,0 +1,8 @@
+name = "apotheosis"
+filename = "apotheosis.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9e2c2c9ecd91e68639d080c7503379b8e2ce185fe55dff1001d9b25edf9db57.cfg"
+hash-format = "sha512"
+hash = "6aebeb63d49767f0c6e621b4062a1b941d6838f4f30f5ea1608290075f87250910cab483f3e495c09dcb27bdae87b46cec39f94096fbe9e1a00f9f1df8af70f1"

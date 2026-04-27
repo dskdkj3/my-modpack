@@ -1,0 +1,8 @@
+name = "wild_beetroots"
+filename = "wild_beetroots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16622f04a5c19d72387d8a01071127c45832f6fb2eac706e8f9747ba7dbd8663.json"
+hash-format = "sha512"
+hash = "77a14fa440133b12761e21d9619a8681183b80351b69904b7d6e7bb72361c64cc8ff1d5e47ac9ee63ee11c9458aecadb98c9b33e182894d4b5ef258e3f1a4920"

@@ -1,0 +1,8 @@
+name = "villager.nbt"
+filename = "villager.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/488dc15b47999aa624902be37af35ebc8b29fc75087d2b130c311c7acb23e57d.nbt"
+hash-format = "sha512"
+hash = "9274d0837fe238810aabdffc31fa6ea47691027c2f874f4dd499ca1587412248c1d864a6b50e607c5b0da4cdc5b9963fc6cf9e133d35c0270a409eada5e272d3"

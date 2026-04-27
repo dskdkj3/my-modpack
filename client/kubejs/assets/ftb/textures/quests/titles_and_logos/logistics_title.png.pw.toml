@@ -1,0 +1,8 @@
+name = "logistics_title.png"
+filename = "logistics_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c469e3ce051df15195b78f32639ca76e7404d8c045687dfe4135bca0a304bdd.png"
+hash-format = "sha512"
+hash = "bb884e7abda2b64a7136a3b5a8e3a3af0a2e1b06b834775edcfe10faa37f5a9f53fcf2e2678ec6ccd33ffe9c791742edcacc7718d22a92152501bba0908b8e76"

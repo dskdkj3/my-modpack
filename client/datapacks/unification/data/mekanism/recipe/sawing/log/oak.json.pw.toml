@@ -1,0 +1,8 @@
+name = "oak"
+filename = "oak.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f040a35c5076164710ba76e7be2abb119abc1be3b22372b99af293daec3604a6.json"
+hash-format = "sha512"
+hash = "2031d2674214f763867f0bf5ebc1d984d0fb028ae14d8718a3d404cf7f17aac42cde42810982c8f617a4a9b29e10520dc37da9987acbcff8718c767f003f6344"

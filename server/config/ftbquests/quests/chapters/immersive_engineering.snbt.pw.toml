@@ -1,0 +1,8 @@
+name = "immersive_engineering"
+filename = "immersive_engineering.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90ff95db2c152b279276cb32b05f7b2a4c479e374c45444d86c3b0560ab19df0.snbt"
+hash-format = "sha512"
+hash = "170ae0201affb805faea6c84e4e761683baa0cd962e3ac01d41609cc286726ecc9a097b2b7e29da92e0f653a918372c8cfe26ba3f6db8f9c09df138faf5ba971"

@@ -1,0 +1,8 @@
+name = "redstone_ore"
+filename = "redstone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef030d84aae35349fc5c4649785ea1ef0e097e0be7e1e30e1f194f0df5480c58.json"
+hash-format = "sha512"
+hash = "4940f39d519c4832ca8091237d5a2b47658f110fae8d05a65c9177a75d3a7a9a1dcd7158c4294b833bc61a492748ef4444b954d97317868fca6d04d8e4a352fe"

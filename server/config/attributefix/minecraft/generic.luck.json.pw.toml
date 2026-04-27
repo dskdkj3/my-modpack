@@ -1,0 +1,8 @@
+name = "generic.luck"
+filename = "generic.luck.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78bc0f1b338f52c0ab60ec8494e1c218f19cec224cf9019e8244ad9ee577b9e7.json"
+hash-format = "sha512"
+hash = "74bea686e64459b5f8844739752c362aa0c7a7f5acc1500cff799b63f1cb0874bb0bf5925672f50bb72a80d87e8dd1bfbf8a2d7f0bf2cbc7e910f4bc486ae6d9"

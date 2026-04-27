@@ -1,0 +1,8 @@
+name = "powdery_comb_to_block"
+filename = "powdery_comb_to_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5175d3e9d491f24e5e60a985273a645f60c8e915b643b3c5dbd3e9c6b141f65.json"
+hash-format = "sha512"
+hash = "66ed48b8435c0d5e54b80aab43e5afccc0c8b2980259969f2ca5953b3c7f277be19589783b60d179e81bc98105cb2e3bc8e5a3b57da36a9d06dfab0c7e441ca3"

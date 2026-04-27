@@ -1,0 +1,8 @@
+name = "pressurizer"
+filename = "pressurizer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/4414ac762e7442d12fd1e6df8f371a4a203712c969c2e925548808efd5f687d3.json"
+hash-format = "sha512"
+hash = "a7d058212c86c3121b1a9dc359ab989798040a8714037fe5b595aa03d82e9b37c767e93eda2d5e59f28dab2fb4c6acc3af2a7bb28cb3ba9014f66f41cf80f19b"

@@ -1,0 +1,8 @@
+name = "keep"
+filename = "keep.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41e71354bf6acd27446b92c0a1b5aa661a45f7a71e03eeafacd261c977c3028f.json"
+hash-format = "sha512"
+hash = "b7dab8f3c346d0b135bcdd2e065ac4c3125f678917651ac120010896ca316d44de5679de18e0a1aa36d57e72a3f6f2973e7c8c6c5ee096cc5db7840f5346cdc7"

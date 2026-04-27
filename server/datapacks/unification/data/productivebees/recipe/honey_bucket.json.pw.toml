@@ -1,0 +1,8 @@
+name = "honey_bucket"
+filename = "honey_bucket.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44ae7d62fafc268ca6b4f3a5f7cde795442e2a446329b443061e7ba966d1eea3.json"
+hash-format = "sha512"
+hash = "54eb5dfce30ff7a42f7ccc1a509b163fe4444bf8622a8481846264248632087038e3be8a71e390b61a5a6f0a7849e33f4fc12e668b7206ec88e199b7694f2774"

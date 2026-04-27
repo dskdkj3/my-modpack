@@ -1,0 +1,8 @@
+name = "siliconwash"
+filename = "siliconwash.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1fe4481885587dcfa5f44b10b01551e8fb67b13c90a0961958454d082187747.json"
+hash-format = "sha512"
+hash = "f2bbf18bd6bae80bd6a8dd6b5ec7f166e5a47a167b174658739e02788d0938d9cc252fb74820fc814197a1a5bf2f58d11a00e9c5de8209508c8c5f8c7940a88f"

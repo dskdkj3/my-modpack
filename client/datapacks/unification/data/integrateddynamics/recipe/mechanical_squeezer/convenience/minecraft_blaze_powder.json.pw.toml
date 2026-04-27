@@ -1,0 +1,8 @@
+name = "minecraft_blaze_powder"
+filename = "minecraft_blaze_powder.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d7b586568f67b3df80a6226296973ddf0e927d988f6b19ed0e1ae04ccd892a3.json"
+hash-format = "sha512"
+hash = "85f8a413528e9b12df3a402a5ae5c05cb39727eebf4e91f1622e64fbc89647f5791cf8f01167d6c2acbf9e3911b36442c53879b6cad06203540149e1c6203724"

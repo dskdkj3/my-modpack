@@ -1,0 +1,8 @@
+name = "brass_ingot_from_compacting"
+filename = "brass_ingot_from_compacting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86173a70c976ca80e0c8efd1ca33981f53e0ae258078fbcee35e3436d9f5ce9f.json"
+hash-format = "sha512"
+hash = "2a774734fa00e38ec14eb3705a77935bb4e598f45a75234865c4a94ab5a96bfd617b0c262e38af868c18f859962783a60efba24221c421a9c7aa3eb36bd9638e"

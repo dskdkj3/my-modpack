@@ -1,0 +1,8 @@
+name = "dimensional_shard_deepslate_ore"
+filename = "dimensional_shard_deepslate_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5c4f274b83b2db8ba000073abce1d5db7e1393b66d45c35ef956faf1525651d.json"
+hash-format = "sha512"
+hash = "ab77bba2cacf182e8710a6f92c3346071b091f1ee11c8eb0c0ce2758991924b29f0127021334da7e98741a500c37531551867bd89e1375c200dd01c8b489a0a9"

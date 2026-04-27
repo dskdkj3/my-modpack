@@ -1,0 +1,8 @@
+name = "copper_dust"
+filename = "copper_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1b5356c3fcf21a69589119cd181e77a08aabe565974a90ef9e8c93d9be0680e.json"
+hash-format = "sha512"
+hash = "6d1fa6564302e9490934907273e1be6d9fb811a9fd24abb9788067ee6f8c30c7b98a4f83a91760333d1ee6a4a01161ca8b4f44e7a594ff9107d2649ed5a58d28"

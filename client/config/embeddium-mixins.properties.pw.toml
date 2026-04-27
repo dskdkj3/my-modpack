@@ -1,0 +1,8 @@
+name = "embeddium-mixins.properties"
+filename = "embeddium-mixins.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b39861292d2426202983b8c053677599bff7923beed5a82c37f996f91e626d35.properties"
+hash-format = "sha512"
+hash = "b0946245c9935fad64ce9efb2e126dda8fb35013972d412e2a07daa8a93b3aed5b77df04787de99d3ba60552cd7887c355d29fe309b51518e49919a54284a78e"

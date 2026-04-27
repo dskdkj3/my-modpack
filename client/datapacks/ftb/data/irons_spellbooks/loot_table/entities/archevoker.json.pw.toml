@@ -1,0 +1,8 @@
+name = "archevoker"
+filename = "archevoker.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44090135c93f50b49eaa0a7561476e300af095009e8324abdf8404b3916156ba.json"
+hash-format = "sha512"
+hash = "920c72d28e4ba892402c61d62f9b93e392a4a878115f326e35c40a8d120f9552f61069b27facc9f0e8e2acffcecb3c786e98f67de88efd32d7b825a626348d67"

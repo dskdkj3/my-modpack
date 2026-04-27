@@ -1,0 +1,8 @@
+name = "naptharesin"
+filename = "naptharesin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15d99a484de8d30217405392e37a36f5a6f38956e526146525fb66ae106d959c.json"
+hash-format = "sha512"
+hash = "8b9d32a657dfe1432b00f816f7164cdf30cf2acad6481cb591730a4f00770ece58307ddc5d605fafd03f8ee41ffa014b27db6b24cfaf83c45a048484c7371b78"

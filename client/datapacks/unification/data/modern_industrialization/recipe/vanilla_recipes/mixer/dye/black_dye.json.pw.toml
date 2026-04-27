@@ -1,0 +1,8 @@
+name = "black_dye"
+filename = "black_dye.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48259627ed5cb2ff9899a05a91c6899aace8b00d41e7191deedc42aaacc50785.json"
+hash-format = "sha512"
+hash = "0f4334955bd7ffa60eb43bc80aa9bcd2839eb7f51fde7c6a08d0bdf498e8eee0a64781f77d7565e8c964840aed83d5036424a8143b9ffb286912b098592c83bf"

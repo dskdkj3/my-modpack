@@ -1,0 +1,8 @@
+name = "space_dissector"
+filename = "space_dissector.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d9c3cc5c142054ca64ee1af0d8a8c3a847e2742edd825b4f52252a7cc198fb81.json"
+hash-format = "sha512"
+hash = "50e35173cc40e358bf7864ae2b9986bdb2fd1d596d079c310546e0a0f67ee4422b963996e0f15ab88fa3b7ba17cd5d1da7a0100b1d9f2d7cf8f5603b5eeecca8"

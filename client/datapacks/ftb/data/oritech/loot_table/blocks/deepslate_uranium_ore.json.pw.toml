@@ -1,0 +1,8 @@
+name = "deepslate_uranium_ore"
+filename = "deepslate_uranium_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/00f8970012894c8cda30aeddd20ccd63a934e550a897fdae7a0ddc63220f49d3.json"
+hash-format = "sha512"
+hash = "e995437e3bd03405d5b16435eb2bad5006cbfdcfe0e8b4283dfc7ad31faa69d76af83f209d5f85959e9bea83758c571b39f6ab0fbe77602a47e7e130793d5de9"

@@ -1,0 +1,8 @@
+name = "pillager"
+filename = "pillager.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6fb79932b3c3a08aaf9518773314ac56f5854d604371d8e6596dc5540d6c63d0.json"
+hash-format = "sha512"
+hash = "fe498c54031947c4dc43ea007f63d86d6662e2a37ac46df73d70b3095368c5767db9ae98301c5da84b62e8a197cbc3d40896ab689cd00d10a953898d8932fc36"

@@ -1,0 +1,8 @@
+name = "actually_additions"
+filename = "actually_additions.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f48c1725edd022e56c0247b2b1c6ceb0dc5441ab5c7e04a1577984d88a3e5fa1.snbt"
+hash-format = "sha512"
+hash = "e1579b480785780695125cc9d4de21805363d69a88c467c6a3b61f67a4cbff4c693b6431332979b04f8e782a25ac470cdf22e82731ad3ebe65f0c5755aff98c8"

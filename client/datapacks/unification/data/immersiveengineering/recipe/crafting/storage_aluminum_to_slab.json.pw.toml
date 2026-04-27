@@ -1,0 +1,8 @@
+name = "storage_aluminum_to_slab"
+filename = "storage_aluminum_to_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/741083ebe18db4c393be6755ee969cb3c7f329d31360f6adaf22b7bcc1dcf535.json"
+hash-format = "sha512"
+hash = "2ff8addfc56a512866d4509900b43f0730f539cab148f7adb611ce5e6fa2b4837331cfcd3ce8290be8298f232af5e0562d45f76efc83ede2946e1825be935dd0"

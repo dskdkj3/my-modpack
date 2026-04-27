@@ -1,0 +1,8 @@
+name = "sand_to_silicon"
+filename = "sand_to_silicon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71c03033786bc6d2804951ea3ebc0c140fd6d993cc369ee78480d51a790b45ec.json"
+hash-format = "sha512"
+hash = "f852978c321fae97537813733bb0ac71dfbaecb85aaaf9afeee60f6c176ff72075344aaf9eea1cd090c9747ee873c0652c12ebc188d451f77e7f966cceefb01a"

@@ -1,0 +1,8 @@
+name = "Better Replication Pipes"
+filename = "Better Replication Pipes.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9ae80b1cf1c4104ae94964c99cc425689f94cd6b77575ce61b8cc38fd471d49.zip"
+hash-format = "sha512"
+hash = "a1c10e10ac2864f700a4ee9aab520e0861cca1430778837ee4366d56c1f049dc150524e665fe14dd0a1577a547845e5f1cc50a0cb17e7e161396354e0bbf2e4f"

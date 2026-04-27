@@ -1,0 +1,8 @@
+name = "polonium_snowman.png"
+filename = "polonium_snowman.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad46c0623e110120caaafcb99519ea20fd00019d6c26667bab602db2b2606270.png"
+hash-format = "sha512"
+hash = "64907a92cda0f72c212d5c275cf03439fcf17ecc4794a1aee0e119f0187dedb858fa051c113baebf5b7063b25e6b1e3687ccb7070c82b7f2ce2cfb25935d144c"

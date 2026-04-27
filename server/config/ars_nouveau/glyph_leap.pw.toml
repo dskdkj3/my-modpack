@@ -1,0 +1,8 @@
+name = "glyph_leap"
+filename = "glyph_leap"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a7b1a69a77a3281b01be0a7335af08e649be23fd7e692980ff0265fd336893d3"
+hash-format = "sha512"
+hash = "d0ff3b9d0d07c3a887c57f69a2e25f03729e8ad1f82af8e1f42e39d260dd2b90cacad5e4f1c1c2ead0ec86f5f640cded261c3f86f0450f3ffc9c157ebf13887b"

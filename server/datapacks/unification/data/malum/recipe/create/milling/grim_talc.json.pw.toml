@@ -1,0 +1,8 @@
+name = "grim_talc"
+filename = "grim_talc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a4c2cd4aa5a3fb89982392f4fa33d73504365ee1fceed3bc9834a6bc4526e74.json"
+hash-format = "sha512"
+hash = "5b1854107513f452168699921c46f7957a32706f0980fa144c5f1f8c7cd5e979e699ad068c527fa5c7e9edeef5163de7473418cd1c20609801cd906f095fd2f3"

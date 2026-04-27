@@ -1,0 +1,8 @@
+name = "inductor"
+filename = "inductor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a2aa353cc7074fadbb5c4f07a6eb59f7d8f6fddd67730f31059b4a58b95e1f76.json"
+hash-format = "sha512"
+hash = "5e42b94fceb946f794c38ed69da4341abf4204c3a144e1a5b5f59b223d26c9a2efa8f70a1c64ea437154e1c4b7bd4331a8ebdc69cb7876277a0c275c5ee67fed"

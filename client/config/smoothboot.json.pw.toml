@@ -1,0 +1,8 @@
+name = "smoothboot"
+filename = "smoothboot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c4c4763b78a8141c6b73ffe5d50b54a5f9a3635773ede434bbdccb083c36dc09.json"
+hash-format = "sha512"
+hash = "4bffa34a99f31813d10980dbf2e3146c606abeba33cf57fa5957e833f69110044c2b91f36e6ecd6041ee97705cbe45ead1ca4981d023bb7a392ca61b6d91ca2e"

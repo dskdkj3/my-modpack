@@ -1,0 +1,8 @@
+name = "beesimage1.png"
+filename = "beesimage1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69db80ed22b81447b748f721aa124e8dc3c05ef5b86233024a183753166f66f3.png"
+hash-format = "sha512"
+hash = "2c23d04b5ec8ddafcfddf1497484f8a369655a179bb6417bf5dc4d4049bf4f48d3cd0eaeb2182e7672cb5b66a2696dc612642e8024b7c2c3138d0ce7cf0e71ed"

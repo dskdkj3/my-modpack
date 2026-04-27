@@ -1,0 +1,8 @@
+name = "glyph_resize"
+filename = "glyph_resize.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/50c2748cc11d3c8a629dc7176c970bbc5942a9961736064933699d9a21bbe71b.toml"
+hash-format = "sha512"
+hash = "979943a5e83c54887a9f166608c16f9cd8dbff2bf3b8114eca2900bcfcd41f9d1cc625b096feeb1c3393bec25fa11cf40d65ad00441baa00595557b5696d5497"

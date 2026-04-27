@@ -1,0 +1,8 @@
+name = "sky_village_weaponsmith"
+filename = "sky_village_weaponsmith.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/127020e882213a9647f1b894a5c1937a7a6107185c569a1ed738c1f35ce80ee3.json"
+hash-format = "sha512"
+hash = "71c6b231630399bdfb7aa0b83c728a9c4d0cff468f7be18ff8c48c41cb990509f1f6c5e6fb3f83a78844ee08bf74f6655065e1414c34f3518d1982ec55a1db7a"

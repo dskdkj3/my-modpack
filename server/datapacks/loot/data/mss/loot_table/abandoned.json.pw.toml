@@ -1,0 +1,8 @@
+name = "abandoned"
+filename = "abandoned.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4fec0e2fbe32cfbed50248d1118f5072147c8c6dc08fada573aa26a4ca5b3958.json"
+hash-format = "sha512"
+hash = "85dd3e52a3722587e0cc872b4808a49003cad8536ff83728ebf5344840130c77f17e381aa449fb2c9611b7be5572fd0631755289531c451e82317859b0ef3a4e"

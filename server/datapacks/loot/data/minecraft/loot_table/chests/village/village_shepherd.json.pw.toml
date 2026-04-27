@@ -1,0 +1,8 @@
+name = "village_shepherd"
+filename = "village_shepherd.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f5b1ab04cd23188c9b315fb262d2d51c17df15f01fb94cb73e67da041655115.json"
+hash-format = "sha512"
+hash = "ae3deb3fd1c5fb4d3679036f798d9366c582b4cadf0930d401b2543c6d82dd3b330424031bfb26d7f2403512bff112c439c7ca3ea8253dae5bbf7a17e17f6adc"

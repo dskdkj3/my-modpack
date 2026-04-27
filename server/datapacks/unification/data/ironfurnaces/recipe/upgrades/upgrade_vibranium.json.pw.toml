@@ -1,0 +1,8 @@
+name = "upgrade_vibranium"
+filename = "upgrade_vibranium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f6883a19457228a5631b2989f8bcabda45a68faa99d49bf86f1a98e06081306.json"
+hash-format = "sha512"
+hash = "1ddb907a6071bc9907a6c9795933abccf224a59a12d2105dfce38b0e8c5b71f5ab108fde77159fa9afb9f36ec0b9d2819ed9b11ee60ee1d9a964400fd5a5bc25"

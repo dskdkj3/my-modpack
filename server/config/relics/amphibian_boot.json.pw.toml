@@ -1,0 +1,8 @@
+name = "amphibian_boot"
+filename = "amphibian_boot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86e8d9f055f45017c2eeb561251f60e161e46b399d7412e5886e05ab77f0d4d4.json"
+hash-format = "sha512"
+hash = "6676a0dfd52e524ada2647a9d5e83073a3ef396eec4284665ae7c55fe4fe0d87e6bdeb332683499f8b1e55407ba8bc6b442ab6d4e5e3714345e202c75f967327"

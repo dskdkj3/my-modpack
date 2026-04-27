@@ -1,0 +1,8 @@
+name = "recipe_aspect.png"
+filename = "recipe_aspect.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8bfc37d3f70b7fe5ddd2416e33fad781068d6682c0647ee8be3d130a30411f73.png"
+hash-format = "sha512"
+hash = "beb5ce5364edb626717c1f09bffd980f28ebff147714adc192ef855da39f79ebd37110afd5425c56ee09d1c95ba75a42f4e8ae8de8c61fc6ad02b6870630e8f7"

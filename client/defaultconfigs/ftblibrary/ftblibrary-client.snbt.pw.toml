@@ -1,0 +1,8 @@
+name = "ftblibrary-client"
+filename = "ftblibrary-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/79007380d0122642c39f819ad147fcd9cb695b883dea496be982a7fcef0a03ca.snbt"
+hash-format = "sha512"
+hash = "f02cc5c8a8545157a0ea74836b4bb4cdaf454b1fe872d7d6aee528876711d9b38c3423b75beb7f4bdde335bc7facf5c37d8832907c0dade36413e1efdcb55029"

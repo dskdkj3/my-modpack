@@ -1,0 +1,8 @@
+name = "lychee"
+filename = "lychee.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84f5e311038716db0672c9ae943e0fdb2358ea3c927f276375e1300b3dca1b0f.js"
+hash-format = "sha512"
+hash = "b783e722f82101464f02954fbb022739a476c52509f0c05ddad1df7f43298616edc2bceba8990d8bc5d082569ee3760209a21ac03d68811d590a6e71d1d779cd"

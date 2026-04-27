@@ -1,0 +1,8 @@
+name = "shadow_glaive"
+filename = "shadow_glaive.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/085a9264091a99283c8f8e3cbd280b8d6fe37fe3dc6f25a0cd05502e7b22cbe0.json"
+hash-format = "sha512"
+hash = "82e4b25c3b69b0e13cd7a354fcd9a062178fa079dcb50e30c096f95f34d940d39bad49bc81b29e7990cc49de90f3f2bdc7bbdeb6f2bf5dd0e68aed4ddb5422e6"

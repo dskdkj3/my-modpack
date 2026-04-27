@@ -1,0 +1,8 @@
+name = "light"
+filename = "light.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5ba6f1e7259f6108c53242dd25ef0c2c61e509f3d6942e9530b1e4e1a8859c0c.json"
+hash-format = "sha512"
+hash = "0de8b1e22e252e8e1f2cc2e6d03a2415d7cf038be62f8d71f0c56a61539a3f57289d4bfd4bf4d643547ecd2bbd89b3e67a567d120ac4d3f0d0a70ce91fbc0cd4"

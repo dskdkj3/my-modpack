@@ -1,0 +1,8 @@
+name = "magical_dungeon.nbt"
+filename = "magical_dungeon.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/1409dc0d596ac7b32b618396221fd08320073578836979a40c265fc0be49f723.nbt"
+hash-format = "sha512"
+hash = "775944e87ea5cbfa829025d6b62e07504631d086efc0c917f698679d2ee10a24eccfeba8df41ee2616ba998b08f027f755db3c9793a2fbd876dcded5ed331984"

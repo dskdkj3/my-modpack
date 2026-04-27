@@ -1,0 +1,8 @@
+name = "main"
+filename = "main.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/dbcb231550fe7c3ebb1dc030dbf92228bb31f32561ad26bf27a01a46810ec998.cfg"
+hash-format = "sha512"
+hash = "12c36022695da6fc72dd9554b141115f4f081fd94cf01eb169fee9fcc5f865414ef71fef965ac27067a3bc3f9819e3d6b75dc8944eae0847b634e560d22635be"

@@ -1,0 +1,8 @@
+name = "integratedtunnels-1.21.1-neoforge-1.9.4-606"
+filename = "integratedtunnels-1.21.1-neoforge-1.9.4-606.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7734/665/integratedtunnels-1.21.1-neoforge-1.9.4-606.jar"
+hash-format = "sha512"
+hash = "7da3daa55b7ff1138f78f7ef9348c1a5dda1a1b6e52a980a8d609a319dd5f6ea7ee1d1bcbde93806c7102ec5409bdcad933b7749fc8123161d2e4f00eb09d964"

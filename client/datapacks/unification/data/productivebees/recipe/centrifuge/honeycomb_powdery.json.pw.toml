@@ -1,0 +1,8 @@
+name = "honeycomb_powdery"
+filename = "honeycomb_powdery.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93605b178db8710b0579a0e812ef40cdc8d7f281a666691e33269140f400825e.json"
+hash-format = "sha512"
+hash = "61e336aa7f32b6698f4da8e03dfd7f30d559676b6142b21829db0883a0b3fae731404c1ba0350da28e68b2d2313af653c30a5e5175735c8d1bb01d5a5c314689"

@@ -1,0 +1,8 @@
+name = "farming"
+filename = "farming.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd4481947c4fa27a1cb6f21c181ef18f78df0a431784d7c7495a3283a7e15370.json"
+hash-format = "sha512"
+hash = "3d17bf60baa4d05864624f48704c29aee99014496512b1e674f39b5437989f4996e44dab5acee717fa45a61d2ee403fcf207c70ac6173ce19d080ae69096e541"

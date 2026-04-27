@@ -1,0 +1,8 @@
+name = "rune_holy"
+filename = "rune_holy.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/5390a7364d39dcbfcfed56000524da375c80f8956fc7e7989433273d67d72ea6.json"
+hash-format = "sha512"
+hash = "94b3fea0bc96fe1092463acab0de636e001c3b2968994f21790a287dea2cdb0c8a18336e61a71c1c4c239bab3ae42716f21355a97bab0d4b3536036bb0305064"

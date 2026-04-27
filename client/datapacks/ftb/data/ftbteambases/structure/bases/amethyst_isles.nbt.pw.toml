@@ -1,0 +1,8 @@
+name = "amethyst_isles.nbt"
+filename = "amethyst_isles.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/898438ff2dacfbced349407bd7e2cd9230d2f115b50e42f3b16d226b79ca1b28.nbt"
+hash-format = "sha512"
+hash = "edd6b40fbe562fa506bc40f0dda0541883d79135de873972fd5184e7a913bff1948fd1d202cff9abca80692ae166fa08bdbaac4eb111cd212d3d0261fd01cf30"

@@ -1,0 +1,8 @@
+name = "modern_industrialization-server"
+filename = "modern_industrialization-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0e333d2593a81c45359496d4764f4f6fd5ed6c9cb57047ef06fb0477fa18651.toml"
+hash-format = "sha512"
+hash = "54e49d420a6bf4f6e086f41497a4d6a9470a879a824d4d4c5e575913a5add453fd5409591fc9af6c43bdbff1bb754224c1b43bffd28f9e1b8f0a261495e3e840"

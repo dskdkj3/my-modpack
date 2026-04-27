@@ -1,0 +1,8 @@
+name = "silentgear-client"
+filename = "silentgear-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/834caa894657b3441c3f176797d7a4349daaa99b74f916de03f18d63f5344c50.toml"
+hash-format = "sha512"
+hash = "46c4574d62db2a4fe3b8fb26bfd98befc36b30144a2fdc310b3db2ea4c696faa4c5bd1e8548ee64fe2c19197fca59c3f865f838f3f669a3ac5df13da194c8a54"

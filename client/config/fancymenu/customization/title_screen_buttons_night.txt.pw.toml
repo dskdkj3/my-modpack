@@ -1,0 +1,8 @@
+name = "title_screen_buttons_night"
+filename = "title_screen_buttons_night.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/ccbb17c568915aba3add47bdf87ad32768bdf2f4e714f7c7a0927e58cef7ba12.txt"
+hash-format = "sha512"
+hash = "01c673d83feb93f332e3d226b46c7e3f21c2ec8acc0f83b051b44ab401f4ac54ec297ffe20458bc09ded628e69469c3c4bf369b445d3c524a139a008320a2172"

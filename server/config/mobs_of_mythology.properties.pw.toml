@@ -1,0 +1,8 @@
+name = "mobs_of_mythology.properties"
+filename = "mobs_of_mythology.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c80ab557c6eaa20890c38fdc98146ea11f1351953c9cb97574d55f5554be628.properties"
+hash-format = "sha512"
+hash = "0c03b1795a0b2b426d281924f9cbd279f0074289b04c7616152b96bb65c663260e40bc34deacca8d00c8a838a90b10dc911bd8b1ca9dd0758e79f8e667e7595b"

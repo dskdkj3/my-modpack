@@ -1,0 +1,8 @@
+name = "glyph_contingency_health"
+filename = "glyph_contingency_health.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/113cfd9b39c5a35e55665277ef9cc9d282565529c52580c58bc7cd623a3a8991.toml"
+hash-format = "sha512"
+hash = "9f4cd70ed877ddfcf3c3cb18a6e4ba23effd7ef5217af3b3a6393000847509daa8b28e6f840b17e201bca99baf5e88bfc85dfe4e36bf5e4575e5b8cb43b48fa6"

@@ -1,0 +1,8 @@
+name = "geore-client"
+filename = "geore-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc8076f428b1bfe4ad8d5c5686ba169d26525b1a91dfdd05076ce4ff833c34a1.toml"
+hash-format = "sha512"
+hash = "f61cb15c8b0f8f2ac3636169559ee3e014350f27dd3733ddc4ea7c320bbb1a0a2de3347fdf70b7339c69e660fdb1901ff1a09aaec72d6ded47e6e14be589025e"

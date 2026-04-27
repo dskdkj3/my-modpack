@@ -1,0 +1,8 @@
+name = "netherwood_stairs"
+filename = "netherwood_stairs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/64e1bd086f31f5cea67afa4bc7b57f3fbad271908470c2a39aeb2268992df607.json"
+hash-format = "sha512"
+hash = "5f0504874d740996c9075acf5e9cc006dae2ffb8eeb46c26a81805d7a6cd662d537d49e777aa4b6848ae6dc78a2aa32a3434be26b692d7b71c6bdf97164bd8bc"

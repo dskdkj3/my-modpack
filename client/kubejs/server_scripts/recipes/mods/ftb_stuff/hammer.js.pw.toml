@@ -1,0 +1,8 @@
+name = "hammer"
+filename = "hammer.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/94141d1e2d44bf368489f2af77e38e25a19100147b7b0bd926327ea091153576.js"
+hash-format = "sha512"
+hash = "9a1fcd7457dc2cdfffebd6c26a163438d8fd1c7e93f61050791d468fe030b4c92f6396b8a0bc5a3d0f3c5a94e0caf27e389c33ab44933ff6c7386074a3e34748"

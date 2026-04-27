@@ -1,0 +1,8 @@
+name = "integratedcrafting-common"
+filename = "integratedcrafting-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e351972c7451b5bd360cbf44ad12022451b952d6d612e5310abffe850989457.toml"
+hash-format = "sha512"
+hash = "222a7d5b6e8a1fe67dda8b1a8cf7a780b40f42f5476b1dbda051c8d775b9c56e7cc93533dfc8695e77e110d61410d544053a38a24aeadd8392717d22c9d69c5c"

@@ -1,0 +1,8 @@
+name = "pocketstorage-1.2.5+1.21.1-b3"
+filename = "pocketstorage-1.2.5+1.21.1-b3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6834/323/pocketstorage-1.2.5%2b1.21.1-b3.jar"
+hash-format = "sha512"
+hash = "746be207ca9b4e7d1dc64cf849e3dafe4252d2f95f802dd281c5a0d021c0f23eed9dca2eed3be73ed48758afe35958942e1893649a089b3f2c1cabcd5aaf55e7"

@@ -1,0 +1,8 @@
+name = "lava"
+filename = "lava.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a717a1e91ad9721edc1d605f4a3dc512fc524906a96cdd86bf6cc54881973de9.json"
+hash-format = "sha512"
+hash = "4c2ebd3a0fd4c53de66853b9d9b214a2aa8a7f283a90be85c15e71aa86d53891f293ca0382fc53e95e1b30273a248b365b7b777b5e7117f157ba1b207804d308"

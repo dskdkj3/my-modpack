@@ -1,0 +1,8 @@
+name = "stronghold_library"
+filename = "stronghold_library.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69a7ff3d43ab7841d8ea9fdf508387f977e1eab7369111629ab77a0241e6a0ec.json"
+hash-format = "sha512"
+hash = "228c0181d9cb748bef381687ca66a38117ea3015b6087ad5fbfc065ce05ea3d59ca12aeaa6baef70d3e3231b7d21def2f724cb445a203a98ca36b7cfab989844"

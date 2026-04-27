@@ -1,0 +1,8 @@
+name = "infinity_ham"
+filename = "infinity_ham.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f3e7ee04c219a318e00210d5272b2719aa61efb2ffe15131b5ed4fc82a3b33d.json"
+hash-format = "sha512"
+hash = "07be8f08c972523f2e27f6312eb3678979f0fd59917361d0f7a9b087f86543edbf999f455b49c29e3174a1328b368a046a0b8e85ebc1d972b8ebe162eefb330f"

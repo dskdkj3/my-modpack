@@ -1,0 +1,8 @@
+name = "glyph_freeze"
+filename = "glyph_freeze"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/4896674edf7488dedee68873ea1453f98851d83495a7c7020cf2f819325cb0a0"
+hash-format = "sha512"
+hash = "8d3142897fcbee0322c58ef41aef532ddde41c3e79f7728334125f3d34ec7a80e8843c7d216332333cfad0fe0bb1054dc58271a26c693e6d82d2ecda2f35f482"

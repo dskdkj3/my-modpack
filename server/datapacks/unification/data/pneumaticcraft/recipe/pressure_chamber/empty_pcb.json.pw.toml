@@ -1,0 +1,8 @@
+name = "empty_pcb"
+filename = "empty_pcb.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2bbf61fa1cbc2adb215cb31ce46c94b243567154beb97e3fa9be6bceb9da8a86.json"
+hash-format = "sha512"
+hash = "77151a2e228fc77dd8209be3b3f6886db870ccbd74df6e12133d3c4604bfc6fcfe9e5032160eb9916bd823e74bc4226089e32a0a601b82f195e241a586e84679"

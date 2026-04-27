@@ -1,0 +1,8 @@
+name = "lootr-common"
+filename = "lootr-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e4da19d5633ce97de8610a8c2f0c7b11083307db56689b983142cc9bb028939.toml"
+hash-format = "sha512"
+hash = "6d20556abb38accafde3a3dd618fc925c8590cf91781609a13c20bf1ae7c8f882af6c2887b4070eec391957d81d4caa1f571ec8220ccc999565d054c92216e59"

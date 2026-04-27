@@ -1,0 +1,8 @@
+name = "sugar_cane"
+filename = "sugar_cane.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b493f1b02ce9cb1bbd3f8910b1288fc061babfd3414c93d8e994f3b362ca4fae.json"
+hash-format = "sha512"
+hash = "6882e2a509ff6bbf85ddb61d19ab0009f7cfe90059c54625003b673a052fb3ade9e420719e74e2cf154a4b14c06fe73270e64419dea7ba904306a1ed79bb1d19"

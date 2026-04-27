@@ -1,0 +1,8 @@
+name = "config"
+filename = "config.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3598a5d3ebb86e336bd86bfb6feb36041355f45bd8b73d1b7788c8ec5347d05.json"
+hash-format = "sha512"
+hash = "d824d104a4fcc2551a7e134ca5b75b6f0d615c7618f0c4d997d801f11d2b9d1c679b94fb5080bc8da8feef7cce4fedf3051ef22d63e1a1a13c94212771415d39"

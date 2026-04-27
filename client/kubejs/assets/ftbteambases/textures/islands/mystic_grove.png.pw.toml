@@ -1,0 +1,8 @@
+name = "mystic_grove.png"
+filename = "mystic_grove.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e5660fbff1f28c9b17a3a1a6686cc8656fb0ef3c866631a930a6babec04c90b.png"
+hash-format = "sha512"
+hash = "4ce4fa03bd8be3d62d280f6553f802a1620779315b6cb89a2368c9184b0b3d2db5e8a62ce66ad63531e98a1e58316f140ed11b44e91e5d984ab805f73291cd26"

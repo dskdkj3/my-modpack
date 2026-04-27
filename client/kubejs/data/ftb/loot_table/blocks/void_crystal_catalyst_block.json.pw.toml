@@ -1,0 +1,8 @@
+name = "void_crystal_catalyst_block"
+filename = "void_crystal_catalyst_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6bc00e8bdfcd55be15cc510d53f6c072c0d920dcd0942c682d955c52260e82d.json"
+hash-format = "sha512"
+hash = "e78dcb49d8fba0b873f895806f2583a48c7e6ff177878f123df2cabb90e1f70529d6c0c8cf28d8684fcd1c2519fb2867ef0db52bdac4c4aee736a0732cdb197c"

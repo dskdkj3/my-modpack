@@ -1,0 +1,8 @@
+name = "extended-industrialization-1.15.33-1.21.1"
+filename = "extended-industrialization-1.15.33-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7722/451/extended-industrialization-1.15.33-1.21.1.jar"
+hash-format = "sha512"
+hash = "dafc0fe5a285b7e038bc1aad58cb8f6e225887044e16244a2821729c683b750b572843d8807c83e01188a1c45a41df5e45107d83571504b2269a99a5b2dd2556"

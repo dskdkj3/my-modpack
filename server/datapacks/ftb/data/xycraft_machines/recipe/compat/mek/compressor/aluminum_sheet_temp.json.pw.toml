@@ -1,0 +1,8 @@
+name = "aluminum_sheet_temp"
+filename = "aluminum_sheet_temp.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fbc595db443f4dd10bf7f0d6ca0e51ac9cddcc0b9fc00b63c322275a8343fa1a.json"
+hash-format = "sha512"
+hash = "0ffaf7c71e0be4b58f8d084bc875f07664e1d3b256d80d31696f328a46560303839a1624919e867f73bdf0fc8295d917294ef49c4195450f7067a2122412b353"

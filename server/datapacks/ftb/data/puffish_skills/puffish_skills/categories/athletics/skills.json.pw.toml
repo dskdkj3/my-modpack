@@ -1,0 +1,8 @@
+name = "skills"
+filename = "skills.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90d07cb0e0db52b6cc6e0222ed25288216c793c09fcd2081a07d7d35be1d80a4.json"
+hash-format = "sha512"
+hash = "d8b88d5bac0e19598d29bde0d7fc0219212ebc35cce4def80df343cf86791c27b2dd0fa03d906d7a87fdcafaf8ea845109bb858f69a34e2da6d97b1262db46b0"

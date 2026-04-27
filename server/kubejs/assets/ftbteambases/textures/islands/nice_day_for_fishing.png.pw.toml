@@ -1,0 +1,8 @@
+name = "nice_day_for_fishing.png"
+filename = "nice_day_for_fishing.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31b5934fe0f974595770aacd804f40224845a28dfe8db16f822b440d148a2f6e.png"
+hash-format = "sha512"
+hash = "3dcb3947b99db73fab3aa94d4ee5dc519d642a157274d81a199878ff490a8d8d3570982fd6beb067e1bc62988f8bfc45f23f1125145f24ca43fd852c77f55752"

@@ -1,0 +1,8 @@
+name = "creative"
+filename = "creative.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3c9ef695b50fee81d9a0d0284b0ec2762f5545ebf731ed64fb7d862dccd1c96.json"
+hash-format = "sha512"
+hash = "45c267baaaf544b52f427911580865572229c2901ce9ef355031a9a296256bd1997b99bec64cf0133a498a2bb0d117a57afc10229b780d80db31a836432b9bee"

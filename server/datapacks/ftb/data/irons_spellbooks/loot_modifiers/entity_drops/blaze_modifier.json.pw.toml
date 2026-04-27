@@ -1,0 +1,8 @@
+name = "blaze_modifier"
+filename = "blaze_modifier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf020e2c4724b1c11fd74340114f3b9c73c06ff48ff25f77cc1a5263ed1c0536.json"
+hash-format = "sha512"
+hash = "8a7bd8fd01d03c341013b1dffa0347ff10c0561e7ed313006bcd3af9154e204f26c7a349299c9d743ee573234eb2792c190667b6581298af16603d9ef2d46985"

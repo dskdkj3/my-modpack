@@ -1,0 +1,8 @@
+name = "cloth_mesh.png"
+filename = "cloth_mesh.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/404d305a3bb842ea99491fbb6948b81e35dfc861d71f2413bf5ba14f2c20ce6b.png"
+hash-format = "sha512"
+hash = "7b08572d12d46a41f3a6058533f81d05771818b8871c10be0858cac8723fe748cc0b2c6ac63e9fe1d8129a6280f9158af647ac9ffbfd639d78010c7544b5fd9b"

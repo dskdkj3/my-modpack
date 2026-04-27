@@ -1,0 +1,8 @@
+name = "casing"
+filename = "casing.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02639958d1ce0e449a45309d9c6161b3a362285cd7e8c26f1f183dae6b082811.js"
+hash-format = "sha512"
+hash = "c549a7e7fb67d94732d834756ebe965e105de05b2e88554c487b2a76ef818ff95a8208afc9e71b5f3f8177df82988ad79ac9e2f4ea4d7b8bb54cb5e419d8954c"

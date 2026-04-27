@@ -1,0 +1,8 @@
+name = "cartographer_1.nbt"
+filename = "cartographer_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6bc38f64f27ce51fc2cfca9616eff0288e30922258c567ff02ab5691253e6de2.nbt"
+hash-format = "sha512"
+hash = "f49f633e72137da38a51f85a4387a4a218887a966d0d6fed358e48638c393f8b475e904d1c0a40d497761cb7d07f87a354dd9bba583518e8b3fda2f30b4c4ff2"

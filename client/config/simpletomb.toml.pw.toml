@@ -1,0 +1,8 @@
+name = "simpletomb"
+filename = "simpletomb.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3ca063f6c754610690c2f75d9d2b0d567e15eda62f5262b848a4503272aac51c.toml"
+hash-format = "sha512"
+hash = "ac540260a8fb0083efa0d4880e5b47860edbc0cda861e5af8982247af23ee8bb179380df1aae91b3d8b58a58af115017bad9919d659f093879a48e3cdd2ad221"

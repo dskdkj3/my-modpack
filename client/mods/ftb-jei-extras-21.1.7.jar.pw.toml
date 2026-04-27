@@ -1,0 +1,8 @@
+name = "ftb-jei-extras-21.1.7"
+filename = "ftb-jei-extras-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6695/679/ftb-jei-extras-21.1.7.jar"
+hash-format = "sha512"
+hash = "6c389021ee6eacc0a94d7a8236d6a21b52e8409e3f5245cce67c6f68eced3419252b02ef5e5d67c5fab3b970ecf07edc21f17146b084114ad412144905d1bba1"

@@ -1,0 +1,8 @@
+name = "mystic_grove"
+filename = "mystic_grove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fdd1ba6b9e285de8eb4f60a723d15614f6091b9aafe293b0389ef702133d409e.json"
+hash-format = "sha512"
+hash = "8da4f7a2b698fc92c856ac3da15ed1aee2487f3b4cdd90f43d270847e434371d64892013b521c4d3d64b7643cd502b0aa9a060bf14b9d2b095fad4397eaadc68"

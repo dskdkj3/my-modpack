@@ -1,0 +1,8 @@
+name = "mffs"
+filename = "mffs.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7b2154c73d2b06554e98018a9a28ced9c46e338a0aec28d6b226f711b96a01a.snbt"
+hash-format = "sha512"
+hash = "f945560359d33a7fd04a13483cfc6391fa3f9771311bcf9750aa45a33ef2644116dcf9a18a80080b19e09a7a74ac132c4393227e0140b947cb8ac019a80345e1"

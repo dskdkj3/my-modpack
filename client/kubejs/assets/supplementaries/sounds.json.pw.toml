@@ -1,0 +1,8 @@
+name = "sounds"
+filename = "sounds.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/7732050c062677229a0d287542c18c30f23a89626bd99cc5cc7328199ede7314.json"
+hash-format = "sha512"
+hash = "faf231e1a3b97172bbf03c5a63242cd1be171d12249ea63256531095e1ba8b09a158f50cb07680afe3753b8bed59b1fd7c61189b60efff739481ca570510b7d7"

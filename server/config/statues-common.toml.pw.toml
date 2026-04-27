@@ -1,0 +1,8 @@
+name = "statues-common"
+filename = "statues-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/177182e0ab60c4c6db8aaf67e73344d971cc821c3f756687b22cdacfd7a26dfe.toml"
+hash-format = "sha512"
+hash = "efdb50404e187a3f6acf54be37a1d5892bf941fa7663fda2d22c673dcbd33c5d3e013d2cea6bdb2fffb5ad218fd0efd111d6f5bca32aeca653b18dbca01a55a3"

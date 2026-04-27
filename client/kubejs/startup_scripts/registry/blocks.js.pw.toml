@@ -1,0 +1,8 @@
+name = "blocks"
+filename = "blocks.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2ac8652522ed007fd7fa97f6988e37f0a34a0186324681f762eb52b5e11d82fe.js"
+hash-format = "sha512"
+hash = "cf62ebb50b448c345d255ac8a10d47e8e328bf6425d5a0deb81e4dfd839f63f36267c723b31d17bccc927ee8b1da5185c83ab9f6b68848c8347360789943c6d6"

@@ -1,0 +1,8 @@
+name = "glyph_gravity"
+filename = "glyph_gravity"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb29fdc02ca3bc360639a863053a7d06aea2db0732047c35f0ab67efc634750a"
+hash-format = "sha512"
+hash = "e6938292d2f7ddbdd4254b12babf893485ddb005ab3da348b0a38ddfbc35dddf05fe6e8468d63d514acf66e253b09d89e4879d856c54c1568a8cca17f1dbf1e1"

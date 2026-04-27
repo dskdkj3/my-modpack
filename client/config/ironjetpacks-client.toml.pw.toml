@@ -1,0 +1,8 @@
+name = "ironjetpacks-client"
+filename = "ironjetpacks-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cf5cac16ee4a13210bd227e89695cc9fe2d354700a73c9d5bae47936d6c77b1c.toml"
+hash-format = "sha512"
+hash = "648964bd658453cacb7292e3b9966b46c3b8ac23b5cabdb58d9f1a63d2ef59da01b2be3e5ffe9c089a3d7048c49ac2c9788ead57da7cf416ff1544168509b713"

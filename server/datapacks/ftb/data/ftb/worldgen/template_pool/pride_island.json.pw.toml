@@ -1,0 +1,8 @@
+name = "pride_island"
+filename = "pride_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/29329a575b44563cb34aa5410e605438026f9fb9cb6092720ab224ccc7a7f798.json"
+hash-format = "sha512"
+hash = "26d5b031439d518d76c32f4e3e624c58a6ee4f627a9bdc035d41ddf379451bacd9b11c32fb56eb4c3cd8fcbfca840cd97a0045891ce9df455a3c4ac7ea09d358"

@@ -1,0 +1,8 @@
+name = "framedblocks-server"
+filename = "framedblocks-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e2d8beee4007524854b8f09d9bec484faf095163e3c241ea125aada7c858fe32.toml"
+hash-format = "sha512"
+hash = "ba4ccf0a0998a222ca6803dd09e5a212960190b910e41e0e16de6bca5c9a06fe36af4d4a41b5e814d8d566687bc38acc3919b091cd866c8955953fd9fbc99ff6"

@@ -1,0 +1,8 @@
+name = "explosiveenhancement"
+filename = "explosiveenhancement.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4b5ebb2257faddd6d27d4c26b3cfb753bc7fddba93afdb7b29195c0c13e6b6b2.toml"
+hash-format = "sha512"
+hash = "0281f8aee95943243e292c9cb8ca98897d7fe35344a8664178419bba643d692020c8fa50c5297b932155dc0e264c6f4929542fe69354871adfc0d74c62d86353"

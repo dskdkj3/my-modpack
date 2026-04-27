@@ -1,0 +1,8 @@
+name = "binding_template"
+filename = "binding_template.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c69f70ced05ec6c06391227fc24857fd06dab1612de735f5451802493992e314.json"
+hash-format = "sha512"
+hash = "da9931c453b46d07da1430ce8b133bf97b8e5e32ebcb5b304aad57badb0c973edfceaa65f6f4cfd6b27ed8d6fe574c7b7d541736b19b98f98bbb462a854a23b3"

@@ -1,0 +1,8 @@
+name = "Jade_Custom_Themes"
+filename = "Jade_Custom_Themes.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/29f64f324621cc4a28d5c55d1f9088aad4145aeb47c16f9a3555decbfdbb680e.zip"
+hash-format = "sha512"
+hash = "0bcfd0a7ef6348a56f957e9cbff3d07a2cba4558af2504c202770dbfd5d761a7f30674cf883b287f4c8ab15ef54cff011836c9b69b3aad2f830c9ed3f95d05fa"

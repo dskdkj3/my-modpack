@@ -1,0 +1,8 @@
+name = "cataclysm"
+filename = "cataclysm.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b3e51059bfead258155b9ac2ff650af5d0a15df0aa33dd201c6c1d3b0b2af6b.toml"
+hash-format = "sha512"
+hash = "371404c9c2e3f6d13d4dc7b073d799c84294d4dc05942d9177ad069e156444ab68114213019f360c8340dd7860844f5631dda71021bb04e9a92c88ff9b7a7713"

@@ -1,0 +1,8 @@
+name = "rightclickharvest"
+filename = "rightclickharvest.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d3ac682208c1ae8350079818d6a42fb4a16257ce7eb27ff6b828318c5f0d003.json5"
+hash-format = "sha512"
+hash = "8a59335eefefe3f636824faa4f6e6c54c4a484ca271bf61a89c4459603186b9661ad2594b41e9fdb93ab8cad92dfa4de54777f737152566c87d59c6221c5dd6b"

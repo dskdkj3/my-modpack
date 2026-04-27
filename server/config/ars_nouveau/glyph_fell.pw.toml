@@ -1,0 +1,8 @@
+name = "glyph_fell"
+filename = "glyph_fell"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0fe7511730c9ad3093dc8cedc7009b30de8e936d80975168f1661cc98431540"
+hash-format = "sha512"
+hash = "a169b347528001dbc21bf2e44cf7615bb752e38f956982df88050c74b580ccf4d855cfa1c9c4f8b28f7d797eb143b647120f47c89b53b4b51a5384cc8b6203e0"

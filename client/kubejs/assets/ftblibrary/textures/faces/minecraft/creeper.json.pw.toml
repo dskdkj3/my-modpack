@@ -1,0 +1,8 @@
+name = "creeper"
+filename = "creeper.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0d5ffa29edfacc1e879f57865cf7c34a267b2c46643a4a07f45ce8009c10735.json"
+hash-format = "sha512"
+hash = "795342bda022d24626b0e70757e7834f57b62c0b8b031826b633adc77a2e7857c4846484405db163b6d7071913c66c356d605511d4c20e4469bfcf970def8ae1"

@@ -1,0 +1,8 @@
+name = "glyph_split"
+filename = "glyph_split"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/0284e42189bc91307c53142ab2301f4ad24d06f7a23f9a0023ab5d44644342ea"
+hash-format = "sha512"
+hash = "7742db6acdd2d43c7c7dace4e6ea2a77b479f7cc9d2814ef70d285549764574e764f8851acda543787f4189aeacfb97a3486784ba4c9ed06ae488326c70a952c"

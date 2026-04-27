@@ -1,0 +1,8 @@
+name = "create_central_kitchen-common"
+filename = "create_central_kitchen-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c7c8e7768886ed4550564b3e335c6c7dc6a64cf68303f4528b6d1ed497b1b7dd.toml"
+hash-format = "sha512"
+hash = "c3f79497c43e69c3e53587a4f7bd6f8b2c8382c7dcdba8100d8a219370c3c3e69c965611882018baf0a1ad9ac7dc782c0b1f80e3bb14be5956878cb9c672a0db"

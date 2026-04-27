@@ -1,0 +1,8 @@
+name = "channel_types.png"
+filename = "channel_types.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47afa1b13f5bd27d71a34db28e7c7d023c6fc5064e534d271fb5c2e5c6b51903.png"
+hash-format = "sha512"
+hash = "c2afc4fe58bac52920d03f8641d1d98e8ac7424680b6a77c5740c5f2460996747689dbae603a0d61802c4945bb0291886102a8ff610380c7e7328f491c2ce2fa"

@@ -1,0 +1,8 @@
+name = "dust_to_ingot_smelting"
+filename = "dust_to_ingot_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/214b05c122aa3ccab3bc3ae40436041cb6880a04a6324c50c0051a55bb283eef.json"
+hash-format = "sha512"
+hash = "8cd5482f8aafe6ba706ee19ecfc1bbe2a79de0da02ea7898377eec2dc85905d600996267277f4d81577de22a32d3b00531ffe4d4743663be8be368c903d7c1ca"

@@ -1,0 +1,8 @@
+name = "loot_lama"
+filename = "loot_lama.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52de44416b55a7bc2772862f9d581cc5d926cc677a99e64f1a2cd4c41b02c392.js"
+hash-format = "sha512"
+hash = "5117a050aeb9291cac369277be6ada5ddabbc665e5dc9e02032419e1d99df5c9d9f776aa4d4b9e629776411204d8a08a67c8167462aa965a69a07ced3fc9fea5"

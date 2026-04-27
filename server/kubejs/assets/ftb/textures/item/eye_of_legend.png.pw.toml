@@ -1,0 +1,8 @@
+name = "eye_of_legend.png"
+filename = "eye_of_legend.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68af2bfbb84fc40d092f87b2841a5d38d612a0a48d7fa18bb51ee95eefa44fd0.png"
+hash-format = "sha512"
+hash = "f235eec4a293c935fba96fb1765b30d7bc02f7135c0a83c9751ac0a07a98efe3da16a1c7fd488cfe6d0ed32248eb78d3ff7fba35f4c87e016e8bf0d0ecbb1d27"

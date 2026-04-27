@@ -1,0 +1,8 @@
+name = "info_interface.png"
+filename = "info_interface.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/dade54155df61a205bb8d6e7d09b16f2790957d60d887c01787f5ff363b08d58.png"
+hash-format = "sha512"
+hash = "4f6b5b7792b6ce8426250166fcc858a62dbc21bb650e2e5cd4633b9386499cd4401c552178515e9fd63d2427745628813e2f3cc81331af3326509e870fb549ac"

@@ -1,0 +1,8 @@
+name = "entity"
+filename = "entity.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb27ab784e70b71ab034e5ed8c4b26807f4e1d80abd183df70922dc244665dac.js"
+hash-format = "sha512"
+hash = "1dd3cbd31ac92fb8b2714565fb839a5bc9736b434c2cad6582ec46b09153865abe553c61b1efca1551230fea8d9eef44610701376a0fed3b07179c6ebcf59f4a"

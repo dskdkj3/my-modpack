@@ -1,0 +1,8 @@
+name = "glyph_fortune"
+filename = "glyph_fortune"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e4980444a074f940d4dd2ee742bdf464523e5b4f434087eac549bd2cc61b05c"
+hash-format = "sha512"
+hash = "eed7f4c08dc263777fe690fa0120026946ff374cf43c0cddac4e740841dc014cc4249f8f2dd31b57d58918455976bbc319ce989a1ad7bd9f1ddb721d8ff4205f"

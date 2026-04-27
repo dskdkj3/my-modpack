@@ -1,0 +1,8 @@
+name = "factory_blocks-neoforge-1.4.0+mc1.21.1"
+filename = "factory_blocks-neoforge-1.4.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6266/334/factory_blocks-neoforge-1.4.0%2bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "2273baa299f4f829a2f17f5409a8f206aad87abef65f62e3d20c63be85281f217f64f2ecaed60063fa8c8a457ec6d63eb40778dec3c318af5a70741704b43cc1"

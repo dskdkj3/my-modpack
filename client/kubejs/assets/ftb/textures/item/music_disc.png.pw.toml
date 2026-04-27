@@ -1,0 +1,8 @@
+name = "music_disc.png"
+filename = "music_disc.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fdcc631e7e9d8eb79b556e3a1fd4b6ddcb3f48bd4f7d34c0bf328cec0a325573.png"
+hash-format = "sha512"
+hash = "8f28c21aaa95440d56bdac26b41989e7547608889b5d116fa967c2a449730ac6172f6b024e53e1097f38b4f5532279d7afe7102dc0a4e5b2810cfd462c8b20de"

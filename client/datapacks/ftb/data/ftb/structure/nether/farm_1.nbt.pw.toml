@@ -1,0 +1,8 @@
+name = "farm_1.nbt"
+filename = "farm_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae4a97d6ec0dbcfb063fda70217334771d540c2f7104e22f9fe65780ced57daa.nbt"
+hash-format = "sha512"
+hash = "aa6e20e4e66393f5dd68b47fc8acb32db7df78313a1960b074824f3e14dbe89c5fbdc22649dfb26aecbbff9d34923c48e99bff3adf26bfbe0602984fa93a8c73"

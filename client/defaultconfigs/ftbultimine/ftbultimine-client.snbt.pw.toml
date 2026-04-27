@@ -1,0 +1,8 @@
+name = "ftbultimine-client"
+filename = "ftbultimine-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b85b37368606dd9857bb8ca27c4b88e0208a8cf96311adc0bf678ec9f569102.snbt"
+hash-format = "sha512"
+hash = "1933a0fa5765cdd58da2048969bf3ee4c96dfa70fa235ec1bfe84ea481a1c4a5fc9960ef4a741c19d510f4ab4b4f0888ad4756f1e6ebe059d1cb020b7c1e06ca"

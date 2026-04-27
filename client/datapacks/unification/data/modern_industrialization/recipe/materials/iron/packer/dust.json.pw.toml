@@ -1,0 +1,8 @@
+name = "dust"
+filename = "dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/42de656f548feae979d3fe46e567063f7912318bdc230ff14dd46d0b004859d7.json"
+hash-format = "sha512"
+hash = "21fc6099ef6d2eaff6c79219db68ebf362d49b967a75441874de52914125d27f257390a1668020a528de251cde4d23523a8346cf495f895e4a37816e142d33cf"

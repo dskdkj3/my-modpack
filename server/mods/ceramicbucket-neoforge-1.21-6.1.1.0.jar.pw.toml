@@ -1,0 +1,8 @@
+name = "ceramicbucket-neoforge-1.21-6.1.1.0"
+filename = "ceramicbucket-neoforge-1.21-6.1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5676/627/ceramicbucket-neoforge-1.21-6.1.1.0.jar"
+hash-format = "sha512"
+hash = "3056b99ca10abeaa46966ade291d9249d0ea32b3c7abf905280ba2045779a615585c92a8ce01ee1d50e952b29eb23ca903ec40a3361ef3a2bbf00af1671980e1"

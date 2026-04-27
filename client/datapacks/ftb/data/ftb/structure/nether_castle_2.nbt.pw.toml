@@ -1,0 +1,8 @@
+name = "nether_castle_2.nbt"
+filename = "nether_castle_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c342dbf12e66e6fad7a062cf30e3743ca99e6223560e6c5198004c16e08f8be.nbt"
+hash-format = "sha512"
+hash = "e6d0fd36eb071cd94878334a5832d88e7e0f899b8af1939b1fec57124be96f4981caf0226773f160840b47b644467eccadc6af01b87aa7a0aa81b00a1f1bc182"

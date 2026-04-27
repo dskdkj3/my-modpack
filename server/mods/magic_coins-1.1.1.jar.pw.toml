@@ -1,0 +1,8 @@
+name = "magic_coins-1.1.1"
+filename = "magic_coins-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7605/721/magic_coins-1.1.1.jar"
+hash-format = "sha512"
+hash = "2616a3c0d4b1b8d212856ffc8867c4cc728b28c4bedf18bbab65a57322fa5dd12b67fc4846482fd23655d3b253b4b3ccfc153d4da9090796d66b163a873d3bb4"

@@ -1,0 +1,8 @@
+name = "mob_spawn"
+filename = "mob_spawn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0fd87191bee166ee4fab37a5c26f3bb284ad038222ac4cbb10728a5d9b4ef30b.json"
+hash-format = "sha512"
+hash = "be559c79889180f1695f4f54e78fc90ad679497f2195b551b54ceed4d45dab598ec067834657fc9466cfef47853153d99642ce097a1494ba765555b4122cc5b4"

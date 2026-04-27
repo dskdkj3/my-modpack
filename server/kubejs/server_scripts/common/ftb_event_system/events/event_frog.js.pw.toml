@@ -1,0 +1,8 @@
+name = "event_frog"
+filename = "event_frog.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c9/c980549257a942b5ac7e019ee91127f74869ff79bcba54b944b04a36d7e5167b.js"
+hash-format = "sha512"
+hash = "8b9bdfa030ad71da1530297139fb777c777c9119ce15e5cbb5d8797e1c9af3490225f0d1c7c40149d3a312eb407d49cd94c7e83f5a47b1b983b6ab1bb2e96aa2"

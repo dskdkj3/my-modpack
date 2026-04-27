@@ -1,0 +1,8 @@
+name = "options"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b9f1da8fcbe50b10c5d8e30f697c5b14ef442516a99b51f26e07a9a7eec9b63.txt"
+hash-format = "sha512"
+hash = "c1cea8ea869bcef1d638c4b6a2d7ce01e4be16c99ac7166f9e655b42c2417161fce5e2731fb74e939eb2113f7a7dfdc2b528fcb13164e40dd127a11153c0ff2d"

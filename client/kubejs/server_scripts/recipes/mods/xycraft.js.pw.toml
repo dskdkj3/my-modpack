@@ -1,0 +1,8 @@
+name = "xycraft"
+filename = "xycraft.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6efe76571f870fe6b97f78994c88a253d8864be67ce38ae0c86ad8b83f038f89.js"
+hash-format = "sha512"
+hash = "174d77b04fa5bbf925d51948cacfa4e720f5d0d7951bf26e7336c4b93370815f68c61a6704643a124703eca5168bfdb0aec870ef95b970dfb80f52a8a3ef86d6"

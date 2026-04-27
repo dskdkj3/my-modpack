@@ -1,0 +1,8 @@
+name = "malum_island"
+filename = "malum_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc019aed0c1e53f4b80367037a5a5a6d24f76bcbb65ad65dca8b2cea298976e0.json"
+hash-format = "sha512"
+hash = "a19be939509525ac3a6ba5e71002c204c0f19c627624643109fe1f71a2407bcdc5ab5b7a8ae97c84348aa0f8cf92292633d6469d524f36352e829fb8ab18abe0"

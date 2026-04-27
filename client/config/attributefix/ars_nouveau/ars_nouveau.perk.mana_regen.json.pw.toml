@@ -1,0 +1,8 @@
+name = "ars_nouveau.perk.mana_regen"
+filename = "ars_nouveau.perk.mana_regen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a3c7c95f8f920b3e5dd08ebf57dfc1aa7851787a3d97ebcf59b2a62e2ec5bfa.json"
+hash-format = "sha512"
+hash = "c2253d673158175cc45fcac4449b591d2f6ca13fd71103a05719c65bdccecf75cfa0427ed21a9a8c0ff30ddfe15729398da5912529174ccc0df99d0cea35cd21"

@@ -1,0 +1,8 @@
+name = "gem"
+filename = "gem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/5759b0333749e5fd6b59cf0113b0d25fe69e68176a3e2480312b4fee0e967ecf.json"
+hash-format = "sha512"
+hash = "738e01c350273cc0bd38ac37c405cc133c72e8849966fb8ec6458bcbe92024d90a4775ae347c8d2a3d5bfefb258e6f3c2f0776080651839c1d31936f39cff206"

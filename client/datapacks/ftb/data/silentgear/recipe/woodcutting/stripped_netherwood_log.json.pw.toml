@@ -1,0 +1,8 @@
+name = "stripped_netherwood_log"
+filename = "stripped_netherwood_log.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fca3a558762505e181bb82c70b0b25871fe91934079650605b57eb91af68ccc9.json"
+hash-format = "sha512"
+hash = "cf2b6291a1176e7c22c7e0343f08b7bdd307d604a5c6fe441585b2e6498a055d04e7e2fae79883d3c87e7986cd9f3506c931d8077d949e0d51647b72f79b0251"

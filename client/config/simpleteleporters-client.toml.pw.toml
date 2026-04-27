@@ -1,0 +1,8 @@
+name = "simpleteleporters-client"
+filename = "simpleteleporters-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a35400b71cac5a0d7a19b9cb7f25601c843e2a71cc836df99c545e01aa8417f8.toml"
+hash-format = "sha512"
+hash = "88b0cfadeae0c18c9de16e87775659172237dffb83ecc82c0ef9510f29ee92fbb1fa4d2cebdcf96aec6ab4fb182d0c9e2df107690c04ab16b7b70e52c4f49931"

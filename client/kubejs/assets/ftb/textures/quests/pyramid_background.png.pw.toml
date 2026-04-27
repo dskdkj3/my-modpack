@@ -1,0 +1,8 @@
+name = "pyramid_background.png"
+filename = "pyramid_background.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/efa5ba2198359a7abf1158f4612f79729e4d21cd0a8bc7ea382a0192415ab770.png"
+hash-format = "sha512"
+hash = "ee24ff0bf3902b3e1315f21e0c7f4d11dfb7a3f037d87d06567a099695cc56a95cc9e4c3779050c00c65f051c1347fb88388e9568ad43df4859fa6d863eed679"

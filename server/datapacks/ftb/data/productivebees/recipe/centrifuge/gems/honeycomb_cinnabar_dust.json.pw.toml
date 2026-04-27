@@ -1,0 +1,8 @@
+name = "honeycomb_cinnabar_dust"
+filename = "honeycomb_cinnabar_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d0206d5cee39ebdf97ddf6971975ae9f30a1fd756f69cf2982e789bbb9deaad.json"
+hash-format = "sha512"
+hash = "15b33535c424f84f09e69457d8d896243044ab4b01dc3fc5b4c425905dae4706cfb3de51054bfa20643219377d163d07d193fcc96c1aecf6f3dc2c64de75413d"

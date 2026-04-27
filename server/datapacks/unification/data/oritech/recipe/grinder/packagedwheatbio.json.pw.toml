@@ -1,0 +1,8 @@
+name = "packagedwheatbio"
+filename = "packagedwheatbio.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4fab76eff3f4b7d45ff7e6cf45469eb020d7493f715831bc6c9f45129d057cc2.json"
+hash-format = "sha512"
+hash = "a9ed399fed8cfbe5d992f0d693988889094d767ff0595238c7ef387822e924bc64c37c0c89c1e1d096bc03378df374a08fdcadccec23c728878f5420a8933f02"

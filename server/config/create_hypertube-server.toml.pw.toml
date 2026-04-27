@@ -1,0 +1,8 @@
+name = "create_hypertube-server"
+filename = "create_hypertube-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/132714865278dad7040e0603deabf2e9c15728e2425fbb3c632b939cedfbe602.toml"
+hash-format = "sha512"
+hash = "1680e7e553c1379a9fd70c786510331c1cdadf9991ab30bb41ee552da84643634b0300eb37d330d225de2eb8538d029dfb6cc2f3fa57258f1110b31f2493e031"

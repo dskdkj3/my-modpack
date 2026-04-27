@@ -1,0 +1,8 @@
+name = "tungsten_tiny_dust_to_ingot"
+filename = "tungsten_tiny_dust_to_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/333e0eedb6401a00844cbf4caf1d3f1cdc42cdd4f0b18184d76841fec280a2ee.json"
+hash-format = "sha512"
+hash = "790eb1e77f57b1efd10cb5e7d4e7b7c0cee2b7523b3cd8d3cb4704284f9fbe6386b5fa4ef945a7e7c2e6e463f126a30a6284f54bf733b294518195398190098f"

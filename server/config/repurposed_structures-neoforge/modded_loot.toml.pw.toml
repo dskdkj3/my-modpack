@@ -1,0 +1,8 @@
+name = "modded_loot"
+filename = "modded_loot.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f797a41dbe5f1750ef52d924b651c9e0e589627ccbc35de2766a7642b5c503ee.toml"
+hash-format = "sha512"
+hash = "9c878e3ac052e5378ee133ab14076ae0fa49e6c68194e661569300e4524470247c159fa584c3246927dbe06dc38108031ba6e2c6488f1f2597cb1b3a2df1dee7"

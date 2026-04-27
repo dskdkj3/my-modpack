@@ -1,0 +1,8 @@
+name = "mountain_tower"
+filename = "mountain_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/daa2809b3d40d850ca073f929a160c458de3d194359523d3577eca9d2c060e1d.json"
+hash-format = "sha512"
+hash = "db2e01476636577c21d490bf27a989f28f6215095ee931ad57cc2660b0c11e0817e81cc2ad4542f4651dfd9840bffcbde4f8d083eeeb7011659ea863efc1e3d1"

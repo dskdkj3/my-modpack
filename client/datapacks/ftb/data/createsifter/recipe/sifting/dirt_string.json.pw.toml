@@ -1,0 +1,8 @@
+name = "dirt_string"
+filename = "dirt_string.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d54adffeac972b449407f699286649e1e749d47ded8c0ca3ca0c108ab6f45729.json"
+hash-format = "sha512"
+hash = "f85df7c7fbeed8218276ea2e894f6d06c4844a4cb62e104bba845a7d2e080ab69bd67890df969c168c6cab348a58978374aa61d6b2b031ff33e16c541f409cbf"

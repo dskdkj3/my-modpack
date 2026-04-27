@@ -1,0 +1,8 @@
+name = "trimeffects-config"
+filename = "trimeffects-config.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/abdd540a3f097e55d079651c9644a12b38c55c486cf01177ac21e0a43248e326.json"
+hash-format = "sha512"
+hash = "ab497aabc786725e7cc140f42f3afef251efb6dbb27cb8c74eec89e94dfd9fdb2cba3c379ee3da4af5ee2682389503400a40f6762ab64caa5ab6694d99b3c24b"

@@ -1,0 +1,8 @@
+name = "malum"
+filename = "malum.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc9f886a592e9eef024236f9ee3a208ca808c46483b3e433e61978f4f91b12d3.js"
+hash-format = "sha512"
+hash = "506bf8d35b16190e63609a62a1a4f47bc7e0e297d84e35f9853078c7867bcf180210c1cb318e5d847858318556463f867a61478c63b67856b86a197e2bc184ed"

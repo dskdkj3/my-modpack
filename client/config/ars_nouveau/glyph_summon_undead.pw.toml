@@ -1,0 +1,8 @@
+name = "glyph_summon_undead"
+filename = "glyph_summon_undead"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0207b7e65132ac836b58c4168cb9d5afb82f126ffcf9348c1aa4e24e241b3f3"
+hash-format = "sha512"
+hash = "2fee0699dfec90360dec50b331c6c880f64b200eb6820027062120c796e0255f5dffe1b6b259b5b0edc028c1f51eb90b290c9630068993f11744d3bfc66b5990"

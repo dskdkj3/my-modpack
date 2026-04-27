@@ -1,0 +1,8 @@
+name = "minecraftED"
+filename = "minecraftED.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b97eb8ca647e1e6946050b635298d50292917ef7f04420342745eecb8f9048a7.json5"
+hash-format = "sha512"
+hash = "e90aba85ea3596de390f0a110a387f2883f2f4023eed1f02806290601be92aaf775344fe0bda652236ab1296bf5a15250ddccec6ee74d8913988a98c6216ef37"

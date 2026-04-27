@@ -1,0 +1,8 @@
+name = "he_mox_fuel_rod"
+filename = "he_mox_fuel_rod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a93f951f484a0aaff417fa3d1c1276b4d9d45d9c25064bc3c0b915178828494a.json"
+hash-format = "sha512"
+hash = "2e132251cd16dacf833edabbc38eba34673990d08a3c6d8f345691d45be824f44a5f11881444f92d0d9544ebd7563fbe16c29f5c8a92cb36c1cafb90f94c70f6"

@@ -1,0 +1,8 @@
+name = "arsdelight-common"
+filename = "arsdelight-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae1a5ff1104acee5ba66e213c0bc4ae6657827a2c82a6d5eec1565a6ec15ce66.toml"
+hash-format = "sha512"
+hash = "5bea4157fb5a8ba74a417fb48baed5c61f9ba210c2ba6135d1d7e9343bc85142e859f6257a2598aaa5af86bf35feab7f25171fa8d99b91486457f6edada67a81"

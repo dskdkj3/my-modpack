@@ -1,0 +1,8 @@
+name = "stainless_steel_drill"
+filename = "stainless_steel_drill.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1d26af0eb6b4a7418a788a32c58272a1422505a4e487e3fb858e44562b71ae73.json"
+hash-format = "sha512"
+hash = "4459c414b74dda8afbc82a58a6d8ba78397c4c9357f21f73d0a0b79c9daad11dc6205e60da583dbe64b2fdb2d1f25339e1a631526c3c3e8c794e1e62b12fa414"

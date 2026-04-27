@@ -1,0 +1,8 @@
+name = "terrablender"
+filename = "terrablender.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/531cf6790908b32a2bb175c6c8944998b42e0cc7a7f146232a755dde6484637b.toml"
+hash-format = "sha512"
+hash = "133a72fbd3b328e7a840bdba3c4464c079e90a4e7a3497232ba1aeb447817c2b5c21e644b99f5f0b6f241fbe70fcc18b192c70fe70fbedf1ff11e0c7881b6b27"

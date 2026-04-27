@@ -1,0 +1,8 @@
+name = "lithostitched"
+filename = "lithostitched.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f616ce1a7a2ef2c2b416b5c7a2c110eef217f8864f469b0355f69c9f876fbf45.json"
+hash-format = "sha512"
+hash = "a662a4e307f046d4342cc0d2d27b034e711c8a7708c1d338e157c1147b03de1e1f8af35f159ba805553dbce16a77c596e00bad12382dd1e96b1abbe67757f8be"

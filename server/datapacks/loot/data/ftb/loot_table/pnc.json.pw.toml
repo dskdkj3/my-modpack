@@ -1,0 +1,8 @@
+name = "pnc"
+filename = "pnc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a3634655c333443f749eee608754721892b05bfc3b070300917254f7adeeba11.json"
+hash-format = "sha512"
+hash = "abe6a3515ac84d687f505c3b5adf6ac2ae98ef839cc70a381bdf78f67a6370d9bd4a4b7456434fad6c4ddcba1a1f16440d2b6e6bd1c9f4e4265e11c8a4739fe0"

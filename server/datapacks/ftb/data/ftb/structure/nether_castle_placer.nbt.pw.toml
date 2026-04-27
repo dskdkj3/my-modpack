@@ -1,0 +1,8 @@
+name = "nether_castle_placer.nbt"
+filename = "nether_castle_placer.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5484aeff6be3a60cff5b180d5ab778ae04461f63a64ccb4e3075dec7de74ddb.nbt"
+hash-format = "sha512"
+hash = "ec95b5055d7b83412caf156a24453f9a54072db7df36bffa48e8ecfbc8e7fecc1bebb1cc39738c51542a8eaaa65f468b8aeb2442a06423a705a9161e5666209f"

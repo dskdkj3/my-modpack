@@ -1,0 +1,8 @@
+name = "betteradvancements-client"
+filename = "betteradvancements-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee942ae748995ee1cf2789294ed3d3531499afa060d14a69abaa3af5b46a1b7f.toml"
+hash-format = "sha512"
+hash = "90f6fc8c197d9884954a63ecb670ba39d74f506f16f13a6af6226501054ed4abd45797ac261a46b5131cc0eb215c896a003f05a7a8c780247964397c530c9a0a"

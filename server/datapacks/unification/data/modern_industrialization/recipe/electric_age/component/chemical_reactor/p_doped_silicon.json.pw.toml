@@ -1,0 +1,8 @@
+name = "p_doped_silicon"
+filename = "p_doped_silicon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/974644df3fcb4725a92c21194f3ad682d271530e55604c346b0e611719cada35.json"
+hash-format = "sha512"
+hash = "d73a17cd7ce37fd2149ee8cc37ba730fedcc85b02bde744e14f5b20e09a60101de40cd7401a39aaf11cb49c6b747c7a7222cc8f5938b6bfe506d5c1f18f9cacb"

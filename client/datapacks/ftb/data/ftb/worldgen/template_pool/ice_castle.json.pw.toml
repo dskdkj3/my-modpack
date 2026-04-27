@@ -1,0 +1,8 @@
+name = "ice_castle"
+filename = "ice_castle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/277d94f8406bbe48747aed17d80f255b8945b0cac5a17ee91e2d7124c9a72a43.json"
+hash-format = "sha512"
+hash = "97584178f2c8739d035336f9da240b7aaf0ef3c1a95fd1065d11e6100c11546591159ff07d6479b3cd6316b93e94cf46b325e7d61339acc0583eeb1dc56db314"

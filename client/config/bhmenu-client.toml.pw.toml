@@ -1,0 +1,8 @@
+name = "bhmenu-client"
+filename = "bhmenu-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a207a884fbdb669135f9d9b48afc18d6db380d9b6c3471d1d00f5314d86af4b.toml"
+hash-format = "sha512"
+hash = "7f166654a507f8be92543522469a3a0a59746020a00bab9255d987ac23719857e9f46cb7d7e1551d844ac5a1fa48977929f2f29d65aa73e81ae6cdfc07ce8439"

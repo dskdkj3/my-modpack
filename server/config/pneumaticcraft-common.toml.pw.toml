@@ -1,0 +1,8 @@
+name = "pneumaticcraft-common"
+filename = "pneumaticcraft-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca126246821740a72dd35b173bfecf30cf9287c9e0a38e3dc4442691102ddcae.toml"
+hash-format = "sha512"
+hash = "52c218b13a9ba695810537018102e5e41d2f3ecccc18433315f76772f8eaa895f419d760acaf9cb155224503f0c7194817f42a2f461e7dd6f57dff3a4cd6e4b8"

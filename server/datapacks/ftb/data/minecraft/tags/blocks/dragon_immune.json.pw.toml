@@ -1,0 +1,8 @@
+name = "dragon_immune"
+filename = "dragon_immune.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0dd91acc10410e0d6348a872269ee750e96b1c0b5e4b481e6e0c02f32ffc11e.json"
+hash-format = "sha512"
+hash = "5949cad4ba57b02929aeabfbaa20292bb9848214274d7c75ec43ce809db9586f2dde8e368e8d5cf4807670b259464dc4ec3119dd7f17fcd37301861c48c751db"

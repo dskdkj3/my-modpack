@@ -1,0 +1,8 @@
+name = "priest"
+filename = "priest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bbd06782b7b86b72ca75c3bc5746987bb826f283107eb3fa6adc66df6e843096.json"
+hash-format = "sha512"
+hash = "78e52ac0c0f6265d6cb7f66a8bde27be75bcccc1db39988fac504a2e86f3187adec341845efbc7df809ae2d55468c37e96f5ca942052b24b5adf5487975a8aa6"

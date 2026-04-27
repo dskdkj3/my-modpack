@@ -1,0 +1,8 @@
+name = "extra"
+filename = "extra.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/486db84e06a6f6c6148abd9815fa2ccf8f37d945d4596f8ff2e40f4bf8c62b79.json"
+hash-format = "sha512"
+hash = "79b918b9d9c470316a577d9f9bdce609eeebe750f72ffe8c6898c5285d5eadb701a83dcd895d92e4f112bb4d6fc0e33dd9ec283e4de9502f9ffcb81fa48829bc"

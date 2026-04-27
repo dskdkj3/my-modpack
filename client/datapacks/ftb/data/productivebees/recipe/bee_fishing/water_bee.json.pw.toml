@@ -1,0 +1,8 @@
+name = "water_bee"
+filename = "water_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25679d9035175d600126f232d8bd2fa488f935795ac541be6eb1e631364d5e89.json"
+hash-format = "sha512"
+hash = "55177917e3c543905bc08a1005c5c7ccd4240e08bfe0b821f34c79550dacc0d86bebd344e044b40944975e07e3dfa787986ec28809408aca1c8b303ae5b18d55"

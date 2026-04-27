@@ -1,0 +1,8 @@
+name = "clickadv-1.21-3.8"
+filename = "clickadv-1.21-3.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5551/404/clickadv-1.21-3.8.jar"
+hash-format = "sha512"
+hash = "98cebe7d7033f6f321b00cfecedbcf0b9cac0d0cceb10b149913355b33959af8d893c068dac09aa8dca0abc32bdcc974b74ccd4d95121406ac190b7184482a36"

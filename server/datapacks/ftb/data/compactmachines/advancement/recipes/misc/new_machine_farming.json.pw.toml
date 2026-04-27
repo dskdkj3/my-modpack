@@ -1,0 +1,8 @@
+name = "new_machine_farming"
+filename = "new_machine_farming.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31ce3d3dad42470200688af5dfcf656822289034fa7e83c3553be6ff1a223300.json"
+hash-format = "sha512"
+hash = "9ba5d00d093443a679ac12957a840047a8f30b58d821ffc7aa5bc1871b35d4fcf89c25cc705c35e2d8f484cbf6a5c9d19b4bfc6964f75974159ab5801180d6c0"

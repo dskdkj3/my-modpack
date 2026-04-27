@@ -1,0 +1,8 @@
+name = "advanced_ae-common"
+filename = "advanced_ae-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f69744add53a046e4ff412bd03b508f570f9e93268d2ce7e11cbea68c9c01d9.toml"
+hash-format = "sha512"
+hash = "e1da8cfb062dd947bdcadc6c4ee37e5d40b35b5871e7e5fa312dae1027d36b2d31eefda5c3c45a3f8af38b81f9794a166c49e45fca24a8207ba2358a29e544f6"

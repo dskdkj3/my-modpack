@@ -1,0 +1,8 @@
+name = "defaultoptions-common"
+filename = "defaultoptions-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31c26402a59188076c578bb7400c9e2bf247e009deb26c4d5e52f52f5213eb02.toml"
+hash-format = "sha512"
+hash = "f027bccf24235bb76d3f5a1428a9ddda3ccec237478ac69e49a5b67ef8b980b83ac4e9cd22ba38ea7426c23fcc4b497a430ae9e382bc2cc1fc256e26951b8f76"

@@ -1,0 +1,8 @@
+name = "justdynathings"
+filename = "justdynathings.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84809020a8c344ad2daca6a3aed8c96deb3c76aea43e52cd885e493a73a02a24.js"
+hash-format = "sha512"
+hash = "60c75d113e8e08188b19c11753124d71c59cac68630c378b1219d1afe33a009223ce2d0f003fa8110a176fd98904390c762720be75d73d210fabd8b5967e0d1a"

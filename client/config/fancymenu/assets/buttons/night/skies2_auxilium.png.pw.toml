@@ -1,0 +1,8 @@
+name = "skies2_auxilium.png"
+filename = "skies2_auxilium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/510e70c24b56ff6e97690d2de3bba85f705478eff16e5fa34f990091aae9af28.png"
+hash-format = "sha512"
+hash = "a91bffbc90982013c398c00909cfb5845b69c0578bc5a9c23d54dde4452d160ed3e395975bff0b0761317cec705713c84d9df7c2cf553ee2b3973a3cd9d4e425"

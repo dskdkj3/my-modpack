@@ -1,0 +1,8 @@
+name = "double_ingot"
+filename = "double_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce24ff9afe3af8f9bdcdaf2c66ba8e32373db89318231c4e3b74e4d169bb8c77.json"
+hash-format = "sha512"
+hash = "bafee6aa05d7bd4334460373d5a5777dcf74d9677e53295f6a25e6cad329275ce2d3968b3a083d413d996b15c92ab96ecb1224ba362b9ecf8f76a0dd18bc3cff"

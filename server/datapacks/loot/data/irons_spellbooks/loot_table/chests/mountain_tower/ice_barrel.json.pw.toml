@@ -1,0 +1,8 @@
+name = "ice_barrel"
+filename = "ice_barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/544bed00ab196dbe79ba05c975dc56c33cbaffdd37bd9f2983ed64ec67023713.json"
+hash-format = "sha512"
+hash = "38a4adaf481d30ef7c7250b3d7921fd5c58a6b2e32732c8cfeff1aa31946bc92574a2e2aec74a25a2a72571a5a25e0796551a05d4415178ccdfb8915d5902ce1"

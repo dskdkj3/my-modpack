@@ -1,0 +1,8 @@
+name = "alltheleaks-1.1.7+1.21.1-neoforge"
+filename = "alltheleaks-1.1.7+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7719/9/alltheleaks-1.1.7%2b1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "fdf3c6e02fb83c08104ffbae3dffa05d29bb534b3ebf2eb068ce722f8ea2fd261d2dbb49f789cd560e0b425ba0627a356c3462cfed9c8c9c0691f322a4abd64e"

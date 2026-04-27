@@ -1,0 +1,8 @@
+name = "quartz_stone_ore"
+filename = "quartz_stone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b36fc48c41d4975f23e6b492159fe8c8c094e5100a7bc8f050ebcd2539b7f168.json"
+hash-format = "sha512"
+hash = "1b737bf0879d08d5e59fb64bec1ef6ff810f0ebfbf5f2d9e5428549003e3dd771e0372573b4a5af822207c9ec138f7f1fb9629a9cf37fabe01b49c0d6bdb5a8e"

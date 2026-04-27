@@ -1,0 +1,8 @@
+name = "quest_drone_2.png"
+filename = "quest_drone_2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/475e4656767977480988f0b7a9b3ca5129f127c0f29b83732e3a6f43153ab0a6.png"
+hash-format = "sha512"
+hash = "f476aa2299705a9a32ad2f92dbbd24aadedf29b7bfc6c5a83b7c222b3575a4ef130449b753b1e39c7488776789bd42bf860264b97989a376c8b0b7a4de7ace5b"

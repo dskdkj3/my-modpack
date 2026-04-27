@@ -1,0 +1,8 @@
+name = "villager_trades"
+filename = "villager_trades.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cbcf29d28cdae82a6710c7b760549e469dbe30ab37ef55a70d736dace58bb79f.js"
+hash-format = "sha512"
+hash = "5fc411497e7e6f172de7eed29f5e9bef10033afc814a59357ff2a65db0a40eb4dba0cbe99c8ccbad1ff003c2500ef46c0b59c72601f430bd8cf326b71a12fe92"

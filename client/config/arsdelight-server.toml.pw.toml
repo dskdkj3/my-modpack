@@ -1,0 +1,8 @@
+name = "arsdelight-server"
+filename = "arsdelight-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/4029c4b157772d187a5109400d5db55709805dd4969f59e465e7f86dea5ce6b9.toml"
+hash-format = "sha512"
+hash = "f49b636cbfdc0de5fe99531684401ea84b09ab37089c3e1d7843d7077c54196949c5812c2cab447989cd193a809daf0c33dc6b654207adae7c947bb6f5ad56f1"

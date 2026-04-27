@@ -1,0 +1,8 @@
+name = "glyph_craft"
+filename = "glyph_craft.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a61fe915802c3c68e5ebd0fae66db7d493e44695b42392ef21c445853ed98a19.toml"
+hash-format = "sha512"
+hash = "5d876e8f2e08aba895583eaed399cbb3b85b299e74f41023b6e388f7d7af28b8fc3b10d216dc28813724576ee903f4909cf0298e60a2d102a19398defacb3262"

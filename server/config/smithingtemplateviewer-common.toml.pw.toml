@@ -1,0 +1,8 @@
+name = "smithingtemplateviewer-common"
+filename = "smithingtemplateviewer-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/9740fb9afaa3532cebcd7164e2318a6953d4af03d5ce1b3e97dc27eac91de2c1.toml"
+hash-format = "sha512"
+hash = "f6023a3ae357004df05cf4122c161e4c2c189c9381ba73b66f5b8fbc4fb0d32769fc0f2f7b11a5ef71d509990b7513659658422f55c22a60119dc15194642ac0"

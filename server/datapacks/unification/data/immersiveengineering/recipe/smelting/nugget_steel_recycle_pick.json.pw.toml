@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_pick"
+filename = "nugget_steel_recycle_pick.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/552c7322705f9fa42d6a490da3efa81cee6af42497574a34a5b8c2c8daa4233c.json"
+hash-format = "sha512"
+hash = "db1d86af67a15cf09b02f032d28f24f9bec512db2c367a3c47f81e0e71d05a8fcdb5820d46bd79f5db92aa531452677787f01fb9a50dca9a56582e29eae67264"

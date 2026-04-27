@@ -1,0 +1,8 @@
+name = "toms_storage-server"
+filename = "toms_storage-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b0678d5092a34c1d645a0ad33d8f889d27ed7a5ae6b8c6ff06662283041ed4cd.toml"
+hash-format = "sha512"
+hash = "5ab7b0d684b4ad7b959428d9edbc212e808c87acb4b2c66885bd39cba95e5613dee44dbb38eeb56745f96af4f3946756039a45a64b43f161bce644faf7ece711"

@@ -1,0 +1,8 @@
+name = "apothecary_hut"
+filename = "apothecary_hut.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c37807c2dfec18329e1e09a991c240c8818db364f1bfee34db14bcc755096ef2.json"
+hash-format = "sha512"
+hash = "9772777ecc85d876998a2f279850c603a95079d78e045a26eab05636ef3db5abf7b309b1cf698ac0a27a2ecd72ea5655dcba993cf3ac2ffd2c047697072a6874"

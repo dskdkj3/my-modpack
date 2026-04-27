@@ -1,0 +1,8 @@
+name = "glyph_explosion"
+filename = "glyph_explosion.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a453fdb92e99d070c4b66b95cc12999c7da7f4c0d9ebdd7b3770a25ba92ed3d.toml"
+hash-format = "sha512"
+hash = "a0fa22f369f6f36e3d5c8c17d5cf0b7116b2a2d365bc130a0980c190aa190c7ced4cab6903d4f495d40dbf29e145cb05e5fd170aadc07315573afa055b432e5a"

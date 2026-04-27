@@ -1,0 +1,8 @@
+name = "mageslayer"
+filename = "mageslayer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32cdd56374a7babf33540941e27ee85e874591cc3c1808fcd63acc111bf85a5a.json"
+hash-format = "sha512"
+hash = "a88ff0f27cb53fe82c12435fc840a9bfc0b2977e7fb1de582eb3ca21343e81a23254f031b80aba5e390184e226bea47fafa03aab5ee79aac330254dfba41e7de"

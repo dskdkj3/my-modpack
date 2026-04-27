@@ -1,0 +1,8 @@
+name = "suspicious_sand"
+filename = "suspicious_sand.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73dce7b04b621902f19af8dac4f44cfe1b6ab099445adb784d0f46d00ee82c58.json"
+hash-format = "sha512"
+hash = "c8d883aea831ce7756b3eb8f2a9fc4d53d00022e7044778e1fb18009cce66887208c4149d6cebeefaac8080156a78a7b1e04d49352d9a7b16f832e5d720b5223"

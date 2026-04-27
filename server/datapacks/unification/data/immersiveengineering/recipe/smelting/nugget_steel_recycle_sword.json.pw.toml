@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_sword"
+filename = "nugget_steel_recycle_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c875fcdf2248f02ec88311e26bdd894548aedd976ddd5ae408499f04788689cc.json"
+hash-format = "sha512"
+hash = "e089883709e1ed2e7b1629008208e5f59b62ebb514f8a9384f92e27036a81cb11ec40f804b50b34d3bc82c2386d03418fb4d62d44756b29e2b8d6a65894f379d"

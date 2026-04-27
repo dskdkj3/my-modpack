@@ -1,0 +1,14 @@
+name = "FTB Skies 2 (client)"
+author = "FTB Team + dskdkj3"
+version = "1.14.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e362a8c4c42c4479b753ef88fa49a03eb0b0a484c015e3f784cc73239e640807"
+
+[versions]
+java = "21.0.4+7-LTS"
+minecraft = "1.21.1"
+neoforge = "21.1.220"

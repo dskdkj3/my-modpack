@@ -1,0 +1,8 @@
+name = "button"
+filename = "button.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80ecac3eddca80893aa82d83f899286f12a4521bede7829633b13e572e48997b.json"
+hash-format = "sha512"
+hash = "5fe77cca4355e9c949bade2ceb6c7606dfdfa05de05ee360c95659a189e2eeab303e8fc0038bb712e4f4fdaf90efbcc9c9d60c7f8edf9e35f4d92333ea1fcf2a"

@@ -1,0 +1,8 @@
+name = "tools-client"
+filename = "tools-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65bd92bd8ecbc9780ca4186570ec1c9580831b990503feac9c7bea3b3f488c67.toml"
+hash-format = "sha512"
+hash = "e62b7f362fc82735139c699ca8e6a02d8d58a29730307a4a91b2d2842b38b5255b797df64759d0493868d8463632e3439b5a9deae0ab5d3f8f842461b2680b63"

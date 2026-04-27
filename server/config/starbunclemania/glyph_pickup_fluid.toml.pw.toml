@@ -1,0 +1,8 @@
+name = "glyph_pickup_fluid"
+filename = "glyph_pickup_fluid.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfcbebddee5d742af90b5ed1ad74d3ab084a055b71116a3ce2cf66b6566b28f4.toml"
+hash-format = "sha512"
+hash = "8af41f07ec758b7523d28919e2c60b0d5c695d50ef5945ef8c70b66805ebcacf5fabe4eb4a830f7f07c21e12fe3f504962ff5407ff6017007072036dc75ff105"

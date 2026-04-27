@@ -1,0 +1,8 @@
+name = "lootintegrations"
+filename = "lootintegrations.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90ab479b498e5a019596f43a7aeae206578ebf80e388ae91ab072b25fd569c54.json"
+hash-format = "sha512"
+hash = "3c9738ed63c087794c320a39896e3daf8aa1e1e5211f2bb556b38164b92ed978b11792579cd85d27a63e4fcc2c89a75eadca86e7f31b5afe9a74322acef45827"

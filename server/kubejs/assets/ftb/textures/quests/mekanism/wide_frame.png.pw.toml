@@ -1,0 +1,8 @@
+name = "wide_frame.png"
+filename = "wide_frame.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46d3233e84925a5874c0734889e54872834d4d23e995f814380e8ab754499ae7.png"
+hash-format = "sha512"
+hash = "e55da5047fa064398063c51f41747d35e01e394c024880cc12aaed4c1f718128f752529e19c6181aedc6192b07ec13a57dd23c335b47471cb3cc2b0595e74ec2"

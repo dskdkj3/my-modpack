@@ -1,0 +1,8 @@
+name = "definitions"
+filename = "definitions.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49c1c670264d8bb4cc02260f316b897f3a15a70cd9aa6f0cdc7b437db03b5ccd.json"
+hash-format = "sha512"
+hash = "6901ed4e78b3fb5157dd1d57136506eb524b8effd7df36463fbc2802ffb8b799f3a0b21f27f1c455ffa28582ee5af63581342aa77869fb2c444c8fb5a1d52ca5"

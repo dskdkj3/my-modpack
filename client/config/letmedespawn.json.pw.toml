@@ -1,0 +1,8 @@
+name = "letmedespawn"
+filename = "letmedespawn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/435baa3decb7f13a681aaa9c48dee8706e69082cc39ed5b654f6c7af871f9891.json"
+hash-format = "sha512"
+hash = "d6293f174ce0e396a05a67196dc288e27ef38bba5ad53547dddef4bc63d225ad34365eb739b11eb60ce8587789ca2e0ad9c949e98a116a430a4f5a9d98593375"

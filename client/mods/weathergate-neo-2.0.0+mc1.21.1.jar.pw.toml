@@ -1,0 +1,8 @@
+name = "weathergate-neo-2.0.0+mc1.21.1"
+filename = "weathergate-neo-2.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5712/24/weathergate-neo-2.0.0%2bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ce157e0ff522eb9ef4685f39fedc61fcb5354d6e54709bda0d44d5ea17ceba15bb86805ef1e9f98d8c19c3601b04c36bb4371a1169d335aa4d4eb1315454714f"

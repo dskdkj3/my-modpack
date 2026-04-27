@@ -1,0 +1,8 @@
+name = "soul_sand_brass"
+filename = "soul_sand_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/1178900bf251b541160b8f286d58f756afe760f0afb314c3abebdef05a3ee5ab.json"
+hash-format = "sha512"
+hash = "fa4a785ec0ddd1abf0575a0c34b9c0821452388a546db054b36bdc8bb4d42a62e9861fb941b0e6dbdcd7e40481e2b8063de27a566e9af9a4abe984738e4c7f85"

@@ -1,0 +1,8 @@
+name = "geore-common"
+filename = "geore-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/0201d7c379d42bb21cb2e4aa77b53960f24e56656ec16a18cd90d5bedf807fc5.toml"
+hash-format = "sha512"
+hash = "e1f8ceda0cc6c2c0585fa543ac0e67e9cc37f906b795a40028988631ee3ccd49d86e8fb9bdd0f69603ed9d3e0b1d012668d3862f9c007bbcf1f80357c017b5dc"

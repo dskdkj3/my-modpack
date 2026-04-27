@@ -1,0 +1,8 @@
+name = "village_plains_house"
+filename = "village_plains_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c80273e28dd66364cf5bd9d221103638920ffc6589a92231ba6fa61c1ec6b96.json"
+hash-format = "sha512"
+hash = "7c22af3d745ac997ada4a78d668c90517fc53d918db1da36eabc98c77bda491bf7dbdc987d1acb1785fd9534b07475eb75224284f1fa02ebad3cd33f74bef3be"

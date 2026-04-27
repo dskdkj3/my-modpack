@@ -1,0 +1,8 @@
+name = "ingot_to_dust"
+filename = "ingot_to_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5508428395e952f1177aca9fca9052e7cb16240d6aa1ccf139d93ae0ba28542.json"
+hash-format = "sha512"
+hash = "ab0ffffc186f32c80ba66ae8e892b938379cf3cf440db157b15d184fd74b2269525616f7bc6817c8f494292cb70ed1d846784253bfe65e0c4bb0bc947c034ec8"

@@ -1,0 +1,8 @@
+name = "addon_block_processing_tier_9"
+filename = "addon_block_processing_tier_9.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e97e6fe07ea137356a6575a82f17f94a2b42eea20d5d429c2f938aefa58a50e.json"
+hash-format = "sha512"
+hash = "c7a252058df14920826d76c75f14ab562e956a47c066b2fce8a47b7af8e6a9ccd93e4f464efd51b5621b4dd419a085d15099f4e345df7d7c7089cd76c70ad03d"

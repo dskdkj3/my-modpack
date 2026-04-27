@@ -1,0 +1,8 @@
+name = "modern_industrialization-startup"
+filename = "modern_industrialization-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e916c6cff9fe1df4d0a0737ab454b48f8b710fb793779d9635127e2697ae606f.toml"
+hash-format = "sha512"
+hash = "b0912083f0db8a15a640f122a324275932e7223542030f49fecc1091a002f40826786c6c8872442425cd5e0762db5ff564f0c4aaeb096f491f003a738e9fe450"

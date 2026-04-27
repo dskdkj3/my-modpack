@@ -1,0 +1,8 @@
+name = "create-common"
+filename = "create-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e61328d80232eb46638e55a3680960d758299b709e9aad9c0d9eb34890ffeea2.toml"
+hash-format = "sha512"
+hash = "d6dff5bf0df81dfda2e3cac9de134d17bda36860118af582ddab9500d69682cab2ee21e436708d3a79ab966b2ba3e767a2dfa612c67042b5cf34e812220f2fac"

@@ -1,0 +1,8 @@
+name = "ore_to_ingot_smelting"
+filename = "ore_to_ingot_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed68ab679cccfb25b4418e2a69d784cd8ba99af3f78f90d9da03daba659f6790.json"
+hash-format = "sha512"
+hash = "0f01389f4c7bcc05004a024947a9ef410861b3a4d989655c34d57dd5bb1bcc1f273bd31e0a6a17cdc691fa3645988d83f051fa6d61d064e22a7337b009b87d10"

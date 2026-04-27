@@ -1,0 +1,8 @@
+name = "iris-excluded"
+filename = "iris-excluded.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/2080e71ac624eb2896db580eb8bf5472c4121e8e89de45e3a1575ce11aac12ac.json"
+hash-format = "sha512"
+hash = "a18eb1b4aa4664969acdbc278fecdb547b072445cfccc7524455d40a20c46fee7f34d9dc58dedf8cb238cd4c120a56cb821b9117ad1a51a53a416b587d9fb348"

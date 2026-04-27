@@ -1,0 +1,8 @@
+name = "functionalstorage-client"
+filename = "functionalstorage-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a5047b9510f51f34e6f3f3ba58563c12f23dd5bcbf5e2fbf4d135ee5e2b2ff3.toml"
+hash-format = "sha512"
+hash = "794b67fbea14755efc26aad7c214ad8a4c513389a7ab7c9755fc6774ffada7cef9d3b936b6147edbdce807e70c342844d9a0d74345ab4c978f97fd9209a12386"

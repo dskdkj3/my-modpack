@@ -1,0 +1,8 @@
+name = "create_dragons_plus-common"
+filename = "create_dragons_plus-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9b706ddfae3fd01b14426055bedc502d3ec1632046add7b4623f0faccecf79d.toml"
+hash-format = "sha512"
+hash = "c0e20412863862f406b9c96b32bdc15f1ecb0c4f157e1220eaca68cd61cad8c6e800210bb69004d36bf08187aa42f13352f8dde099f9f8391ce2d9ff77768c7d"

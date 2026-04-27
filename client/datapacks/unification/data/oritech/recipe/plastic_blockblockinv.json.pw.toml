@@ -1,0 +1,8 @@
+name = "plastic_blockblockinv"
+filename = "plastic_blockblockinv.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/722fdcde65bd0610c0863c44a5267eca81db8eb48fb13624b501d4bba9cec1d9.json"
+hash-format = "sha512"
+hash = "8b971a6146169eeb478b10405e0a2ec74c78721648d0222757596fb7df77353956fd1e03a92165bf8b862a614f800b1065514676c2495ca14eb463d3918e119a"

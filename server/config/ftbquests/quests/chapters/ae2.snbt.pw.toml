@@ -1,0 +1,8 @@
+name = "ae2"
+filename = "ae2.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d39d79c98d0ed4f8d246f1831b128ae37d55461fd1bde112691f6b92424baaca.snbt"
+hash-format = "sha512"
+hash = "00d764715af60d86c71281498f560ec1f6e2c049d0f83c31d3b7fac10384987c2b204211a28bc51445c28f5c342062a6a98ee6a0b81db5fa96d19f0742fcdfc9"

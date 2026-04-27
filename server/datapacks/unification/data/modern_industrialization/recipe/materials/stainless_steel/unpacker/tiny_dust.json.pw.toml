@@ -1,0 +1,8 @@
+name = "tiny_dust"
+filename = "tiny_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7db081edc6a7bd63df20528d4e5491c7a98cb4060c18392a854342bcc6f1170.json"
+hash-format = "sha512"
+hash = "bf4b478daeacd21072dba97f0c71cdcf2d320b4191fdc61393895b8f60c8e3baa3aa8221c08fc7a03907b444dd7ea5867829e234b4da9eab9b65887b9cef826f"

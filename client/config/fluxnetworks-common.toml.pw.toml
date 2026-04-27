@@ -1,0 +1,8 @@
+name = "fluxnetworks-common"
+filename = "fluxnetworks-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3de8fd4d5e33205740be02509a2af5ab716344377a85416b39a2b8cffd8cad7d.toml"
+hash-format = "sha512"
+hash = "a84b77f7b9ce2c428ebb6e7ede70fa16769fdf89c2ed40aeec456a0eab552f8c137b3f5fe892cadee2c5caf861f18ddfcd210d47805fdf62eb612ffabf13eabc"

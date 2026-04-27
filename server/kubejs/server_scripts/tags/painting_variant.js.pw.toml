@@ -1,0 +1,8 @@
+name = "painting_variant"
+filename = "painting_variant.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/729566fdd5ab8033bc3cd61c377c6f7fd667926d80a2f0428e001cc8407265ca.js"
+hash-format = "sha512"
+hash = "5bbb843de04653169557be0789ec852ff2cab4c57d7db1f6bca8b32a316f35cb8716e3fe99ad28b6d45782471a46f8606fe8421ce9423a7fc3996be931f14831"

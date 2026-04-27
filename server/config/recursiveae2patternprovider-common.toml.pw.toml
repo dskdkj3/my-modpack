@@ -1,0 +1,8 @@
+name = "recursiveae2patternprovider-common"
+filename = "recursiveae2patternprovider-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e6a80654a7b4eebc461816bef05dae50006a1c51858e8698b7f66b2777932d2.toml"
+hash-format = "sha512"
+hash = "93d39b07e73410a760dc6e4af7dc8ffb9c77e9110170fb88e4ee895ac338bf102e587eec0177189b2a2a2543bce3228f3c5d96f3be15f858a7ec495ee219126e"

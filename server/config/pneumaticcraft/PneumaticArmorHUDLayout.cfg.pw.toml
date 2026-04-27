@@ -1,0 +1,8 @@
+name = "PneumaticArmorHUDLayout"
+filename = "PneumaticArmorHUDLayout.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc902b9f8494f8247383f8152720919d1cb2554224d595eff0c85d07eed566d0.cfg"
+hash-format = "sha512"
+hash = "d86c7c6dc90b0c783505d29cdf041dfbb9a182d64f7948e13bca7f20dded84f2c1e77c36105fc6ace4a43e61ac9fe7861de68cecc01e52aa3a0a5700ae92dcb6"

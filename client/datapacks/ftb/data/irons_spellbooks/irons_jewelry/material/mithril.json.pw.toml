@@ -1,0 +1,8 @@
+name = "mithril"
+filename = "mithril.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/596f13378d2cb54a744fd59c63d5b81f2c7b0eb5f24d3be624c68be7d9bbbaf4.json"
+hash-format = "sha512"
+hash = "faa95561c2b5090c8613ce845e60fbd7e26f84e3b3f04be8d4cee707ba32c494c5d9e205a2e257ee805ca78d23e471828c7eee0baae4b7730c1b1f8e7290643d"

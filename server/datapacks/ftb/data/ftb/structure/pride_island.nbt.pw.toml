@@ -1,0 +1,8 @@
+name = "pride_island.nbt"
+filename = "pride_island.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/01e6428c0c67e8ab2a93c2cf94943f9d5a25b3980a9a9749149a03d0ffc44045.nbt"
+hash-format = "sha512"
+hash = "cbf9ff3021663e62cc9e29e6744f9d78f018e29c49f2f0d88d66f67832e2f3061beaf1b546a16f5e0b66d533d52589ac80b50addbe666b09c8889dfb6ea0776e"

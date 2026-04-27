@@ -1,0 +1,8 @@
+name = "enchanted-common"
+filename = "enchanted-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d54c883c8b1fc08fdfd5b4144f25eaf661486011e62d6d658674e3619516c9f0.toml"
+hash-format = "sha512"
+hash = "c3c3df50d168ab0be005db115eca597313e0558d5050d92b92f76165a0b245faadbb16ee1009fc333034507e561c01fd457ff1271a5bf087d5e4b2312ebf9abc"

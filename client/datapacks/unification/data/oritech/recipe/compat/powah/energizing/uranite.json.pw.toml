@@ -1,0 +1,8 @@
+name = "uranite"
+filename = "uranite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/489509dbcdbf2b5865353d5ce57a3e6f3541aec29895eb97406b86d2f81f3bfb.json"
+hash-format = "sha512"
+hash = "9b151ea41550fe2a32f21d36dfd8b8cef4b6aaae1e6c2a5166e8af4b9fd27c196eadd9da126f9254ec61d098968985495d3abc5eabea8d59d11a8c09dc2e86e1"

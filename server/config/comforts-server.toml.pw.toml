@@ -1,0 +1,8 @@
+name = "comforts-server"
+filename = "comforts-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cb7a8d12f2abeeed66f4f23bb75496f84add9bee2e1ce8f561970ec900c1b44.toml"
+hash-format = "sha512"
+hash = "737fb627a797dd249256a354bed7fdeec6965c89588bfeb97ab412a6de3e6e0e7309de1b45e5bbf7f098c43835c3ac206e9345a2bd37b3b182c36b64e078fb65"

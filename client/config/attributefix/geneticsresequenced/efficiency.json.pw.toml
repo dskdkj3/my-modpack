@@ -1,0 +1,8 @@
+name = "efficiency"
+filename = "efficiency.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84c60e9e64317cb7965055342cf3f6bf4ef89b6644fb453490e3aebdece7fada.json"
+hash-format = "sha512"
+hash = "b45fda8ce306db2cd46762b8c34237866427a3d61c85f4f2eb4472a6025f8f2bb889efd02af40e9f6daaee8359416537192cfb9315171454c5d966fa5ed27612"

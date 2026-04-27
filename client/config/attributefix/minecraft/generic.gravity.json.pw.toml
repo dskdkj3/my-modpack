@@ -1,0 +1,8 @@
+name = "generic.gravity"
+filename = "generic.gravity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/898ad740f3db4507f97fd7e284ad6ab8a22053967563921064eea0cfa48e055b.json"
+hash-format = "sha512"
+hash = "91a2c7b615ee07dea48dc235da303ee88d38d2152b58d04f994dab40cc6c70baa4aa61c8f839708eaa2fc5f20e93b0800197576aa82ed4f48806ddcd7f16e55d"

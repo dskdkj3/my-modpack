@@ -1,0 +1,8 @@
+name = "de_de"
+filename = "de_de.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46d21d760786d7cdaf16be73bd16b102cd0787d5e1a6b1c560a53570db397b2d.json"
+hash-format = "sha512"
+hash = "0693a0bc524285745b2fd082733b8848d28607eb518699b0985e25ef5166a3f45611bd24f27c3b2cc727ad3d5172e802af45df6cb6ccc391f5ee0f10c772bbe3"

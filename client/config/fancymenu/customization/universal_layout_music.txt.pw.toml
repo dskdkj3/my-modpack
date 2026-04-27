@@ -1,0 +1,8 @@
+name = "universal_layout_music"
+filename = "universal_layout_music.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/5672a944d9f35730df437abd2eea5e7e205f84538438899018f22f0d1c3bbea6.txt"
+hash-format = "sha512"
+hash = "82b7a5f4971294b922ad4a9affa74bbf893a454f185a5277e6c3bcdf039e4a2966c91952fde01c60d7ebe8b88cab6ad00668e17bd541c4714a51d76deb01cde9"

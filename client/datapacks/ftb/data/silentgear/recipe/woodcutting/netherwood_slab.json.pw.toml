@@ -1,0 +1,8 @@
+name = "netherwood_slab"
+filename = "netherwood_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2082280284f65392a9cabbff1291d13bfd12a001843df44499c368b99780927.json"
+hash-format = "sha512"
+hash = "c753f3ac2a5417d05f8b84d633d7a71858bb2121c9a31bb34cb2d7d86b32149c069ce8a5d865bc6028b63a07438aa4235cbcd64187f99fa7683a37caa4a30a26"

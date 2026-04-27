@@ -1,0 +1,8 @@
+name = "mystic_grove.nbt"
+filename = "mystic_grove.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d289b58961b2ec6390a328e254ca77721b7c2e9c1c7944cd5ca3b1d8569506bc.nbt"
+hash-format = "sha512"
+hash = "960c278ab11c2dea2736f77c4e13546d516d42ffd22bad65d62bbb4d81ba9dc29999f23e2df88cff8a28c8a41b1238ab026a20b8b1b18e77aa866df43e051371"

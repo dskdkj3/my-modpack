@@ -1,0 +1,8 @@
+name = "cable_synthetic_rubber"
+filename = "cable_synthetic_rubber.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5f888165f4ffd9b1340509f0da2cf8a1708a3571d1976dc7a60600475804bfd2.json"
+hash-format = "sha512"
+hash = "8c07b9da33a5416e980e2235ebee30f006229e273698ba675976fe1124fdcb412eba241f4d508822f762cf9bb3977c7af5d01b594d901f1e352ad5c3d060fe87"

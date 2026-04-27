@@ -1,0 +1,8 @@
+name = "glyph_firework"
+filename = "glyph_firework"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/2619b6de911a9974d2c8c92f9f1d1f9eb7672a7da8845ef0ca2d8a6ce027611d"
+hash-format = "sha512"
+hash = "aa55442a8f5c7e05c6df259ecdd10a52fedbb6eb7e0cc140051349a4c651ce3500ac1dc7699b530a0cff81d13e2bd17cefa87e32d4d0076c61ad16575eed2788"

@@ -1,0 +1,8 @@
+name = "chromium_hydrochloric_solution"
+filename = "chromium_hydrochloric_solution.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c423ccae48e1b4e0f11ca2c181a08d576bd2597f4147f9a6de4aa87a449e90f.json"
+hash-format = "sha512"
+hash = "01d4e654b7bb069ca8065a71c1a551d07120cdb56f2a849e77153412224d6fee9a79b24ea5d34cd134e0e754bd4ab88ce83eb2391afd6290a1d1b3656d51328c"

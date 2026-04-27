@@ -1,0 +1,8 @@
+name = "ae2_sand_brass"
+filename = "ae2_sand_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b50f2880d106e9a26217b97c3e199f2fbd20b1c30dc6800d32d4de076965c00.json"
+hash-format = "sha512"
+hash = "dcb008d77dfa34a29c7cdde067d09e7d44b6876759071540f49a9671f885c4afa7b3fe4d52d44299578d223bba9cb32b33b5ff656f08ce74c02e86f9c4471f69"

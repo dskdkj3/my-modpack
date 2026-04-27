@@ -1,0 +1,8 @@
+name = "glyph_light"
+filename = "glyph_light"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c30cc1d770e9950d3acca3ea8c0d00cd31584a3893f0d1e84fec7ac5197f166b"
+hash-format = "sha512"
+hash = "5469db28280ada6ec4bf9bf048e3382ab618b3e9c9fc2dcbdc5720de8e1731ea661353490d205ff91c3d906dfa4e7da78b6b0c227f489b34fa87f1a6ecd4e04c"

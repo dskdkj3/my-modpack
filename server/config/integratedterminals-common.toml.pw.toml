@@ -1,0 +1,8 @@
+name = "integratedterminals-common"
+filename = "integratedterminals-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85fa17c41a89405effd8dae158998a3d1077561bc77d507807c4c90031de1793.toml"
+hash-format = "sha512"
+hash = "b58b8a3abee478a09be636a43c0fa560525da74e040db6a37d893983929d7fc44a25b9d33f100c56f266310c859ce2d3dd8d77bb543c2dee49447e3e96366fd2"

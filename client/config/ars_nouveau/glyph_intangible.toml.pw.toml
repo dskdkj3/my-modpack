@@ -1,0 +1,8 @@
+name = "glyph_intangible"
+filename = "glyph_intangible.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38944d9d419841f50e7b3ec41a1f4722f42294b11d074025f56f413725a03e9e.toml"
+hash-format = "sha512"
+hash = "3ccac20cb0bb395e69d2a5a36dc7cf96b43345ae60004f8b61f499bd05618c2bddc4df858ef1027e1193fb058d6832bc87755b40a009b57739d7610c3f963c1c"

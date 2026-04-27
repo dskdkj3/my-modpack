@@ -1,0 +1,8 @@
+name = "duplicates"
+filename = "duplicates.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31fea687bee90f0543dbde62e3b0b1dc09ed5c9defa6cf7791e2463ccc4f2fb8.json"
+hash-format = "sha512"
+hash = "34109de72e6c5c8b1effd6f8bfdf021f78acbb9f491e1dde2e02d94f6de1581b8aca4367c39ef49e20d592e1c42170d90adbfab3af0bdaceb03fd5567f6cfe3b"

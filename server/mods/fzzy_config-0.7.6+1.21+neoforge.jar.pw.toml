@@ -1,0 +1,8 @@
+name = "fzzy_config-0.7.6+1.21+neoforge"
+filename = "fzzy_config-0.7.6+1.21+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2b1.21%2bneoforge.jar"
+hash-format = "sha512"
+hash = "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d"

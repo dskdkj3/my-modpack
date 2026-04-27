@@ -1,0 +1,8 @@
+name = "mv_steam_turbine"
+filename = "mv_steam_turbine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/5240a6b6f63d3d11c5bd9bf8b795e10290c27a97452ac7615a742410ee2bba9a.json"
+hash-format = "sha512"
+hash = "d9ad40285def7df53730d8538f22c0039881bbfd19466f93cbb70fd02847cb65f56a6a4c717c20e52e3c83075b86f77000068947c3b31d479433beac50ffe05e"

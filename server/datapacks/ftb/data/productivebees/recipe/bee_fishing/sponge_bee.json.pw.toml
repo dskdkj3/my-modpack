@@ -1,0 +1,8 @@
+name = "sponge_bee"
+filename = "sponge_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f22a8a803c390384060f9d2145670e49f0bc566c815a732d1dfd57d3bf8c04ed.json"
+hash-format = "sha512"
+hash = "2eb60ef45398807b5bd0ba5078c663718360287f21bb3ad4ac53c873bc0dbdd2f846e3f5e2176e5ad9aec57d9be8476220be05aa2a3989d5bebf35600420d7f4"

@@ -1,0 +1,8 @@
+name = "glyph_nullify_defense"
+filename = "glyph_nullify_defense.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d6f165e56036c7fbea7f7f6de09e63d25bb3c119201a137e580d12199787cd2.toml"
+hash-format = "sha512"
+hash = "a5ec59aa22a2de866831711963c362e911720b781684fda3949fafd1b378522da2572c04f94146430f26b5d040481db5875dd85c49c9c2c5ad07bb81a2de4cc7"

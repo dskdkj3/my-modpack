@@ -1,0 +1,8 @@
+name = "ethanol_to_ethylene"
+filename = "ethanol_to_ethylene.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e13feba2af8883b375884e4e43bddd96f454da98c1725aa94cf41c7317a230ec.json"
+hash-format = "sha512"
+hash = "7787dd9b03bc6f9e353cb4808d473c11e96eebf563b239f4271f5c55a7a26f9b242c334f6e70a196acabdd1134fdfeb10d02d52083c299c86e7d121201c39751"

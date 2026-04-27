@@ -1,0 +1,8 @@
+name = "omega_dragon_egg.png"
+filename = "omega_dragon_egg.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3d54db6f299c1e4af90068970ac9fe1792fc1c635961f45b5e61b5789b647a54.png"
+hash-format = "sha512"
+hash = "37ca7ce520ec3296246d461535ff89825972b2cc2bf005f0e1077a86d898cc326007a6b0a51e02e44aa4fbb3ad9d49b905be4d0be0490dd45fadfdba32ea1de3"

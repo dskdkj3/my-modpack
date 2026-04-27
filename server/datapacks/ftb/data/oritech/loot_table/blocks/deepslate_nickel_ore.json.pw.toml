@@ -1,0 +1,8 @@
+name = "deepslate_nickel_ore"
+filename = "deepslate_nickel_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/07391c30d699b4561df9483dde5eb99aea282ccfb4646d3bc0795c7bb357d885.json"
+hash-format = "sha512"
+hash = "6c04ed5b378180486ab10616deeab899e039808040ef63f1d205f7e83135cbb59834f6312955a74259add1382f0f2e2f37b5cc27ab3dc920843dadaeece62015"

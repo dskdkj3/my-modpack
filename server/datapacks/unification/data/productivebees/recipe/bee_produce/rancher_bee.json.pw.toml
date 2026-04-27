@@ -1,0 +1,8 @@
+name = "rancher_bee"
+filename = "rancher_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53afe0951559281bf0f0dd1a946b719466751bac612490767036df8375115d2b.json"
+hash-format = "sha512"
+hash = "1078f259b0c91ffa70470d8a4f078a7c97e4f0f466e2873a2a0cbe43480d12d0a2bed95bdf0d583b0e8f349dcdcd1b59c454a8e305203eac54cf0c24c38ddd08"

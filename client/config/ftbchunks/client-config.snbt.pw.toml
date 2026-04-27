@@ -1,0 +1,8 @@
+name = "client-config"
+filename = "client-config.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed7f7291aeceb81dc479403ff76420f39b81d6da773daa0cdb5ce5c396c9034f.snbt"
+hash-format = "sha512"
+hash = "129e6df3285a7e980d4680830c9f3770db07718d953c3d7ffb7b54ad01722e917947e6dfcbf090a96449806efe81a63772381fec1a52af80de1b43252688a5ce"

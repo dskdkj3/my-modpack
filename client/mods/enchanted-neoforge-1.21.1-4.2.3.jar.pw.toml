@@ -1,0 +1,8 @@
+name = "enchanted-neoforge-1.21.1-4.2.3"
+filename = "enchanted-neoforge-1.21.1-4.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6948/369/enchanted-neoforge-1.21.1-4.2.3.jar"
+hash-format = "sha512"
+hash = "84b966b7312db57538f3408372711f80546595f06dbb202fd9587f5477b154a82f19f44aa27fbd3eecff7b11ce4f8a2c952c528d23ca972034879601f1f33184"

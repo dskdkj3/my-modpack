@@ -1,0 +1,8 @@
+name = "hoglin_modifier"
+filename = "hoglin_modifier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a76c404f6b467dc1b8dd8dbf49a1cc362b6eab6ee183da31b2c26b0810eaed00.json"
+hash-format = "sha512"
+hash = "0b3a901a1e6f32e9a7efb3cfdbbffa77762e4923d70a4b3712db65783fe3d16bcd9ca0211e49d92fd93c1747ff7dfeb7a86d948e5147f28cd05e01bd3bcc58bd"

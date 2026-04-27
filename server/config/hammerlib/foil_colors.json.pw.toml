@@ -1,0 +1,8 @@
+name = "foil_colors"
+filename = "foil_colors.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/77f7e0078355cba66c7be3966aae0cf763694b3e3afc8c898cae5ca2915733ee.json"
+hash-format = "sha512"
+hash = "6d2934a2f9337f905d24f1332b10843c79097eb76ae4423c5ba246784e09ed909a99480129e3bfbad11db2fb8cd58c9a740c59754807bb622853e77a9a5ab37a"

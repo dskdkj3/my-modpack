@@ -1,0 +1,8 @@
+name = "skies2_singleplayer.png"
+filename = "skies2_singleplayer.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb71d71d40dc773acc40437c147fb4422bf7dcc73c2fef9cba7f920047222cc3.png"
+hash-format = "sha512"
+hash = "15f9a1b91339910de7e2a4f0e6da3aef32401da036d3d730578ecdf8d422c24c2d20bf90092553d8b01a69f07e75d0070ee291624e96059fc0bb4e9eed7e93cf"

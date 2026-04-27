@@ -1,0 +1,8 @@
+name = "realized_transcendence.png"
+filename = "realized_transcendence.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4c1ca86cf8e54d8088a4396001b34e027bf1f3eaf8c1351d4632e42df14a082.png"
+hash-format = "sha512"
+hash = "11fd361d2d0eae2591de6b6e3bb6e42db513558edfcc91a1656c15b93f43cc04e17bc675a3c3ac4092986119233fe9331df5ae9b443d6a3b5daaeb3eb5cde361"

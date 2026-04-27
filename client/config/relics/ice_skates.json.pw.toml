@@ -1,0 +1,8 @@
+name = "ice_skates"
+filename = "ice_skates.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a21c500b4e19eda95964747947329ae2b5ae367a5f1ffec8125ac0172cd3ce5f.json"
+hash-format = "sha512"
+hash = "1b6ccefcc8c6cffaa0a845d989e749362eddbfe643e966d3edf82681b3bad5025baced297fa19972955d4c92a2b7cf3efb9a747e8d8ae45c645c207fbc60d569"

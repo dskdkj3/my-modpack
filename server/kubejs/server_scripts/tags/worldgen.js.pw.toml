@@ -1,0 +1,8 @@
+name = "worldgen"
+filename = "worldgen.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cfb3e8ba06110d6d5dba22ff40bb66479df3a9d5d2d64293455a7a29aaca7917.js"
+hash-format = "sha512"
+hash = "8062a8964e609cc200a02bce54c6009a4567c8b8b46dc2ba8755ac25fa66721cff9e5b37b9e504e3c97eca88bb54ef679750bf87938e84fe1620b5c850b1f1e2"

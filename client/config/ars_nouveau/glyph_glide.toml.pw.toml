@@ -1,0 +1,8 @@
+name = "glyph_glide"
+filename = "glyph_glide.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7aaf3b5699fc0b80c411008e240bbb0cc0c4d0d7288edd0bf0843b56dc5cb88c.toml"
+hash-format = "sha512"
+hash = "f6284fc498db9250832866a83468048117fab3bf392f7a8f83bcff1d4072f7d1e88367ee82b5526d90c582a07426d71de9153cdcfa34abfd3d4c824ff37f37d2"

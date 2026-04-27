@@ -1,0 +1,8 @@
+name = "inferium_sickle"
+filename = "inferium_sickle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86db80b23887a50f81cb20445b7d76cfdbd63cdf4c54122792cdae34c0aef4cc.json"
+hash-format = "sha512"
+hash = "9d0ffbcf194af16ffc89f3e56611e47703b0c2204cf431eaf55f05ea2b053a74de7431ca787dd0ed6f0af9a44d13e24e41e0e149d9384fd7d0d8a758f16263d7"

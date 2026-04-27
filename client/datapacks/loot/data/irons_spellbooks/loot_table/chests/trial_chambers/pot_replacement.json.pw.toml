@@ -1,0 +1,8 @@
+name = "pot_replacement"
+filename = "pot_replacement.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e66462513f78cbf41291b3888aa34525354d0f58d7922525c224667ed5d720ae.json"
+hash-format = "sha512"
+hash = "32f698ff6f6f3027ef85570eb7554ea686d68438c4a5705325a2adabfe4490dc6accac4c7a2d84783431dfca32b4f3556ade7d9e31c04b791b7bc674bcda6c5b"

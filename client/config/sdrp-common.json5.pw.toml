@@ -1,0 +1,8 @@
+name = "sdrp-common"
+filename = "sdrp-common.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40492c1029df1379c2ab4d99957efe8317ac1ba8a903777ae9807396b9703900.json5"
+hash-format = "sha512"
+hash = "b0d5d6c9ae2187bba174b19e500841c4633d03fb5cbe35a38597c0ea59d241d32079f9323036b270f9143b9f9ff034b6714aedadbd9781b05787ecb7cacb6292"

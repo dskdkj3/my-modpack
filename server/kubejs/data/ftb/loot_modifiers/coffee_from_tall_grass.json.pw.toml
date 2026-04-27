@@ -1,0 +1,8 @@
+name = "coffee_from_tall_grass"
+filename = "coffee_from_tall_grass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68c29aaed1bf28bcd64395802e4b713f81ad7e86f8625ca5a72fdea6d6b4165f.json"
+hash-format = "sha512"
+hash = "234c56366fe80bceabfd9e6f92015f538522e617a152efaf5db00934bdd7a1af46f0fafaa1678d7fa94d529b5896f0bedccc85f7e2ab17c7d28213c6a8f0fc60"

@@ -1,0 +1,8 @@
+name = "sand_andesite"
+filename = "sand_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8deb6f03bf7ff53397813a1beb2754058e1726b06ab67a271fb3f5d37605ceb2.json"
+hash-format = "sha512"
+hash = "3872269e6fb32b8d6f067349f2d350379fc7ec6c9233580be1bea9dcfa2c960d3607274fdad6e01d797ebb574994d449c9ce850d8eccf8641a690f5974a846b9"

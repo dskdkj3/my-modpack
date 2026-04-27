@@ -1,0 +1,8 @@
+name = "glyph_cavitate"
+filename = "glyph_cavitate.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/77adeaba5f97064b29a07205516897a7829d395706fdf7413dc8d20294a5913d.toml"
+hash-format = "sha512"
+hash = "24da87a090340ba8214f28318e4b51432f6c589a2b817871a527ec7c13c729bf3817d77bffb72a2f502f0179f47691bcdb2977761fc720b7a00c4b97e05abfdd"

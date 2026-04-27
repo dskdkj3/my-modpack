@@ -1,0 +1,8 @@
+name = "netherwood_door"
+filename = "netherwood_door.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d6201307a73aeadb508c7176db02fded8c5ffe8daff3c197a5093c4dca29482.json"
+hash-format = "sha512"
+hash = "833dfd4a6b0e44308dd036ddfdc0f809140776b4e9935425b6df1eee97d3842c134ae5b9df6256f5998e56cd879d8d11d1371770469c39d6772e0ac51102ce56"

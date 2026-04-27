@@ -1,0 +1,8 @@
+name = "old_cask"
+filename = "old_cask.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c67bb9f65a79b311ba7f6a48607fdd615dcd81fde7062de6ecde217f3a9fc5a.json"
+hash-format = "sha512"
+hash = "5512e58faa08fcb7c54e39df024ed91a35173c4a3c25768bb0b253021f8da105d8cba0f6914c7362dff51a45a9f7ad1b7458d2956d017ad84b246d55ebcf4e8e"

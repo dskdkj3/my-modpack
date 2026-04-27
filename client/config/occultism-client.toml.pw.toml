@@ -1,0 +1,8 @@
+name = "occultism-client"
+filename = "occultism-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0101ab46bc17e6c7a109466eff254dded5682a02aa2d2e50a222071ed97f333.toml"
+hash-format = "sha512"
+hash = "3dee7214aae6f9dec83e702d3190ca8c679edda93d520043bc85a251b7d489000d7328f206f8bae6ef3f67b1e7fef8b46bc3bd227812eb0a515f98a6d434b3a8"

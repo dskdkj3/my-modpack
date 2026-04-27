@@ -1,0 +1,8 @@
+name = "structurify"
+filename = "structurify.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0aab278a092dac2d4772dd6c443a483ec4fe29c497067df3e645c2b5364f8d18.json"
+hash-format = "sha512"
+hash = "bb8bff7eff69f4d29cbbbe0890204aff8ab493b1a04e3bfdf37313b276ddf0d8745a833706635f72a5d05bc66b98782b719ca27b2bd05c5c5007c65c0ec88d52"

@@ -1,0 +1,8 @@
+name = "inferium_pickaxe"
+filename = "inferium_pickaxe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e10631a19ce0953b1d391c52727c6c18ab221e4cfb08e87a69b25262adf86d9.json"
+hash-format = "sha512"
+hash = "69525d45741219d71a3774d29feda2b314577d0c3cf9acbf6f741342ad06a24b7d2d5b4d8060744dc90c7608bef054eca812487c7f147a29842b3ea1d1049052"

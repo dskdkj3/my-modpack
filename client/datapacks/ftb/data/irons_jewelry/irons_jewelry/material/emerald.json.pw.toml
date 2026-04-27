@@ -1,0 +1,8 @@
+name = "emerald"
+filename = "emerald.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec7f09c81c5d75e4eaf0700a714b55be4444eb9c8c16ba48c869ca402325b8e7.json"
+hash-format = "sha512"
+hash = "d942ee88de759995caaff2f7a4dd234b75de06d484c1f9dcc0751401829e0bd743e80f02e7c14eb41b72be7a4069f9443c3094b43596e9496f1db5ac6736a9c1"

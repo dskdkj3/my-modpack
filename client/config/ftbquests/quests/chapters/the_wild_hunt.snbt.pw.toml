@@ -1,0 +1,8 @@
+name = "the_wild_hunt"
+filename = "the_wild_hunt.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6cd5f3f3cb452ed1607e7e01d0b0da3dd2bf2cf2c4a3ac381c07fe86f3561416.snbt"
+hash-format = "sha512"
+hash = "a825bcc41996fc5f282c73013af354a68f9ae1107be7c1b3a568f6f381ee695c79cf3ecd704bdd1029ab2bb4cf1e6c3fdd9af7dd44836b5e911c9a2edadb63c4"

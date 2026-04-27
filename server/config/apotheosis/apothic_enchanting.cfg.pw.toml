@@ -1,0 +1,8 @@
+name = "apothic_enchanting"
+filename = "apothic_enchanting.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7a3a083e893aec7df3b131e2d01678746fad119362b00d4e8da4788c81b69d2.cfg"
+hash-format = "sha512"
+hash = "9dd521f5998208bfeb34c2c1abf842d30c601c4e6da4a8b0bd99f0b0f4d3a25093616cc31bea544c08dde906f1a2fdc4a638e507c0597b5fbee97d1d3a778593"

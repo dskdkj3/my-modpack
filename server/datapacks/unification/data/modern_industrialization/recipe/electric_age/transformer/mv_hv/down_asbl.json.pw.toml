@@ -1,0 +1,8 @@
+name = "down_asbl"
+filename = "down_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1d15e67604c7b3f38808cfb37fae6f5299bbe2fe4b73d264cfa378083e33ddfe.json"
+hash-format = "sha512"
+hash = "412d38ab53f357260f339d636ec2242bc2fbfcf5116da21149af07affefe7b6180d2e6b573b998d3ae1195697a149c768a0128824c4c4df079b121d039e0061b"

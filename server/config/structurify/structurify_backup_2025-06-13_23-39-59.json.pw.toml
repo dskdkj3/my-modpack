@@ -1,0 +1,8 @@
+name = "structurify_backup_2025-06-13_23-39-59"
+filename = "structurify_backup_2025-06-13_23-39-59.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8b81de22cda14c70c35265b6abbae02ceb042494ad5356189d9feae7e95550a3.json"
+hash-format = "sha512"
+hash = "239b43990438eee8aba65e39098f4f65957fd42933f2410f2026179dd171a93402ac6d389cee059b90814370bbbb1670150d37c80722dfec42b88008af161f32"

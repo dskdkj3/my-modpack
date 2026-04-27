@@ -1,0 +1,8 @@
+name = "infinitely_compressed_circuit_board.png.mcmeta"
+filename = "infinitely_compressed_circuit_board.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0146634a175d9445a2b8f78908ea1524f4b0f45650203b38500f79055a74cc1.mcmeta"
+hash-format = "sha512"
+hash = "c5154157d102d14788d99da6869c4cfcc090c9ac04d84558dca0c0e0699ae56309719a1ec9d94011e25b0a39dff82e509026e71f1df92def1c67d4a8b99eaefa"

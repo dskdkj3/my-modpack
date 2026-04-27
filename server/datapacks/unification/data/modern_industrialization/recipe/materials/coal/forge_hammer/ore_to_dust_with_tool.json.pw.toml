@@ -1,0 +1,8 @@
+name = "ore_to_dust_with_tool"
+filename = "ore_to_dust_with_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c40120ec3b356dd0672e9b3dd9677b0086b15510973515557bc690898373af38.json"
+hash-format = "sha512"
+hash = "e713d48aa40f1fb3c0146e47f05c9b845cfccc6dd763edeb9aca84c4b0d529a1f4beccc62e4dd39660e0e0fc172bfdde63af6e17f2d7203f22eec727f73911ef"

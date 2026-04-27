@@ -1,0 +1,8 @@
+name = "ranks"
+filename = "ranks.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd456ce90ee86f48f2553ed5da8d6156021fa24deeff682070f28b48b0a66b94.snbt"
+hash-format = "sha512"
+hash = "3e42294ebd2d32d4ea676b0401c1f673e5f32cba618f3d667d1ae387a99dca1b3d0b4eeabcf9be48e770539737cdd73e9ad31b93e56d27dc4136b495a59365e1"

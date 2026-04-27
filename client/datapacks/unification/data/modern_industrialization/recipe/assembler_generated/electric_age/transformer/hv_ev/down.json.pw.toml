@@ -1,0 +1,8 @@
+name = "down"
+filename = "down.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a2450af0bc881f6d13ac1d8d14befaeeb554f751574cbc5fcc1a502a18a513e.json"
+hash-format = "sha512"
+hash = "005aee77e8ee69f824ce15d3e18d87b6db4baf7a9a5220b295e90e7febad6fdaa01e642e68ec9d5ba1b80e6b471e1e80e3d9f1ab5ad8ac3b31c2876c7f61eb18"

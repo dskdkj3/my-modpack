@@ -1,0 +1,8 @@
+name = "cobblegengalore-common"
+filename = "cobblegengalore-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f698c0b8beb3fc4a6a014de277bf2a9836c6921098e511e9bfabc51a908b4cab.toml"
+hash-format = "sha512"
+hash = "23f9979f8e09f6d3bb92836f41568978b3fd1134b0f31ed457412b15caa0617656c5ce5ce304707964775a32f1ac3765204140a5f31eddf659e3de94c2de5091"

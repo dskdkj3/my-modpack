@@ -1,0 +1,8 @@
+name = "enderios"
+filename = "enderios.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/caf11341a2bb94f6d732f158c76b7da1851354a9ff6541938cbd8c4bccb1e0c0.json"
+hash-format = "sha512"
+hash = "40a8bfce884224398e4851d2048dd0c6c2cb569357d0fe08c3530be2189f25926f74581bec23fe9e21a669b9bc485025587dc3b961a52bd4fa7fcd8b0d0b1f5d"

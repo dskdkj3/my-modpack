@@ -1,0 +1,8 @@
+name = "moonstone"
+filename = "moonstone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb7d80cffd64c1e77bd5e33d9426fd32ececc6819e2d39ee027d8db44eb1ec6d.json"
+hash-format = "sha512"
+hash = "19880fea2e2cc4c6e3d24d2a3c0c6ff38f10f2ba75f579598c77a6cabb57db64fada5644ebc2b93ac22ff65acb4b5eea69b8dc7f127a5bc2f560bd50cd443ad6"

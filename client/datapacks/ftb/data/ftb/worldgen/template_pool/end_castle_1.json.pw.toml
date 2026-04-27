@@ -1,0 +1,8 @@
+name = "end_castle_1"
+filename = "end_castle_1.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec8223676b84c5b7a4dd25c612458c1f18e83626dafa48a29820bd4372b36485.json"
+hash-format = "sha512"
+hash = "3f365a18a7e4fc04d567164a2abf48c76d133eefd83d638de52dfeba0e654ae6245668ec85cc872b91fb662f70759317b5a38b4f7d35d4e3607299007706b898"

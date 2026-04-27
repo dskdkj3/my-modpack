@@ -1,0 +1,8 @@
+name = "title_screen_buttons"
+filename = "title_screen_buttons.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52c21128fa8425d8f04d2a2c4e93e9ff06ca674a800fcd84631d291b56d7c9e2.txt"
+hash-format = "sha512"
+hash = "c9d7e171b1dbedb99d908b81a9907424714cebb2fb426adb2cb24e345ecdf72b45fb33e0be877423f4af347edb6abf00631567140ff6a393e0d6c201a96051d1"

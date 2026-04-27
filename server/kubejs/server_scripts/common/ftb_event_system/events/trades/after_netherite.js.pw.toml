@@ -1,0 +1,8 @@
+name = "after_netherite"
+filename = "after_netherite.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08f70a04f5ba53fe3a5fbd73db819450c38f19e36b2602d4ea17fe38cc81e6b5.js"
+hash-format = "sha512"
+hash = "e13e72b63c2c1b337a0b8a976a003fe17dec87181b8216161c6f11085fba730855fe351dc968b57dae57f55ac5ee1c65d9f054131c9bc3370ef45326e16b650b"

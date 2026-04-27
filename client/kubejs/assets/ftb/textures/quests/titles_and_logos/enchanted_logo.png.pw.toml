@@ -1,0 +1,8 @@
+name = "enchanted_logo.png"
+filename = "enchanted_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b0e3957b9e1a57c5a7663cd064aa35a1e9ff219d8b0f4f8bd89927d83af09e6.png"
+hash-format = "sha512"
+hash = "18a6219e7b4f7850b781114b67d8828ed2f4f0783f0162ba38affda0d2a36f1280f4bc78bac078cef4ae58e9fe71d6acbc9aa2a2aa12fcf98f9b4f2ff9fcbc36"

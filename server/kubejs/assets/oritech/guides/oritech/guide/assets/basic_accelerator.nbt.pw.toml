@@ -1,0 +1,8 @@
+name = "basic_accelerator.nbt"
+filename = "basic_accelerator.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1b1e851b48a1cae69ef07ad5d4a17441ffa669b25e90d9c04920b3cf9582a83.nbt"
+hash-format = "sha512"
+hash = "18dac253a4446038a501f500a0b6a80fa56ca11e986a6456083b21424f1871357ab7f5021006f56244fd6ad5da556dded766a8864c4638b18ca010d29d1d76ed"

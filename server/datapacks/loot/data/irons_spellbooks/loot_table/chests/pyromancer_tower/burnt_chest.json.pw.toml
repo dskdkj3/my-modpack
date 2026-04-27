@@ -1,0 +1,8 @@
+name = "burnt_chest"
+filename = "burnt_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d16f6e2364961f4820f07e34e03d477935a5814a709228c5c0e29342348a713.json"
+hash-format = "sha512"
+hash = "d20d8742d8a4eff94484d5cdc149a3b65d6d12b6d828ae49b36c32f97564fbd182960ab9cccade8cda3646984800087479f578425bd4ba9308ba7c61d03229b7"

@@ -1,0 +1,8 @@
+name = "diamond_mesh"
+filename = "diamond_mesh.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1bd69ebe849c3acf6612ab2b85f5280e81a087475f4616cfce6918514d5fbcb.json"
+hash-format = "sha512"
+hash = "6128d2c89644868c11a0d8b12de12fa8e0367788c07687486d9252542ab17bb04d4c5c716e0500fe3b494a0be5950c6ad69a3b317e108caeff00d131a4a2032a"

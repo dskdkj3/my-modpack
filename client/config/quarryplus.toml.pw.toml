@@ -1,0 +1,8 @@
+name = "quarryplus"
+filename = "quarryplus.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/910d4b801faae19343168fd011793e234f17562fa43ca6bd4ac6f5f0169b3a05.toml"
+hash-format = "sha512"
+hash = "a6f01b0dac1698ff157b7929f2f29abe3e18452b3e56d45b2803588a3fb24ef8f7522d929969cd853266b349beacd1b205007c00b9e5c6f822160537622555fd"

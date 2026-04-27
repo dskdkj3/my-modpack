@@ -1,0 +1,8 @@
+name = "ftbxmodcompat"
+filename = "ftbxmodcompat.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/043a0afaba08c7228a68b4a591024eedf7ea607b4b52dd826b73fa456d5b0be5.snbt"
+hash-format = "sha512"
+hash = "f4d72d9db720c40a4e461e0e19ef8adc14351f1b76ac25aca956f2d99dbc717f2dfc115a1698c3ae132c04e4226ae14a63095e56cc7369b0a04c27f1ba798861"

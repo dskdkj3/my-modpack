@@ -1,0 +1,8 @@
+name = "cobblestone"
+filename = "cobblestone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a238c0743f0365cd44b256c3b63190f8f613ed3f316feb52d58be3535e1a2dc.json"
+hash-format = "sha512"
+hash = "ed002ff096f048c3a4e4b569bed42ade16418506967c29520c46ef78712e5f0e9c29e74e8385f083b4397fccd0b1518b09ec83a3791035dac17aed967b5df104"

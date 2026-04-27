@@ -1,0 +1,8 @@
+name = "end_castle_spine.nbt"
+filename = "end_castle_spine.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2d992af957321b955055b03567e3b2430f1c661335e8549fce0d579d2ecfa41.nbt"
+hash-format = "sha512"
+hash = "30483ce886513d5b44badda628710730c5e584d24e8dfe4a66ea9f27b566095482d49d4ac2cd742d5cad4de59efe8032a0c8d770303a01992089005d3d22d503"

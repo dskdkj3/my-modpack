@@ -1,0 +1,8 @@
+name = "productivebees-server"
+filename = "productivebees-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a2b46de7af524be10c8953af2db9dcc1cccd766cc74dff755061b11674a9f7f4.toml"
+hash-format = "sha512"
+hash = "72955cfd6ec262538572c22a2a645aa5aba9a0ac24b8d840b999d682fc3896d96b956f2ae1f020a3718d3eddfd09c8383943026e7fcc493701566b80dd573549"

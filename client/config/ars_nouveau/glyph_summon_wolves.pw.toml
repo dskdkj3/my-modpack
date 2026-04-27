@@ -1,0 +1,8 @@
+name = "glyph_summon_wolves"
+filename = "glyph_summon_wolves"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a6e65d3f79cc686314188d18cf9b7b4c637b0ab8d4c73256facccb655b940ea.toml"
+hash-format = "sha512"
+hash = "091dd58b5410ca62d845c78db6664eb487e0de46259dfe74d5251923038308fec08c588747259b0c291ebe4880eb43ef49468c967e58a0f642ada4e61fdb6ec3"

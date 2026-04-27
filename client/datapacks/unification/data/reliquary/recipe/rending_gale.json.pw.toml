@@ -1,0 +1,8 @@
+name = "rending_gale"
+filename = "rending_gale.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16fe814d63d65786e7fda8b6dd900325ac2847a09eede80370485399632a3ec1.json"
+hash-format = "sha512"
+hash = "907aecc4d3611d79cf2c0bc5dcf4f91b58f12388344b3753485d0bd427b9d256bbbd6711308ba5a1157649436e85a9845255cd43fa62769e87fec78da90442ad"

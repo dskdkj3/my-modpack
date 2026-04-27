@@ -1,0 +1,8 @@
+name = "structurify-neoforge-1.0.21+mc1.21.1"
+filename = "structurify-neoforge-1.0.21+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6858/562/structurify-neoforge-1.0.21%2bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "01dd3b0e12b3148019beaa5ac4aa48d54a91c7818d970468c85506dedf07fbf9ff51c41a05b28fc42d8ce0e953c70be916e30e7890927ab7361e57256c5866be"

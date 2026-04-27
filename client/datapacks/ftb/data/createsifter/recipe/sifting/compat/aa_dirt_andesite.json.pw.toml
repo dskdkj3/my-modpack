@@ -1,0 +1,8 @@
+name = "aa_dirt_andesite"
+filename = "aa_dirt_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/21bc93a567fc7c9625553b7aa3feaec36b7494ae0707a6b4d3e23ae565d88c65.json"
+hash-format = "sha512"
+hash = "bcb68d579186ce37b15276d1e8eca211ae5777d73385c9fc076e46c0a1af854d757b8ece106980a6ce56f28d9cba8cbb38701138b8c498d233acc5b0bd266000"

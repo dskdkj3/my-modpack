@@ -1,0 +1,8 @@
+name = "hunter_belt"
+filename = "hunter_belt.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0c91b79533acf92715ddc952003ad29f718436764e0dd50fcdd29bf7e7e57e7.yaml"
+hash-format = "sha512"
+hash = "b8524088c04da8ade2fbace5a8255de1a51fc6273251cc6d63c78d468a894118a747f5e0b20892220728e67b669b9d3d561a45cb9e723ba21021805c4559af89"

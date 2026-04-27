@@ -1,0 +1,8 @@
+name = "geo_ore"
+filename = "geo_ore.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05f45569e51f0b4f4a5950d65d658ccd9b0ef329ceff91033a57762757e8c9cd.js"
+hash-format = "sha512"
+hash = "c2189ee5fc540e8fef544395528adbdbd023acb2868fcc996e4e2bd9090cda09115cc92bdd03c27d49d44f5842f7ae1d087d2d39b8393a4d84ebbcab91c4e772"

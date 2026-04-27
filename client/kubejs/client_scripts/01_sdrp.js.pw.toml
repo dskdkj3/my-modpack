@@ -1,0 +1,8 @@
+name = "01_sdrp"
+filename = "01_sdrp.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3de0f56d21c6f8c012b7f1a47bea63658261fba62567e5ee13e20870aedce0e8.js"
+hash-format = "sha512"
+hash = "74c91790090ea080b5d9a25234316d6b11f334e5052082ddce0da975ba03e8ea2e6a4389a3ec6b312758a5612d4b98498ef888829521998dc335078dce0f35ca"

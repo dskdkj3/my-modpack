@@ -1,0 +1,8 @@
+name = "hay_block"
+filename = "hay_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e72f87c8d84065db123ce992c76bf2ddff19310fa5623d35e438281635eedd03.json"
+hash-format = "sha512"
+hash = "1ae9c9fb19dc14c6396f0a20c8fbf2b72ef60531fb410f7dd967edb8823d64342ee081c29a4af198268214488e556d0ab83f4cbe8cb83bc85f874f88e69448dd"

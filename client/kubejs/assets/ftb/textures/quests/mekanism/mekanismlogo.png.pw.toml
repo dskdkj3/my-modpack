@@ -1,0 +1,8 @@
+name = "mekanismlogo.png"
+filename = "mekanismlogo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ed04b7250fb573d73358c8bba2d7556146312975758b0ed7554de0151402227.png"
+hash-format = "sha512"
+hash = "932cd4858dc64603aa2ef1f0189890138c6a6eed472685036566cc1334969be205df90f5587e7edf5f51cf3ceb951160254329413be1a723873ffcfd145e9383"

@@ -1,0 +1,8 @@
+name = "sophisticatedstorage-common"
+filename = "sophisticatedstorage-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b918537bd61538254288f83ae49e6034dd64ec4a2fea5e404ec8dd69008f234.toml"
+hash-format = "sha512"
+hash = "90365ff9cef5bb869c1236e851c2d4e1823651db764ca264598a32b5bf820d18b70418dcfa14f1a802f7ab3103d3321a985de8596a9da4c31476926c5d07f44a"

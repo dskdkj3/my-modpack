@@ -1,0 +1,8 @@
+name = "pyromancer.nbt"
+filename = "pyromancer.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32929c3f26f59be20232c7169f7ce29b8418560e479c74c4a8c36c474443fa90.nbt"
+hash-format = "sha512"
+hash = "7c5889d2b62af2fcd0032fb30632d43235efabf838412a716ac3937d8689ac0933e21dfc3c45a014820134a78b47b85fb4a73e2daf827e6cab30bb42b4ce5ae3"

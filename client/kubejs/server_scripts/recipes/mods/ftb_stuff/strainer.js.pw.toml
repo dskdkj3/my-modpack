@@ -1,0 +1,8 @@
+name = "strainer"
+filename = "strainer.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebcabf22264e1d9551aec328e88a8b31371357bb7db299812fc7429f97f1963a.js"
+hash-format = "sha512"
+hash = "edbce6b38928dae2fca4d4c6b1ba5d026e0ff86bd359b8a0d500a827111806ac3c3315307edaf152dfb092b41e85600a38010776fb0285e3b2ec2f1075410942"

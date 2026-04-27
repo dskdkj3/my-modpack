@@ -1,0 +1,8 @@
+name = "additional_ominous_vault_loot"
+filename = "additional_ominous_vault_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cdd009abc6e2ad70f4fbc88693af2233029c5bfe524c601ad85a702a1b18c4c1.json"
+hash-format = "sha512"
+hash = "99994a675d7240a680961792ccf92ff50f257ee9d961a01599abaa87fddbd51e92ecbc45de8cb5d6df7446479ace601cbab7bb401b2861b9dcc426fac543ea0b"

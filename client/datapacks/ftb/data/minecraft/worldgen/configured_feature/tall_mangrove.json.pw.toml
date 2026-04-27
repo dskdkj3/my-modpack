@@ -1,0 +1,8 @@
+name = "tall_mangrove"
+filename = "tall_mangrove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/feb6a547248b0d4109e740d8d072f0cdbe9e51b986ad09d947f472f07a3c5943.json"
+hash-format = "sha512"
+hash = "9167478afd1de674a93348aa396a916b74039a73da81eb3e61616f6e3aa2bf319a59d8c7402a5ac30b2643e38ec8b6ced13c66e7175b63a0eb8fe89691627424"

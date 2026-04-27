@@ -1,0 +1,8 @@
+name = "sophisticatedstorage-1.21.1-1.5.30.1520"
+filename = "sophisticatedstorage-1.21.1-1.5.30.1520.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7744/168/sophisticatedstorage-1.21.1-1.5.30.1520.jar"
+hash-format = "sha512"
+hash = "53dfda2bfe0162dda57958f5611e488588da006b3b65af2277505cc0dc43c87008505c51d42d8a7d03be5f65e7bd331bb91b38b907110758c65361145a6503e3"

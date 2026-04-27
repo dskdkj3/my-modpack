@@ -1,0 +1,8 @@
+name = "pyromancer"
+filename = "pyromancer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4db51f56a4741b16f8665fed3228336c72c66f2cf9ef1ae122c6391a2d477adf.json"
+hash-format = "sha512"
+hash = "21113d747af3bffcd1583fc1558947679a57d1c1013f0532e50f52b74219da52d173f8e58b7b22ab6909e89889ee42ab6001bfd0090e4d04f8727e9f75974889"

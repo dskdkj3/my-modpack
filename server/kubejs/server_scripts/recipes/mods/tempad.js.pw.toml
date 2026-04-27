@@ -1,0 +1,8 @@
+name = "tempad"
+filename = "tempad.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f98294948ffbdde96fa7bd41acc7be0c06efd0701fd0d4d80a8abec5d2ba1783.js"
+hash-format = "sha512"
+hash = "3b81d8ddf87a5c3f3bd1d355047617e03b608a383b295bdea37160daf32e721c71e191177211c545ab934d63c443e0874410bcd7e736c286c84bebe27dd457da"

@@ -1,0 +1,8 @@
+name = "skies2_exit_hover.png"
+filename = "skies2_exit_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/89443708cbe3ccdd4633b17850b79264a935e8fbee8e576dea77173a49fe20ff.png"
+hash-format = "sha512"
+hash = "0533e9024897e1adc5420086e5922575df885a678ff6c40fa528c025d9fa338b5d33d607632d50497f3f6520f7bca9e3401de30e0e3482bb8b04ec5a508856cc"

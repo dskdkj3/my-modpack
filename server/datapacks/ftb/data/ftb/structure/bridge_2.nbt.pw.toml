@@ -1,0 +1,8 @@
+name = "bridge_2.nbt"
+filename = "bridge_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9bf8d1d481c935253e718bb4b0b666bd9208f16b02962639e2bffdf6e41ac335.nbt"
+hash-format = "sha512"
+hash = "9d459ef1308ea3e0c14c5cd132b401685c058810d57c9e21cf20eca6772c4255c3a0c3eb0feaa0d51c92b4f4452a4b137180d8bb1d1f124b8c397365a6fb64e4"

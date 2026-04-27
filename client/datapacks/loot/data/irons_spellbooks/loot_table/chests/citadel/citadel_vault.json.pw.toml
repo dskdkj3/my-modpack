@@ -1,0 +1,8 @@
+name = "citadel_vault"
+filename = "citadel_vault.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9191f866a743a1db65a283a9f4f7fb8d427d14b0ea976a68478f0a532920e3f1.json"
+hash-format = "sha512"
+hash = "a1276221421643910cc7d75f8958371a64fe68edf5a7f4b5ba1d69a877f2886610e8a9c4538433598ebb6b77bf804b32e44cd37d8ec1b381e3d8725014980239"

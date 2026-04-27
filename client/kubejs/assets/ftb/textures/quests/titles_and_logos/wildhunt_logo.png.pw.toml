@@ -1,0 +1,8 @@
+name = "wildhunt_logo.png"
+filename = "wildhunt_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41f6cf7b795475c834fb701c232370e5b730fbc0a9401a1be75e14b4d6d050b1.png"
+hash-format = "sha512"
+hash = "c957afd07550cff91370fac0c44a05f330af9931537cad5c96e540f9c4d204e48ff06e7b369268fa4fa94fa6dff19f7cb64dbc62a7e33677939b574f0e97677b"

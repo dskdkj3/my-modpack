@@ -1,0 +1,8 @@
+name = "solcarrot-1.21.1-1.16.6"
+filename = "solcarrot-1.21.1-1.16.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar"
+hash-format = "sha512"
+hash = "41a98cbc3bce02d66c448496af853c351cb669e97ffb31b12d52c7ef84cbf8aa5a85d59e100b49d4c939d2ca093d96f413d8a6a155db43ab1d6f62f41f7289b3"

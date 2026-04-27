@@ -1,0 +1,8 @@
+name = "mininggadgets-common"
+filename = "mininggadgets-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d8805eadc4b01583ce02841f824509aee086c03f3120a48b63201f3c466ef53.toml"
+hash-format = "sha512"
+hash = "4d41fac593b14570fd5c4078cffb2e181aa4f65fd5394f98a0ebf825d9f2896111af1f6ed11af61b611e49465754fdce3f8760e39961d63d3cc35f873957efe2"

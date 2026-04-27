@@ -1,0 +1,8 @@
+name = "cook_and_brewing.png"
+filename = "cook_and_brewing.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e3d78417678d567a356164f81a2e7bce3c5479672382315665767267f94f3b2.png"
+hash-format = "sha512"
+hash = "57739e55d653a2dde65ba9dae0ca1d35b7b1eb7cc2d4fc4c88662f7c46c20f9d01bdde33c2d4e4f86627451d42b0b7d8bc4c01affbd9f68a658f5e71a6db07b8"

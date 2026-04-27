@@ -1,0 +1,8 @@
+name = "glyph_break"
+filename = "glyph_break"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa16b13c611a17f9ab563cb6cd5c34b12c4c1a2d862b98fd73fed5ae660f632e"
+hash-format = "sha512"
+hash = "123a8154f7d9a9388445ae086240180314bbae47b175ab9259c8f1466f512bb4ac8e7babd32c10d3f095fb7f213e47decb0b902434b89a1ce6f32a052c25d5eb"

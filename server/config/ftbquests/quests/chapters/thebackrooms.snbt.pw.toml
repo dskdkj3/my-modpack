@@ -1,0 +1,8 @@
+name = "thebackrooms"
+filename = "thebackrooms.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85556c65791e4cf7219bddc0644712a5a1acf4046317ff5440b7a437efacddf9.snbt"
+hash-format = "sha512"
+hash = "af5415c79b15d23bc782277ca84755bbba602dc798993abd34b3d55ec568fe4c4ef51596b672451b1d3df59d26942e567e0df308a05179cbabb4f54b8b9d5c2a"

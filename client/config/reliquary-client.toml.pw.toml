@@ -1,0 +1,8 @@
+name = "reliquary-client"
+filename = "reliquary-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb5d87eab6d9d337cfbf1b6a21705c5ee0430f94254b9a68cf6539020661ee18.toml"
+hash-format = "sha512"
+hash = "f559365cb455ad8b9ee5ca3c59d3e54a0974a5e5c809ba145da9eb0eb143f66352980b8f7d57dabb0d415454a1992d14bf570d15804500a2b1e6c7af04064474"

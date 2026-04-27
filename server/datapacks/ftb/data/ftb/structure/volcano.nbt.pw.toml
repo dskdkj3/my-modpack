@@ -1,0 +1,8 @@
+name = "volcano.nbt"
+filename = "volcano.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d29e257282d9814f3a691f2b7750f311f7b3dbcc014f28157bee6fdd365290b.nbt"
+hash-format = "sha512"
+hash = "9556a39a0a1768b63a73f885947f1fc33b46989cb467ec98560ec7d6e0d358b96ebf730ec29a62a0a1eade9ac2c98e21784a2e2002a85f4a2574f4cb9fdac3ae"

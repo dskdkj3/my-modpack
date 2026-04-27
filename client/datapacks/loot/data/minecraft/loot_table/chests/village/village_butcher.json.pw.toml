@@ -1,0 +1,8 @@
+name = "village_butcher"
+filename = "village_butcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a38695525f7c67fef23d40f4f9c5e43f2b72a7cba306a98ad245aac6ebe7f42.json"
+hash-format = "sha512"
+hash = "e664386ae0ea7353af2ba3278c28527006d557dee69029cb29d6099e9948014c31ae302263b0de4c75f9ef44d005ba53d6faa5c6a3feab91c851fea79b4b579a"

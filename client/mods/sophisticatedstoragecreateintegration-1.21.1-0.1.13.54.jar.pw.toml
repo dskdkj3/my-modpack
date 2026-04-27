@@ -1,0 +1,8 @@
+name = "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54"
+filename = "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7168/283/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar"
+hash-format = "sha512"
+hash = "63e87fd407cc81d214e5db27639d8109d25523f63c28cc94445f8edbe72388ea45de677ab26c0a0b6139f2ee0f84367a648ef78b5182c01756ba200f01f2cbfa"

@@ -1,0 +1,8 @@
+name = "silentgear"
+filename = "silentgear.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f21a60799ff16412b32947e72117603a3722a3bb13ddb6dd273b8b85d341c68.js"
+hash-format = "sha512"
+hash = "ff47a5afb1ab3a17d5bc31b4b37faf82f48b62872fe5eb81a4006491eb326595bc9a5e3a518bc288399ccd245f4bd0583c5e4e531e751917454c35e371030a0e"

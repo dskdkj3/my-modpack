@@ -1,0 +1,8 @@
+name = "ars_nouveau.perk.weight"
+filename = "ars_nouveau.perk.weight.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a1f64d5bc2305849e99cc419c83e50f1c48697d5f6eaac42ffe2a6d2031e219.json"
+hash-format = "sha512"
+hash = "86ecaf0effd9c511c5de2d9ff6fdc978cd92edc493aafc0d563836722a5e42febeac917332b120f1b0476da4dcb1eecce0de6a3314d3207437b31685f560829e"

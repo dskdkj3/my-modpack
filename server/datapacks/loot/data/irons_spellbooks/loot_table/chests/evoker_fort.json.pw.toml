@@ -1,0 +1,8 @@
+name = "evoker_fort"
+filename = "evoker_fort.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/100da9fc3c17864be27f0ac8bf17b96a249e4bf0e99889931602b7405f46e5b3.json"
+hash-format = "sha512"
+hash = "50029bdbfa0fa53919b589fffb6d320db25be4fdf2be15fed654f6aa1689442b1ebe935cf11f319382affd50096bb136a591555e927365ac8fedb088c885efd5"

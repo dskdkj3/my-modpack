@@ -1,0 +1,8 @@
+name = "moonlight-client"
+filename = "moonlight-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e621e2db955b234f465013bbb0af9533fe67312afa11b82766eedf05718b3fd.toml"
+hash-format = "sha512"
+hash = "a34ae62600ecb41be8fe6330973c5690c0dea2eb802bc4028fd954556a7b037fcfb51174579dc7e59df348bff3338affa2d2c3aa194161c5e5d47108c81a770a"

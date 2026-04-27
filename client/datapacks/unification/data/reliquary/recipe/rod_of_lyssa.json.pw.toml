@@ -1,0 +1,8 @@
+name = "rod_of_lyssa"
+filename = "rod_of_lyssa.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6cc1bff8b156776f57e9546c31d9912d77e9206452bbdfce189e948124450db6.json"
+hash-format = "sha512"
+hash = "5b80f91d69376c013108c7ef01e397623052981b9c6e6216e2fe35e929b64e65ba2d69c9553684b5d783d9d693ce6f5db85a300fcec51b21af16efe0b8e06a89"

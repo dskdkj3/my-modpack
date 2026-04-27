@@ -1,0 +1,8 @@
+name = "eventslib-1.0.57"
+filename = "eventslib-1.0.57.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6831/134/eventslib-1.0.57.jar"
+hash-format = "sha512"
+hash = "396bc3733c544344ab6a4c13e12b5d7a40e3207d19d7489a16765dab69da8a359ccb9d0b268302e516a7f6df4aec545ea2aaeb17ab3ba477ae284e21174a11c1"

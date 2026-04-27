@@ -1,0 +1,8 @@
+name = "turbo_machine_hull"
+filename = "turbo_machine_hull.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b8652f18a836a1e1081390820f82189645ae328ed544a5daf6c26d801212b4f5.json"
+hash-format = "sha512"
+hash = "c6eab975b15506ff4012b5ecb5cb708d4e2360f12b4e2128d078bc35f0578129b8a0c43495cfbe7ed6770332eb4690231499889c712229944aa638c499c29cd4"

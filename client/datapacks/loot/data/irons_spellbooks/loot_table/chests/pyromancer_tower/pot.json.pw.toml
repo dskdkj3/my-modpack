@@ -1,0 +1,8 @@
+name = "pot"
+filename = "pot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/4652d7356e7cd03c91aba289536ada8e113e2044356aa613b156a305731786c2.json"
+hash-format = "sha512"
+hash = "23959e5cb57d2d4d4786a7a8ed5e7a65999e77229fd34fd08b1dffd64906a7df48ce92c94e3df2778634a90f97946b8e2517c5c074732a0c7e48cf40e276753c"

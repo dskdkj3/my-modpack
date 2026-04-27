@@ -1,0 +1,8 @@
+name = "hide-entities"
+filename = "hide-entities.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cf9055fefc6f6c86c814cbdc0c77ce4ab827e8955b9d2705d0686404ab1d9046.json"
+hash-format = "sha512"
+hash = "7e20668be689f3cf6c961afd950bf263f762250fbf6597bd0225d0b8e9b5357f00362f684aa73ce19f712571bb0478a0a7c3bb2e8eb2efeff69f1e3ff4fbab0d"

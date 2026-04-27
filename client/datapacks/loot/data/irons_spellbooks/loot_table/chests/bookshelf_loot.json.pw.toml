@@ -1,0 +1,8 @@
+name = "bookshelf_loot"
+filename = "bookshelf_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/9316363f93e75e79de773d65efbdf199e2e92c9d8f5a915ccbc21c654d84a861.json"
+hash-format = "sha512"
+hash = "31555ee759888aabd85988b3105ca750c6468d429e28cca5947c342ae5300cad9d4377c8f0f536373b62a5462624cf4dbfa752b7c1f5768d5942784058ca78e2"

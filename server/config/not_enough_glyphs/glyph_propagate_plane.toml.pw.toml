@@ -1,0 +1,8 @@
+name = "glyph_propagate_plane"
+filename = "glyph_propagate_plane.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4647ca6c2ee1f7c3aba9e02c1e47e562e75e38791c4407cb1a0564de0a57c94.toml"
+hash-format = "sha512"
+hash = "9602fb19e56ce2ae7a9b8eae01d6875ccefefb798be86424116b6c77accdfe61e030742d2cb83062b7b6e2226a8052b60c925357da35fbfd2781a0958f09a1ef"

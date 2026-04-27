@@ -1,0 +1,8 @@
+name = "skies2_exit.png"
+filename = "skies2_exit.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4bc2df962ba77330c796add7860d115815631ddcfa2f280de158c98e728da9d9.png"
+hash-format = "sha512"
+hash = "d26b807d6dad9e65e5369cd60ff6cd8235bea8d74e9107ec1e1e9ad69afed55526db2188da34edd748708b0ba159b54f3f2dcc81711ceb63bcfbfc048a7bbec9"

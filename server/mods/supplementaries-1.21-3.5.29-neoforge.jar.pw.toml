@@ -1,0 +1,8 @@
+name = "supplementaries-1.21-3.5.29-neoforge"
+filename = "supplementaries-1.21-3.5.29-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7743/918/supplementaries-1.21-3.5.29-neoforge.jar"
+hash-format = "sha512"
+hash = "9db4f960601878b4f18d9ad48b037ada6d6ff1bc6635e193610e08730746e98701c30347b4658d11ae4fc85092dc09cad042a54903a0e02223eacf380285d54e"

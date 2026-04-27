@@ -1,0 +1,8 @@
+name = "plant_oil_to_raw_biodiesel"
+filename = "plant_oil_to_raw_biodiesel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4c1ef922007bd1286db39f30aa51b9931a93972c3a324f506b5e0e3f0a9dd0f2.json"
+hash-format = "sha512"
+hash = "27b0e2d9e85f493841192891f3f8266adcffeb1c2ab7f1520dca0c91e2326e8e872f88b5607d023b2e8a7a084794f3a10746f83f49c6940a41455a2d29a75c71"

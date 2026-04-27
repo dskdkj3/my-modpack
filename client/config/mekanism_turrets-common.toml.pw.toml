@@ -1,0 +1,8 @@
+name = "mekanism_turrets-common"
+filename = "mekanism_turrets-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/997638a869dc2c3d104d9572d189bebf34d5fa4b4e8c395d4d5b145858d7f32e.toml"
+hash-format = "sha512"
+hash = "d9117be299b155f584d09efcabb5257cc3dff0effba5b5185f793e9a24c8c6ed8f51eb2088144bd68fddd5289ea8236c1874454985691f41dfd3274a62cbad82"

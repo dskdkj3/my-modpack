@@ -1,0 +1,8 @@
+name = "iron_mesh.png"
+filename = "iron_mesh.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/398e2ee658e6426e6e569dfd77c3509bfd9b69909ea7e36ad4f6ce2cdcd80a84.png"
+hash-format = "sha512"
+hash = "5261fd804d2848e1705d4c2898e946447f189e1fb91cb43047c922cb663f2b06b212a1d7398ceb9325246359d028614162cf6af80516baf114c654955ad75e9e"

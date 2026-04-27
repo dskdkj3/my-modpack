@@ -1,0 +1,8 @@
+name = "crude_invar"
+filename = "crude_invar.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e4b0fb70ac0bba0db79eeaac5dabbfd76ea55ce7ccfc4cfb50b667ff3a23b1e1.json"
+hash-format = "sha512"
+hash = "bfa010e666b37bede42f35dc2b7eba147f9fdb44cdb09e668803b60aaa8c41674cf73c84ddca232155f35695f5efdf738570ca0d7a0f0892f0a215a11ed95f4b"

@@ -1,0 +1,8 @@
+name = "cold_damage"
+filename = "cold_damage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c3fe5f3feb53ea94ec2cabcd3212dc874201c1861321c6e35748c1df6886378.json"
+hash-format = "sha512"
+hash = "f651b5b89d59516eba669931fdece49634f2f35209c55641f7b1a9a6c0a295db72d3f8a7c6b43eb8a9e8d5176baac1826ecac3ad9cc8ded471ecacc562cc8590"

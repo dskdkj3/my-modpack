@@ -1,0 +1,8 @@
+name = "glyph_freeze"
+filename = "glyph_freeze.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93be953b7856cd2d7b24266ceef0c0a8adfd2045471b8e731f43512008ea388f.toml"
+hash-format = "sha512"
+hash = "b09c5152062d74f0d9b53e571e23c27cd60d0c75421851fe602f03d33ffbb2923351f52fe79e0c7f88eb2505143231f46644cc866b285cc0de9308f8ba8743a5"

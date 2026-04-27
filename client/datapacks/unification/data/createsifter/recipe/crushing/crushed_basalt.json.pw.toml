@@ -1,0 +1,8 @@
+name = "crushed_basalt"
+filename = "crushed_basalt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a39d193bf706a2558bfa249898d442854827d4ec5fc238f78aa9ab6f5c45781f.json"
+hash-format = "sha512"
+hash = "c3a7ac2e4a7a686131b93403d3b08ebe4a0ce113230fcd63277fb66526de0bcd98061d850a471d6319c332c174a0df38af614725ae785a2f293770f2fdbd4919"

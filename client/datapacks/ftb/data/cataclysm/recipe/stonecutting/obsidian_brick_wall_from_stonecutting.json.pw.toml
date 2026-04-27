@@ -1,0 +1,8 @@
+name = "obsidian_brick_wall_from_stonecutting"
+filename = "obsidian_brick_wall_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e058dc7801cb1dffc6217c2ff93d4a82a56f8bdaef4831123ba10e3d4092bf78.json"
+hash-format = "sha512"
+hash = "03ab05dca18713e5e243db7c3539d7ba7a7645aca1e96443a67c10eba152ebe4a8a9293ecc05b4b48f6790eecf67a045dbd3003142c701f3be304d81f95f5b2b"

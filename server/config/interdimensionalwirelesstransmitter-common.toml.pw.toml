@@ -1,0 +1,8 @@
+name = "interdimensionalwirelesstransmitter-common"
+filename = "interdimensionalwirelesstransmitter-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/682a7c18b8ad03c437d006f25e75b930ba466e9e936704ae3615eac5b4a940bf.toml"
+hash-format = "sha512"
+hash = "8a43dda2943d56aa351495d5c0675d129e294a52e43db164d26e3185dbd37dae38e4d91744ecd3566c8cac44bb2df8306c00e53936bfa2e8161f206f402f69fd"

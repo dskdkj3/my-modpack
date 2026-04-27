@@ -1,0 +1,8 @@
+name = "glow_berries"
+filename = "glow_berries.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/6652d161856c3c5cb4ce63c0a4a7b8d74dcb7b762aeb9779469ac827b75801de.json"
+hash-format = "sha512"
+hash = "f3b17ff2a94417bbe686211fa42b37e552731cd2657a385906e768862507e4d23fea5554e6a42ef6cf9615a1d445dfb4f39457b1b4f9704f4616dd32b6849b48"

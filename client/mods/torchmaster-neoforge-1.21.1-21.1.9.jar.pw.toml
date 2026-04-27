@@ -1,0 +1,8 @@
+name = "torchmaster-neoforge-1.21.1-21.1.9"
+filename = "torchmaster-neoforge-1.21.1-21.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7197/218/torchmaster-neoforge-1.21.1-21.1.9.jar"
+hash-format = "sha512"
+hash = "855dd7f37a01c617dddcb5fe569b14a14cff4d5ea7f53a958bec4a694eb4b82677160a2509a84a03e41adea2d44617434667f56f2191e6427811ddbdc63e48fc"

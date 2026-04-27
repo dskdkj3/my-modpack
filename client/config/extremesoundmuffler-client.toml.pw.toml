@@ -1,0 +1,8 @@
+name = "extremesoundmuffler-client"
+filename = "extremesoundmuffler-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/62643391d692ddc6e4302d3ad87842935fa548402761d2e24f6095eeb9d86578.toml"
+hash-format = "sha512"
+hash = "89177a1fbd0a7675b3fc3430862d004173c9a4ca056196ccaafde3485ede0cead97ab1c0154f4bf107cba2bc8a3610d9fccd20cd649d77a5435983f3509e0048"

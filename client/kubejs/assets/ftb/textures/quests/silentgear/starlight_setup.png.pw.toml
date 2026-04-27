@@ -1,0 +1,8 @@
+name = "starlight_setup.png"
+filename = "starlight_setup.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78bfc31a56808cb1e37484740a0235cd56a271459ca8d70913b417f795f70993.png"
+hash-format = "sha512"
+hash = "d5c22c964b9ea13873dbd79a0544424769e3be2624dc7b38cea9a92a2b700af62cee20fdaca55437b293c3885638295c50d4339f560b7eb16add9a159e11f49e"

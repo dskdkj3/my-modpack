@@ -1,0 +1,8 @@
+name = "cloth_mesh"
+filename = "cloth_mesh.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/abaaeddfea65dd3cd109feef1396b6c96b8c3cf7b58e4576dcdb89f534b397b2.json"
+hash-format = "sha512"
+hash = "8a0894c206fc1f05b6521015e50b66c0b6f5846ea442e158e18dc33f9c4a9e8a7bbf004c8d50f9eb1620feade5aac1f0a87875455592935f9fbcfcc85fa9e192"

@@ -1,0 +1,8 @@
+name = "warped_sky_village"
+filename = "warped_sky_village.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af76ef7ddc97b60c046c7f8cf52f1065ea29c57a03995ee3e69a489a3ec28d66.json"
+hash-format = "sha512"
+hash = "792512e4479284b05525fd8b68cac42d457a2fa50937b1d1096096b864ce8b1a61b52c9dd3862a8debbb362f105aababf9e40d9fc15348c5f9c9c7c25aedce16"

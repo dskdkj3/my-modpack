@@ -1,0 +1,8 @@
+name = "bricks_casing"
+filename = "bricks_casing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d9d830cb4dc10d0e489d568a3afb9abc59b00a4671645af401bc1af9d8470055.json"
+hash-format = "sha512"
+hash = "bb7d60e000239c55af20e8256e6be5af3ed864115cfa4ca53750bd1b0b90b68ebf4c3cc50ae958ac41d5ee12ad14c05ec533eebd6581d5293d1f23883dbfe69c"

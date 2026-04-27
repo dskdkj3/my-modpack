@@ -1,0 +1,8 @@
+name = "logs"
+filename = "logs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4facaf9ab10540600430807da4a0cf13e432e4db670e97da12336a86f2567ee9.json"
+hash-format = "sha512"
+hash = "8fc5f6f00ea50640518424ac2b28231d61cd1c77435924ce5de6e6247eecf0b057ef23e40478cd1247a11e4896a3b1b638c911c7c1af2694a69ee59a5c36e9d7"

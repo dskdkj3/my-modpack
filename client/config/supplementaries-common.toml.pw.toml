@@ -1,0 +1,8 @@
+name = "supplementaries-common"
+filename = "supplementaries-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d2e7fb832208b7994331b84c2cdec50c509bdcebf22c459ef7ff1fa707c6701.toml"
+hash-format = "sha512"
+hash = "32d171dfacd34f3f47537aa0825bbe2927a1d2f0c92f3d93cc4d589246a493f8c0ef380040b2c980d6d462b9bb9de284e88281447a30af4efe93cdef6d37bf08"

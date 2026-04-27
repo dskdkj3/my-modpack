@@ -1,0 +1,8 @@
+name = "giant"
+filename = "giant.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c4dcc44c40cad02eb5e2ac1635c930100388bb49d560746d95b302a21ae77bc0.json"
+hash-format = "sha512"
+hash = "0b22d4e0129434a4a62f8823b1bb2822b8ab98f419c329b3946be583b526262725b38232aecc7a2d492358f9acade0f0c0440596ac723a473770f45ea3369e4f"

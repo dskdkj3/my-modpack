@@ -1,0 +1,8 @@
+name = "weaponsmith_1.nbt"
+filename = "weaponsmith_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/374d535bfb4585108a96db28a57f30b1b00572c2e13212193b7099d0602880ea.nbt"
+hash-format = "sha512"
+hash = "3ba7ed5588201812fa9202a09cc12e75ba09bf3d43cc748b6cd4d2d8a1820242c9b4988f687838f438cb982bd68c58c4b832f7712a404764a8d98797de8a7931"

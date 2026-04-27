@@ -1,0 +1,8 @@
+name = "allarrowsinfinityfix-1.7-neoforge-mc1.21"
+filename = "allarrowsinfinityfix-1.7-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5536/663/allarrowsinfinityfix-1.7-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "7bd15afa4a42eaccd02dcf7b15fbd9010424767bb43f0779985d2f1289653240ce5168fb7838c724e059d1dd5458bed58cef037ed6cffa868df34d2ab94140f2"

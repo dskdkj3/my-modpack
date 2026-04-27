@@ -1,0 +1,8 @@
+name = "glyph_conjure_water"
+filename = "glyph_conjure_water"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/9366afecdb113fcc5bc9afa3d93208195a3f4d6f7f01a73f51f0a253c7445c35"
+hash-format = "sha512"
+hash = "e7c383a0b956875b35f2aa367b33eacfa37b4ae032b042a1ba88ec4d82d6c4abf17f8b6535666b798c1b0fc3ffd63aa77987a14f0b521460d53da92abc5aa0b2"

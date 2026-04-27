@@ -1,0 +1,8 @@
+name = "productive_bees"
+filename = "productive_bees.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75d5e3c8dbeb93251edd57dc158e3b70b9556df4da2e6da3922dfc2c3b3b3a66.js"
+hash-format = "sha512"
+hash = "8731238ec54d8ed41b59325db43344a3d7ec0dfc54f7d8c67a334cd8f8ab282fc53d8bd43f99008df55f89aaf1c95c6f7dc0f42a76dce4b2c3a9746119e3c3d1"

@@ -1,0 +1,8 @@
+name = "suspicious_gravel"
+filename = "suspicious_gravel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0a094920cee0af7485e2af11cc3f500e680badc9f1c334746aa42c201494353.json"
+hash-format = "sha512"
+hash = "3949463572a93e0ecfa11f64dc9fc32e9e894833fc9753e4ece6bcad27dc70275da6b9d3d82a887d046e5bea031647cc9de4df70de26b695307dcd86d8fc95a3"

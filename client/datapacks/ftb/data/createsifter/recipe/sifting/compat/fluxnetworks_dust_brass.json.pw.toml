@@ -1,0 +1,8 @@
+name = "fluxnetworks_dust_brass"
+filename = "fluxnetworks_dust_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be3ba70fc797b60654d67fd0b5ad18ac7681c2af405461bdeb3a33d84c8c8aed.json"
+hash-format = "sha512"
+hash = "2b168295e32e45c0fe4e2be382d8b0f0a9662e8fc69de25d5812ca5ae6f91c222d68fd479fec3bc228e9f711d9ea9b2edbbbed7bd595090d87d87f28750ee938"

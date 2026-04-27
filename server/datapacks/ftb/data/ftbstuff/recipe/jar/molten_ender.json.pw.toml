@@ -1,0 +1,8 @@
+name = "molten_ender"
+filename = "molten_ender.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72a5633f07190b898875e5ff62eb71d0f51e7691c63c8f1a0c795c782a54c703.json"
+hash-format = "sha512"
+hash = "7ba62c35d07fc2f2afe40dcc5f76e650239cc1cf67ff40f91cd0f2c010c70939053c555b82d2169316a25d47daa20cf153b3d8449d1c568bf34c51e7d704400a"

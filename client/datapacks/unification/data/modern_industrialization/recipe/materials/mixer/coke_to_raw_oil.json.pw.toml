@@ -1,0 +1,8 @@
+name = "coke_to_raw_oil"
+filename = "coke_to_raw_oil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5bd301cd300d06850f5292a49c7e4d842f05eddc22c4cd81e737abe75b1d0b86.json"
+hash-format = "sha512"
+hash = "2361c4c186c1a1c9dda4d8948a3e747ca1c62b193680a7ed7159eb410054f229066c432569b48be4e10e8c2bb406ec22709226523e8616cd283db493cee90f2f"

@@ -1,0 +1,8 @@
+name = "prismatic_xychorium.png.mcmeta"
+filename = "prismatic_xychorium.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a698b43eaf93866a916890a6ec470aa47dc471b3ad2557368eadd919b78baf0.mcmeta"
+hash-format = "sha512"
+hash = "ca0779bc2ca020ee3e59edc15071758cda794480d7db92c8738a4dcc5cbf1e2276776f7e178a29e79952014e60e50f37034ccb45157fb1ff94e2191c3955f350"

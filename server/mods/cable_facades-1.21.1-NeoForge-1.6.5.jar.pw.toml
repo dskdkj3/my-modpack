@@ -1,0 +1,8 @@
+name = "cable_facades-1.21.1-NeoForge-1.6.5"
+filename = "cable_facades-1.21.1-NeoForge-1.6.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7400/19/cable_facades-1.21.1-NeoForge-1.6.5.jar"
+hash-format = "sha512"
+hash = "c3151470a2f6af1bf3a83d918752facd375af2fa1e5c96fb18e172e651f21b8fd520cb7ade1add41abd3800386aaff553e86f3fac8b566eb9b6a9236837458ec"

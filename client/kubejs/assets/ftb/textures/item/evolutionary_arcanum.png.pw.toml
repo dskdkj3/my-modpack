@@ -1,0 +1,8 @@
+name = "evolutionary_arcanum.png"
+filename = "evolutionary_arcanum.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c8ec829207cc1d8cd04419e979f41a8e31088f8e12e8049b08ca8b3fb19f25f.png"
+hash-format = "sha512"
+hash = "81a73d664058a21bde754db05641e304464338a290b98873e03d3755f9fe782cef389c78a273aa01ab88a9e81cabb1ef19b73e9f10da91e067f46d9470d23d96"

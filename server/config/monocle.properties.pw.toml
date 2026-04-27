@@ -1,0 +1,8 @@
+name = "monocle.properties"
+filename = "monocle.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/798cd5745fd57d0c4ef5427225172efe8ef65a952519e271b32a103b97821789.properties"
+hash-format = "sha512"
+hash = "af6f109eabdf1fcc54c91865e87ba7eb15898a6968a613e755ceb2941b14f9e5f773b25e91c4439ff96a3f62e4bc34eb10bf6385574667510982aea36c05476b"

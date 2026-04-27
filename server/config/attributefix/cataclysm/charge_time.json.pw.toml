@@ -1,0 +1,8 @@
+name = "charge_time"
+filename = "charge_time.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/12837117dab21658447222084b5b68dc928f8456dd5c51fd30e9f326238a36da.json"
+hash-format = "sha512"
+hash = "559be096a4809a6aaac14c36a4029227ecb71ed477d1edfec8b26a8e80a536d9246ba9a4bf8a6f0bf2e1d40bd35dcde4f6644ad0e55484e52d7b414a449a926c"

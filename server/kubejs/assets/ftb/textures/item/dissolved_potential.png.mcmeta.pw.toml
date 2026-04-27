@@ -1,0 +1,8 @@
+name = "dissolved_potential.png.mcmeta"
+filename = "dissolved_potential.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc8a867bc1fbbf25611beb544179cc7340a586e51f93ba119695519239f23f85.mcmeta"
+hash-format = "sha512"
+hash = "9b98b40aee12fe523d26daa5ea42764a8430603872b4117a5d76f0a7aa51d51f313c3f9a5306711095695a467488503f33b5a338d2e4200712adc332ac852a80"

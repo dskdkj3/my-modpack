@@ -1,0 +1,8 @@
+name = "useful_items_tips"
+filename = "useful_items_tips.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26457ac5b38f6c938211cd489354f3aa6561e9de52841b748fcae9ef895c5653.snbt"
+hash-format = "sha512"
+hash = "6b6f84a4ed8461ec94ed28aeaf7a65ea9978a2691ed56b4b978b5d4c232a5014a65b663ea5472d584645022cc7ca3f59d34d0ed11075f71ac73ab878e267430e"

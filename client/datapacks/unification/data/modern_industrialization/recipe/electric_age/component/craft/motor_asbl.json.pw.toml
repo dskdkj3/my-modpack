@@ -1,0 +1,8 @@
+name = "motor_asbl"
+filename = "motor_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/6932fa59967798acfa438233c3deab2b1f0d72c0b91a24f3d7f0ccecbb38caa5.json"
+hash-format = "sha512"
+hash = "219196ba84627bb5af82bde27a525ae316b5ef42119af7da6eef5ce4f798cf7f1edfba2c9523a4828858ad4fc79ac8c3940d670087bbae9aeb9783b2a7152a07"

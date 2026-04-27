@@ -1,0 +1,8 @@
+name = "calcified_prospertity_stone"
+filename = "calcified_prospertity_stone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/ead6a9062d2925e21a503f586b3a7cb6c97427a88996f13d54ae7f7e399531d1.json"
+hash-format = "sha512"
+hash = "ab36cf464e3c8b734c3dcefa0bd52dae3f63ff8c776d8c0b88df408df83d60247cb2f872a76cd6c34b820643cea394ce15f97db05af659e78e6410df06d2b6d5"

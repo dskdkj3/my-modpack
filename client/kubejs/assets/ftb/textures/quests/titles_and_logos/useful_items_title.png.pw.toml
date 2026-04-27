@@ -1,0 +1,8 @@
+name = "useful_items_title.png"
+filename = "useful_items_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/989ca7b319968459b0b455ea8cd618f8dbe83ea04a8c2ba193a82f23ac09f104.png"
+hash-format = "sha512"
+hash = "d0411a9530b1a067d45430cc2a660505518276c32fdac0907e74524889eaded8c6ea88b9ed5d4b2f9aefc76641a5e3d9aea4c718378b8bfc2618236d6795959e"

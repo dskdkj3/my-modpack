@@ -1,0 +1,8 @@
+name = "generic_magic_treasure"
+filename = "generic_magic_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33e5ddafcea1abb6b07ed0bea9ad8fdfcb5512c91a5545ec7bf61f62bbc31511.json"
+hash-format = "sha512"
+hash = "5f9f7f7721f6bfbb92b2ee5aa78230c341bfd0832ac1dfdb471641a7c24c55e1a9ff9059c477876ef129f8553f8876998607c2e7d9f727e01717b4a8e21ea8e9"

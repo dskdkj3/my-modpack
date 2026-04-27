@@ -1,0 +1,8 @@
+name = "immediatelyfast"
+filename = "immediatelyfast.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e48dc713c254568d1c73555609071e31f7ee9cf18b6f6a97e475cda98f4b4cc.json"
+hash-format = "sha512"
+hash = "79bb83becc715038ce5b926cd84112452c854efb4a851b20373124395164777399babb0d7dce682f878facb5d379790a361719a5f5195a594c5390abae931944"

@@ -1,0 +1,8 @@
+name = "cyclopscore-1.21.1-neoforge-1.29.0-950"
+filename = "cyclopscore-1.21.1-neoforge-1.29.0-950.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7734/724/cyclopscore-1.21.1-neoforge-1.29.0-950.jar"
+hash-format = "sha512"
+hash = "9829217a50062f0e087c71f57148ffacbc6112b5f1e1aa1aec344b0fe2cb426bba3f648b5574e627f2f6b0b918dd7312b5dce4f1808fb918bb9745ce3a17e017"

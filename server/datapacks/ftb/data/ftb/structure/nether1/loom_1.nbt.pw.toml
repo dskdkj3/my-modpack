@@ -1,0 +1,8 @@
+name = "loom_1.nbt"
+filename = "loom_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d234cee7bb0fd3cab31c5582081118da5efdfbe0af554a56f286faf3378846c.nbt"
+hash-format = "sha512"
+hash = "b35059a16bb64c30bfce3aa5154b056a518e9860d147d5a64a411cbd6102a624897740fbbe73843c9175b208a6715ed65a50cca7838c52340167daeff4954487"

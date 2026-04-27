@@ -1,0 +1,8 @@
+name = "azurelib"
+filename = "azurelib.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d27771794c5b15461a6a29404fc563ebbb3f5da704d056ebd76378bc55f7d89.json"
+hash-format = "sha512"
+hash = "984f400cd2618290142c10dce31a5c18801d41803c407a63636f0b05f4daa933e792f352935630f5700849c5bd1e50745eb2db5863c907b1582a438fb800b997"

@@ -1,0 +1,8 @@
+name = "general_storage"
+filename = "general_storage.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c9/c9117c0ed9797d3000535906c160df4141cbdc62a6e340966194772e633606a0.snbt"
+hash-format = "sha512"
+hash = "37d43e1247c4be3d19be14f4283b944edddc8f8fcee300b5af5a3cb4faceb09a95e20fe71de6e6ef883b3c2a915da968afa27fb80edf9cc237632ae1ae4cda67"

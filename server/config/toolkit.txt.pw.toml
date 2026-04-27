@@ -1,0 +1,8 @@
+name = "toolkit"
+filename = "toolkit.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/919aadb5b5fe040042d6eccac3e196d081e48b379b5c8d9a276ab0dc2ffa2534.txt"
+hash-format = "sha512"
+hash = "c1cb044a198563a03ae6e1cef1c0ed3906b796db961280a6cef771cacd584407ff652d28789795de4a72d01e3b8fa28b12a1239719c9adbe08611acf688b3c53"

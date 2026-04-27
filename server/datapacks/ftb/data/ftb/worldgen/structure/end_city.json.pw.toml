@@ -1,0 +1,8 @@
+name = "end_city"
+filename = "end_city.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b390067914485b110b18c225ac64f90e18768c58248d76d59125f769af874bcd.json"
+hash-format = "sha512"
+hash = "a7dd48d612e91ecac1f9d66c6ff5a03a01881c891930024558197265e4be713498f267c4800923d1bde0a439cec0b96ae4f1c91ba073634299a1d8dab256d0b1"

@@ -1,0 +1,8 @@
+name = "balm-common"
+filename = "balm-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0eb0c0310b1a459bbed0aeade1a55053e2bdcfac4e723d5fc2718b2be4680268.toml"
+hash-format = "sha512"
+hash = "3d7572dee317dccb1a0749ffd388c6485181162ffb3d5182a8e5a6f7ad3a5e05cae338f10f6190fb8ccad567cb4fb737b16f95745f056afe9ec2016139a4c5bb"

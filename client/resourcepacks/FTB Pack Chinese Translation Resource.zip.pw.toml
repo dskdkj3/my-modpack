@@ -1,0 +1,8 @@
+name = "FTB Pack Chinese Translation Resource"
+filename = "FTB Pack Chinese Translation Resource.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/28c3d64950e2330a013ce875467d7c105626d05fa3ba851d4d9aa5f8f4f3d172.zip"
+hash-format = "sha512"
+hash = "707999921c05b841f1d3fffbc659875e865db690378e0d48bc78752dac752482e8f03f7c8058d2f71c889ebe4174ca98d458e02e1bef46c13317bc2484943633"

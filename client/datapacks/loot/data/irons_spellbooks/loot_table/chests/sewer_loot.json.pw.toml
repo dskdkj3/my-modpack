@@ -1,0 +1,8 @@
+name = "sewer_loot"
+filename = "sewer_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b36686c7a1c71258f3d5876197fe12f8da818ec8649f10a0ca1fc93869c924ea.json"
+hash-format = "sha512"
+hash = "82d18627d8ae6a25d5e9d8f265ea076418144beb930e36c6b12fc3e2786ca4313eabbac1390b46ee9afc5776e0dedc661f30d0e502a08829f40e7f9f31ebd9f8"

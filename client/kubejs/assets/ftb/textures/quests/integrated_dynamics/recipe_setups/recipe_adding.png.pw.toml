@@ -1,0 +1,8 @@
+name = "recipe_adding.png"
+filename = "recipe_adding.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d39dc1baf469db87b44dc600feb2fc5a53021b704134154522ccc78eba574905.png"
+hash-format = "sha512"
+hash = "2dca57098ce098eff4cccf85f86895399113719a8a946d44a4cbe58538dc249ec355b85d1c217155782df1914ad8e14ebf22fc2c73d201bb289895ee6e69d71c"

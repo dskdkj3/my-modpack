@@ -1,0 +1,8 @@
+name = "arch_leaves_andesite"
+filename = "arch_leaves_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c1559a3120d7486e5f6afdfe71b96fc4aa25178fcb9c2558e2218d5d51ea690.json"
+hash-format = "sha512"
+hash = "cd4db876075a4f1643ca9572245491e9808cb2a9acdda7d2ee66f564ac4da2744f200488799caad348f63e1bb34275b1c4c3c332e92e1053e325360eb4b2504e"

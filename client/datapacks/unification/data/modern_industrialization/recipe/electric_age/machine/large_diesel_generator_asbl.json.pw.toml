@@ -1,0 +1,8 @@
+name = "large_diesel_generator_asbl"
+filename = "large_diesel_generator_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9072517a61a6700229b0b401459787d02bb81495713a61ba108029d1ffb7e40.json"
+hash-format = "sha512"
+hash = "4ae33dc46e1ac77255b940cc1da0fcc998c89f85474b4cf33150541ea09b2096e05b05a30cc61b2c12b467128bd8553f4d03da82777ba070ac20ce9740fe48b9"

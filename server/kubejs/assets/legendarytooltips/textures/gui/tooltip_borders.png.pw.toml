@@ -1,0 +1,8 @@
+name = "tooltip_borders.png"
+filename = "tooltip_borders.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b8a5afd3da818d510ddc623e208eaf9c69d41c2ccc6ab0b678af39b660c28fc9.png"
+hash-format = "sha512"
+hash = "7eb0ff2fcc083cd7f0b55d6f7b64f8f602bdaa15f6af52cc51417957cdd9134340da3a8287bb0db87a18c74b7c6c2f50bcf9ed6f029293a8a6c911986ab30f5a"

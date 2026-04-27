@@ -1,0 +1,8 @@
+name = "entro_crystal"
+filename = "entro_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cc4ec536b0d40537a1f5ab60e6499297df544253d10abd64ee836ca1b10e6c3.json"
+hash-format = "sha512"
+hash = "3d8e406ba13a1180dbb1cbcd57cbde6b3372b4aa1801ca089046dfffedaf073c449464341facde034b61934949926365a69307122ddc19b60340ffdb4879d563"

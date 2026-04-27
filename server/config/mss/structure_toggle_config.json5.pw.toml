@@ -1,0 +1,8 @@
+name = "structure_toggle_config"
+filename = "structure_toggle_config.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/284eef7c7c44901293738fd09ce0e067f542a8bc20ef9beef327c61cf0ef474f.json5"
+hash-format = "sha512"
+hash = "903bdd0df9f8b2425d6d90dcc0d251c6102ac85b015aa6690371cef08d586e4c07cc9f615a1e30e0e8df9aba4719fe4fab679138bb37036871f710b0a60f3e24"

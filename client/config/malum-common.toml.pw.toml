@@ -1,0 +1,8 @@
+name = "malum-common"
+filename = "malum-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aafb99d3c540485705d9aa631c56d5924a8a8b428ef4ae5008df3882f3c2bfc3.toml"
+hash-format = "sha512"
+hash = "3abe3a4c2d00e0624c22082bbb16024989e9c2e98ee2d155d7a796a7effc1a2fd9190da92c40994005be0a8d5fcdca0b5a455b12c93d00de323dd234cbdb922b"

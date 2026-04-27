@@ -1,0 +1,8 @@
+name = "global_loot_modifiers"
+filename = "global_loot_modifiers.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/119d2b820f35ef528363df37dcbab8f075c9c1781df6ae3cfbf71387683c4354.json"
+hash-format = "sha512"
+hash = "34a67743e2d45c2d2ca46db47bfc7f40c30c8c635f27d060dc9f38ea53ef040e697d90635f2598f2473f3badc3e0f52108e19f9e3bc471be8195fef94bfff4f7"

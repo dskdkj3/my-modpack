@@ -1,0 +1,8 @@
+name = "crop_to_seed"
+filename = "crop_to_seed.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e81cf1a51feb4e012d417714dc6e17d9779fce58c981c414f20216d1df33e40.js"
+hash-format = "sha512"
+hash = "527f1660fac00248b2c7574d6f6c147c848c176da56a9f62ff722b14af44c65b943884e0539cdcee97bb34dd254e5a086aef5eaa6335ef9a0dd79bcac7151a1b"

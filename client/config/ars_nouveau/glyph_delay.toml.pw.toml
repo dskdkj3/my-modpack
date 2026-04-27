@@ -1,0 +1,8 @@
+name = "glyph_delay"
+filename = "glyph_delay.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/7288bcbe5ee927d1fda452d82daaba4f5526bf12a016f0fb773d058c076fe976.toml"
+hash-format = "sha512"
+hash = "b23a064a7c79d92d813622ffec5fff43839f298c47abe9336cef521217ff85211185cf59cc5695bbc0f3980468aa4241165937064b3bdde4bbe6fe950f347466"

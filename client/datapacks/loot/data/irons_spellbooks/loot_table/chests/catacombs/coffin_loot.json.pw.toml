@@ -1,0 +1,8 @@
+name = "coffin_loot"
+filename = "coffin_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/1978264c1e1c0cc940e786e8a4f9daa33c433216b690c1101bd63df5f7524265.json"
+hash-format = "sha512"
+hash = "d93341f1af7183cc3d61778acf96a84d7fb9a068128cd0e68570c51982010d90c347d338570f6274e27b648304622201b6b684ceceffe2eb01fdb21b4ea6f9c9"

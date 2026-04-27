@@ -1,0 +1,8 @@
+name = "inferium_boots"
+filename = "inferium_boots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8ea765d927e84e957586f42afb5b8ca21bdc7b4cff0a7ccf67ea90e9a7246240.json"
+hash-format = "sha512"
+hash = "359305ff78edb7f69e93c5044f7d9b672160dcdf947a6faea672fdf108ca286eab4e1f661b45e2f466c9a4aaf624f478443ecee3bd046404ad223ab9756743c3"

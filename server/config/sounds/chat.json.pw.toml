@@ -1,0 +1,8 @@
+name = "chat"
+filename = "chat.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/467d018bf53261c6ab58520e948d5ea14f90073dd808fd5d9bae5347118a757f.json"
+hash-format = "sha512"
+hash = "5f239e7625f38697dd979c080674b909e9599910e2b82c9c4c7ebe79dfcbf1c0099e073ead1c6eee6744fad979d5e84e2c72b811f36c9e8202e308e50794ce64"

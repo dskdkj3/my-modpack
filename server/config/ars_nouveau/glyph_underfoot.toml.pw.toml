@@ -1,0 +1,8 @@
+name = "glyph_underfoot"
+filename = "glyph_underfoot.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/822ca09e5a39f0794ac113f81a7f969d3dcafd473cbd0e99867e22b5d75c917e.toml"
+hash-format = "sha512"
+hash = "974108c9454ef79e082446a089f9054bdb2ffc8405943966c31962ab7ad6f93aefba7642dc5a647173e5e0a1555f7e466db941242516543a1fa156719d7fe688"

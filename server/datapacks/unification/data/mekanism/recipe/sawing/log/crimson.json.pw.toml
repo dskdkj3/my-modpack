@@ -1,0 +1,8 @@
+name = "crimson"
+filename = "crimson.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/82735adb0eda9a865b6238ec034e61cc13db8119a19a83cee8ad2aaf339927e7.json"
+hash-format = "sha512"
+hash = "fb33460b723a312a6520a1c999f6c9ec76f7cc45ae490018bd3bfb5d0595541ba93729bb842c09e125fc2dad194eba35c08db751678ecf961249fb5a4e8b9035"

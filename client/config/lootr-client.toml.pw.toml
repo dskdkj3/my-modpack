@@ -1,0 +1,8 @@
+name = "lootr-client"
+filename = "lootr-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90b76fc3d6b2b237a174a6cc3629eef9618edd77fc71565ba8af8f0ae1aed76e.toml"
+hash-format = "sha512"
+hash = "a6f5207d251489cf9f41516699310c6cd0caca164d0ead494de35b6348ebc36f217413de4d84c5503594f3c77d55d7ad95aa8285b7a96aecaeaca7c02d71deb5"

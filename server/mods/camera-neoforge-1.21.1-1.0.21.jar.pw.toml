@@ -1,0 +1,8 @@
+name = "camera-neoforge-1.21.1-1.0.21"
+filename = "camera-neoforge-1.21.1-1.0.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6715/623/camera-neoforge-1.21.1-1.0.21.jar"
+hash-format = "sha512"
+hash = "a4d28b9d8ea9cbe5a6f6957b4addc1a48e0a00cff5750c4baf511dc90483d75848b5d1801c057fbe0413758f235a7067980d2d169489c60fbbc0c5335734eae6"

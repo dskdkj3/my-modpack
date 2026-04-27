@@ -1,0 +1,8 @@
+name = "plaqueeffect.png"
+filename = "plaqueeffect.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b65607caf279f6f743ce97f009f51953143b54118b6a9b1c494b5c92822f8acc.png"
+hash-format = "sha512"
+hash = "103879d6fc35208b2ee76389fe1098f495edcc1a0b8c7b2c0d33822761a9dfa0576d8d4e4e27b73dd835893aafe979ad202aa3be294f5173f6aa6bac5296bf24"

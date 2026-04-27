@@ -1,0 +1,8 @@
+name = "eye_of_legend_nether.png"
+filename = "eye_of_legend_nether.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a31deab412e4b13d5959cf53c90d85167a31b387906004f009b089f67cdcfb1.png"
+hash-format = "sha512"
+hash = "d39af0ada9be57e3615247752d44cfbd0d9781124a858164d86dcb73e629611bf377657e0e465fde1ec3ecc7299e02cd50bb5aedcf4250d91c46ad230c7ab578"

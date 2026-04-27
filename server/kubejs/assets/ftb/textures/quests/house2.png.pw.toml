@@ -1,0 +1,8 @@
+name = "house2.png"
+filename = "house2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e507ad8d6f6c2fda1cd40fa818993ad7eb04f91d625c1b714a98948fe83d619.png"
+hash-format = "sha512"
+hash = "b97f5f7e3bc0a680bf79acfe41b4bb85895e65292f03cd64f93e48c4c2180b212d251dc8bc46b43cd7a47f98bb91b3833a83749f7b3d080fd65bc1d962160b16"

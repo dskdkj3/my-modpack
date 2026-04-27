@@ -1,0 +1,8 @@
+name = "silicon"
+filename = "silicon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22d45dbb9e6f547ca4ca0ae835acbd07f2ac337cc6523e2526382c10a9457168.json"
+hash-format = "sha512"
+hash = "9dbc741dbdf5dc421fb789f5f541d4f4d006855aee91930aa390f9b1883a829e52c33c63548185b0c78d140c10ec0099b7f63351b177038cf69046a6ad3900a6"

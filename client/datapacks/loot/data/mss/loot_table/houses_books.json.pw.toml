@@ -1,0 +1,8 @@
+name = "houses_books"
+filename = "houses_books.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/62a73f620a15d5ac19ce7fa383cb2df38d4f2cded85c094aa3cfdebb49b3b134.json"
+hash-format = "sha512"
+hash = "6d093d9f103189c5c820d873fb72ae3605dffeb118b605a38d4433a478720992d76d9fb2aaa9521d21780f865c98f368f97367a1da238bf3b71b34123292453a"

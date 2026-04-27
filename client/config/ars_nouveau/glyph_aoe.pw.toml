@@ -1,0 +1,8 @@
+name = "glyph_aoe"
+filename = "glyph_aoe"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/692ee5c2efb8b37c9447cd299c7419d32517fb7cd3a8c228a84e32f191b538c6"
+hash-format = "sha512"
+hash = "4c0fbcac7428c3bfe475afd2755ce3aca6e6ac9bf873c407accf9cd816085eb3d5f16870d42853f907e5c3c4ae0db4982cff89f5853860318c7b03bcd8e8775d"

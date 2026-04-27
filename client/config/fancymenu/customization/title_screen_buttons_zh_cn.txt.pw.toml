@@ -1,0 +1,8 @@
+name = "title_screen_buttons_zh_cn"
+filename = "title_screen_buttons_zh_cn.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/2766922fbcc32f775fc2e6da1192bcfcce352e54e7a515a26707ae3d2e65be9e.txt"
+hash-format = "sha512"
+hash = "37532c3becb3d5364d40301a7c099bce7ffd050c95abc1d0b7788bcf133eef6e439230ad1ec362fe4f45472b4153d0cb39f575ff161201a0ecdeaf2348e859ce"

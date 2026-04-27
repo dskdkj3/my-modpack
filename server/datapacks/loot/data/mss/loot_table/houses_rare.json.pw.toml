@@ -1,0 +1,8 @@
+name = "houses_rare"
+filename = "houses_rare.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bcd6923f752c6da2ca1ba78199f1881d190cb98eeeb3949fb1b5dde2ddd2c05d.json"
+hash-format = "sha512"
+hash = "1897d3aa9b23460e1d11c2d6c1ff79ddfbcaa49d72c836247be2ec6d948590c7e6e63958cce25d42dd2c466fe9f91ac0501b9358a06594381d0d56de1be3545f"

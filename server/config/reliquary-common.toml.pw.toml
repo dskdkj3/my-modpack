@@ -1,0 +1,8 @@
+name = "reliquary-common"
+filename = "reliquary-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96d19b32017624eccafacdbb51314103efc5bac36d6e4ec101277a36237d4d1a.toml"
+hash-format = "sha512"
+hash = "959bca856aa8fc3760da7f764aec2ad6b5528273eab4a68e576599ba6899b07e79ca6b883eb7cf3cefc0bb68709856d382e4c815d514957738e575f8769d9457"

@@ -1,0 +1,8 @@
+name = "yacl"
+filename = "yacl.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/678eeea5f3f4fa03c6f843e9e1f5e57be504fd3377485ff8b91ff06cb2ba015d.json5"
+hash-format = "sha512"
+hash = "9c0887731d03d4f3debca1e4820dec95c303c3d261f2869019e20fa4ff96945c9908e41ef39110062a392fc98e2f28de86b178b73293a7ee7056a533e4089cae"

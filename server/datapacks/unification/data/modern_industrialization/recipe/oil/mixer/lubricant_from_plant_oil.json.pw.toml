@@ -1,0 +1,8 @@
+name = "lubricant_from_plant_oil"
+filename = "lubricant_from_plant_oil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b331a123e0d67f915c0b8b87b1d1026755f8a9c47209c84521e8adf4a3ca257e.json"
+hash-format = "sha512"
+hash = "99d0f753fd0451092de316dd5f15469c7f1bbddab111832bd18fbc7a09030e7f931afef793f8f6d7762544f4417a0bfb11740df3a43c92e8af2c29657736ec6f"

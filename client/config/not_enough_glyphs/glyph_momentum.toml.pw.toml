@@ -1,0 +1,8 @@
+name = "glyph_momentum"
+filename = "glyph_momentum.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/6191ea029e58b0155a6185dc3eb41d754aa8ab242d2dd75b2887583448ecca80.toml"
+hash-format = "sha512"
+hash = "860d99c62778315caaed0c8f421dcc133e47c60764680c07aa3b8fa2a408d4a12ab54f787762f7b31a2dffd23cbb4ce76b65f1a2aa0d6640b6a44bde18866ba9"

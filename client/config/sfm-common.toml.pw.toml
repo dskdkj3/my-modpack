@@ -1,0 +1,8 @@
+name = "sfm-common"
+filename = "sfm-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9df9d58271209be3edb75e4f4ed06f59f2bf01651ef97139e143b237ea5371d.toml"
+hash-format = "sha512"
+hash = "5d3074e9bc8b4cd6a38fa7fdcddfd76e2febae2d6a23c4e8d96e4d4baf9d1b42efa471aba8db6ba9869556146c51f389ecf09951cb27ffa9156d1be04047cb55"

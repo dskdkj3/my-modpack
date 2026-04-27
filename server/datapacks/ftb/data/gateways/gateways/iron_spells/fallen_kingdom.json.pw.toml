@@ -1,0 +1,8 @@
+name = "fallen_kingdom"
+filename = "fallen_kingdom.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0cc0d4f5c522634c7899e986b02a9587c46f9feafd2838cb137962aeed28ede8.json"
+hash-format = "sha512"
+hash = "fd36a9b55a536b772a8a8859469576f936038973ba58a46821b22af2d85b8fa2d5dae910f00ca3c4f3ed04a4d31045b61a7016e3ee0ff11357dd10000491c574"

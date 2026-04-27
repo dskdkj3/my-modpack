@@ -1,0 +1,8 @@
+name = "player.block_interaction_range"
+filename = "player.block_interaction_range.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/7462342c1cb63320df6603067e3d8d45d51c8a0e1b95fa27ab7ef676a1b1ff69.json"
+hash-format = "sha512"
+hash = "f86da27ea1d0b5731f046fb0ec6c268c1e5126a748117daee607be454d31a72b016915258fc4ae37d4f44f2c72a464674d83886a2b103cca8358a850bfd2a510"

@@ -1,0 +1,8 @@
+name = "electrolyzer"
+filename = "electrolyzer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddcdef68d46881204b7ba93b54f76c9e23d0497a0cfdcf449818de47b1eb1526.json"
+hash-format = "sha512"
+hash = "2a8521a8f1fc995a15e4af2da706ca9a4bf619a76e4f18a319e591817c68c0ea93b1ac22914ac5809be388e742b58953064a72f6d12b287575987b629f8938de"

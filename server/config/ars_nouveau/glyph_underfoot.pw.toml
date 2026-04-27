@@ -1,0 +1,8 @@
+name = "glyph_underfoot"
+filename = "glyph_underfoot"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/8628032be9a15f029bf79b1c8944aa8d34c07561dd44eaaeb9a74c87b36f4bdc"
+hash-format = "sha512"
+hash = "f1eb7293020c69c0b7b28150164113a0b29c328a13506e7126e09dbee06cdf224bf9ac27a1d805527c80b2e60798a9b15d396195158e371d8524a092bfec12a9"

@@ -1,0 +1,8 @@
+name = "sweet_berries"
+filename = "sweet_berries.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/baff43920acb7657a93824efa61669225eeef2681633f6d4f0ca9cddbce52121.json"
+hash-format = "sha512"
+hash = "61131db3b1b3f19f6c8a697cacba1dd616b4ed387046a98702e9749e02ba7f5374c76a1f7c2582059a50b992d2eee028e1bc25338a21e56512f3585c070e7c9e"

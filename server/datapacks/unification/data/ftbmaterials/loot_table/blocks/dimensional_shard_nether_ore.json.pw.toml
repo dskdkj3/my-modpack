@@ -1,0 +1,8 @@
+name = "dimensional_shard_nether_ore"
+filename = "dimensional_shard_nether_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4b45fc932eddc5029cd2a6da22902890f6e0517a10f29ac8cf1e2b977e7babb.json"
+hash-format = "sha512"
+hash = "de843a20e7cb9b344ed91ebf7562691ba946806627b3c7fbeeff1feb630941dd79237e96760c63bd4ea54ce53721c379a742fe7b0a890726e3a43e8296fc4398"

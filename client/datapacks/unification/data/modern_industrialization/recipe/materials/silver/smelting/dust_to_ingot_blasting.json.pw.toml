@@ -1,0 +1,8 @@
+name = "dust_to_ingot_blasting"
+filename = "dust_to_ingot_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/6184c1425adc829a5b34cc01b01f1c05631c5a561d7cac90ea44493934a09573.json"
+hash-format = "sha512"
+hash = "6198e8c9de3bccdf8ff34a53ea616d564b6e4485fc276ce82102bac632a3f4ce08e36eff472a280e7656a7eb02b8dc6d0195aca57c8e2077723ae1f135b3f21b"

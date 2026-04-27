@@ -1,0 +1,8 @@
+name = "gold_sheet_temp"
+filename = "gold_sheet_temp.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f635842cae460aec09b9a4a02d29074f3bd937d81ee48d97945c48576fa283e2.json"
+hash-format = "sha512"
+hash = "c6a048d9285d4806f028e4b1f767d4a5faae8f7e253e6a513f7440f3ccdf32a48058140a1ef8ab4d590c8e7ddb0b20e05bc0c5e5d37f24663f95676c2a2b9a6e"

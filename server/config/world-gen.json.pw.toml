@@ -1,0 +1,8 @@
+name = "world-gen"
+filename = "world-gen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17fda3e74c17c88fc99d5825f21e444ca40aeb92856b1d5f703a0dfdea25b32a.json"
+hash-format = "sha512"
+hash = "60c90b7403d3e07bf1f295a41e35aa98ca55a007c7f1fb585f59c3297db8cabd8ef10c781b3ad6c44ae1d187e1783ac737842ce20d28eb4c3566f9afff2bcd3f"

@@ -1,0 +1,8 @@
+name = "fargo.nbt"
+filename = "fargo.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c74b87418b013076542a52097b76104fd48a4c0b93103885380acfc55421b0db.nbt"
+hash-format = "sha512"
+hash = "e976d80a02b4acb350131047fb5add03e5e158685d15a58a6478e81ab46706ebbeda39071c0c61169a21d22ddf7fb27a84e80563a6fed4d74c0284180d98a7f8"

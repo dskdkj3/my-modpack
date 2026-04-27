@@ -1,0 +1,8 @@
+name = "wheat_dough"
+filename = "wheat_dough.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb2b9ce962719226540b358efbd1de2bc51e657e14429940399e206b5fc94d04.json"
+hash-format = "sha512"
+hash = "95cea45269bd32b9ff382edffb222dd9908fd7291884de9382fb3d58b98272e0263eba7c230c3315fed44160e3a8abe0d9910cac956dec3d97cdbf733c5bb250"

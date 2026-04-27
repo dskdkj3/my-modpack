@@ -1,0 +1,8 @@
+name = "nether_castle_placer"
+filename = "nether_castle_placer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f077cd0a3d97f00b53bec4258c0eec7e00a573552450f2bfa8de8ff79cfa1cf2.json"
+hash-format = "sha512"
+hash = "6e306ef0082f66e5cf4930b9dc0baecef996c735520510bd34b3c73ee7197677a2015493ba5a3b2e9cb100db9cf55ce3c1a9e848adee4e1d0e1634b744132783"

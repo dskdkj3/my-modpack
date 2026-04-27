@@ -1,0 +1,8 @@
+name = "ars_additions-server"
+filename = "ars_additions-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/2109e25a2e35dd65c8fb728ee35c4bc9f230fc4c2dee1d283807fa585e327020.toml"
+hash-format = "sha512"
+hash = "5176bcb5bbb739e19ecdaaa240795e910f97255c40dad9c9e4f2889706ed9c79441bc6c91c283ae05155e62d945d501c0283e924bef47c0ded08b9951c24d9aa"

@@ -1,0 +1,8 @@
+name = "skies2_mods_hover_zh_cn.png"
+filename = "skies2_mods_hover_zh_cn.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4e4f029a8b488aa0dc79b70657dd8f91797e2aa9770a52c8d43a7b7fc93d616.png"
+hash-format = "sha512"
+hash = "03190a8d2d5b6876b6d94d1a1ce8e2476133b51abab1051696fcf619ec28db382d1fb3c89517004402c38c78b9424c7347f794ca3859b8179430e02837d3b586"

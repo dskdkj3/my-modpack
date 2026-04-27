@@ -1,0 +1,8 @@
+name = "glyph_harm"
+filename = "glyph_harm.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f8f3fc36f756db1c825eed678e2a8b80ce940c8ac60d8411965ef730fdd1daa.toml"
+hash-format = "sha512"
+hash = "4a1e6c1844238df95409114720d30b7c1e70b73752d4a1c9b9b74e03c00a7870afa7cb2307b94893484dd6f009cd2e953f46d5d353e85f1a3302e75b0aa49e84"

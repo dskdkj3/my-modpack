@@ -1,0 +1,8 @@
+name = "topaz"
+filename = "topaz.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa1ea89b16bf289e36d24810a407dbdd9053f627811d362a86211d66a78e175b.json"
+hash-format = "sha512"
+hash = "afe550170dc062a4b2d5ea541629e1582c8fc701fe1502a297dc92089338fa749886a380022b85c0444bd1465a6705bcc0d6e30975439154101bec8bfd2ead3e"

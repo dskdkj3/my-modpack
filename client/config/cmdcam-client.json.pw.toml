@@ -1,0 +1,8 @@
+name = "cmdcam-client"
+filename = "cmdcam-client.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17cfc2f8b33afa03c7261a976a41662447f7def03bd2963bf1a3a51bd4819a87.json"
+hash-format = "sha512"
+hash = "0e02634014de15be4044acd543e931643e37e79a22bfee728ac7889fc2cf2298737de3403551d770e49313b7beef3b026222e5c461e2e07c5b346ae589184e7d"

@@ -1,0 +1,8 @@
+name = "house_1.nbt"
+filename = "house_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b62b5111c212aa6f2bf8c76e2a75888b246986a88ac9ba53230331a26b90ccf.nbt"
+hash-format = "sha512"
+hash = "c64427a674b26c560a7fac394d16145a0131ee1d6c20e37bbd0426bc5bf4c551750c9eda17ef7d9b2e9f380191582b9fa6bcc4499857f66130bd656f4f5de5fa"

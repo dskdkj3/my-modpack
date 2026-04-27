@@ -1,0 +1,8 @@
+name = "mysticalagriculture"
+filename = "mysticalagriculture.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92c1c443e7d3ce796b0834ef143b3783ee35ac21ab8b17c2646783993bae19a4.js"
+hash-format = "sha512"
+hash = "af56740c3849ea1a517eebd4f77c07eea9c39cf1a0d9b4d9e6169ba4d70b3dbc9687ba63d17b57cff57c77520add40d4fb5d0317afa75d2318df1ad346e3790f"

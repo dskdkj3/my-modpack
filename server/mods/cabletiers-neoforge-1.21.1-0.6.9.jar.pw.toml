@@ -1,0 +1,8 @@
+name = "cabletiers-neoforge-1.21.1-0.6.9"
+filename = "cabletiers-neoforge-1.21.1-0.6.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7277/758/cabletiers-neoforge-1.21.1-0.6.9.jar"
+hash-format = "sha512"
+hash = "995940f0f4d33805909e960c0cd229064486c8c31d7dd8a4ea496ddc216717f1b5a18fe88ce10896d216306f392978fe465c8290df0cdc6806b5c6338e3ff8be"

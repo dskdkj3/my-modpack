@@ -1,0 +1,8 @@
+name = "machines-common"
+filename = "machines-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef1cd8e1e16d8e523eb2b76d3ac45459abf004a0df8ab2154dd90b8ae4f8d33f.toml"
+hash-format = "sha512"
+hash = "3f5b9bffac98542a1a8294e7d90c3cfe65b2760f59d6bf44fb813dc678ef9a0183fbb902b4200ea6239353902b1e03dda76ad3de73e6d034e0355211cb8053bb"

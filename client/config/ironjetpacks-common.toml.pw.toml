@@ -1,0 +1,8 @@
+name = "ironjetpacks-common"
+filename = "ironjetpacks-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e427e51ad83c6469d2cedf33b1f2f4fe742576f5dcb2a34b419159ff04465a3.toml"
+hash-format = "sha512"
+hash = "395966ed246139c3a4d6e3de2e1df938c56da55f67f041d1246293afbd5a99b49a50a1c5226abdbf63ab982b844aa0a606d0004019ce10264b83e26553fdc14f"

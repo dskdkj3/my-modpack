@@ -1,0 +1,8 @@
+name = "skies2_options_hover.png"
+filename = "skies2_options_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dfd6afc51683dc4d5076c03503a89769f8a5f8d637abf88f1269474d760b1f15.png"
+hash-format = "sha512"
+hash = "51f61e0b5870284faf03a3117215525df76f46fa46caed538cab046cfb702e4958e9bfc234f84d194bfce7703e57e6a37f2c1bbe7960a59c45a462bb163d368a"

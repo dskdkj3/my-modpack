@@ -1,0 +1,8 @@
+name = "functionalstorage"
+filename = "functionalstorage.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8ce0c1e5e8b209923d3ab652b6b1f46d7fb87388cfe1095fe6d6677312e64ef3.js"
+hash-format = "sha512"
+hash = "b1de56b130461d431e49a2d47c24c239cd774beb3a237d59198ac8855e749c616d3fd279880cdd747f9124c971849c3bb4756c837984531356e18b15720c8c55"

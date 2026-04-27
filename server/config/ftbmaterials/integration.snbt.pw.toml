@@ -1,0 +1,8 @@
+name = "integration"
+filename = "integration.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/60661f35bae53cabcdc6fbb316ea44b8a141d1d1751d1b2dbb0212940dae1876.snbt"
+hash-format = "sha512"
+hash = "87f3ea96f86a41857fdcba640ec406224217b5aa7c7ffed0a320aa529f744f2b98437772b9a1986204620d97ca861a3b90e78c340bfac115d63702fc953413d8"

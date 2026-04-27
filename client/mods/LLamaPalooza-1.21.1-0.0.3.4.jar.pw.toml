@@ -1,0 +1,8 @@
+name = "LLamaPalooza-1.21.1-0.0.3.4"
+filename = "LLamaPalooza-1.21.1-0.0.3.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6633/47/LLamaPalooza-1.21.1-0.0.3.4.jar"
+hash-format = "sha512"
+hash = "b1ed215cf9a46b3bf457d4fda6ad74ae4c544545c41638398a2aa719c99e961387bcf84a4cec50c57678d52c217eeab2c725fcca3afec23cacf216b626f4f8e2"

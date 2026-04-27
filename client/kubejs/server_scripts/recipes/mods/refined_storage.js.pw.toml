@@ -1,0 +1,8 @@
+name = "refined_storage"
+filename = "refined_storage.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e7c5fa0feaf8301b2a4df793331545cbc7f97042bf500f004ca6a02c34a647d5.js"
+hash-format = "sha512"
+hash = "a6120f409d30a27d356da02338d89b72d8f7438e21729c4b8a41136f1f3d080c233c82c6751f4f9f58db4f84e10a7519e876a107cd4744b8176df4c7c3fecab0"

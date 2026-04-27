@@ -1,0 +1,8 @@
+name = "bee_nest_helmet"
+filename = "bee_nest_helmet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95399a7c9aba1e1089eb67abaef5e934aab853af543c6559357a96d3c23e067a.json"
+hash-format = "sha512"
+hash = "f76cbac51a2009747aad260d426c1d4a04100b3385e1981109ef5e7e331c42f099c848cb5a91b98770c6f043cc60f1828f892f35ab1acb8acfa079fb3c4643dd"

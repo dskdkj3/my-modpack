@@ -1,0 +1,8 @@
+name = "glyph_flare"
+filename = "glyph_flare"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6cfc53fe7379d7a049414630c827d530f7b7fb5d946729e11ae0539788a1bae"
+hash-format = "sha512"
+hash = "2cc4a5b60c0cb1d80e6a05ad019aee9b59a45f8699b5a2a7c960563db8dda4368772cc92c3b9b31801142cdc91cef9358a24f2a307919cf65737cc5a5229ce22"

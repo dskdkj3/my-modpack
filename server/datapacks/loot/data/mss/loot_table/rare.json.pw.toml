@@ -1,0 +1,8 @@
+name = "rare"
+filename = "rare.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0af1af347030cf6f37342616f795b2f757448c5917d76eeb5d032becf0833e0.json"
+hash-format = "sha512"
+hash = "a119ec3a5560d6dcd54509f15e0aec764829ccb5f4ceed8ab6e01167c62724d5a75e325f6746ee4b374bba506b4589a63b59cb8e4bce564c0721440325a538a8"

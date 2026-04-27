@@ -1,0 +1,8 @@
+name = "simplygraves-common"
+filename = "simplygraves-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b0fc4e15306b523e93c07d3607e54f3f59a7efea97c3652ede56cedae99f730a.toml"
+hash-format = "sha512"
+hash = "5a2ac26e11ab92044e7d46f451ee5fe96a697cc6660015bfe5978eb410b033e62348c886fd9b6d0339e3854eac194230d77898f292220f07fade024293007079"

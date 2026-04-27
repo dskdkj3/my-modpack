@@ -1,0 +1,8 @@
+name = "core-client"
+filename = "core-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5668d775a6d42a35583249e1798d9b91c3f5e442b80862bc4cdb100e9fd1a1e.toml"
+hash-format = "sha512"
+hash = "9056ce80f494818247aacd45e81b4c2402d6f5b5567244e3aec345ce1277cf548620c4183ed5cc93505be3915709c3cb2a413658136fedbd585725e23184b02b"

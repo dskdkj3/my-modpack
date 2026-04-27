@@ -1,0 +1,8 @@
+name = "dimensional_memory_fragment.png"
+filename = "dimensional_memory_fragment.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a34ff8dad4be1ef7cc6b297388ecbba066e4994cad99ef8b1d1b90bf274196a.png"
+hash-format = "sha512"
+hash = "feb55204c1002ead99a8ec2705aa4d604567c0183d3abc3cc90891ea2d1e5617e17f1d3e13e355d52b021d4766e648d4a5a7e360da2cdadaef4fb7d665d764d4"

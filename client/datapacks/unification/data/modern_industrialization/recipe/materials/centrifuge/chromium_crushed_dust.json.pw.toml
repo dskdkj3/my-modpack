@@ -1,0 +1,8 @@
+name = "chromium_crushed_dust"
+filename = "chromium_crushed_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/6075175f60d29e645657d8cb93d33df385804b043277db33ca8759abf76e6d4b.json"
+hash-format = "sha512"
+hash = "68b24cb235d2f23a8b633806dae42381f57fbba8f0c648fd94fd6df98d9fd80decd43e3ae6bf1d4ba2f7dff86d327bbba1b31c35a4dde05daafca5055b913eb7"

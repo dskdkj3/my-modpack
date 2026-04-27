@@ -1,0 +1,8 @@
+name = "pyra_mid_upper.png.mcmeta"
+filename = "pyra_mid_upper.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76654c9ba9fcb22cfe29d1f5543e738528904785a69c628b6473a6183ff56341.mcmeta"
+hash-format = "sha512"
+hash = "9ad0663f8346738a52552b2a89f99f1905c2a7d8e8b91e4888c22ab1b1db617b49bd0ccc2abad22a50c54dbeed725820e746ce6db40a34662325b7c0e5a49606"

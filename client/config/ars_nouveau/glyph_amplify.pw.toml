@@ -1,0 +1,8 @@
+name = "glyph_amplify"
+filename = "glyph_amplify"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f38e6c7482b66d369bb4eb43961a04359e0e4ca011881c1e72db829d9346e7b"
+hash-format = "sha512"
+hash = "0f7479c3102267d8b1453f513fd3f7ceebf7e17bc62858d14eccc7b233329871c373af601bd2ef9c77886ed5cc1cec430fc91d64070b40d0fb46ca92bffaf86f"

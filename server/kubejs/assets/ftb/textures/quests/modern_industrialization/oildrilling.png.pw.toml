@@ -1,0 +1,8 @@
+name = "oildrilling.png"
+filename = "oildrilling.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2af8bd5dfe1a4e4193ba994b39cb8596353e5f548df365eaf68aac88d6e441c3.png"
+hash-format = "sha512"
+hash = "a730e3e187a2cf9593447ecb6ed9c84ae8eaf75c369d5ecbbfe8d2cfcf2d97910406c3ef52ca35cb52a92e86059d52f04582fb1ecb6d1e73bb77fe88dddffcbf"

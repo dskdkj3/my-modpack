@@ -1,0 +1,8 @@
+name = "end_ores"
+filename = "end_ores.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/bab66cfc4aaf951fa57d1606d325bd93ee5b3157a0b4ebab46d4ad702ece772f.json"
+hash-format = "sha512"
+hash = "477b738180dffdf38b8ac5be038fc57c85c30033d70fedeee619a4facabda70f478c815e07a7ba1259aa43de099b2611d4068eff17d5ad6778a429c8a1c70084"

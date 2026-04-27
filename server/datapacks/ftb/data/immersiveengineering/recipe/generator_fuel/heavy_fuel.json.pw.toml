@@ -1,0 +1,8 @@
+name = "heavy_fuel"
+filename = "heavy_fuel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e43fa7b66e6eeffeaa8844d045179d063ebfd277fddcb93fbc82ccc5baf055a.json"
+hash-format = "sha512"
+hash = "1e1bb6a623546d469d59828f7232eb87fa2e5bf8b95e2cadebcad8e25c45e507d1e36401cf0ee8a3714632ca23b56a4bfc691aebc289ca656f6973ca62b85a23"

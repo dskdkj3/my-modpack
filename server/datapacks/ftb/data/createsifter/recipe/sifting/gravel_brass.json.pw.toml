@@ -1,0 +1,8 @@
+name = "gravel_brass"
+filename = "gravel_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14a0ca9eb7f15a4ff8b4b4885f3bf53cb89533a7474017eba5674efae6ddecd1.json"
+hash-format = "sha512"
+hash = "7befbbe8eeab4f1b71218ffcd5d5ad64ddcb1467f5e59a9df876a6286c55bd7fab1ab79ee485b301a4317e920ee043c1d0b3164e44f47ee2cd9edd3f9705740d"

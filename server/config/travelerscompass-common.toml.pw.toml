@@ -1,0 +1,8 @@
+name = "travelerscompass-common"
+filename = "travelerscompass-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/adcf3a48b7b85e3ce66153cf000320102d49b73d3d7cdd13ca9c947c330867da.toml"
+hash-format = "sha512"
+hash = "ec43cb880b9c5969a7cae3013bd48e0da80d786e46ec7caaa58e218d7e6186165228ed97d61a0fcea165db706e1adcab7f0a315c4720dc0ab5df51d7843898f3"

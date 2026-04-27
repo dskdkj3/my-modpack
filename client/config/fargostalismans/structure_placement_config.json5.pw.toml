@@ -1,0 +1,8 @@
+name = "structure_placement_config"
+filename = "structure_placement_config.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1afe26893f76beee1b00a3fb914b4245b60c410e28ddc261b7ae32c3f4e3866a.json5"
+hash-format = "sha512"
+hash = "955b51fbd792fa86dd645579c9741eeeea62a29d85029ff579be10ab6bc6dfb8684be0c39d3a2c19b04e05886255813e1568bffdc8d6371932dfd94ac4564252"

@@ -1,0 +1,8 @@
+name = "glyph_projectile"
+filename = "glyph_projectile"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e021e9580d37a12f000948b26dfe826d78f21bd0033499bc200436f227e66f5c.toml"
+hash-format = "sha512"
+hash = "c72e5b56bfe2cd7c08ad81492c40bd83c1f0424f73bcbdebe782bbece2209000cf6d6c4452d2e1a88d599c80e19e1d310345e26842e2465419c8537c9b20b1dd"

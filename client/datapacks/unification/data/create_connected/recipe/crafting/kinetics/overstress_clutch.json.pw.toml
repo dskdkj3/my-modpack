@@ -1,0 +1,8 @@
+name = "overstress_clutch"
+filename = "overstress_clutch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b3f37694ab6ad366254e01659a2d988ce3eab23a76f77478048536bd972fdc97.json"
+hash-format = "sha512"
+hash = "d23b92d473a127dbff2bc626b03f88f0c08042e89cecd09bc8d5a4528bfc4271579e06590b31f4035377c4c8ceeb0c40a583cbbd97111ce42a446f647ab0e6e9"

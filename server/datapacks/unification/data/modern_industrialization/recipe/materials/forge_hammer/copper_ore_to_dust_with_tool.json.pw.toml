@@ -1,0 +1,8 @@
+name = "copper_ore_to_dust_with_tool"
+filename = "copper_ore_to_dust_with_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e80ba8518daa161dd1cbba7626609fe1a8fe7ae6218e72f9b2b3ec0044370fb.json"
+hash-format = "sha512"
+hash = "dee1dca7699a8cf221902dfc131da453281e7d8e9bfdb3d0c08001ad1e9892a6f98765fc40e3a3e799d5e15a0537012862cf91f91f2e369316bf3d4487c9a7d2"

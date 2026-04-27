@@ -1,0 +1,8 @@
+name = "glyph_redstone_signal"
+filename = "glyph_redstone_signal.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8abaa518c7293e5e38120d478cbd798413448c220578e3b10dad086e2470a4a7.toml"
+hash-format = "sha512"
+hash = "67d89308b62f8d8bb9998820d83d4c4e00315405218cb9e98147c6c106a7bba3306dff3540c4c692fb68f72a7a7f4dbfde8e92328004a9ba2e48b2167a0268d6"

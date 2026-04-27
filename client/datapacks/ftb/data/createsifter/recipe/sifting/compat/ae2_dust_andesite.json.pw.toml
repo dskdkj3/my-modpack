@@ -1,0 +1,8 @@
+name = "ae2_dust_andesite"
+filename = "ae2_dust_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0b88795643a5951738f60755c0462c822589d085fec0644adbdb2b025fbb4584.json"
+hash-format = "sha512"
+hash = "06b26316981b8ba6fc70fb33df30ade9d4858d8ecb10336f31b6053321419e2f641b5bd3283168ae84a844374de06a1f71fcf15d841a02d261f400c727aa2821"

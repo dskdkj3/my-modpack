@@ -1,0 +1,8 @@
+name = "dripper"
+filename = "dripper.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5cffa94cf9f034af152b2e8bf8b9b25474e9fd3c384080886fc0d1c184688f46.js"
+hash-format = "sha512"
+hash = "d175660f9c245fea7d32a8d5d07fb5012534e49a4a8c402ea7dd7149ff6b0eef3cf52ba97d6732c8e2bf0e93f58b7aafd75d952427f11210531f3840527c4986"

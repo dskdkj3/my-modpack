@@ -1,0 +1,8 @@
+name = "forgivingvoid-common"
+filename = "forgivingvoid-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d22f8ecebc71b58e678ef90ea1fc8a6eb28f6871095d354be2b65c305faf9c5.toml"
+hash-format = "sha512"
+hash = "ca33867941b83906798ec14d7cfe2f1e827b59b0ca888dba31a308033e49c2d61733a5640e412d7dc95a52b0cfa5464f2d7068dcefd6c37533ff56bd617a678f"

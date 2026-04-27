@@ -1,0 +1,8 @@
+name = "cathedral_base"
+filename = "cathedral_base.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2781e86504744b0fafbd20a0d57a6dc3ca2a8a22b3950a6afb4b5657159dcc8.json"
+hash-format = "sha512"
+hash = "ad873faae553adeb919e21e1001d146077a815757e48b9b336d04b6c2305525a1d6ccdc5617e2d608eb210382e7b98abf495539fadc0e5bd5e48de7de1a2aa3c"

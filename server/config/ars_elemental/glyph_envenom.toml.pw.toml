@@ -1,0 +1,8 @@
+name = "glyph_envenom"
+filename = "glyph_envenom.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f3d6d7ae7dc68db0172ee0a07565d6248cc3954b0897a44d68f146b9c2a8d29.toml"
+hash-format = "sha512"
+hash = "7ab47f6f3fd28da2bc2b5fe1154121ce289276736779f9bee0a66ca72553ffb9967e858cc992af0425ab664119b5c551a933de5f0a658e0f7bc62f4e5be3474b"

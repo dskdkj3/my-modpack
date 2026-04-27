@@ -1,0 +1,8 @@
+name = "ae2logo.png"
+filename = "ae2logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/9451fb9409629c17f9e5c09d59b5e21a3cbf8a564bcd9679a13267d661285147.png"
+hash-format = "sha512"
+hash = "025025f02dd14b10e98ac6e9c72dcd0e3012cea5eed3a28e71c952364dd413195d199398655b674cac9ac7a13e8e7c9ae710c0e0cae535e33a130cb6dd35e7ef"

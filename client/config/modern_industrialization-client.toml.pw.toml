@@ -1,0 +1,8 @@
+name = "modern_industrialization-client"
+filename = "modern_industrialization-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae56dd7e2eea2016db874eccc2eee31e2ac399ecb06cb8975eb0b260edecc9e6.toml"
+hash-format = "sha512"
+hash = "5eb2bff3190979c0d8ca4109fe8bb277847b2a92769bc0301f37c75e7827a34a1979beb24b08548d9a1e89b4383639f46cbd67163088baf2ebe09e537dd15437"

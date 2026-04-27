@@ -1,0 +1,8 @@
+name = "additional_regular_vault_loot"
+filename = "additional_regular_vault_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f653c50811b0dec00f2df007305498a00c36dbed6b146aae56607aca5a292a45.json"
+hash-format = "sha512"
+hash = "2dcc22b7c5caaa9924948c3d3d2994ae6b4e22b725aa7210190bb115919905623c0faf6cce7b40a9b073cd69fd3167f8bfb8f28ee100ae69a501482626256312"

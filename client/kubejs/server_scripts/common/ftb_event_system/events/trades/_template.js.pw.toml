@@ -1,0 +1,8 @@
+name = "_template"
+filename = "_template.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/7931cd5d464ff8f64b49f9d449c285d6f73ea21f2d94f79889b7ae1c146828d2.js"
+hash-format = "sha512"
+hash = "a560af1bb9a6796a6245cf87e9ac2e4cead4695962fcf7220160e5425d5960460294033e8d1dea4032c370ad6f4857ed40c42faa921111b6139cc3ded2589bbb"

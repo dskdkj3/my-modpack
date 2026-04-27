@@ -1,0 +1,8 @@
+name = "inferium_fishing_rod"
+filename = "inferium_fishing_rod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91d1ec21cab4f44f82ffb6b3320a77495e3c7791d91d11fafce3508d43c38f3a.json"
+hash-format = "sha512"
+hash = "fd4afac0322b556a29079b89af40463509b7c5c4410dbaf50e20430da1c1dfa8271c51bea54383a601c65596c028a5fa24b3c3b5c64ca7aff30d61fbbf0c1725"

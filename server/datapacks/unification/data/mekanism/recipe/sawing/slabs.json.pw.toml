@@ -1,0 +1,8 @@
+name = "slabs"
+filename = "slabs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b1005b50c0e36c32ba3ce05d436d6525e761a6ac3d8e13a0dfe2995fffd2d8aa.json"
+hash-format = "sha512"
+hash = "c64f55de684551ed68d40df35b218d2ebbba143085e3fe978dbe22edbc048a2fe4af47bb25109e534fab7818d412f70ca31fe82d97a2a1f60497e428de77f958"

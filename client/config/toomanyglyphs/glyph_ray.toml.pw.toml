@@ -1,0 +1,8 @@
+name = "glyph_ray"
+filename = "glyph_ray.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22521954d51d990342fd5797cf205e9472ab66699c1f77a0bc36dded43de48cf.toml"
+hash-format = "sha512"
+hash = "f6de025f9c8bd5ddbd35d9d9368b6ac51f90446adc95b2235c5b5f4f7c9713602a746a52a51a477010ec0a340e88a2a7d942a87f93cf6c520ff362df88da9d8a"

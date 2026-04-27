@@ -1,0 +1,8 @@
+name = "from_slurry"
+filename = "from_slurry.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c86e1d26f2bf4d7862aeb82ec369a924c9e1c059d770214ca9f90720b5a4e2d.json"
+hash-format = "sha512"
+hash = "2250c110d927d3f83665e2e896ee3d56cd559647427e8b42170e145defb29c5075b72c08a48413c54990b58694277d739989b935b2c193200c88aa3ad842d2db"

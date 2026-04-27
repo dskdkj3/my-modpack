@@ -1,0 +1,8 @@
+name = "pack.png"
+filename = "pack.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d70d6aa6f0a7c53d45667a1ba12b6d1e91bd2eb97dc8581e6fc0de18eca7066.png"
+hash-format = "sha512"
+hash = "189abea5a312b5809a495595b6988de8b3e7fc6f1e55aa693b78c9c8f274823809ed1639146f1067e40cbba7699959c46e8e0b7d9437d4fe3f18c8fa5885d996"

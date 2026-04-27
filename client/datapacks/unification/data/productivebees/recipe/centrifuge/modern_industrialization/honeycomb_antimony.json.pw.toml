@@ -1,0 +1,8 @@
+name = "honeycomb_antimony"
+filename = "honeycomb_antimony.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c9c42a41725d557f0c83bf0120d22b65fdcd0bac7291f7a1850cf6a68ba20d7.json"
+hash-format = "sha512"
+hash = "b5a0ec41858549cea40ca21f2d402859f8f545b4dc93ce00379857e310b6dcded214ec97a645394a31fa147a4c19009671d61b14dcae1511ea25d70d017b799d"

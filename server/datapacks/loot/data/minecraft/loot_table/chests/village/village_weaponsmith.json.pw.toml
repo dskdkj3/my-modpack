@@ -1,0 +1,8 @@
+name = "village_weaponsmith"
+filename = "village_weaponsmith.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/2046348a4506910901681df257fb903a1eeabb2da101d1cda62860f0dab412df.json"
+hash-format = "sha512"
+hash = "00991089c4f4262d9bf25dcb70e3a4a06c41acb578386c849586014a962b5d8769c9a46435ef0737a78abfb57876bdcf85d01c505f00fb91dbf19c9e373be910"

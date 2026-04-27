@@ -1,0 +1,8 @@
+name = "AdvancedLootInfo-neoforge-1.21.1-1.8.2"
+filename = "AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7767/452/AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar"
+hash-format = "sha512"
+hash = "97b4598d722c2d565853e86421c1a4f65c68314bd7d45bcd6a2697afc871dca968f300b2537433ad9e61b9f1f58a5573dc3398b07f003516e44b10803a894e68"

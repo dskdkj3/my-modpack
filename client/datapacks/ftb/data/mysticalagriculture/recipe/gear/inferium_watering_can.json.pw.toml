@@ -1,0 +1,8 @@
+name = "inferium_watering_can"
+filename = "inferium_watering_can.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5699d75e57162f20bec63204cdfcae8b5173c1e61032e0e417f2bb1a0d25dbe.json"
+hash-format = "sha512"
+hash = "e4c0d6f87c5bd7682ed7ed7b54e75abf74127baae2cc20db7ab761b62398e3c1bd902affbb49211a73757f4591afc267f4cb4d3e577902445b308d7725354ec9"

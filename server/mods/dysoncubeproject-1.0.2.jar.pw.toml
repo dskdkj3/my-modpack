@@ -1,0 +1,8 @@
+name = "dysoncubeproject-1.0.2"
+filename = "dysoncubeproject-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7136/179/dysoncubeproject-1.0.2.jar"
+hash-format = "sha512"
+hash = "a1c2c4fa3b58c49760548846c959af96619731a90e33d5c25d8465e4c8953ad8b390b5bb1e4ce7bff0ae5c87b75430f345ed9ffddf02af9fac21ea3cdd94953b"

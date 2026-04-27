@@ -1,0 +1,8 @@
+name = "rune_protection"
+filename = "rune_protection.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a4d392812c003785435aece25bcb40d9885139f97a997aabf3021cb5a35487ac.json"
+hash-format = "sha512"
+hash = "d32ee58d5ad1b875b186e8fcd2d8f8db9d83391fa4b07f90c40d1a4632a5d3a18d8b181a2d846f3256a001664735a0453c08c4dc29c47e29441b13154e15ce79"

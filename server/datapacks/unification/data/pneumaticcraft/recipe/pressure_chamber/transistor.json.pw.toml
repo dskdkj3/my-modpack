@@ -1,0 +1,8 @@
+name = "transistor"
+filename = "transistor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08ffcfe8e67669f29ff427c40978960d39cba1ed6b3ed7147242e2735be1cad9.json"
+hash-format = "sha512"
+hash = "49f080d1338241eaa852efe4667778ed56977f9ac7ecdc8aa5a0bbf1505d24e682a6839f2d30c304a864f65d5ae9082ecfcf7dffb9ea1e4d3f9fa75ee3405959"

@@ -1,0 +1,8 @@
+name = "amethyst_isles.png"
+filename = "amethyst_isles.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2dd895f50c6e47d4ffadc5e99be357465e15bf6370d9321134940854306257ad.png"
+hash-format = "sha512"
+hash = "f307313e092e4656b77c7f37e191f9fe6dcfa7ebe6a40df28dbbc917bf2914695875e0738ffed8d23bff8cabd929795e6375ebeea0ccd73b83101883b4e1e4a4"

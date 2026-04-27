@@ -1,0 +1,8 @@
+name = "torch"
+filename = "torch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/828b30bbef07b96820ed7336d23b17ea97a0492f438966f9c912e671fec87f3b.json"
+hash-format = "sha512"
+hash = "00eff4d6db33cb3312375a521ca4edbab30fb3ab95f6db3f41196714a51f2508d3f94175ab622c6ae1a8bf66559691902e7224d367d9400c994999e88feced92"

@@ -1,0 +1,8 @@
+name = "fire_ale_cask"
+filename = "fire_ale_cask.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5f2dd2cb60500ac37f806d06de26f9973986b68fae137198663a53bf047baae.json"
+hash-format = "sha512"
+hash = "1ae26bffad4380a5797511a07f3cb79c075dc2ff7542d9a88718803a0577101655976dc4111f979b8c2e86afb30d5f0b6df2d9463e42771327b07d6b68bc6445"

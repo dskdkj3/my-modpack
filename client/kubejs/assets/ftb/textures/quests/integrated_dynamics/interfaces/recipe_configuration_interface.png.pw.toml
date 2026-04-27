@@ -1,0 +1,8 @@
+name = "recipe_configuration_interface.png"
+filename = "recipe_configuration_interface.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d1d14c5b36375aa4c08e1e7c64f49d4764c10f548ffd9056228cc88f9aa4c8aa.png"
+hash-format = "sha512"
+hash = "ec48f75b4635583e19b6a1d8b3c56dd63a33daf23ce3a83e2e59e4232a6fb548253886b976d01dc5dbb905c82fed43468fe7d3411d63660adc76044afe05d99b"

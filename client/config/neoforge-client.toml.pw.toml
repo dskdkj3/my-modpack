@@ -1,0 +1,8 @@
+name = "neoforge-client"
+filename = "neoforge-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff80d0f4ab3ec20e73135ca8100a09bb9492ac3b23aabd2934ef756c60c1c563.toml"
+hash-format = "sha512"
+hash = "5724307661c685eef57c693f21a14100b3e4a202479f4622103e1f5bff1836ccab3a59a8c2d02b98332a632dffe878a3cfec8495652415c09909e59a7bd82272"

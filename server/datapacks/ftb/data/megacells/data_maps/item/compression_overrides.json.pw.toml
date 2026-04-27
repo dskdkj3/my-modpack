@@ -1,0 +1,8 @@
+name = "compression_overrides"
+filename = "compression_overrides.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/682dda65ce27a84be64c775470b93c258e615eca0cedd4306b18283e01cb992b.json"
+hash-format = "sha512"
+hash = "8b831d2b99029657efdfc842baae7c44cdcfe39dc3f0aec3bf20193a04b6bd319600cde9f0f401c2c75b051aba70e42fab0d1da3c329408709cce462a4753601"

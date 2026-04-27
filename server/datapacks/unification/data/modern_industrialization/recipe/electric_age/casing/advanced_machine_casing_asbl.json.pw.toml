@@ -1,0 +1,8 @@
+name = "advanced_machine_casing_asbl"
+filename = "advanced_machine_casing_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9d43c55b8fa80b0b9c4fcd1b31795fce671bca4cb44356696d8106d77b48bf9.json"
+hash-format = "sha512"
+hash = "46a9978dfb51d1395541ffe3bb8a5d693159913ac95271f8a66e4f1c025457ee23a174ef4c81a7669dcc0dfd54f46134bf1ef7fb0f035880fa75c68d3faeeac4"

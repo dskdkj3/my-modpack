@@ -1,0 +1,8 @@
+name = "mushroom_pond"
+filename = "mushroom_pond.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25ba084cfca8f63c7840d4080455b815dc1cfd93e46344033121117b56dd5b0c.json"
+hash-format = "sha512"
+hash = "552641381c365888f185eef1ae02d2ed2fcb4d3e85f7831a0b47118bc4bc85cce11154eb785e528e3c05247b348b47e4bce8146357fdbe1c773a44c0e48764cd"

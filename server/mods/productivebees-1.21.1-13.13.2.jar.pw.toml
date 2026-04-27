@@ -1,0 +1,8 @@
+name = "productivebees-1.21.1-13.13.2"
+filename = "productivebees-1.21.1-13.13.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7852/443/productivebees-1.21.1-13.13.2.jar"
+hash-format = "sha512"
+hash = "1cfdcd49bec6902a3971cbc0954bbcf43e889e2cb1447bdc6af70efaedfc1d830ba0d2b44b52204c40498bc14b5202bd9097d7eae18b62be956b22c7f8a9ef81"

@@ -1,0 +1,8 @@
+name = "emojiful"
+filename = "emojiful.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb56bc81d29169f2fc23737ca1f0fb6b6ff6d48af3721eac577df223e757fb87.js"
+hash-format = "sha512"
+hash = "ccc7faadbc66f2364963a6c741a85c46f8210167902192f9b7cf03e94e751e0eda7ced948a2ac6ad9b491c868fe9628963817a2b90eabe30aef07eb917863200"

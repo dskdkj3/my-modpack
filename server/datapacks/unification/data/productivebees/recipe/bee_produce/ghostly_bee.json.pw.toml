@@ -1,0 +1,8 @@
+name = "ghostly_bee"
+filename = "ghostly_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67e042ee7fa5098aac31dd039d3050c00e29913d7ec4d85efa7f67732b81674a.json"
+hash-format = "sha512"
+hash = "f023860eeb90ecbc4d6ec85effeec928cb7a3c687ceb400706ebef7c24ab611fc4775c67ac4de6aac31c349e028efb9800259d789f54deb0dd935c7b8756f0bb"

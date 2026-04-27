@@ -1,0 +1,8 @@
+name = "farming_for_blockheads"
+filename = "farming_for_blockheads.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31f8b32aa3a584fd4a3d482654d6553cb28799e432b679afa81bc5b44480faee.js"
+hash-format = "sha512"
+hash = "fb61af1edd25d61c37f50cedb0d002dbcc987450db5e02b7a9329de17fe5c4a5d15d671b00301c22aa55d95ffd9e1c1b5bc5697b9514d8db5680aaef94f4ec32"

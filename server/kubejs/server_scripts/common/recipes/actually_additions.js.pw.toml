@@ -1,0 +1,8 @@
+name = "actually_additions"
+filename = "actually_additions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2618aaf1811a6b6e02d32162c177b4ce5e1d5bfd9372f080e858d1b8020dce8.js"
+hash-format = "sha512"
+hash = "d906c82549aa7fa7c05914ce5f375ce2a6918fb16b58a1cd7ded665f8dd0aa5c3895b7a9801afae824605c73757dd3bcf72754108272dcc1790f6c498a7c756d"

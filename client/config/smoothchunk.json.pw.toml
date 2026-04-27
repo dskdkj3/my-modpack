@@ -1,0 +1,8 @@
+name = "smoothchunk"
+filename = "smoothchunk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/6351ac8e63d188db5e387a64aa39e5c4ca531b75a06ec418c5b0b07a6bbce741.json"
+hash-format = "sha512"
+hash = "68852ac700212026e9a344a1ca615800ccd0f61442688bb5a262f96f8d00489f10315e115fbc868d9414461f59971e55e5816917942803dc7442c12f24e9c60a"

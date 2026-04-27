@@ -1,0 +1,8 @@
+name = "lazygray"
+filename = "lazygray.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d928f7928736f86747f56df2241c007e5ca4d0c35db64ab6c1b05ac42f313b9.json"
+hash-format = "sha512"
+hash = "5a7cf7a94ab1a69e622ba52ab505a316291fac2815ed0632bbd37d92544524efa287d683abd54444fe1174f6dbf18bb0050146895299ebbd11c1187f49701c98"

@@ -1,0 +1,8 @@
+name = "sauce-server"
+filename = "sauce-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85a5860f5071a240688374279fbbba10b3979af915c4ee99f4a4f7d7d31131d2.toml"
+hash-format = "sha512"
+hash = "caacff0c3cd0a8b71b78fb5fb5f7000a97a4fcbc47cf35d4ecb39c8be88e71a4df6cfa2086b90390aa809970f59a4114d77486b0a4566a508fb999a369715380"

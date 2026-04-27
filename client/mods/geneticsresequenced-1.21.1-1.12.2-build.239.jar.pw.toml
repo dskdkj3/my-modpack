@@ -1,0 +1,8 @@
+name = "geneticsresequenced-1.21.1-1.12.2-build.239"
+filename = "geneticsresequenced-1.21.1-1.12.2-build.239.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7574/35/geneticsresequenced-1.21.1-1.12.2-build.239.jar"
+hash-format = "sha512"
+hash = "8253a78905d298fedbd93f92e25c6afdbcdd4a80d4684630e7345fdc041fb0723d59cd639cba243458f7a789a9d067869d9556bd6e5beac7cff09a4890116896"

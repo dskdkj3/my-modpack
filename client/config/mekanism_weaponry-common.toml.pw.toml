@@ -1,0 +1,8 @@
+name = "mekanism_weaponry-common"
+filename = "mekanism_weaponry-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91a8b8f375e5324a50b309119b3318029bce5adda3ad17e090b75994da7204c5.toml"
+hash-format = "sha512"
+hash = "a811f629e9ccf1dea45e00829052e936b5a330c036d32010917d71d6731c51efe21e11028385cec9d387290a51abc07b3818140193bc2d0a873978360bf0e681"

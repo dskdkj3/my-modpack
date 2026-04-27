@@ -1,0 +1,8 @@
+name = "iron_mesh"
+filename = "iron_mesh.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d01247f891a89b98d01927d8430210937959197acfc883817453774ed07d9e01.json"
+hash-format = "sha512"
+hash = "f7cd43c60ad30c295638c3895bc5cfbce1761830cc3be16f6f12304f6bf0b97bf7f91169af00d4447cef9e2e8a3315b2f411cee01f90c7e9d8bbda77bbca7072"

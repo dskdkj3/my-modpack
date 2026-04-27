@@ -1,0 +1,8 @@
+name = "hall"
+filename = "hall.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52fc38689cf1f4e2c2525ad7403e33c828718c02ef563de91884a14c11fbb4c2.json"
+hash-format = "sha512"
+hash = "dbfe22d8f1d8cd253a0b06f63ff9323504ac78648ad17e46a6e49a782727e8d8fd90d6fcee2f4b6790d0938e8d227024e2bc71bc6801cd07c7f1d731420bbc5b"

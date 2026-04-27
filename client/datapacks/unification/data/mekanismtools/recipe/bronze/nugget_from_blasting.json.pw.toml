@@ -1,0 +1,8 @@
+name = "nugget_from_blasting"
+filename = "nugget_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a99e54906bf418004ac046b160011066bf5188dd4402468d4af654b6a14f52b.json"
+hash-format = "sha512"
+hash = "bbebe37306a5b3f6d1705c8f504c23ee7d76f8f20ff86ebfd044ae9ff020578398830556807408348c7aeaa1d345d1cb4210a874a2729f80bbe6ddf3f6c0fc87"

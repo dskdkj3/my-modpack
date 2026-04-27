@@ -1,0 +1,8 @@
+name = "glyph_duration_down"
+filename = "glyph_duration_down"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4e7b3cc8aae70452afff27e43a99bd9cf8e9d43a53fd549bc8bd201d4bdbdc7"
+hash-format = "sha512"
+hash = "0598ebe5e1634419131031679e640e231b1ec29f44ff53ae63794a6888c02a013fe77e164d159dc928e0841c50ce932c9f72dd6afab57a6c6136f5eaf57de539"

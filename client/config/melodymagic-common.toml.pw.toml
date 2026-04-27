@@ -1,0 +1,8 @@
+name = "melodymagic-common"
+filename = "melodymagic-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e4a865a47f818a2c290f5b7c2bc958cc46a6f61d6d83f9f82fbeffdf03f4847.toml"
+hash-format = "sha512"
+hash = "235b30dcefeb5691070bc09a9a0c353df048fec52c8d66d42e0481406db56d72af3734b2f2df285310860fe49889a832c20ff9766d0af409438241c6e93108fa"

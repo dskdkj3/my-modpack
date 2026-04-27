@@ -1,0 +1,8 @@
+name = "casings.png"
+filename = "casings.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9fda7bbc0f70c5eff4c8bbe0c6e9d80ed7171154f8aca396d0efc9ed005b4941.png"
+hash-format = "sha512"
+hash = "d630dc852340eed9f8b9666fbec683fd425180c22959874a2163e6a99a5f440a190bc660a443ce05875c194e0c23a34933f13943c04a3c4a3e8c3be7ec4c2c53"

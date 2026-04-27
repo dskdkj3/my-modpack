@@ -1,0 +1,8 @@
+name = "farmersdelight-client"
+filename = "farmersdelight-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edbac49321c2da7d90974e9b067f3369f25ba81ec838e368da8c97541febfa7a.toml"
+hash-format = "sha512"
+hash = "0c03acd2ad80955f05f14d45465e415640ad8ba96801480a82826fda0e89cc5fcd95d60b9cfd417b973790a1835fa79792f96a25f5b0c19fdc66b0600009a00f"

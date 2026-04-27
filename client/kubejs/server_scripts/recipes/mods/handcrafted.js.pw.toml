@@ -1,0 +1,8 @@
+name = "handcrafted"
+filename = "handcrafted.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a444258fe8ee885592520c0ff34a706470dc30f0d87c4fc0df1d17212a2effd.js"
+hash-format = "sha512"
+hash = "502d2d4fac34bdc3bdfb7d97feac9774e284e0119bf65323715de28fc960046d087347a2eabf0b15361c2007d9d8aa9c3376dde2e9d6a88ef755b98612d1f982"

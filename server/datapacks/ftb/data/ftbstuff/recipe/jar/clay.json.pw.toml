@@ -1,0 +1,8 @@
+name = "clay"
+filename = "clay.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d32332a64e00bf20c6c1043347c9b6ffb1e6b9ddcfb46d7531c202a3d48ba2e.json"
+hash-format = "sha512"
+hash = "c7f1df41e5a2872b811c12b01ecff76ad2de1e23a93341172d9b0b2ea914d47d26857a3ff98ae41ded51119d376b0cf5c8b4489f07967a1b85f870718b67cfce"

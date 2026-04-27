@@ -1,0 +1,8 @@
+name = "glass_bottle"
+filename = "glass_bottle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/356b3c63b96f1cefd6cc0ca1891005c2ba12308d370012aee0e0ed5f0777c5e4.json"
+hash-format = "sha512"
+hash = "bb3c606285e55ec7e85af3f656a927e7938ae57004b90230d117e3b159a663b87e09908ded98729cdc4e3642bfa3da3365553fb74b79bb71f28560e140624383"

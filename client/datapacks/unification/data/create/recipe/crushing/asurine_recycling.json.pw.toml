@@ -1,0 +1,8 @@
+name = "asurine_recycling"
+filename = "asurine_recycling.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7be25ba381a6c131f9fa5c23ca8caec707fb5c5e0edfc60d0566322a8fa9f698.json"
+hash-format = "sha512"
+hash = "cdfcb06817c696d0831abe59bb5fb4dc09fe93f13a6dc904ae1edf4900564f845fd84b7dd787c420a9ea3a56e7e6f37d1875e03cec702ce78d7e455a01d13db6"

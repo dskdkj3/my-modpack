@@ -1,0 +1,8 @@
+name = "nether_bridge"
+filename = "nether_bridge.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/426d7bfd32f933b843f7ea5133a04da642532edaa3598bbec7e25adea9ea7aa8.json"
+hash-format = "sha512"
+hash = "779c2a7270cb06a5679b64ae1cb50e49ec33c40dfb07d20bc2d7db3772402d57e1073c0df357086c52b3dc5f65959c3387f1d2bfa878ea7b005fc5d0d20a7f94"

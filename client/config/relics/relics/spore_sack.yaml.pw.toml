@@ -1,0 +1,8 @@
+name = "spore_sack"
+filename = "spore_sack.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c28d48ffdee10959057bb0164bd07cee483b764494e3008ffd8be965abbcc4b5.yaml"
+hash-format = "sha512"
+hash = "cad21e9f5c982b6999e6732cb9c3392b0d59f4967cce25d59b6d191242795d06ba706da771bfd9aedec61a7e3906e2ce3e662c150040173e134d9a10a60d79c9"

@@ -1,0 +1,8 @@
+name = "crimson_sky_village"
+filename = "crimson_sky_village.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6d28ed9dce2c46f8b8925efa9f6b7d24cc6b063a39e65059d1574da043ad1e1.json"
+hash-format = "sha512"
+hash = "cd0d3ffe0b7a19c8e87c644a1b3329d027842eaf4804e43f93566e0522b74626519cd48bc2d498c734fbf8754f78379713ec9f7efae74faaccc1425ed40891a7"

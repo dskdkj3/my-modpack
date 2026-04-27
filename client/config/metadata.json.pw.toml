@@ -1,0 +1,8 @@
+name = "metadata"
+filename = "metadata.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/bad6a07b5a58338b8becca10f3c67ef38097b5619f8b5858149930f478641ef0.json"
+hash-format = "sha512"
+hash = "7bfc8a1bd2d35887e295bbdc3d412841029aeef3a28ece655db8eff0786428101687431df149350f78a5439a42cb6f5dea818a701ba88952d73e7be4e8b9a25d"

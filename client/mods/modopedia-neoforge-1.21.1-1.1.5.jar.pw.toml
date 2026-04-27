@@ -1,0 +1,8 @@
+name = "modopedia-neoforge-1.21.1-1.1.5"
+filename = "modopedia-neoforge-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6765/935/modopedia-neoforge-1.21.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "be99962dc7c45bfc25415b9c0b99a28e63e428c33c4fa57c3368e803b0eb34263eaab12c56fcdc58ad06c502e204382afc46b2b27c8aff467a396a3731427cae"

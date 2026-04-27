@@ -1,0 +1,8 @@
+name = "craft"
+filename = "craft.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/29e44faeeb52bd950ae2d565fca2ce416dc91234e3d3581d3a8549c406c7f232.json"
+hash-format = "sha512"
+hash = "37b9794a55fe22d65c17cdbb91e9b4287913977102283955ea01d27100061d6bb9db88a06bea1df231d2647d77525984f3b47a24c8a6bda42ce885d837c36ffe"

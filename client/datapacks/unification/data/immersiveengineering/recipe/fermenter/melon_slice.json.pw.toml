@@ -1,0 +1,8 @@
+name = "melon_slice"
+filename = "melon_slice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/42aa240993069cc1bdb1d219d3076688e54878c67eb2ea37ee05abb4219d1ec6.json"
+hash-format = "sha512"
+hash = "403e8b25ad12f73424d82c2ad2e5a38db41e8155185feb407293231bd3d23bf0f5d0e4a37cc23bbece620b64177bddc19101befb3c77e70f6da39dddf896eaa5"

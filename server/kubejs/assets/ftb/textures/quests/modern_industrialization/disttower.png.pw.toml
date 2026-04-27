@@ -1,0 +1,8 @@
+name = "disttower.png"
+filename = "disttower.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6845ded2c9e7879f97cc7cfc81a02079baa1dc2393fe0a81047be4a8a526fc6.png"
+hash-format = "sha512"
+hash = "d336808b548404eb9a0c192444ebc93721048a2bd83c879f3e6948f9ccf9bb75ca064467692312a636c5e1132315d1a666f930fb39c5f75de30742c836b12c94"

@@ -1,0 +1,8 @@
+name = "emerald_to_lubricant"
+filename = "emerald_to_lubricant.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f6a60a5aa95842b3250c2cbb856946d2e5fd3b10c8bc9cd6a74abf379fe548e.json"
+hash-format = "sha512"
+hash = "78a0787b520828d27077ed9105ecce4ca4fce1d49a1edc0c545aec3aabc84b0c3f3d9804ebb08ea963195087f76bd0d7fc662850c814b007570fed6b68dc11eb"

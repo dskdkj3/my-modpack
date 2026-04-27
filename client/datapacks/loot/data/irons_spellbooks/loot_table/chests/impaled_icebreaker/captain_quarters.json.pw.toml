@@ -1,0 +1,8 @@
+name = "captain_quarters"
+filename = "captain_quarters.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e02cc6df26b5200bb2e0ac8c048b8591d6415d3c79ff5bbc00d9834736c363d.json"
+hash-format = "sha512"
+hash = "20bcade5a8e11467d562f6f091e19133c57511578ce4de2aec8b91bec9269012c30560c1ca3ab69f285bf2a9b6a63ff3df623de6e11713364ee94a650c4d44f0"

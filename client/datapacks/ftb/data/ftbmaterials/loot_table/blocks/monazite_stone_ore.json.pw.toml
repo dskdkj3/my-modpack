@@ -1,0 +1,8 @@
+name = "monazite_stone_ore"
+filename = "monazite_stone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/db4a5152de9db3b3c44fb00efcda02173a11e567675b9ff05f43fed98d62163d.json"
+hash-format = "sha512"
+hash = "9e97944edfd700dd4ec4f4eda89898128f89cd1bf430d0e7b302ad7d1f7c58a04a1f93aace5d2ee938fde3788f1a3df1a62a19e785dacf424ecea1189297225d"

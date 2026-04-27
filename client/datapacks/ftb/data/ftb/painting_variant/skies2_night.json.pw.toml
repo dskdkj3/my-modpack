@@ -1,0 +1,8 @@
+name = "skies2_night"
+filename = "skies2_night.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a560aafbfd17d879939bf137150a25423e4f943b355327b2a1f9e0430e09b334.json"
+hash-format = "sha512"
+hash = "7c3308e7e1b7bf68d18980b5b8ef0cd4fc9a512320f5fae3ef22b028471a113b2852e105d9696da295343a04cdd1f5bec1b15258e93c3bcebe468ee2f620377b"

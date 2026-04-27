@@ -1,0 +1,8 @@
+name = "justdirethings-1.5.7"
+filename = "justdirethings-1.5.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7463/40/justdirethings-1.5.7.jar"
+hash-format = "sha512"
+hash = "43dad52dc8e54bbe27dff31e7a38ccc5c2dc5868c10cd3b8753b7f8dffddf4afdd21d955f95b8d52ad544a9c7f2722bec86eaf0ea4081246caf6d2acb6802f01"

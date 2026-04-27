@@ -1,0 +1,8 @@
+name = "birch_river.nbt"
+filename = "birch_river.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e5cc20431d8e5dbe9f6ef8a319d92aab2e8d265816c6ab665af18fe277fb3e5.nbt"
+hash-format = "sha512"
+hash = "d0b2051b8e01a6063795c03824476019ba6d3a083fd7711c6129a83bda8707fa1ddb8e0b257ef23f542549436ce436666884dcf03f02762660a2f37c0affa1c8"

@@ -1,0 +1,8 @@
+name = "apoth_logo.png"
+filename = "apoth_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/753340e154c5ccfef060e091a5eae86197fb9f208395053a343600428d993783.png"
+hash-format = "sha512"
+hash = "77f9c0b60cb9170767f3861b67ad394a349d7b724d3a959341cc2d3341f81220108f1eae51c8b828e7fbd34f5af3beec022bc8385ade14c3f3a1473ee0126e87"

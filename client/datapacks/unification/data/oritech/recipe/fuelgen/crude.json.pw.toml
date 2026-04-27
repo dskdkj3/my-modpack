@@ -1,0 +1,8 @@
+name = "crude"
+filename = "crude.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b1673a78e78401dcb7ff4ca4f83799d3d1c11147ae4f54f0b88562e3251024bc.json"
+hash-format = "sha512"
+hash = "5b8540277c06073f07e5b48230e4b067550b3ce315dd0c9ec58129c8a8f6ec4322d20d217bdc77dd38f3aff60dbe4cda82d6d0db81cea58ee90f7c281e5f5c5e"

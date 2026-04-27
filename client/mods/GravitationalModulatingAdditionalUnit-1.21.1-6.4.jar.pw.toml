@@ -1,0 +1,8 @@
+name = "GravitationalModulatingAdditionalUnit-1.21.1-6.4"
+filename = "GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6895/172/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar"
+hash-format = "sha512"
+hash = "a0ccff0a5901dde4a62a3dcc9288206ec478b3aba1f4cf0061b596692a0c54726a477fb4b3159dcb405f79796a4d9e6117496ad44cf6528a69fde7db42254c95"

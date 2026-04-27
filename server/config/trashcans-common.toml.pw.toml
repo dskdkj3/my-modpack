@@ -1,0 +1,8 @@
+name = "trashcans-common"
+filename = "trashcans-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09d28cb0449ddaee91b0551a5bd67b7200b3fee18bb6e25254a612f73b4c2f59.toml"
+hash-format = "sha512"
+hash = "979883e2ef944c746ae65cd75d28fef1fae610054ed86dc27a160d23eedfee8135d826169cf2b118ff40b830f7e3ad3e39b30c767c0898b75696ef5814fed355"

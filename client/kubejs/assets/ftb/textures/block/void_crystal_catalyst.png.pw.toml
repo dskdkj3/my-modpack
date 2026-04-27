@@ -1,0 +1,8 @@
+name = "void_crystal_catalyst.png"
+filename = "void_crystal_catalyst.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b2543bc21b2a3c939f2594e303e479275e83233eff45b3bb3c2008a5dbce7f1.png"
+hash-format = "sha512"
+hash = "54f5f2611485d20685fde96cd05a6004d76472328ebf32364ab2508b6fe926199abd542fb9b32899f7b91efe2a738c6fce0401632fe0d52823d2c6d6550b7274"

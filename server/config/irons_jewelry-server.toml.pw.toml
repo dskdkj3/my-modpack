@@ -1,0 +1,8 @@
+name = "irons_jewelry-server"
+filename = "irons_jewelry-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8d65c27a46e90af18b9fab91708cd25dc81b2e66d220918e4562181c54ddecd.toml"
+hash-format = "sha512"
+hash = "81477fe9d36d5401f6b38234e463296931ecdd58ba3a32a77c13fce96f48e835c8410e39926de75daac411eedc34979b178d8e5aff6a96b3ed50b9db27891f1d"

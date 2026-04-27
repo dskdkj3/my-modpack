@@ -1,0 +1,8 @@
+name = "rune_lightning"
+filename = "rune_lightning.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6ff01b9c14f16ff32b991190a9b793f43862b87aecbbf1f89594669bbdbd5507.json"
+hash-format = "sha512"
+hash = "c1df96f56285e87169c0e138bd45c7976fee5c8b1785f1b7e689cc52b3a20019a8b123a600e79cfe60639ccb8101626014e9ab1e4738d84a612d1f8cb2dde58d"

@@ -1,0 +1,8 @@
+name = "intersection_barrel"
+filename = "intersection_barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a4a17c599d06aee38273cf83ac7a8287e8082f37293004693f075a1282d94d62.json"
+hash-format = "sha512"
+hash = "64cf83c885310cda6e9d550330e5a38af0a0eba4c3405f739557a323830c7a97f31912c2943665badf8dc05e9b20ed9444d648f2365eb81830975a0b23f0ac11"

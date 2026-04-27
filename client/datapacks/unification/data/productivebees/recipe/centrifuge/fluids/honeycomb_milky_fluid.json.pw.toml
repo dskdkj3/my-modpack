@@ -1,0 +1,8 @@
+name = "honeycomb_milky_fluid"
+filename = "honeycomb_milky_fluid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c65a641bb81a5eec35d2d352891df47ae0c479b5576cfe82494992ef39686073.json"
+hash-format = "sha512"
+hash = "26bc36e8085db9c00cc059f23a18438a91f1880edcc78331d456404245592dfa93a7fb7c636000c11e4675decc3f45615e4576f3e8575da0b1f6d7f6c0f4d614"

@@ -1,0 +1,8 @@
+name = "mi_sound_addon-1.2.0-1.21.1"
+filename = "mi_sound_addon-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7319/383/mi_sound_addon-1.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "44b9355781a01fa856b691b6116bdc354c91a503b6a2e733e627f27516e890600de04aa31235b2b66d4f719f40bc5619195b0de89304d042042b0c151e0193aa"

@@ -1,0 +1,8 @@
+name = "from_clump"
+filename = "from_clump.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/674824bf834a6a4ffc3388dd3a62d9b0e0474d03fe3ed26714a2950ffa437687.json"
+hash-format = "sha512"
+hash = "e68601fae58a94674c5603df4cea3904c39640664cde8bfc0811d1bff731eb5ab87d0edf0e70bd6266c6da8bcb48fb36f468ec69548fca3bf35dd2dfcf2917a0"

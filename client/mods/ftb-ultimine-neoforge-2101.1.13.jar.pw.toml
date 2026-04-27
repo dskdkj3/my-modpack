@@ -1,0 +1,8 @@
+name = "ftb-ultimine-neoforge-2101.1.13"
+filename = "ftb-ultimine-neoforge-2101.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7570/482/ftb-ultimine-neoforge-2101.1.13.jar"
+hash-format = "sha512"
+hash = "3d493d3f48f98a0973ff701e0d2e4ec85d5312b8f4273624dcef0475022bcc9b54d52876faaa6b4f2bb8699ea1da0f6f03716e865e89ea3813f88c16e5fbbe72"

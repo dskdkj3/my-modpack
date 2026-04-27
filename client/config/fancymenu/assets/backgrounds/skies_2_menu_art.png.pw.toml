@@ -1,0 +1,8 @@
+name = "skies_2_menu_art.png"
+filename = "skies_2_menu_art.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c48124d92900a0917ec09d0290b12e66883bcac033d652e8c3fd68561f379f4b.png"
+hash-format = "sha512"
+hash = "b0a24d079b812f95c07434767a6be2cb7dfe363a2361e7aadaa8133163a1114717b4a234ba141ebabef18cca6fe8d97966db67e3144e8eb1872ba0fe2fe59e15"

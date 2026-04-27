@@ -1,0 +1,8 @@
+name = "stevescarts-1.21-1.2.18-neoforge"
+filename = "stevescarts-1.21-1.2.18-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7368/915/stevescarts-1.21-1.2.18-neoforge.jar"
+hash-format = "sha512"
+hash = "397503bc8ddac595296852cf3025a57df857ff4515f5795f99539ed2612cd5a837df9413941c935be5289f3d9ec3854ddaee013a2d014baa2968aa6156a18679"

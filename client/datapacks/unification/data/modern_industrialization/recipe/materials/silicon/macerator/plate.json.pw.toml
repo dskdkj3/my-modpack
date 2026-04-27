@@ -1,0 +1,8 @@
+name = "plate"
+filename = "plate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5fbb69c8d02e74c522b605ade47378e3654cd86a568edd54f67a7289c90db1e2.json"
+hash-format = "sha512"
+hash = "00f0638011e76622aa0a26f2508426b230d6fc9efe5ce76286920037e494a12d7f0ed2975dc726273e967659e8931cc1e99f43401511ba3203e3b7ed3b853217"

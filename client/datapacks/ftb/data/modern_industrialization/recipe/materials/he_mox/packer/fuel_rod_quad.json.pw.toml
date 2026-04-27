@@ -1,0 +1,8 @@
+name = "fuel_rod_quad"
+filename = "fuel_rod_quad.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6efd1a8b9a9657a22e6654eeaa10739849132c9833c6021ecc8ae9da8c7c9308.json"
+hash-format = "sha512"
+hash = "7d4657cb31ce14fa339021a6153014331a3ba34da4b5d80ccb9d9145ff34e8025aad470962ece7b177776a85fe7f765d811d97863d283bc663d4de6197e9b121"

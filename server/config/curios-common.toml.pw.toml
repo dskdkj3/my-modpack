@@ -1,0 +1,8 @@
+name = "curios-common"
+filename = "curios-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78f24845f97a0d8a9b6314e2161fb0a7b2a381860e4c7377235acfcf62ee1563.toml"
+hash-format = "sha512"
+hash = "7e081a87961ba57e08a4112014fee9530bc7600d752796e90e29400726448717afd7c127df3150dbe15aa564207798abf07afc8996eefb6a0029a525d7913ece"

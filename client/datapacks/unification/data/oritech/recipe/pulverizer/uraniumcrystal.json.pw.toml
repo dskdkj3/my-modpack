@@ -1,0 +1,8 @@
+name = "uraniumcrystal"
+filename = "uraniumcrystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/7433401b5cfe15fc32942e55bc403b9b7379a66b6551a513995a3d60cff3099b.json"
+hash-format = "sha512"
+hash = "248363e6b6ba6ed9394fc2dd03a7f43d65382a4271e341a40762843a290709f95193c597c035a5180a30f90002061d9006be3933d6c8271df3bfea1fffffce17"

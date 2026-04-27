@@ -1,0 +1,8 @@
+name = "blocks_coals"
+filename = "blocks_coals.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/073f90f11322c5bc2b88d16f9956ad1866935480b467aeacc8dc33b7cfacc49d.json"
+hash-format = "sha512"
+hash = "a00adebf4a9ec95db35b4fe081dc024e5ac4bc94ce0432758b65bc538e9e3b3f0f82c8c8b7981665f45f4750601a712d8c2cabb900e8456135984df9bd20e6ab"

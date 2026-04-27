@@ -1,0 +1,8 @@
+name = "wall_loot"
+filename = "wall_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59d0845c36a4a17bebe53aaf91a432dcfc4be904ecc6ca296f4e9395c1093446.json"
+hash-format = "sha512"
+hash = "32e356ea316e3b42065fc529a0a48976c47589ea4b4aba052bc01c9f4dfc2099ae2ad38869ef6a90872aa89e4dd7c95cc400c253cae8d39435e7e1df3c34871b"

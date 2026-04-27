@@ -1,0 +1,8 @@
+name = "lush_caves.png"
+filename = "lush_caves.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e85bdbe201db14d6bc1e7e6ad011120ff0fc50f8d05a097a110231207e0b7c4.png"
+hash-format = "sha512"
+hash = "19c46157a4f210dd5dc469f1744bf9046debae86cdf5c0dda18bc8c5f52bc3cab9ee90315a887a140f380a165713356c72987fadace37bba654b5655e1c32688"

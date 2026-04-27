@@ -1,0 +1,8 @@
+name = "cherry.nbt"
+filename = "cherry.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/82413121c6fc3a8363c9e1a63c367b88a8fe0ab805ec056acc6ce0e1f8fcc757.nbt"
+hash-format = "sha512"
+hash = "be3053a950f25e0b4edd1460ca1768bf5d3693bc372559cb58af52885fd8dfced84de6a428bb3752e544c941bd78dd64009ff2bb5ff02a4a07ae90d58fefcfb3"

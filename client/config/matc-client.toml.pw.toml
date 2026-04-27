@@ -1,0 +1,8 @@
+name = "matc-client"
+filename = "matc-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47c38b5671f5348d0342e3d28035e69352ded5a3b894cd0aa774a2eaec26092a.toml"
+hash-format = "sha512"
+hash = "4b94d5ffeff826acddf368a0d64097cdf6e8aa1b32d1259fb20ae6c87d138932340d3c8bd0e9ece6f1b67fc828da7e056e3b2eed4d23b0c055dbef71d8dc21aa"

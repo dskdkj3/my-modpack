@@ -1,0 +1,8 @@
+name = "citadel_keeper"
+filename = "citadel_keeper.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc162eb544c0ef75b565d4bdbe80958e585c3308ae00aef721ff5dd70c03a253.json"
+hash-format = "sha512"
+hash = "4d76f3bcf574055014d162419f579da714d0de7fb68c5e6fa455d0696225c5b486c1793fe54e9d888055cb6d3242729bd5308d689a3348e6700d979a2e3228a0"

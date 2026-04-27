@@ -1,0 +1,8 @@
+name = "ars_nouveau"
+filename = "ars_nouveau.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e7f05a1efe890a03a2c027a766a3caa7e0f91c22abf78138a9feb2e1466b544a.js"
+hash-format = "sha512"
+hash = "68d2ff40e9fd3131cb7b9d2d1f1ebcf6809c01786263ae7d4893e6eaa81bc28020858e236df4356eedde3701dc591e8c3c069668b2b15eff20523310fe0a009a"

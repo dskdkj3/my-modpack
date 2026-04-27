@@ -1,0 +1,8 @@
+name = "replicator_blacklist"
+filename = "replicator_blacklist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e91cbc32de7a6d1ffcba22b50cf360b0a73830cf5e3515f3266bc067016018a1.json"
+hash-format = "sha512"
+hash = "b95a9e5e37c89a32bea5a9005181a23d90bfbb8c5f80d2e84a8cf9bfe91f86686147b97aab7587644dd3085907bf484cccc1cff1ac1ea265e931153c9b5be34e"

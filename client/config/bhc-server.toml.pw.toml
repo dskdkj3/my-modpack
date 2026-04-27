@@ -1,0 +1,8 @@
+name = "bhc-server"
+filename = "bhc-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25feb0afc289c0697db11be8d91e0309fcc5f79b67538d5bfeb3ba9b1bd47b6c.toml"
+hash-format = "sha512"
+hash = "b640792019a3b26c51271e3f3dcbc19b5bcd48e2f10de2f4687713906cae40e2967b49488a4071e4100429e73dd43c0de06f11253fba53d05e13e05b8af0d0cf"

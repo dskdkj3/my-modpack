@@ -1,0 +1,8 @@
+name = "hostilenetworks"
+filename = "hostilenetworks.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/3867c9aa537353e0923d61b88db97025078a08cf3a188a9d09227131b4069049.cfg"
+hash-format = "sha512"
+hash = "8e15b200395e4c348c60807a7302688adf4debf7e15a574248e485ea6f84103b32f7cd35a98bbfd00047e71adb1c579d40cca6e46066f1913de2d415504b3b78"

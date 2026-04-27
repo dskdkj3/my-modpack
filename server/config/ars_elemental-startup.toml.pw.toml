@@ -1,0 +1,8 @@
+name = "ars_elemental-startup"
+filename = "ars_elemental-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/87c806970cb87c4617d986413faa8fc58c5a37939993019886ba8baec1e0a01f.toml"
+hash-format = "sha512"
+hash = "577ede92774d2c902cc5b89f2cd531fc44a03bbe54a6e9321637bf743e1415fe0a2a3625462d37cce4ead56f3725932098d93d280aca880fa0935d1e7caceb08"

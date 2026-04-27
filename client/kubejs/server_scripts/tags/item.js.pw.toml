@@ -1,0 +1,8 @@
+name = "item"
+filename = "item.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/13db4e3a66dae22534f91a114b3db9840abead969d848ede8aa1adf0f67b7f41.js"
+hash-format = "sha512"
+hash = "9b5470ea8faa91fefdfe7ab7cb28381b815e9ea2146aab0a4d108ad996870e14857c3c93d44c81fbbee4446d1feedc289fc9c6821a5334d24bdb4c31ad95bf0f"

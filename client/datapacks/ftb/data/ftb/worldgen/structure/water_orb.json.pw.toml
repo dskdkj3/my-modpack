@@ -1,0 +1,8 @@
+name = "water_orb"
+filename = "water_orb.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b804b5f46175308e021d00884169dc995a22a6308dfdcf175abbbfc5ea3ffd2.json"
+hash-format = "sha512"
+hash = "21db8ad137de57437524ccac1b1d59a7c0d9a11da220cf4fd67732c58b167f6915ce6d9d2f479fd4be3333ca655eeb2486116f8738c5f1964e88c75b825670a1"

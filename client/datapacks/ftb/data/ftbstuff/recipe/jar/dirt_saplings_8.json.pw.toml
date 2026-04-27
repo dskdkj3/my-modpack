@@ -1,0 +1,8 @@
+name = "dirt_saplings_8"
+filename = "dirt_saplings_8.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/8535a4dc16ffbad077e30b69b0552e6ac2a9d28963b2e6650513bc93eb25dade.json"
+hash-format = "sha512"
+hash = "ffafcb85de15bfa2838a0f10672720cf498d7420a299ae688d229473998294e25f18c83bd685badd821c747f9336d7718f8d668e7d8ea09643971319d72f26ee"

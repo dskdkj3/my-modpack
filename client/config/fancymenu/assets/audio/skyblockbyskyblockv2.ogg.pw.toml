@@ -1,0 +1,8 @@
+name = "skyblockbyskyblockv2.ogg"
+filename = "skyblockbyskyblockv2.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/434ce4c6e0c38bbea512f016c4d171724750429145efdf44d8a2b7d00bd7bcaf.ogg"
+hash-format = "sha512"
+hash = "c0371eb3df5c6d7927a6feb9f8ce6e18bbf5f04acf9757b5705d73b95c45254030914f90000b2f0826e013052fd8c49bdea7a2d91da0faa670dbc4c7abe9d81e"

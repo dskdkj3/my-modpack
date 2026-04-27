@@ -1,0 +1,8 @@
+name = "players"
+filename = "players.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/18/18f5386051d79c2a18c533f2176ea77c5cf4d02f3c2de68efc7fcde50cb5a115.snbt"
+hash-format = "sha512"
+hash = "6d5269b2c9141c24e1d5cb84502a69be6fdf3459719d54d97a001d6cffad5d7d6a4282cdf8f9b6c810a4a46927fb197774abf3a08eedaad0f9c5f1a249508659"

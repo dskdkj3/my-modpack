@@ -1,0 +1,8 @@
+name = "silver"
+filename = "silver.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/eda3fa97f1ecefb0bf3f0c759e2adab1bf6a4ba2daa1ad9c1fc153ce6d5593ff.json"
+hash-format = "sha512"
+hash = "5458d5786bd6de3aab07b413e7574ca47c5833d177bc8dd3d7ca1a5306319e6fda0974410f41822ff49af3466e9b1396ca4d306e4af1f0f9e201ea350d7ded42"

@@ -1,0 +1,8 @@
+name = "xy_aluminum_dust.png"
+filename = "xy_aluminum_dust.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b19a885d44963fef15c917afd7e5d194da30306c91f8ddcbd5ff9c9b4d275701.png"
+hash-format = "sha512"
+hash = "4be46f3b1076b09b3fc99ef866a77d18b1a5d2ad6aaba2b83c1b3e846b01d6af366979b485d0c42f2d3b425e25da38ea09652afbe5dc35b730cbbadaf03c15cd"

@@ -1,0 +1,8 @@
+name = "moogs_structures-1.1.0-1.21-1.21.1-neoforge"
+filename = "moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7238/573/moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "3f1a22fff74805dbe1cc1ad2eaa9e4c4bbe3eddb77ed99bd873bdf9b8b6d0b55c12bf0064e5459816d4429250483e24978db816100a9b71462daaf1cdfe92af1"

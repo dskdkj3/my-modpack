@@ -1,0 +1,8 @@
+name = "titanium"
+filename = "titanium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b1b18d938553d4fc1cb21d675a117573362359c6a16e653e9057b66d120e7bea.json"
+hash-format = "sha512"
+hash = "de0ce9c728827fc50b31bf6cdca846d362bc003943af22cf33c88fb553bc6eedcd8fe4a8d30806ba9226cac26817a304e0f0e216afa9a9d93d9c016bc680490e"

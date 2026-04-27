@@ -1,0 +1,8 @@
+name = "cosmeticarmorreworked-client"
+filename = "cosmeticarmorreworked-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cb025774bc117efaae8421e732a9538b57f1caa1e43a0594596116f74bf56a60.toml"
+hash-format = "sha512"
+hash = "18f05d1934a3d6160849ad54aec6acedd23f08f889913887e367782f1d504169314cebce1389b16a0a01ab60b0d322d65fe0bd205344ed73b201e7719a2321e5"

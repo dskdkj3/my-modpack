@@ -1,0 +1,8 @@
+name = "structure_layout_optimizer.jsonc"
+filename = "structure_layout_optimizer.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/57ebc53a3841fb8671bbc2f538f77314b11bed3526da7ab03d0ea58ac83004e1.jsonc"
+hash-format = "sha512"
+hash = "8b2771db2b15cf3f7ff2fac410464b0c35185019060d9ee388d62b711928a0c8e6a5f39774d730af1a770990d971445c491931919cb76d41c3085a3e6f265532"

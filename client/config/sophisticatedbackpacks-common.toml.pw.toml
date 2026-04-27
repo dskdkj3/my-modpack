@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-common"
+filename = "sophisticatedbackpacks-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d8c3200c7070cd9c0bbbf268c4f1e3d06d219b51c36dea3b524ad6eaaf491ce2.toml"
+hash-format = "sha512"
+hash = "4f00aa30998104bc024fae2e65a29ca9a10d30d9a6ac31a4a8c06dc5cc602d9596147d5504c941e7f3db015637fcd29cefd359f2e517e7ed7b66ade17f5183aa"

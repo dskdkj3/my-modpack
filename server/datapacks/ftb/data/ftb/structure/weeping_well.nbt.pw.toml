@@ -1,0 +1,8 @@
+name = "weeping_well.nbt"
+filename = "weeping_well.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6fc82e098bae25dd8bf172a8ede35dcff381ea81170126c6fd8d94a687f7dac.nbt"
+hash-format = "sha512"
+hash = "91d16b8e8006078538783a0b5b22cf58572343eb58bbd48a1e4f22cd4df2d4fab65d5b65e4b559ddd14007e7a221e2301a15743ee437e0f0aa0989da0e8ebe91"

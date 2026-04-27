@@ -1,0 +1,8 @@
+name = "terrible_island.nbt"
+filename = "terrible_island.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0b20cb5f0bf46cb235b6c75bc1a2e59172040aae8f58d578cbba8af81360fc46.nbt"
+hash-format = "sha512"
+hash = "37b052d05bc4abed663cedffcb8c81be811e07f8a163a23557398351a798ab731d3c47fd267917478774aebb851fe5f7890ff1578a632a2970fab4d0c9c5d8da"

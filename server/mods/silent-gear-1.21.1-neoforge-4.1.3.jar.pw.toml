@@ -1,0 +1,8 @@
+name = "silent-gear-1.21.1-neoforge-4.1.3"
+filename = "silent-gear-1.21.1-neoforge-4.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7731/285/silent-gear-1.21.1-neoforge-4.1.3.jar"
+hash-format = "sha512"
+hash = "6862e0300c7e1d4cc4edc8437a625b8f1379cd4139ec848dd73d62b8273f0f9bf17dc2614eb352ca3a42b1ed4d64e6cc825160727dad1a868d909af3151a57df"

@@ -1,0 +1,8 @@
+name = "manganese_sulfuric_solution"
+filename = "manganese_sulfuric_solution.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5c66dacf740daa91498661229392a571ef56447df576d48797d29352578f205.json"
+hash-format = "sha512"
+hash = "5269ff24942d39766505e8b1914f1ca091d75fd96f965dbb6b837dc74b07abda6509da4833dcb2966feca9713804cfc532e0b0b71b63a05b4f278f035e7d5be9"

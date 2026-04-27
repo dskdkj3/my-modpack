@@ -1,0 +1,8 @@
+name = "megacells-4.10.2"
+filename = "megacells-4.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7489/211/megacells-4.10.2.jar"
+hash-format = "sha512"
+hash = "beb9bfa76d74ea8278e9642d5481cdbc848bcab17da0045f1e785c039531f24fded1e103bde5ab2bb64345694a801b3acd661cdc08ee538a4cdc1e2e2eee9ea7"

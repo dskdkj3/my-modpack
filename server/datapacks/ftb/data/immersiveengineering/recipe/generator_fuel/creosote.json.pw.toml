@@ -1,0 +1,8 @@
+name = "creosote"
+filename = "creosote.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a33a7d30b1653369c8a204bf8d056c4a254fc0813f5c373e2e00b6a3f10daaf6.json"
+hash-format = "sha512"
+hash = "7e2bdd219d06bf3708d9093050e15854e496007c8e0928f263fb8aba78b68d6feb7a63e6aa87bb9680276aa2ac89c0d71b0e2d6fc13f9a8cc61763d056818848"

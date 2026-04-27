@@ -1,0 +1,8 @@
+name = "gearing_up"
+filename = "gearing_up.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd717728fb4793ab26de32864976e3730187eae473bf3310dc952ed02c44fc56.snbt"
+hash-format = "sha512"
+hash = "933a6901a0940fef7cea3738021ae81f071ed43258ff70cfd448e336dcf88da40116c9df8dfd89fe9ec9a611509e1583b77a6c1a39a310881ebdd4102af3bc7f"

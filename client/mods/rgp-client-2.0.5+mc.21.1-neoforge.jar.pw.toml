@@ -1,0 +1,8 @@
+name = "rgp-client-2.0.5+mc.21.1-neoforge"
+filename = "rgp-client-2.0.5+mc.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7be1e23679c23e4f73fe0c959731ba1f19e2903c95a7626a1dc3a5af0f61b0cf.jar"
+hash-format = "sha512"
+hash = "da4726c296530639a871e29ba6ef5cf004c4a99f31c1729313f4f5424be086e792a2070e4956d2abe9d8749953e175203c87925c8b7ec7fed6f3705842175fe8"

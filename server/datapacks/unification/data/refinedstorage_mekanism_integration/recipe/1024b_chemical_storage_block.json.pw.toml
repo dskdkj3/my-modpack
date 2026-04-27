@@ -1,0 +1,8 @@
+name = "1024b_chemical_storage_block"
+filename = "1024b_chemical_storage_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39093c2cc6a7d428287f7c320790ad732e7c59d84dd0baf1a5ef734077cb62b9.json"
+hash-format = "sha512"
+hash = "7a5b40c01283f7370cf44c5082fb78fdc5e508b15ed75fa8cc58b959661a4dfd2bd68cb15142e42a6d7b30f9835d82ac60ace62147ec65aa0514d5c10bfcfd6e"

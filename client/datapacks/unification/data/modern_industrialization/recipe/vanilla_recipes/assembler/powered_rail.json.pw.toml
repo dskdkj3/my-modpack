@@ -1,0 +1,8 @@
+name = "powered_rail"
+filename = "powered_rail.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ecaa448578ccb28e02d30f0377b17c0ed575dbd797ffd8c22bd5701d89c9819f.json"
+hash-format = "sha512"
+hash = "ca406ba253c069abdf9108924eafed8663e75cbf8bea5d9c43092261a0d955a0da283292b1021bc25d02f2d3262745eaee134760a1b065ca19ecb25318ad76ca"

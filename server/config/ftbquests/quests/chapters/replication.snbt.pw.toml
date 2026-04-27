@@ -1,0 +1,8 @@
+name = "replication"
+filename = "replication.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86713ce8920988d1144cb4196fe4fd3ab7b9b45877e890bd61f1c522c7eb52b7.snbt"
+hash-format = "sha512"
+hash = "6c6c51444b3cf818340fe059599346f4e0186e21c5d6112032208d664302bb5f081b04ba71e3f461aec81a3d0e44ff831fc9769821d170b2dad70bcf5d4f1ee5"

@@ -1,0 +1,8 @@
+name = "cherry_bees_005"
+filename = "cherry_bees_005.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cdc496e9df351cd955787ccd8f739b6508663aa2c5a34da5239b537996ad5df.json"
+hash-format = "sha512"
+hash = "ea60139476aa257fb2bf959f9bdbfe73b993f61fea55eb9a13c1164a972f2f6990d97b1b481128823abb284e5dcbb9b055f528307a5a9ad1848c2b92aa04feba"

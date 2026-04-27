@@ -1,0 +1,8 @@
+name = "start"
+filename = "start.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/477a83be232d1aaa275df1f5d63663678263be26f579c87f7af7cea31032d3a4.js"
+hash-format = "sha512"
+hash = "548afddc4de76b6d41d19d9099a86ff1c04cdf4ee3896798a8a347bf557e597d2ece361a413216ce6630afb6d3db7923e97122ae590bcef1b940d7a6e7766199"

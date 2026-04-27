@@ -1,0 +1,8 @@
+name = "overlay_front_active_1.png.mcmeta"
+filename = "overlay_front_active_1.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37507d8f68ec7296ed042faeb5b12f4d33558148f7b935e0a60fae9755f26e09.mcmeta"
+hash-format = "sha512"
+hash = "9b82c9d96cb69dc5469ddc7463b419edff44d6ab184d84614e1195513b5b4fb8ee4fd67c6f6cf79e745892f83dae45737941c881ee794b5cf9ee62da66027887"

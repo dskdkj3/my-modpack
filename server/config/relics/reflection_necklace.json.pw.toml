@@ -1,0 +1,8 @@
+name = "reflection_necklace"
+filename = "reflection_necklace.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/595b2db427df5df843440ab5594cd81e7d771905ed28d1b7e096d805a3acad1b.json"
+hash-format = "sha512"
+hash = "61b9e3debb639155ee3eb62719fc27c00963d5b9eb00bb7149e882cad37b114d7df43efc7da26f1b42855f980da39eefc470d60cfc6145ffb0bba4d8e2952b45"

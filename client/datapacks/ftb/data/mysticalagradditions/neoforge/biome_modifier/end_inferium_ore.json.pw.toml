@@ -1,0 +1,8 @@
+name = "end_inferium_ore"
+filename = "end_inferium_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2e62cb3df6c3707579b849d8839b9399fa6d0a9321bbe7de03c4513d212ad1a.json"
+hash-format = "sha512"
+hash = "ff4ad98962da03b704700bd5aa6d8569ca43d1512bd3a9cbc21f66c137625f24f94a5d70c9d291c6b141b2829f825db1db2c5d9f72b94b522e0ef8447ac79cd5"

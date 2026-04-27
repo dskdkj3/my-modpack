@@ -1,0 +1,8 @@
+name = "title_screen_layout_night"
+filename = "title_screen_layout_night.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/64bd1754c831232d1e6eb49a02edc54e0ac677d95b2d5adbbbf3f64383fe7d1a.txt"
+hash-format = "sha512"
+hash = "0d534405ac8e843ca9e2207d9c9b9fe7dd1f3afe8b1e28d87882e3a5ea9527b7a228f54d84dfeb8b6ed518c64382ff218bf60157c645925c4dc6ebbe7bea6e9c"

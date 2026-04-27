@@ -1,0 +1,8 @@
+name = "chem_channel.png"
+filename = "chem_channel.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/70ca5259bc10503ecc814f4922021f8bb2f83920f92d202ba93fe049607ff60b.png"
+hash-format = "sha512"
+hash = "a8abf2d2cd53c9093a1bece44d68d2e09cee6f77c54802e3f99d1930ffbe9c03110a748a3543e735d137253052be82a08a8367a6f210425d6af163dbbbb94898"

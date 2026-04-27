@@ -1,0 +1,8 @@
+name = "dragonfight"
+filename = "dragonfight.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/115d8adf873b4557dc74dd8ac54003d80010f798ed7a86b8d82facc809b80ec8.json"
+hash-format = "sha512"
+hash = "8a5d749ae7c9ffc53b2084fb9655096b04379c5c74f305a466b4e0c18a0676250007783348a76bdc4c26a55d3c85edad2fc1ac5df77b035071089780b807aa9b"

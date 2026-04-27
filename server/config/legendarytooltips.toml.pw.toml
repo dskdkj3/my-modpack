@@ -1,0 +1,8 @@
+name = "legendarytooltips"
+filename = "legendarytooltips.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/bec409004c21fe6facfd2f8cf46194915fb234d0714032b1715d5b893be465cf.toml"
+hash-format = "sha512"
+hash = "457624120ff50f850b5a5b8cfc71075d8e7b9bd8a426262777e6258d668e0f6ea1960c391a15a36489ea4564b87a58ce780b6fa96f7e9e01f24fc8a0d9acad9f"

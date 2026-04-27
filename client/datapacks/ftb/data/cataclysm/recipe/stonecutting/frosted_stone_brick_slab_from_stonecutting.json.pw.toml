@@ -1,0 +1,8 @@
+name = "frosted_stone_brick_slab_from_stonecutting"
+filename = "frosted_stone_brick_slab_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9dabcef7635bbf157f1bad392ff212a93206d843d3bacfb825738f6c047904b.json"
+hash-format = "sha512"
+hash = "304f55c9d58eee5974f16969439b05879b154a3506cc7d1a26aa5de5022dcc639f73342fe77a2f86284d3df39a7e55fc529bcadb9d06db95a1ffcabc2f567081"

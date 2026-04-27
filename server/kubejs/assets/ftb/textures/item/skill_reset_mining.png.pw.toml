@@ -1,0 +1,8 @@
+name = "skill_reset_mining.png"
+filename = "skill_reset_mining.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b0f92b7135763c62e0b5d122ef23352ea8f3f6c6ee5e109efacbcb70c0fe3acf.png"
+hash-format = "sha512"
+hash = "2c0e85b6411ca15f19eef5628ab450c47a03314e1d75fcf91819a46f5d9ecc233ae8507f6e5df8ecab84996412dab74fcc166191df5eb215316d3c86de96c52e"

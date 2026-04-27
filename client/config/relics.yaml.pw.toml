@@ -1,0 +1,8 @@
+name = "relics"
+filename = "relics.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/922125abe4b383e37a0853c65a9a3ab68205562530df86ec49ed94fae0c1af41.yaml"
+hash-format = "sha512"
+hash = "3c1c4672615cd78de478372cec3e08c9efb6004d23f687e69543413093fd847bbc20ef2b01c4d438221ac2e2651e7a9189416a6add927eb5dbab2c1f472c8295"

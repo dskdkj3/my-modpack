@@ -1,0 +1,8 @@
+name = "camera-server"
+filename = "camera-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97bc7d035b8d48e2b08243171c241b3e3fddffed9d00a7adb34812ca8a399502.toml"
+hash-format = "sha512"
+hash = "4af4ef2782c7716db07fb9bc593b411005c912261b02c027c264433b6fb45678de9caf92f77b9ccdbc2d929435f888f19c4b8f0efe2384df3b16f7f07e99f9b1"

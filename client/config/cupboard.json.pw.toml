@@ -1,0 +1,8 @@
+name = "cupboard"
+filename = "cupboard.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eab1cab8d6381e36076e4b77971cad25dd9fa9064107a49d3a264ee090dbf947.json"
+hash-format = "sha512"
+hash = "440a499f6b49416fe25d3cceba32a70fd11beb262e63af919fb3805bc787672fa4d3592cff2953209fb9c598ae18c982c5f432e02a675710a3f6d6f2b8d582bf"

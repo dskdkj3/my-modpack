@@ -1,0 +1,8 @@
+name = "auroral-1.21.1-1.0.4-1.21.1"
+filename = "auroral-1.21.1-1.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7458/992/auroral-1.21.1-1.0.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "a2e1c88b95f181bb9758917ac337867ebecd35ba99048ac1267539c7765c22efea82427f73c5baa0fe9a4e533c4c23bc5464ece932572975608eb7e37b5ce31e"

@@ -1,0 +1,8 @@
+name = "chromium_tiny_dust"
+filename = "chromium_tiny_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a247eee8a9d16b83b5cf42d7253d97c593b20bf70603cc9c50ccab299463d48e.json"
+hash-format = "sha512"
+hash = "1994b8d5d1001ca8a0391fcddda6c7e9ba5b1405bcd00118181c6cf883c7e23853b6d6355b01e93a6a63a7109ffa7c8d869e84c708a184a035dd6a52baf10dff"

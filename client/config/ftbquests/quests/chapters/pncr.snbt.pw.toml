@@ -1,0 +1,8 @@
+name = "pncr"
+filename = "pncr.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/42e5f34a5570ceadf6597f81e34a11f9b9d9532e7c5f1510fbb55ff99027d2d6.snbt"
+hash-format = "sha512"
+hash = "d167422567511e1e5963d14447c7e6096e97f9e125090509a4c9614144458c6f311644c5aed7243651f3fda399abb4c99bc31b6c0b93fe5c59569c026c65f95a"

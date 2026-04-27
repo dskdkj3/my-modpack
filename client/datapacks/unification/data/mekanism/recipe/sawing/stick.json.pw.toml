@@ -1,0 +1,8 @@
+name = "stick"
+filename = "stick.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/64aa62d5d75d5017baeb37c0fcb9b54b76fa4c051dc0bb739b3375f8ab765be7.json"
+hash-format = "sha512"
+hash = "d23a433cc875230b0661255311083c457870f922f422e7bcef98cc5ed3136f7d96615c94c60a77f3a96382eeeb868e8935db56f6cdd447ef8f1ce6e01b87aabd"

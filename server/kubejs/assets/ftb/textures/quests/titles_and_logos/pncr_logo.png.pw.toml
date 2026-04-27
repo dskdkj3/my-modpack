@@ -1,0 +1,8 @@
+name = "pncr_logo.png"
+filename = "pncr_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c6acb8b91ea09a38df529d6d476ad585548550c0e36d095aa58cb7d8c306a2e.png"
+hash-format = "sha512"
+hash = "8b5d86ebc887aaebcdfe943b65c04f94719126fbca16ea444843f3412d27812e4bbe1fce9d86f8c9324b3d837d47255a52aef96a1f5ff244e2221b2958eb7a83"

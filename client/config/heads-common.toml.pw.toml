@@ -1,0 +1,8 @@
+name = "heads-common"
+filename = "heads-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/18/18777490cb0231d5b397f030981cf10c86005fd07817bff5c938fa0c275fd414.toml"
+hash-format = "sha512"
+hash = "52c270dabd48b6d06e17058b8a17df0897fad26bfc26762219d9631b69d6dd139252545d3fd86ff29aa4ddce6617ce6aa4a584dbd48495f207778a3f54a5cf22"

@@ -1,0 +1,8 @@
+name = "glyph_launch"
+filename = "glyph_launch.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/088354169a8707103eb8b149006ade183fd4cbd103668d06932aeeddc9459357.toml"
+hash-format = "sha512"
+hash = "1b97c1f4f13328b92c84c94051e9e48821acaba0a631c00b08181504847dee120c03b6d98d4b224223ed2316a525636fb456644040260ddd68739f9bf3b7e209"

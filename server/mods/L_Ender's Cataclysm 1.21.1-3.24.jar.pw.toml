@@ -1,0 +1,8 @@
+name = "L_Ender's Cataclysm 1.21.1-3.24"
+filename = "L_Ender's Cataclysm 1.21.1-3.24.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7691/675/L_Ender%27s%20Cataclysm%201.21.1-3.24.jar"
+hash-format = "sha512"
+hash = "c9a1a40de9845f881cbb746b81edd0ffdfc97335d7525a0b2cb4e6c9702d9decf17ee983d30d26c12e54b327ef40ba97a5812a4e1334bae10acc02a916ce0ada"

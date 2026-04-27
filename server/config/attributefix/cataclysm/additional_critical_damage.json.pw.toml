@@ -1,0 +1,8 @@
+name = "additional_critical_damage"
+filename = "additional_critical_damage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17ff90d04f2efc2fb6e7f5932f0811ca8d0f0db5843fddec830b5de8abbf4dc6.json"
+hash-format = "sha512"
+hash = "4c94abcc7dda0bd72fe8d87f9915742336dc38438cf47ba7fbcc00d58380b1239d518e7812ace266e8cba799e28085b2b1d86fbcf95a456572f59898cf3a05b5"

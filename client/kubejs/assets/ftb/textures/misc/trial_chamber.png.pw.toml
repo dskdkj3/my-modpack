@@ -1,0 +1,8 @@
+name = "trial_chamber.png"
+filename = "trial_chamber.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/8779602a81f03a734311955575f98c083ee29623334f972ccb7ce90d21bf5157.png"
+hash-format = "sha512"
+hash = "5621efce6da1bcfa0783a65d7322d245c9e6bf89e773889613c7ca53ad707a8ae16dd168227cfc70e023adb751bc42d0e7d389ff6c5f2cb6122363c89514b076"

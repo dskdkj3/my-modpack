@@ -1,0 +1,8 @@
+name = "reliquary-1.21.1-2.0.66.1363"
+filename = "reliquary-1.21.1-2.0.66.1363.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7740/641/reliquary-1.21.1-2.0.66.1363.jar"
+hash-format = "sha512"
+hash = "c2cf04fd8cc1057f11f92bf33bdad209eaca4298a027854437332ab98af86dba83d03312bdbb92e147f98d6e6643f0babef77a7d3bce74963312cb9984f743d7"

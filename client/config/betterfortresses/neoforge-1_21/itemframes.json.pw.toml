@@ -1,0 +1,8 @@
+name = "itemframes"
+filename = "itemframes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1ca5c8e78d407855f4d62df4c0524e456b2a900328aab7d81c10249013d1305.json"
+hash-format = "sha512"
+hash = "00391adccec283fd5693e59463c400a98c345e13ead2aa952b8e52643c218dafd21855edaf9bf47630000dad6207859263926ba67ee5c2a370d90ce0108c9e98"

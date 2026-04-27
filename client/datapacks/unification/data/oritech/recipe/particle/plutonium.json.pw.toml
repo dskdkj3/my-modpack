@@ -1,0 +1,8 @@
+name = "plutonium"
+filename = "plutonium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc98a873123f7ad94312fcb1ba4794f66a87bfbedcc2b7ae239d87bb1501ebed.json"
+hash-format = "sha512"
+hash = "e1e1eecb6964064fd254926c5b459667db705a4979565e4918d69d36992fc68fd1eae927d32c2ec39fc7a615e5a0e0180c99df2c278ef56a26bf09413c19319f"

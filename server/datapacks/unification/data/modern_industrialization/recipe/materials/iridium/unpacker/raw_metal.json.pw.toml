@@ -1,0 +1,8 @@
+name = "raw_metal"
+filename = "raw_metal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/eedcd6704d164149cdbeb8811630afc009808c44302a132ac76b0cb3f8c61db0.json"
+hash-format = "sha512"
+hash = "d5736643360f121d3547e7e03f78bbd799395e8a45ae59640cfef8ca706e52ba2303807efb10d469c5afc88b23971234b2255e9d336366cb5e08d1495dc0f8e6"

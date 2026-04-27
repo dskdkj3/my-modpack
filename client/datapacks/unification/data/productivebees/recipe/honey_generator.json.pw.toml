@@ -1,0 +1,8 @@
+name = "honey_generator"
+filename = "honey_generator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96c28da87816e31fe766116924e074aeb37bab9096eb8e0eb6f227d59475b377.json"
+hash-format = "sha512"
+hash = "8e95b19a6e0a517d9cb20a16d1d40bac0d46930336858a0280f8b030e41fe84ece4a7c61ad0be0d656a6c4331bf5953b3bf8d1d819796a49e5b6d20c546f6db6"

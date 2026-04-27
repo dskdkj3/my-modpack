@@ -1,0 +1,8 @@
+name = "glyph_grow"
+filename = "glyph_grow"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c32301bc6f5e1f87e71d61576e8eaa628c7adae5bc46f9e5ec9278223aa03886"
+hash-format = "sha512"
+hash = "0cb3cf5efa46d8c8769f9d5223d1497ec97834c48d734e32d720792a780501a72c4c648a5aeef12be2e4098b4ab8d8764f283c351efb53357970df292991e507"

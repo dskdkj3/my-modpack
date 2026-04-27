@@ -1,0 +1,8 @@
+name = "additional_evoker_loot"
+filename = "additional_evoker_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39f33fb7af0d05d98b7eba7dbd1bed3e76abc519d561c641898551ac2dfd1632.json"
+hash-format = "sha512"
+hash = "b5b1a8dd93bf124307f3f7df5261ff2a341481f0a4a34df863af377858a1eebcbfa644565114e9ad49fb4cf8e3ccf49692c27e3557179add926faf09efa45d22"

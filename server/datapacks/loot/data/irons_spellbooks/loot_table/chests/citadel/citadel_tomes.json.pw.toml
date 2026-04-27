@@ -1,0 +1,8 @@
+name = "citadel_tomes"
+filename = "citadel_tomes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/3746aa9370adb4355731db64aac71fb8f607a23759a739c8cc4a2ce21e48699e.json"
+hash-format = "sha512"
+hash = "fbfbcb982da018a2f6ff0af68d62a1bad88dfd3332d764ea5fabd846593e0aa6969d7fdfb5e4525aa3e4c053ebf86f24e2197f58e2c95bc525dc6b33d25f2650"

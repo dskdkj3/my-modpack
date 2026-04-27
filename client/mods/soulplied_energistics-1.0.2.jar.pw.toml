@@ -1,0 +1,8 @@
+name = "soulplied_energistics-1.0.2"
+filename = "soulplied_energistics-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6771/121/soulplied_energistics-1.0.2.jar"
+hash-format = "sha512"
+hash = "6ccf236d284d629652dc522bca83d6d75623eabc87eb14fd893d7f9cd2335aba7e86b241e3886035677f9f6b7416804b169bd9bbe0bf1113ad323ff4458abbc1"

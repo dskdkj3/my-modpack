@@ -1,0 +1,8 @@
+name = "mason_table_old"
+filename = "mason_table_old.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fcaa662910076da6875d8f37a5fe5ac438cb63402ad04b309677df89bb69b073.json"
+hash-format = "sha512"
+hash = "6c53edadfd8ed1b7a7ab874a92782b3ff03fcc21419c51e477ea41cf6cacd3c6605437d37506efb019a6320dad1371ade407a254d29ef51db246ea2a8eb4fe65"

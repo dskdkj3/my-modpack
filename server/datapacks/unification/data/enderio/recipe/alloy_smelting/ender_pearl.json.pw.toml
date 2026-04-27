@@ -1,0 +1,8 @@
+name = "ender_pearl"
+filename = "ender_pearl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d20f0b60351d29c996ece92065823d5fb36b422b00cf0f7a45f7af59403c00f0.json"
+hash-format = "sha512"
+hash = "085adb6d25922f348e94ce7f689b88dccbf01ff189781c574b1685967a7b407207de224225b2610d64715dd1be2a16035a02abf271d596869e8736203146c4ad"

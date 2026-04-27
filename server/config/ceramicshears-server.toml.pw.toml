@@ -1,0 +1,8 @@
+name = "ceramicshears-server"
+filename = "ceramicshears-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/afc901f5f0584c3b089e6f172e1446df0a4d9bbe917cebd62787cec665fb4841.toml"
+hash-format = "sha512"
+hash = "fa6fc4404ede1dbf0a0da95aea04b119b6aa6597dcba0557f0fd23d01d633818280a14cd476d1a99120978e6ac304ee30ad528dfd5b8d06bce3734dc1ba725ea"

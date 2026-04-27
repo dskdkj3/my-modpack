@@ -1,0 +1,8 @@
+name = "addon_block_speed_tier_4"
+filename = "addon_block_speed_tier_4.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/9864892fbf360b18daecc1e76b19936ca12e02cf57ea026c191db07c68a950bf.json"
+hash-format = "sha512"
+hash = "9402154774f8fb27677a9681239dcea1df82a3feb375cfcf51ea25505510ecd3d71226d8d15ede0923964b553928cc0921d8c590a335ce446b91207eed6379bd"

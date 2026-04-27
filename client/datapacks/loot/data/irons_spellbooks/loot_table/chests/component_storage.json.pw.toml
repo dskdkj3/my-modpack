@@ -1,0 +1,8 @@
+name = "component_storage"
+filename = "component_storage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b042d87c8633a340f57923cf437bd3661eb106c34191645ddd53e8aff29654b.json"
+hash-format = "sha512"
+hash = "b8d3b7679696b959d1818eba8ee112e2542e306181e87926d7967cef0d9627476d07895fe5ef2bbf19c51af7862ea58d22ad234fdc0c833e26ed385e356c264e"

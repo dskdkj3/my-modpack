@@ -1,0 +1,8 @@
+name = "diesel"
+filename = "diesel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de2d3f077db5fdb1c314ada0ad7b361faf8e13abf7496686229614b5fed03758.json"
+hash-format = "sha512"
+hash = "b154da122b05ab60332e7e41ae793f93fc2ac294784592b8cd75a184b47da3a1eeb05063b8dfb1a841f0dc0fb65c7555c06a7f4980c6c13c5b691703f06942d1"

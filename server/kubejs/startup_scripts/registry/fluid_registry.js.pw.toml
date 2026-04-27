@@ -1,0 +1,8 @@
+name = "fluid_registry"
+filename = "fluid_registry.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2aad65166f0cbbdc5d0fd1a54af156fa88df560d7bd1c228e08365ebad42e83f.js"
+hash-format = "sha512"
+hash = "e78db4f5f464d11f7e3ed3505c5a0f912e3464935932b06ee583adf6bb854df1308d4195afcbced0aba319cad8fe7a3178c167d0e189b5b2d937a1262b04ceea"

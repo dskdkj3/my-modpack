@@ -1,0 +1,8 @@
+name = "CloudGlass-1.21.1-1.0.1"
+filename = "CloudGlass-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6011/555/CloudGlass-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "b7a3e87387b9da07271e9b890152509e771b923665b7639b70bb4ae8660bd35a844a66f01f03a710eca0107de9ab1e4746e21847b0f5d42a162553f6b6e41b31"

@@ -1,0 +1,8 @@
+name = "skies2_discord_hover.png"
+filename = "skies2_discord_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc92ed5cbbfbfe7fa7734e228016c81ccaab6fcd9573833e6ff395df7bfafc9c.png"
+hash-format = "sha512"
+hash = "b38d949cc7b37ee67440d3a101b9fa036753d19483c409c5223531923c676c63d55bcc5f65da264c3a69ffd6402ca93ea18151c51b944ecbc1a3986785f1a2e5"

@@ -1,0 +1,8 @@
+name = "glyph_filter_is_mature"
+filename = "glyph_filter_is_mature.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/50685f55f7ce0a5a1b890ec7ad09269b50883482dfe6f5ad4c4b15929548bc19.toml"
+hash-format = "sha512"
+hash = "34ebe5f76352563a38f3cc04b9e46c8a313366de3e6bad68b65a2cc8d118eb35dd62a8a8a2528b3d25625b57c2b87bf591037e8bdf1231d2d911bca9ce7d6704"

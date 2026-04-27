@@ -1,0 +1,8 @@
+name = "advanced_toggleable_laser_2"
+filename = "advanced_toggleable_laser_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22a68de1be90f22e066b90f5b1d7497b02de36fb99d28d20b4b08fc5be3533e0.json"
+hash-format = "sha512"
+hash = "47aca45031359b96e93884d4bd7c9779e21bc475ca63f42c0f1de8a07f7c35c090d20619e29fa99fe590255c9c29e735587f5ef6d2968ab01d9884e35daac6d6"

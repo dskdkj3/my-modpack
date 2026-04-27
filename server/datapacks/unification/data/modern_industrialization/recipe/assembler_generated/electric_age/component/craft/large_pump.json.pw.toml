@@ -1,0 +1,8 @@
+name = "large_pump"
+filename = "large_pump.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2039afe7f9b169a68018a1f7a4a500f47d97f26f3f57e74f4a62c85e884013e.json"
+hash-format = "sha512"
+hash = "db4aee016782e48eebaf25055f1ce56511102563dd1d3e3626ae9a22fcf4239bf2a6172815b5709711956e86bde7f093d1ca1019528967d46f3e3450a84b3a51"

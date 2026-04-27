@@ -1,0 +1,8 @@
+name = "elytra_booster"
+filename = "elytra_booster.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/70c653e2974a7d34e4f1ed28e70e30cd2bacf6693aa22c09fef27adebe5c60f6.yaml"
+hash-format = "sha512"
+hash = "f5c7a709b5641ffce033a54e8c0f9aaa72df77b15f653aa6e7c93fe762107a3055fac0a3d1366e908bd2f8db1f8f12072e47d7b348df741b3674ec92996a44b4"

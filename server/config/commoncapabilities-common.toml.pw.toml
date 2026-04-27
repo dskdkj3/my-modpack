@@ -1,0 +1,8 @@
+name = "commoncapabilities-common"
+filename = "commoncapabilities-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20c1fdc17436bf35af23cb1e920cd8a9cba3ce1627cd70fcd19f44d782b078f7.toml"
+hash-format = "sha512"
+hash = "c4d2677d7861ff498b57025c36b1873eaa80c21b786506489d63850e7849b6f3145fd2c0b8aa30d0c3d100ddbdb8a38354ebfc24086d25f99cf6112cedd03876"

@@ -1,0 +1,8 @@
+name = "ultimate_singularity.png"
+filename = "ultimate_singularity.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df59cdf86269f1e39f846bdd2586c7871849f7d1eb5e7809a62aae1af00fe13b.png"
+hash-format = "sha512"
+hash = "f34e7077c937d88ee3fc0a87ad7a40977a730d160d87a65b76d89b418736fd03ad66ead456879c0c439ca28524f2ea98fbbff7994e95f8dd5523b78765d2e549"

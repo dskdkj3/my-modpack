@@ -1,0 +1,8 @@
+name = "camera-client"
+filename = "camera-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d69a51edcb1d6b58eb7e48ab23404e1d5dc3b93cd4681beb1f2ab3f1cfc042e.toml"
+hash-format = "sha512"
+hash = "7a15ece0cdfcb97e852f535cacb81de36eafe0ad124ca99362f21ecaa62a2c52437d32cdafb1829fd7b904d933528903620d2f62cc54af718041a05ea94e24ca"

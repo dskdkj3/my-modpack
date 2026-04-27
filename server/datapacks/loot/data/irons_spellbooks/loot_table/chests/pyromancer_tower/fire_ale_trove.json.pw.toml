@@ -1,0 +1,8 @@
+name = "fire_ale_trove"
+filename = "fire_ale_trove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b124753b8ee690b857233d0ca4de70629909735adefc4d02b5821645ce88ed37.json"
+hash-format = "sha512"
+hash = "05b2e9a0ff15a41d5d0f4b8f9dfcd600cf3103770ad88bfac063be9a9e8ce1232c32a0fd069cccd8b42b461ea68347a710c7727a88226a72bf9d6fdae3fc8834"

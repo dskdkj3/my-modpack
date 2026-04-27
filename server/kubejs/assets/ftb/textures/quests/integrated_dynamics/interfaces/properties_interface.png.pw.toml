@@ -1,0 +1,8 @@
+name = "properties_interface.png"
+filename = "properties_interface.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74fd67584bbd13091e843a161e42944e7199836b9536cfe0eacbb7606e4dc58b.png"
+hash-format = "sha512"
+hash = "a0bd8afb49fc704cfab843e1840444d3c251f3fe64174680a55c0d52ad30305e31a23525eb1f088abaa40b82fd7be5fff38471d4b9ca6f83f6e3f36c3325b79c"

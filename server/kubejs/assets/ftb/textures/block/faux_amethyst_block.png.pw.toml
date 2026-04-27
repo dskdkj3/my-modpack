@@ -1,0 +1,8 @@
+name = "faux_amethyst_block.png"
+filename = "faux_amethyst_block.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/880194a5633ea0cf28c922e3a0c6adb8517878eb70e5be08aae5f9d26d5e800f.png"
+hash-format = "sha512"
+hash = "9d5efd9a5efd3797f5f722f8b5a632342fa76c2db7fb1d6e346703b6356a748979f841ab9c1733dfd84e65ef1b7ee33ac0c5bbd83efd70aa2b61b0eb766a2149"

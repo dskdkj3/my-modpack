@@ -1,0 +1,8 @@
+name = "inferium_chestplate"
+filename = "inferium_chestplate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a4c9caa74c22434df6f1db3fa6d9bad07dc3011b6a59bad76ef2a98e55d8b4f6.json"
+hash-format = "sha512"
+hash = "2c2ae17b65bcd657b951cdc80833bdd6aec4e957243011fdb442ebe7c68fd59586972e75fe61b515ede2efff6ed2870430dcb9a98b9335eefd942e4834b85998"

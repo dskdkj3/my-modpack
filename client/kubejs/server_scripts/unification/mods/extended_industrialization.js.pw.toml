@@ -1,0 +1,8 @@
+name = "extended_industrialization"
+filename = "extended_industrialization.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c8c20e4b6a7a4b0e1afedced9ded1ac4544b29f24bbfd06434802d419fcdb730.js"
+hash-format = "sha512"
+hash = "a7b0a9fc9a3788896b215b1784bd2be1da6a3bfd8e23d10eef457ea06a7f267ebc744a310f2e5f43afdc6e40865f06811162a48ce7af5a03262f8d5788015598"

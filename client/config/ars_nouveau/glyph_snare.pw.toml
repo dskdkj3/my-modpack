@@ -1,0 +1,8 @@
+name = "glyph_snare"
+filename = "glyph_snare"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7dd65ffbe3354e3204a026a940510078998e348e34c16543032664e879403752"
+hash-format = "sha512"
+hash = "7561d022a0395594838144d5d0a10f4db75a69d884316c43c330e89603bd2e606da0d55ca964b9ec89b5de287974b80015eb2e980e91d223f8543e91ee2659cc"

@@ -1,0 +1,8 @@
+name = "cathedral_rare"
+filename = "cathedral_rare.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ffef42b08017aa53b1c0cce09952478356541d064f611def8ab08d7b9de4f54f.json"
+hash-format = "sha512"
+hash = "2da0a82f86a542eea3a0b3bd1c3ee0539cc25efb3b604a0a8f3a5fa999962a7da590b7411c213677e182ce4b6889e729afe51fffc837caa13d6fd16793272c93"

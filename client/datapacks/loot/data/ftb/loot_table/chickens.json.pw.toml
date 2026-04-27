@@ -1,0 +1,8 @@
+name = "chickens"
+filename = "chickens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/7866f952270587556628591691abc3408d126d00b4d098934d487594c920a55a.json"
+hash-format = "sha512"
+hash = "e6d32f866f2a998b439df40058bea9a68336010ba31f98e89d05d87be9467e857f452d683563354cb6ec7aeafaf068dcc79eee65852fd498fadbe644f85b6789"

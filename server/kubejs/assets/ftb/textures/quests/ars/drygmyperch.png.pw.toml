@@ -1,0 +1,8 @@
+name = "drygmyperch.png"
+filename = "drygmyperch.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/904231cfcd91675bc592b07efa03dc7b3ce031307c63b8366a825cc0c4ba4299.png"
+hash-format = "sha512"
+hash = "c54f46b9043c39e4dafa3f371e3a8e6211d63924a3d01f1dd1d2fe761b225cea83f679c430860b1cbc12cc6d656cf675e0ab5e4152291d340935bab2522ed8f5"

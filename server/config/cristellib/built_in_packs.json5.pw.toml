@@ -1,0 +1,8 @@
+name = "built_in_packs"
+filename = "built_in_packs.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/975dd389363b018dc40992e4eeca326a625c5baac7a1cfde9123372d7ab4340c.json5"
+hash-format = "sha512"
+hash = "61850e1240acbe1f37a77c330e45c88560d566fb6f45360c593269b7a7a07fe487a866162a2104d2b8707c4e5dee9b51433adaa7a6de59cddaaa394b891c7e51"

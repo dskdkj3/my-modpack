@@ -1,0 +1,8 @@
+name = "glyph_phantom_block"
+filename = "glyph_phantom_block.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab0552262f67a5a033c7456b0f82cc72e8bcf8ab3caf64632b7f800905b379c4.toml"
+hash-format = "sha512"
+hash = "bfd51299bbbb740767e6bc40db21ac4d0e62afbcbbc02a8da71b4e22683aa3043c69ecbec838b1d6db8106a725cf98208a56c6e1065aa1bc3d240db1695d07eb"

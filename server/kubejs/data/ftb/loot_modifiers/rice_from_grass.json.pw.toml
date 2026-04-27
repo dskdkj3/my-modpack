@@ -1,0 +1,8 @@
+name = "rice_from_grass"
+filename = "rice_from_grass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/683ca924b8a79437d4e0dbb3c20be02c98b81bac1d4880e23acd5e5585bd701e.json"
+hash-format = "sha512"
+hash = "36348101aac31c66307541ef32ba7c98e02ceec3b036acbd1ec6920c7c51e6a506234698a38f30e6b118c006191590f8356cb36456b562b6b8f2f934a27910fb"

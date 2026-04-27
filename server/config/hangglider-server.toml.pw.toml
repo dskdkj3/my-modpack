@@ -1,0 +1,8 @@
+name = "hangglider-server"
+filename = "hangglider-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d8e8e1ae16ec1542dcb9c2f0d137ca539de7b109e154a4a49024c0cf9b89d17.toml"
+hash-format = "sha512"
+hash = "f1217b4e848e395923bada6f05246b30d0da0652a33e9efa9a9952c1abb6bb88fc1eb266709779e9a62afab9b9b1c08d7fc7513144ad1b19c4d420d52b4021b0"

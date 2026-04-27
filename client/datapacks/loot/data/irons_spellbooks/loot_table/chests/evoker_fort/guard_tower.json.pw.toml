@@ -1,0 +1,8 @@
+name = "guard_tower"
+filename = "guard_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/30225b2093361e4677805636a1487cb21fba9da716e441e090aef941eb000953.json"
+hash-format = "sha512"
+hash = "2b9cb83da5fffde9e3208c2e4b6828ac4c5478ca91b2c71b6fd1f2ad295af7f09cffd6a4c5dd5ff26df9985571cd7c1cdffcbfa1f0524259d7f6732a0d21e009"

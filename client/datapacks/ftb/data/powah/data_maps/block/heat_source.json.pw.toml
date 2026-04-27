@@ -1,0 +1,8 @@
+name = "heat_source"
+filename = "heat_source.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2a7940396fa0fa26c16c4948680ee86a399d543df4b30a77105517c6a6c05cb.json"
+hash-format = "sha512"
+hash = "e6b0fab8c05e10cff2285e45577dbf4d95e28f5d5737562e2d7579cce82b33932528da34523d744843e84c86f5f2a1b4ceae06018546b8a5e4db20fbbf27eae0"

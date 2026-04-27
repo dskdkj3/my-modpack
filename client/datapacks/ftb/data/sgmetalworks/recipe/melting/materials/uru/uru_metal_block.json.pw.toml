@@ -1,0 +1,8 @@
+name = "uru_metal_block"
+filename = "uru_metal_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/509f506c8edd53a080b6d6d45e03749176bbf4de984007f04b53bf676b5432c6.json"
+hash-format = "sha512"
+hash = "54fddc1994b81064e792bac38b7b533f7c62ef39913da15ba2bbed7efad91585745081d339ea75527a4046135595537c30a6babfa6a70ecaa9a3faf6219ac250"

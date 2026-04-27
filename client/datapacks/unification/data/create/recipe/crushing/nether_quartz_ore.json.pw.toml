@@ -1,0 +1,8 @@
+name = "nether_quartz_ore"
+filename = "nether_quartz_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d602d174d16237f769d7d43041969e5ddde9a1a78437d412d1a5c8804e2067b5.json"
+hash-format = "sha512"
+hash = "b523c9442c50afbc1fea35f32f85b0f1d2643ca533158f9521ba1ff43cbc1e14a7aa102ae04a357d60eac62b03862dfda843fd4dce29e654f664ac8049e0de30"

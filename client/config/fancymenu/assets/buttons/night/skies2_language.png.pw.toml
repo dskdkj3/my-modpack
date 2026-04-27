@@ -1,0 +1,8 @@
+name = "skies2_language.png"
+filename = "skies2_language.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/82785caec603057d9d5f48b068a6110eb6b68bcf415a93f327a7b24f9d0bd70f.png"
+hash-format = "sha512"
+hash = "3e294455396aa935750a6db912f6fb50faafaf68a36064a24ea4a2b089dc27ee73018990d7a73c4e0270b1cdfd60b27680a16ed7daf41c38f675ed7cc4284442"

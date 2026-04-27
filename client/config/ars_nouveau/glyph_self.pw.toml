@@ -1,0 +1,8 @@
+name = "glyph_self"
+filename = "glyph_self"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74ff7cad45f4d01d489e527a1686c2a127a4a46652c8203adb11b4f6055d0d18"
+hash-format = "sha512"
+hash = "7445406c44284cebef82aa458a73ef1315efce75e662f5100d4cb02d48c5424fae63999cf12855be510045f5f6bed280cb6877828788837e01f9fce8c2a76ee4"

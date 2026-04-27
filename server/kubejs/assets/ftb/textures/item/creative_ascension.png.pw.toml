@@ -1,0 +1,8 @@
+name = "creative_ascension.png"
+filename = "creative_ascension.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b866c1581c65b2a6a15996529d65c815c660d880044ed1298ff2e14499c1076d.png"
+hash-format = "sha512"
+hash = "371d0a3184abdf52c91da683734bb091b5a47c8220af8bb8a32b47c26cf0b37ac307150f4acc3be0d52d866dfa13872df376c7e9aba01ef3c8e134a88ed3d0dc"

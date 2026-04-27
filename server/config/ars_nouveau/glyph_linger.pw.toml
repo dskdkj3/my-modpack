@@ -1,0 +1,8 @@
+name = "glyph_linger"
+filename = "glyph_linger"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d07032f2d6bccd5a731d50ac38ff2f971f66c43cc82d44344d0a603c3b6f7ae5"
+hash-format = "sha512"
+hash = "c47a09654b2bf1956da8a4c85d82194f5992aab5108d490afbe9989c81f070a4dcd7608f1a67954cf00ffb7530b64f95017136bcd2da3c9c6305f1697441b5e5"

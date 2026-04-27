@@ -1,0 +1,8 @@
+name = "lens_of_the_miner"
+filename = "lens_of_the_miner.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/639fd12a563bb25d3f851722d2f3076f9d5cc6c57fd0f3748d9e302c9055c934.json"
+hash-format = "sha512"
+hash = "d9953530bd9d9d86b2fef7b2354a856d06a2a011cf060584069e4a15a2b833925d58f484cce86eda8a1f7ca8c589b5343bf9f73890a5ede3aad409363f442b43"

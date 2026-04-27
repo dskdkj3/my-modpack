@@ -1,0 +1,8 @@
+name = "rampart_supplies"
+filename = "rampart_supplies.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b013ced70cdd9b9ff8f706e6fb08b4645ceb7844f9171bc10095f9809c64319.json"
+hash-format = "sha512"
+hash = "ef498cc0ab2807de43f4aff224d1120f2d94b6bbe8e98a6559e2a3b895413f05d3c54e6651501d7b0f8abf3f90271dc3f433f2489faf744f396d5e229471e286"

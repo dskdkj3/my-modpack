@@ -1,0 +1,8 @@
+name = "charmofundying-server"
+filename = "charmofundying-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f346000be7d33f5faf27bc23158dc15ca5f295b3d7ff0dbc50dc2160ff8a3fc4.toml"
+hash-format = "sha512"
+hash = "2188f873fee2faa4ff51a689212e44501b0968b172ea9947c6ac98c9530dbc7cc4217edf5b46903e6cb0857866562df4846c920c388c638207ea274eb36d1282"

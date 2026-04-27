@@ -1,0 +1,8 @@
+name = "amethyst_isles"
+filename = "amethyst_isles.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bda2f38a6747619d22cb93c472c5e08535353406d786785e7456f4a00596aad4.json"
+hash-format = "sha512"
+hash = "25cf65ecefba80b65d6f7d2086b6809e91715f39048de99fc7c5f5bf17dd1976667275d8e3bad550f8ead833c1fa211e79ccacdd60db1b42b8a6a16c278dacc1"

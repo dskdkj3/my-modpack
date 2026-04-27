@@ -1,0 +1,8 @@
+name = "bauxite_end_ore"
+filename = "bauxite_end_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/8309f67b4d0d172a8654bc266011e27d351c0125e2acd81561a047e05b10c82a.json"
+hash-format = "sha512"
+hash = "f3d90dbbeddc31319124ba2dcdafd7c89126f30018b112b322c4fbd124db3d326c95f7781a44fe20924606ec1e7b2b475654dd374d31969c6a190ce9024a3cdb"

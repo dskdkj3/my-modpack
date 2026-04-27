@@ -1,0 +1,8 @@
+name = "woodland_mansion"
+filename = "woodland_mansion.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e6ea3d63a3f84c7595bafd4bb1c136d6adaf97e25ec4a16eb5d33f7fa20b67d.json"
+hash-format = "sha512"
+hash = "ef3472f64b91f5c0784135cbb504fe7f5b631949c1c270d100e783f583a41c18b460f1af66aa7ffd4d2529ea39d59bf4ed4aa2cee41dd0a1deca4a72cef1ab9e"

@@ -1,0 +1,8 @@
+name = "tank"
+filename = "tank.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41f2ce55681bec23ecb68b091b290fedc1a496a37bf3343c93b09ad411b0620c.json"
+hash-format = "sha512"
+hash = "4d153dba93b4a83e9a4c77fe7f801e0d81dba6d13ef51102e4490c30b70866ef8228f895b9df07dcca26475613f42d2704b43ae461a5f25ef390e2f7fcfca645"

@@ -1,0 +1,8 @@
+name = "removals"
+filename = "removals.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e7d2646c272be244748253fe6ac49599b2e5296c0da4946620104f7ff8e5944.js"
+hash-format = "sha512"
+hash = "820f8ba2311a55839892245b750ec0767092b0ddce75ea002ff2ec242076024aa3da0679a8fa19a1c585444ec39bc42d680fe8ad5bdd8afea5f634f7e243ffa2"

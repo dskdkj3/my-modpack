@@ -1,0 +1,8 @@
+name = "librarian_1.nbt"
+filename = "librarian_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a88a6d40baf5fed85a0c6113d8123312391a4fd682f4a40d0527e0266eb4f9e3.nbt"
+hash-format = "sha512"
+hash = "6cf2b1abc0db947c90f7414026fdcfa1fc727a5f6d489cb8507123d375b0963cf172e21a2d5c42ffe57b96e12e1f514bd46e7853a308cf90e6bfaba330d9b22b"

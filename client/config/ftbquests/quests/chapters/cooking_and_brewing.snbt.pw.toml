@@ -1,0 +1,8 @@
+name = "cooking_and_brewing"
+filename = "cooking_and_brewing.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/330a2967944e94d908eb3af864deb66adb66899f7aa43f939d8ca4877be30074.snbt"
+hash-format = "sha512"
+hash = "f0b9b6f20e68519a64ab8f092e09281cb7979db893103ca3e227597b1a8fb667730aa36ec134afd830ac37ac1904a03eebff8bd2750ce5286cfe9861e9cd5753"

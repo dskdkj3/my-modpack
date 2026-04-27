@@ -1,0 +1,8 @@
+name = "cognition"
+filename = "cognition.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5460f5bf1ca9377b99d457b846b2764c401d4256f1468928cd04e0c07f81e22b.js"
+hash-format = "sha512"
+hash = "f6e18a0c415c47f9ac1c3647a65dc95213e262396816c82c3ec22caeaeb3722d3e87fd4ae03d73cbe48b827a863ddaad21b529bc216a7df9793d01d0fb16adc6"

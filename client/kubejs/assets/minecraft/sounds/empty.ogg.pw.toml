@@ -1,0 +1,8 @@
+name = "empty.ogg"
+filename = "empty.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4b69c3bffca4a1584f592cbaf673302ccf806f83fd9cc21eba67f7b3376ecb03.ogg"
+hash-format = "sha512"
+hash = "7e149679b3aa0e8746dd35a34560ce5eee30acbd90129496933f0e1e97bb19fcbeb766844e2a97007bb7bcf56c811dcef74444d845348084a0a9f99f4e18a7ca"

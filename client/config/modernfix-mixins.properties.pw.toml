@@ -1,0 +1,8 @@
+name = "modernfix-mixins.properties"
+filename = "modernfix-mixins.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb48edc5ccafb8f4a5e1da2416b4f658d9b2a25f4ee388cb8405f1d83f8ef817.properties"
+hash-format = "sha512"
+hash = "7b3fb4e0994184c9f38f7852dc778211960dda2f38278a951a3fa46342315330056250dcc6989fc3263f6d00cf3476ff8d244fa4c5c3843a817d2cd4bc217771"

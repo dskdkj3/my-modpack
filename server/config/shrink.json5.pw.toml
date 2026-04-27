@@ -1,0 +1,8 @@
+name = "shrink"
+filename = "shrink.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f08654a03e1a0f7e38639feea9c162bd4141db85696b376c5092afc49baaf91b.json5"
+hash-format = "sha512"
+hash = "1c11a9c76a5b013e85da0f6412abd2f106ba00baf12e8f019dd7262f81a45d7cc262b108362c0fd63388cd630d28fae9019966fb7459911d419a24e816d9c57c"

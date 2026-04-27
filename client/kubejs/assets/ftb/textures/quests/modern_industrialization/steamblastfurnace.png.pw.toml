@@ -1,0 +1,8 @@
+name = "steamblastfurnace.png"
+filename = "steamblastfurnace.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97e3f7eb519b189c714c2025a2a26f75643276500444656e7e2135972e64792d.png"
+hash-format = "sha512"
+hash = "88319f326a29018c602b323dded24d481b74f6c6186d5967183fb94d1cc8408f516db6b0c470a2cc390c005e2fa2fd9f91746db9d28e4aa77fd812a2f9445e4a"

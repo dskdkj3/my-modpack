@@ -1,0 +1,8 @@
+name = "curios-client"
+filename = "curios-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b53b1b0c41c33b3e5cc789e896f48d09710c2f22200a07d426862c00b653a1b0.toml"
+hash-format = "sha512"
+hash = "b299b28e6780ea6dc3f3c92f29cb23df8aa2c488c3ab30386af7af0532caf95c6b043738fc9502aca527bc6fe6ef887a8d4db89d96fcc762f977871f30a0eb22"

@@ -1,0 +1,8 @@
+name = "rage_glove"
+filename = "rage_glove.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1e30988ecc71486eb15eedbb213d18a85a173c11b334fe7373b7ec99f192214.yaml"
+hash-format = "sha512"
+hash = "74f5a1d85b2cc06821e29a27c0854a718992aaa4861ca0ffe72dfddee61bf4ad474bbb8a26e82e7e504128b8a7f9871241310a972585e5ebac7e701d1b56422d"

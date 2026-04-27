@@ -1,0 +1,8 @@
+name = "trial_vault_blueprint"
+filename = "trial_vault_blueprint.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c17a77c7cc4f272dfc2b294df5b9dc752e8c1cafda3939a17fe9394af4205fc6.json"
+hash-format = "sha512"
+hash = "be766d83d97793e27c6bd41510a5d665d7ca35d8d11382716316c3f3fe001f43302e15b8eef0eae61c2712d477119336ea98047747f517aaa31fba7213510d1b"

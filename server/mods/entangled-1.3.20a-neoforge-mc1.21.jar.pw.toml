@@ -1,0 +1,8 @@
+name = "entangled-1.3.20a-neoforge-mc1.21"
+filename = "entangled-1.3.20a-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6091/724/entangled-1.3.20a-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "bfe1e7db31faa88f559f90b99bbe7a98f6e5da7fa41a61f78d558d05b9263f8c27c700b40e6e85fff66ac1de1c9e6b72b50e8e14c65e30f8df6a00bb761033bd"

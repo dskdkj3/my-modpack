@@ -1,0 +1,8 @@
+name = "the_travelers_quest"
+filename = "the_travelers_quest.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6a4d80d6137b80bf3f32a30e8caa373b61835e761c8f7d42f58a52583b2a0b4.snbt"
+hash-format = "sha512"
+hash = "7878a0183034706ec2b588a255f46529e269d9c31dbc2ea6f9642081724b588754f3a144d09c966f20c0a40cd0e4fe5af39a9e3b72550d0c29f012440261637a"

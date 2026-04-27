@@ -1,0 +1,8 @@
+name = "ruined_portal"
+filename = "ruined_portal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/163abf68a7f6e2ba2ae0299e900d15b44a0c93b0c4cfc6d19f0f6f235700a5ca.json"
+hash-format = "sha512"
+hash = "4577efa25b7320b1467719a490b12ed9fe806f556c192d29450d517c0955337ee42ea4c6f0b83ea13a1c029dce188dd5cdb169146283321945c823cff50163c5"

@@ -1,0 +1,8 @@
+name = "ender_source_jar"
+filename = "ender_source_jar.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd8ff68f501bae61002d90081291b19bb6c5fdd808c5853292a1f55a68b66fc2.json"
+hash-format = "sha512"
+hash = "f6526617c3594d90ec4b9bd88b64959d2583f0c079ce666324eefc337aa66252f5dda0d6e2923305b6ca47e95f288d677687952ff87ce702a66a8b1688c4ddb2"

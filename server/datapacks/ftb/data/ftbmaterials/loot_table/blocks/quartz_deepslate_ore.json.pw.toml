@@ -1,0 +1,8 @@
+name = "quartz_deepslate_ore"
+filename = "quartz_deepslate_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/757b47883a27d7caecfe1198813c6181b394e051a347f176a0de02029ff90b69.json"
+hash-format = "sha512"
+hash = "31b27953663bebbb4627eb540d6d5e1e88977d5df842d1123cb5cb682e9a6b296bf4f1a74da1e2e8a4eb56773266042a4bfe6f711d44c4e151eac291fbc0c6ea"

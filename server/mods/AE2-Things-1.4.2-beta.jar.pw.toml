@@ -1,0 +1,8 @@
+name = "AE2-Things-1.4.2-beta"
+filename = "AE2-Things-1.4.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5637/783/AE2-Things-1.4.2-beta.jar"
+hash-format = "sha512"
+hash = "0ac412ad702921fe92ceef72267214284958e6880c2d3ac0a50289f328c69e8d8ec91080bd243279bdb04a87298e6c505020baa07e16d123f2d5a988091409b1"

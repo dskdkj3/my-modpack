@@ -1,0 +1,8 @@
+name = "stainless_steel_rod_magnetic"
+filename = "stainless_steel_rod_magnetic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0073b84aa1625a6e2c2485ea377a6c740a579f2618ea99d2f7b3bbf25d7b018.json"
+hash-format = "sha512"
+hash = "67cf0534e7bd38b2b463a3de36f6f63ae9bf84ff0b0159ca2f782d1e8237edb831b08afe6d5f50a6c334790731296cf08db1556cdf80a4c59d697be472d914e6"

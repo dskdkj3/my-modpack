@@ -1,0 +1,8 @@
+name = "geneticsresequenced-client"
+filename = "geneticsresequenced-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7bc62c818cc03eb64fd45c5d1dc41d69d14d8e34f3d5826ab5fc97c0af8ebce6.toml"
+hash-format = "sha512"
+hash = "13de177afeacf64594a519853d8b71fd1bc324bfcb5af06c586c02039ec9d649b8a3dce5ad20e041e8d8a857064f7cc65a3b488da2a53bcbe1c1f6b200373d90"

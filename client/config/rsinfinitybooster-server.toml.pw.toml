@@ -1,0 +1,8 @@
+name = "rsinfinitybooster-server"
+filename = "rsinfinitybooster-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c071337235cc627049de371bdbf8e91bd1c030ec4a9e96eac3e237571413623d.toml"
+hash-format = "sha512"
+hash = "00b90dd601a5737016122df183bfefef186e1870a23e741968f7bcb8fababe97405935f52643afcc88c7a256345f097a56b1cf66db6db9457894d4d72cb5eee7"

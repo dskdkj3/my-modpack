@@ -1,0 +1,8 @@
+name = "ui"
+filename = "ui.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72e1f42c65f50836b8dfc65c444df69b92843171d944768669e4ae6e938a4c16.json"
+hash-format = "sha512"
+hash = "29ffdbbb36678dfebe25eb45162a7a4a286d9868e6f7ab8087c842836dc386d7b294c1821041533a0c6cb2f126de0cb63bea19ebef447889d1e94fa38f708cad"

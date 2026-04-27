@@ -1,0 +1,8 @@
+name = "steamworks"
+filename = "steamworks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e4f0e5ab3274f6d433dad00402ee32aa0fca331469c692a76655c91f3447237.json"
+hash-format = "sha512"
+hash = "7e81abd7a9f2f700b2e6d10f3487c3d98b930472b8c754a942543b7097af645ae85a82d26ff95168aceef285aa272965612485148e602ec932aede9a1bb68986"

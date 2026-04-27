@@ -1,0 +1,8 @@
+name = "piglin_bartering"
+filename = "piglin_bartering.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d1c97b82b26dcc208b4c18574da8f32338de40de90c9d4749a6a3140ef29d896.json"
+hash-format = "sha512"
+hash = "8b0fb023e53856074537abc3452776c1aa9bf6bdb1445583dbdd2c03234002c5ac8ad9f02cfee2fe62ea3ec85eeb461acf283d5f1dfcc77636c13e63e7866ff7"

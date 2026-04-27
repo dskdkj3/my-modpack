@@ -1,0 +1,8 @@
+name = "justdynathings-1.19.4"
+filename = "justdynathings-1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7623/712/justdynathings-1.19.4.jar"
+hash-format = "sha512"
+hash = "59e9151ee5082615b4c75fb46fed5a87cc52423a3a70d07623319686ad9aaf0029126043b56b926e8dca532b233fe6c70657f39f282b80191059f13b709e8174"

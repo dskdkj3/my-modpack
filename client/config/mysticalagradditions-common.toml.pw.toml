@@ -1,0 +1,8 @@
+name = "mysticalagradditions-common"
+filename = "mysticalagradditions-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e73e5ff1c68601f2f4997dfe828abda73c94866643ed8a7e7829b5023e63a5f.toml"
+hash-format = "sha512"
+hash = "7e9d7c211956bef1cee33efcdc52320df530a12fc3a8fac9cfde859c1ed8b39eeeadb5b8173699948eb78f439e21b3037fc54aeac5f48a121cbc06b785d62229"

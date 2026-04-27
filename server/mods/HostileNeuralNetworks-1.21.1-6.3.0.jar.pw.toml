@@ -1,0 +1,8 @@
+name = "HostileNeuralNetworks-1.21.1-6.3.0"
+filename = "HostileNeuralNetworks-1.21.1-6.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6751/495/HostileNeuralNetworks-1.21.1-6.3.0.jar"
+hash-format = "sha512"
+hash = "65d3f9cf184cf396e7671242d230652cceacf9b9e9f4fcdfb66dfe1fd019867b4c452dd7380abff6c5a906f7bd7e7ad31cf27a69c0b44873ed1aecd6b1f29c53"

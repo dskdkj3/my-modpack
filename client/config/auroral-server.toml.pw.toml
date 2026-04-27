@@ -1,0 +1,8 @@
+name = "auroral-server"
+filename = "auroral-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48218045ebc6f8009ab41b21ec7f3aef085acfe16119c37a3397400d22b257b8.toml"
+hash-format = "sha512"
+hash = "829755f1e711abee68407be7e876bfd1c013d499d045b3ce68ea87e1f51db46ca103b86ac647851a0e3684e5017980646e57c6b4988ba465ee2f55210e94c7d0"

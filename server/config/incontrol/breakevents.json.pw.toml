@@ -1,0 +1,8 @@
+name = "breakevents"
+filename = "breakevents.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/50c3dd561c33624b528ec4adb0e3634d34e16cf0e6aa582a924fd17b0fe29185.json"
+hash-format = "sha512"
+hash = "b25b294cb4deb69ea00a4c3cf3113904801b6015e5956bd019a8570b1fe1d6040e944ef3cdee16d0a46503ca6e659a25f21cf9ceddc13f352a3c98138c15d6af"

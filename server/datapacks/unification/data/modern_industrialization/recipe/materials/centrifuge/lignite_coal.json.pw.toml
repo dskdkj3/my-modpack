@@ -1,0 +1,8 @@
+name = "lignite_coal"
+filename = "lignite_coal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71e4c14f0908ef924760897ef5d435d7848e80c1dcf88860d335589462c12bf0.json"
+hash-format = "sha512"
+hash = "dca870221c48e366cb481ba828f75ec396dcc9d29d3b952b5215cb078d6a3cf27cb7446490d766bcf31d241223b8d9d057fc520bcee36c0f5c4df6fe1751a0ea"

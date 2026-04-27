@@ -1,0 +1,8 @@
+name = "glyph_summon_steed"
+filename = "glyph_summon_steed"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/3532eb171e5a61041151823d57e4ad6f618b0d2825b117390802d96845fc58d1"
+hash-format = "sha512"
+hash = "3f3a6c4ed31350eb2812a03f2f707145c868c222bb3a39938b61bfe542d1d1b91c8e8ef0652fd4649232505c5f898ced33a4335156af507ae33a615fa667e9c2"

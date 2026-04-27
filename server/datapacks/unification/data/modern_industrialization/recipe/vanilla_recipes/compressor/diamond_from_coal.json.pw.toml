@@ -1,0 +1,8 @@
+name = "diamond_from_coal"
+filename = "diamond_from_coal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a3612c8678d0e9a440c5361357b875f051d1f60c840f97b677c601935d3e4d81.json"
+hash-format = "sha512"
+hash = "0aa4f3fea9a0ef588f33de717960c80879747dca3d3d6e6ba0c396c628aa5df12d465eb6cbbfb1dff8f6b17aeec68d929b1f8584cc0ac418f2d2bda042789803"

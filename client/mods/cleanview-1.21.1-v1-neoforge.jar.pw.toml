@@ -1,0 +1,8 @@
+name = "cleanview-1.21.1-v1-neoforge"
+filename = "cleanview-1.21.1-v1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5610/807/cleanview-1.21.1-v1-neoforge.jar"
+hash-format = "sha512"
+hash = "cffce9eadc79ac1eb4c7a7cd1e476d303d9c3f2e0b23f778bae7003a1c756f85ee0b6de4a594a318f64d3fdc52208336bb2217bc1994aa962d0d8317bbb253dc"

@@ -1,0 +1,8 @@
+name = "wool_mitten"
+filename = "wool_mitten.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/11da97ee8cf95322c3cda60c8dfa9f7057e0b1cb84cf3cc4a5f524e2d139dbaf.json"
+hash-format = "sha512"
+hash = "1be0e0561ef597aec8661dd8876d8b014320552565668e6129141c884b768c1972717c43d79340b9a735f9e36619969cc371b5c6888f4c4d8f12d27f8c182d6c"

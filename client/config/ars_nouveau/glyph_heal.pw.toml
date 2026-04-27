@@ -1,0 +1,8 @@
+name = "glyph_heal"
+filename = "glyph_heal"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8ec042060afdd2052c009297ed1ea6da369b57826cbb42ee753b36a737c96f6"
+hash-format = "sha512"
+hash = "034dd8736fd8c2d32c8cfd589c6717d0695d5d72e492a6efed2d6780745059f239f37a8744af063fc7aef26b9a0367435b3a97662fd2e140184beaa6fc53b945"

@@ -1,0 +1,8 @@
+name = "pyromancer_basic_storage"
+filename = "pyromancer_basic_storage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a95888c9c903aaef6621a47c7ecc05f8846796a8348cfb491df2ba8167d62e8.json"
+hash-format = "sha512"
+hash = "ed8e594f869b85caf46486c6d4fba711dfceb49cf727ebd795b4aa22e49706f69dd157d90428e7b1d9bf52ce83a066c9bc63197162889c99f61c9183e7595857"

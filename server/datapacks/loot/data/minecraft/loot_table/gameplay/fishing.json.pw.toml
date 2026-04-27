@@ -1,0 +1,8 @@
+name = "fishing"
+filename = "fishing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7200976edbd4bf0f8df0b822458e853e22374210214df67c645f248aa82a996.json"
+hash-format = "sha512"
+hash = "4a8f3eee9388342284dfc0936bc4adbd6a595c9667c4b5438b54e17da6343fe18b8a9efcb386614b53ef1a3348d8d256a6ffacc6af9d39e014479da2e9d1c2c0"

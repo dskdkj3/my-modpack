@@ -1,0 +1,8 @@
+name = "kivi_flow.png"
+filename = "kivi_flow.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/99eb450ef882dfd46175245439229cd40bcef139d6f4f39da29c123a7fe791d9.png"
+hash-format = "sha512"
+hash = "8bddef5a4e28ceb863b37bf4b8b69da263ad547f70c5c5bb5a42a15b529d5b107398a7d8624b433df00e1eeeb8cd2a95db93d3ae0ff2efad268fd52f28664cc3"

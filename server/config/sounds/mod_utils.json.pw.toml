@@ -1,0 +1,8 @@
+name = "mod_utils"
+filename = "mod_utils.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a1487537db4f0b0ee5474a45b4d43058882f1dd598814435977e0705ac334a0.json"
+hash-format = "sha512"
+hash = "679b9efcc66d91c7e0c5f122e08a41f36f0a5da03e4efb678bbe188dbcaa2998aa26862516b67c0e9e83a12bc62284dfff42a495c77f0a2fd2aaa4ff25b09b29"

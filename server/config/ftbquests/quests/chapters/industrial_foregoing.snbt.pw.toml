@@ -1,0 +1,8 @@
+name = "industrial_foregoing"
+filename = "industrial_foregoing.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2aa3576f7f125d127f7c0322d5da04d7308193a6dbcaa280f7985b3b5f3c8a2.snbt"
+hash-format = "sha512"
+hash = "a6d7a9ac44f5f016b3b951fa034f4f058b0909ae7b85c8e46efeafc69cc6dfb72ff38d00fac75345ffedc15bd91923bcd850dee3cce1acd6a70edc8b2f81b63e"

@@ -1,0 +1,8 @@
+name = "ars_nouveau.perk.warding"
+filename = "ars_nouveau.perk.warding.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/452edf6ea8b91f3e2313aef8e435cc05a288d08c5d4caebbf7bd41a8e37cb520.json"
+hash-format = "sha512"
+hash = "56c9e193d2f6c4cb34d2b7f8d1a8b4750542af10f3f43d1a43b3dd49cfa1d5280d9ad0808bc40902d991ec62af8345cea67c6f2b0b1c42f9ee88b95525d36392"

@@ -1,0 +1,8 @@
+name = "lubricant_from_biodiesel"
+filename = "lubricant_from_biodiesel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd2b56ed8f2bcfb86d98a4bc7e5b0a40c306e1452cab41b93a242bcabd62d32d.json"
+hash-format = "sha512"
+hash = "363ed4075a07329a8b6b9e73970508357b3d2eec0aeccfef963b91145896191880ec52037562eb3ac46096542e48207269a58659366ed2ebb319b53c5b075f07"

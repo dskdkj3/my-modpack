@@ -1,0 +1,8 @@
+name = "capacitor"
+filename = "capacitor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/9795f9485d0c17ab35d2c71377fe77e8ae0f653320a3fa0de756a5d5f0e01982.json"
+hash-format = "sha512"
+hash = "9ea7a7e6552019713cca374bd1859972c2243db4e14e545ff5d4b7e3ea1725511919361f2577b3858801ca1c0cfaf0b9ac136f9a05895773085965e7693a5141"

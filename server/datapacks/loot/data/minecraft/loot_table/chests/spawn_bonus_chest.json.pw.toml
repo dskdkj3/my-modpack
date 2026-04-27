@@ -1,0 +1,8 @@
+name = "spawn_bonus_chest"
+filename = "spawn_bonus_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/9079ae3e74fbabd9d7879cfd29b36906182743b573b18bbfd8d9869762578fc5.json"
+hash-format = "sha512"
+hash = "f768871fa8e94e910e3883b0c9882a889a101597b025d7dcffb6a7b55d2faf9bf8f751d920261eeaad5231d5017435db09f80a9585c96d84a1f171ee5b68e130"

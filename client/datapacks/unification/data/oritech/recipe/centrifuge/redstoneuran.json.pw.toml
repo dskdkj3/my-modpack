@@ -1,0 +1,8 @@
+name = "redstoneuran"
+filename = "redstoneuran.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/399be309b81125a91b1b58703562726e4ea7e13e0e4eb4027096d4985ab77c0c.json"
+hash-format = "sha512"
+hash = "705bebd04ae3a3d776a69abf42f0f76408e57ef735fd0a851c2725bbded99ec8b32dc130e69dceaae86f2abbef8ce066220f5ffb439af7c2433137c8491f1ed8"

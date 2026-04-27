@@ -1,0 +1,8 @@
+name = "statues-client"
+filename = "statues-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48cb671ff586445d33248640e0205343c79c2dd9941d6ca843d3115d57d471ef.toml"
+hash-format = "sha512"
+hash = "37106db874d0b82a95c32c1e9893cbd048c200a89b285f8b5fb063156994aa6719330efb69360ef44883731a6e690d0f3c599b757316a0e87f74052721d709ba"

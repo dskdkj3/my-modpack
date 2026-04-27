@@ -1,0 +1,8 @@
+name = "menril_powered_automation.png"
+filename = "menril_powered_automation.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52b92adb0692e4abbbe2d1a5fd548402585159b757205a71af5cb1267719859f.png"
+hash-format = "sha512"
+hash = "b0c82ef03cfcb3dd24b76edb4aa79a1990d8a970a7020441c6b5f57f272613c5a829ffc5e34015f04d5a3bd4b390b87e4353db394326cce343f0871cd55c499d"

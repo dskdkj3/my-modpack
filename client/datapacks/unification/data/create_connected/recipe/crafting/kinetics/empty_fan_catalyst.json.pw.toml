@@ -1,0 +1,8 @@
+name = "empty_fan_catalyst"
+filename = "empty_fan_catalyst.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d27bd734a576b69fa3e228720750d10e9e9b82c9dee036694d5ac0863851e4c8.json"
+hash-format = "sha512"
+hash = "ca312c002e2523a8d4d8629a8d555201dd7fd68bf0ce104f196f561485930a5201d2b581c5cc63cb699d44406b45bed7ed6f8cd642dc007f5def0305f38afd53"

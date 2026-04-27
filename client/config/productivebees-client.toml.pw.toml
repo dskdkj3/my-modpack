@@ -1,0 +1,8 @@
+name = "productivebees-client"
+filename = "productivebees-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/9416825a27a78ff457f610e04553e5bc8056988c7cf3a566377e5d64ce6a423d.toml"
+hash-format = "sha512"
+hash = "1f26546a677fe42096b7d579be56e89f9c385daadfa33bde63bb641e4681d7426e6b247e9c24c5914e3cf600f53d5ce2733ae294eaa1a9bf9e44a985941074ca"

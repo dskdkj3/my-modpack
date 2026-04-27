@@ -1,0 +1,8 @@
+name = "aqua_walker"
+filename = "aqua_walker.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d652ff88c39abb34d5bbc956967d6de40f265e1afb591276c4b43c98b11da4e1.json"
+hash-format = "sha512"
+hash = "f2ca2e38dbf1ff6c1cf2ce213256668726e46b32c7be1339e0de46f59417e7bb9d40b27db4400c7ea2f8ee22072bf760d27b12e8d4d61c6c82a66fd2ead2bec2"

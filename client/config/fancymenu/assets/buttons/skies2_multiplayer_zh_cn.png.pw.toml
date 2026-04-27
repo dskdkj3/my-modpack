@@ -1,0 +1,8 @@
+name = "skies2_multiplayer_zh_cn.png"
+filename = "skies2_multiplayer_zh_cn.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad1cbe7d0dcfb78d9d58b601d1db3f49547fde2934ec1dd69438c1d16de5341d.png"
+hash-format = "sha512"
+hash = "e8d0d0db46c18e7fd8d4f7b90e360b1478b77c76ce17f7d5307de1e89b40901d57e63a28bc0e1213ec6b397bbd9598c4bf0eb3ec350b6ccadd6d16bf0070674a"

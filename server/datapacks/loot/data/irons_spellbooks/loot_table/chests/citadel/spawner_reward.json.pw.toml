@@ -1,0 +1,8 @@
+name = "spawner_reward"
+filename = "spawner_reward.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39dbea71a0e4cca62420a639dd0bedb77673fb5767bc86ded6cfc91960e48db1.json"
+hash-format = "sha512"
+hash = "932030c415f6eae2a4516906f1d2cc6b724c83ddd99d05321479e4e3a42d69e84dfc789f7e8bc4fbba0dd78b79580d2dceac09d463fe0eeb1ccd136b3cc21f6f"

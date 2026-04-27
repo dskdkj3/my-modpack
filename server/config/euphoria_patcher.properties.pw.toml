@@ -1,0 +1,8 @@
+name = "euphoria_patcher.properties"
+filename = "euphoria_patcher.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25cc645ad0fa200d3ed2cf93fbc06dcb00b312308ef00e3742b6dce29c373356.properties"
+hash-format = "sha512"
+hash = "a2f7df4bd5a4a6d4ac6b7a2f21a8de9238ba5702f9555288c85b8d0b08d7b907e5ff98b972a6769294b7821d103d1dad365fc5894ea4a6816598850974cb7910"

@@ -1,0 +1,8 @@
+name = "JustEnoughMekanismMultiblocks-1.21.1-7.12"
+filename = "JustEnoughMekanismMultiblocks-1.21.1-7.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7408/168/JustEnoughMekanismMultiblocks-1.21.1-7.12.jar"
+hash-format = "sha512"
+hash = "e6e1747b804c1910b8b090eeac26fed2090bccb80fee3e6d180da3dbb6f403b5a7638f1c19e1dc402b799f40f14bb59891b19364a87c1454243b3daeac005381"

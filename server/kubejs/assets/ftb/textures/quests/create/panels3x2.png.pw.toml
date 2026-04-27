@@ -1,0 +1,8 @@
+name = "panels3x2.png"
+filename = "panels3x2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/9612a19d011c4cb96950082647fc73365104484b3d4a02bc7fa44b4dfba229f8.png"
+hash-format = "sha512"
+hash = "82b6101d3a32f613560ccdfb70a7df7777e4e4ffc7f1c187aa82c834698af7298820cbcd10a4d8958d2009e20f723f3ccee8375c42d73959dbc6f05a8cc86cca"

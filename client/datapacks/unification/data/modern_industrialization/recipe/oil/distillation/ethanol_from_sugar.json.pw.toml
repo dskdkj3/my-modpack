@@ -1,0 +1,8 @@
+name = "ethanol_from_sugar"
+filename = "ethanol_from_sugar.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/8199b0c3b372e39ad8c5cd70c62713b1fc53c0d3963eeb924e669214356ab5f8.json"
+hash-format = "sha512"
+hash = "80895efb75fbc203478842b1fb5ec21fae5fdc8d10f95a30ffa2c4da1a24e2338bf9038d4985f091ac245c55fbdff23e88977e7ef1120b058dde7b75b61cd59e"

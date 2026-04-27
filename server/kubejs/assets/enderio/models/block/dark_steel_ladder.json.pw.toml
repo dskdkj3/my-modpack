@@ -1,0 +1,8 @@
+name = "dark_steel_ladder"
+filename = "dark_steel_ladder.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/83c4b22a7e7e5b8a0727c75d21407ecc65e1ef213c7ee9d2b408aceaf30cc15c.json"
+hash-format = "sha512"
+hash = "ad60ed81021fdeae83c12987a22080219152b1bf4bcdc8fe4bf65f6bf5757df3a1005b5f649add90f248f01d7d23dd87d60d9d1644dd6b3d1e33b4387d9c55f6"

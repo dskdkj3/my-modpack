@@ -1,0 +1,8 @@
+name = "end_castle_placer.nbt"
+filename = "end_castle_placer.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/8630b76f311560b6bd26902bc3c2b2b0010cf4e6c059262c41418190a1aa8825.nbt"
+hash-format = "sha512"
+hash = "0e566a0c28dfd5c5c7a091c114ef464dc29a2aa34105b890e847dfc15297c1dace8460369b2410c1b54c8e3d7b2801a8d60eae3933fcf82038599ee56069b49d"

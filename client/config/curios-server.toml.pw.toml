@@ -1,0 +1,8 @@
+name = "curios-server"
+filename = "curios-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6900ea77dcf1b0c17d37d76b8233554ee7ea9751eac3669c7e1e04bb2ad2866.toml"
+hash-format = "sha512"
+hash = "b526bca90440c58076242def28860c6748a86fb7a8b5b99387abe2729580b2dc94ea50ea1024e0286e3660095ba9a359656eb85af9661104a5ddb366aaf98e30"

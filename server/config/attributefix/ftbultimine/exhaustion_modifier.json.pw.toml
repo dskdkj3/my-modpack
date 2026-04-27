@@ -1,0 +1,8 @@
+name = "exhaustion_modifier"
+filename = "exhaustion_modifier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c741406432c004993d3eb4f6f0fa6debbefb470df7001e5a53ed408e5bf1e07d.json"
+hash-format = "sha512"
+hash = "fdec44a4a0a00150e846cc064532222b2b53c72dc17d4dfbce202bbd307134c8ef199d2d22d1cea50c116d9cf3bc70545a476864699700dabfc75bc5bf83ad69"

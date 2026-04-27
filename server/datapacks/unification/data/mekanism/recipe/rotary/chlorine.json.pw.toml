@@ -1,0 +1,8 @@
+name = "chlorine"
+filename = "chlorine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a75b2806f4f653bc35539d8aea3329046ce6d2258e6f0955338c6bd60d053f2.json"
+hash-format = "sha512"
+hash = "c9a1a89cb65f6c8729d4f1e16f86c1ea601d19c9e961c8759f65df700f09da09df0148e7a46b7299609183d8b77ec8b134cf57dfbef05958e8fca717fcafa0ac"

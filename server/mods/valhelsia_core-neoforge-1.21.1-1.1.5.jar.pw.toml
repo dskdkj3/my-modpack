@@ -1,0 +1,8 @@
+name = "valhelsia_core-neoforge-1.21.1-1.1.5"
+filename = "valhelsia_core-neoforge-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6296/775/valhelsia_core-neoforge-1.21.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "2738adf9f65bf2b01c91f839ab7585978fa43ea984017b13c2b4b0ea88fd7764eec2d9276f4ba7e2c4feb96a9324ea33f61bfee6edef2eeb0d6ecf17ef0d8820"

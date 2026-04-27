@@ -1,0 +1,8 @@
+name = "itemzoom-client"
+filename = "itemzoom-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f19d37adeddf69cd0a49c3f8da0d5f7508939db66ba2f06f984dc5fe796520b.toml"
+hash-format = "sha512"
+hash = "9281129164537a65e1ef6b4cbda699efbb15fefea4858789971bf3b63872c5d6e68a3a53fad84b4388b17abbfa5acd732d7b7986513abc59d64a7702b9cf3da5"

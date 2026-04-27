@@ -1,0 +1,8 @@
+name = "castiron_16"
+filename = "castiron_16.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5eefb2c577ad4c8d3916b928161c1d1bec592e0b71dd73f748469c160d93fb4c.json"
+hash-format = "sha512"
+hash = "06e7c0277624c97c042576aed7559a9cbb64ca19162a741d4df610a85e5225abf828b1ec87949689737bf5184938b2bd736b619b57a50bd67841d9d16e44bad4"

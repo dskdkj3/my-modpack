@@ -1,0 +1,8 @@
+name = "extended_industrialization-startup"
+filename = "extended_industrialization-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6efc74139f4e020b1d2cef71286af5bdb297ead51122bac920688916c49955cd.toml"
+hash-format = "sha512"
+hash = "aaf95e5d04fbc246889a2e9137ac2a06dba1512aed287843b46cb8d13f2809f47fefb6cc6e118a860c3aa44fdc232cb5f30f3067515056d9c4b38c7f4edfca57"

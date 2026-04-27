@@ -1,0 +1,8 @@
+name = "dark"
+filename = "dark.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fd352dfbbe27e7f43c5a3ae4a9ec49b42a609af79b8b5556e518e8243ac5e96.json"
+hash-format = "sha512"
+hash = "2d7a126cc22d546c0335e53a5a3050b3380a22e95addedd65babda1d0c0a1b0602a3dba333cdadd03c1087e5fce4204d539e8e3e5cfe0105ddb7e49591d654c1"

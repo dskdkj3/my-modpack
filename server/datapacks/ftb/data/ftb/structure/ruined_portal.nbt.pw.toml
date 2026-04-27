@@ -1,0 +1,8 @@
+name = "ruined_portal.nbt"
+filename = "ruined_portal.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78675a850a19f0d11f17bfa72b4858380518a2e3f9e17f616d8e6a02a5218633.nbt"
+hash-format = "sha512"
+hash = "80b06cd5bbd4c7f7d3266c1d6a565b7322fd17833b31ff13a1e25d7bc2e46f424070ab84db0aec026d9b4fa9e55cc01eb193c858416fd05d746e454d71c4a3c4"

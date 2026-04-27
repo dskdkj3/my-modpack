@@ -1,0 +1,8 @@
+name = "midnight_robe"
+filename = "midnight_robe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fafd6f21392580be9c86e3ad9e81c6a8ab87a814766fa00e59a1dd2d55c34c76.json"
+hash-format = "sha512"
+hash = "45d93073841a25f29a361f89fb025ff392ed6d387c1850f38bf0c3abd7f5d2b3184ab716481351f69e637f690d1aa3bdd85bcda91567b3ca35be30ee201747a9"

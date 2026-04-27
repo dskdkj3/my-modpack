@@ -1,0 +1,8 @@
+name = "quarters"
+filename = "quarters.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/523663641c42268bab06054390fa991761627e2e0a2868b4ca6c2c3b0ae108bf.json"
+hash-format = "sha512"
+hash = "edae6046755c3f02730640bb0ed68c8fae30d5391556ee3b5b6518b0a44270846eef4c74026a8a1d7142e3bc105cde2c76350f7dfa8639a77e7a110e6e687552"

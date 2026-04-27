@@ -1,0 +1,8 @@
+name = "lignite_coal_crushed_to_dust"
+filename = "lignite_coal_crushed_to_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f932bd94ac7cdc2d99d352d00dc8529cc76dc818bfe48f15d02e0785e5ac2450.json"
+hash-format = "sha512"
+hash = "7434db8d7a401900d5ce9f80e99973cb47ddeaf47a2df2bae17fcfabaad3d4451c260d9bd5f14bf1d9382e32ebff8f622e9cc79e16d32ce9eba40b6c4f82a07c"

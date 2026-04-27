@@ -1,0 +1,8 @@
+name = "glyph_crush"
+filename = "glyph_crush.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5f11f12c8e43b94ff9c566251707266bd410b82880ac6a726f619f7e3b642fbb.toml"
+hash-format = "sha512"
+hash = "f58b8be73497c9a9c7ed4c8afd9c4fd01727639fef69119425b1111e15f86d57599d8728babbc3fc6c6ef6ce4958c3b6d070c843ebe8b7bf0af54bf969f27cfa"

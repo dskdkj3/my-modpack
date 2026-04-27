@@ -1,0 +1,8 @@
+name = "rod_magnetic"
+filename = "rod_magnetic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd16f626e485ce5f434666381d48ce05a1237bdc2c33fbc6562f9243fbab8c75.json"
+hash-format = "sha512"
+hash = "a8c1f4ec748528e86207194e6f4ae6c477c74f0fc92b8c7fc8218eb4c418fc47a25a75dffd00f31ec53a41371ae370b7d17afa708845068b426afe240366ace0"

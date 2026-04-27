@@ -1,0 +1,8 @@
+name = "mutandis_extremis_blacklist"
+filename = "mutandis_extremis_blacklist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a0630e2e462abbf31d0bb9e6cdd4e1b54747e39873afde0154c1a6ff8f9e1a5.json"
+hash-format = "sha512"
+hash = "286eaf75545f855f0a4625d67b8c2511d2f671cbfcfa40d145f9ee72e01766eb0203cea2eeefd378614bf1d71d013e974b87ea645abeefd39a6f8e07923f3e9e"

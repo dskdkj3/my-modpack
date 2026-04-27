@@ -1,0 +1,8 @@
+name = "generic.jump_strength"
+filename = "generic.jump_strength.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f889f2844d9f9054eb8fa281ce1b2a225f9164c5cec05c1efbe6748c61081773.json"
+hash-format = "sha512"
+hash = "6f4277cdfdb55489e79459f59c413a49a5a12824e757c5f3ed06fe6f0d13b823e2ac89fdcf61633ae2fdc066d1e5f6b165e588067950d4d898b5d0d3ce458db4"

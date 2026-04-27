@@ -1,0 +1,8 @@
+name = "polarizer_asbl"
+filename = "polarizer_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f7274cbb8987d2d2b219a6e408e0b0dc8a83e24df10710173b76a6e6153485d.json"
+hash-format = "sha512"
+hash = "88a76471d9679328d9e66ba770a2dc3b3cff0fcfb8bf9d796ca405fce46bb9ce736d4d7a451d4191ce6e6d1a2558a386624aea029aaf4fa38fd101c962d83bd9"

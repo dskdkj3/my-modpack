@@ -1,0 +1,8 @@
+name = "grassgreen"
+filename = "grassgreen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a2519699c929d7c4733e399d0d7714c177a0983bbb2e062b1b7c40d38a15743.json"
+hash-format = "sha512"
+hash = "56691ca2d5d778bb9103658124ba6811367f4666455075a05351cda0856cbaa13ec904c67f4baa5bfd3ff5a05b52e2ddad374c71e76eb749d00bc34c143fcc19"

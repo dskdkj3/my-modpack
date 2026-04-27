@@ -1,0 +1,8 @@
+name = "glyph_wind_shear"
+filename = "glyph_wind_shear"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/403ec3f95aa20ad338d7b8244024821b64541e12fa8ff1cbbb1b8e61627f7dda"
+hash-format = "sha512"
+hash = "557c012ca24dd94c82faee6936b135b0f7058744567cbc864112399bb262d479e53388101a8d7931ae2c560943320cc180a8baa924f79990c633e5fb6ce5467c"

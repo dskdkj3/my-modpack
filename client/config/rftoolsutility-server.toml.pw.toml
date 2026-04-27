@@ -1,0 +1,8 @@
+name = "rftoolsutility-server"
+filename = "rftoolsutility-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/853edeb5b36f6b5d59945c15bbb938979677079e419d4b6ac9fcd9bd77423719.toml"
+hash-format = "sha512"
+hash = "f022ebc3c5a6b45a7db42dc697e24766f1e9c19c632c556b230dd9a54c6932cd3c13a87844fef208632339e01b6d702494dd250f9342ad4a772ac767426334d3"

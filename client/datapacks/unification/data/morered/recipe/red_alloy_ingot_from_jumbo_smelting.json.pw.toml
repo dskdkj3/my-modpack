@@ -1,0 +1,8 @@
+name = "red_alloy_ingot_from_jumbo_smelting"
+filename = "red_alloy_ingot_from_jumbo_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5c6bc49f8ea21db4b359e2f9889b67e332e9ace1a92e2b8b9412aab966ec6e0.json"
+hash-format = "sha512"
+hash = "68d63509e2a11b5eeae9b67663daa3cac9779f4628d914d4e20c165111aa4db9372551022dea4203926ca9393269b9348828fc4f3bfa8389323ad25cf939378e"

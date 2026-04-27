@@ -1,0 +1,8 @@
+name = "jars"
+filename = "jars.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de819d17dc9ed27f7eecdf789022f93bfcbbf50ec5870ef4eafb39f0e49791e2.js"
+hash-format = "sha512"
+hash = "f7ce45e8888c1aa751c660e68873bc20c47d6147f6ecda5a0bfd7d660f16b967e1336efe64a6832d9a0e1364b009127d48242e99a9fa430ae0b69316131de30d"

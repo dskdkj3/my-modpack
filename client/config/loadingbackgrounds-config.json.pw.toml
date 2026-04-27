@@ -1,0 +1,8 @@
+name = "loadingbackgrounds-config"
+filename = "loadingbackgrounds-config.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2edb1c2feb1e81d11a53d89cb3c98e5de38ed452bab2c2b89e73be9dddc78db5.json"
+hash-format = "sha512"
+hash = "0b5a1129bf152c00a35baa9173283fbb3159ae7b52eacefcdb486f6b69722fcdcdb4d3209a7c9ccc60844468592f5c34ce55a23bd4d31ed01b2c6049fb7aa014"

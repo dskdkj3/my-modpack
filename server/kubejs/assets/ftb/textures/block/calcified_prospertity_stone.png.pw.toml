@@ -1,0 +1,8 @@
+name = "calcified_prospertity_stone.png"
+filename = "calcified_prospertity_stone.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81198328486dbe2c4657c946f061a6c938729620995b2c6c3ae9b5be9b0ba8a2.png"
+hash-format = "sha512"
+hash = "56c20a31876e041427d5b8b03c661127afe7274380a7261845106c2aec75a947cf372bfcb268be2114f320bf89f43142d7f8665146cc47492cbc12caa91e7f0b"

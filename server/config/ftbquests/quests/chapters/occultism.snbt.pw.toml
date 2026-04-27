@@ -1,0 +1,8 @@
+name = "occultism"
+filename = "occultism.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a41c7d65bc4648c5b160caf92bd1beaf8f25a8090688527568d6c4e65e6d5a4.snbt"
+hash-format = "sha512"
+hash = "51179037aaeedd326cc535597b0369f710ca693aa84bedcd78cf919d64df527bb010a0708622f772e0612b5aab07727f4f377a80c5c06443d0a6c4cdd604b1fb"

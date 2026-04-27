@@ -1,0 +1,8 @@
+name = "vanilla"
+filename = "vanilla.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b443d8d68d615310a031011bf3fdcbc93c1ab3a4bd91f05bcc24ea9053584f06.js"
+hash-format = "sha512"
+hash = "c48110610f665643eeeaa3e990d5b3c152127d7b064141543ac1e7ef074b120b4fadbf656cadc028551281c4769b09ee6c5b15e010ae1fe4210201eab9ee4c74"

@@ -1,0 +1,8 @@
+name = "custom_eye_of_ender"
+filename = "custom_eye_of_ender.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b2e19072891be96f5ba3820e5e2e3268a9ab860bb9dced3df046d8c05ed0355.js"
+hash-format = "sha512"
+hash = "f5190bc555d0de536127312210bca57e34f9ff3d34a10db10cc95641e7c2e80e0407c67c732420216e5501eb8bd5668255b8c9c9f029ad8714d91eaa534dbaa0"

@@ -1,0 +1,8 @@
+name = "after_diamond"
+filename = "after_diamond.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d81bce40c54e0db089fe3404e476a11ef960e694471034b8bbc4280db44b81c0.js"
+hash-format = "sha512"
+hash = "4a5672e9e8516004e668d5af8d8465d628bd3e70bbafe5bae2e151cdb8b0fea8507d642368b26803c971d927a953a276841c8a70d2108918100c4f64d7856ba5"

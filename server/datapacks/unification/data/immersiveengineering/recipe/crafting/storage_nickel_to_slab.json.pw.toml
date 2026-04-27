@@ -1,0 +1,8 @@
+name = "storage_nickel_to_slab"
+filename = "storage_nickel_to_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d1a0437467dea668baf794eae32c622d2a44dba33157ccda039820f89153f471.json"
+hash-format = "sha512"
+hash = "51515455de5e15826518e52c4c1303e81ad839d667fc9cdcfb4cc23707f2bd89325669672e8b8d6c53f903f7931b8c48573f1a5f85cb7855c836ba223b38496f"

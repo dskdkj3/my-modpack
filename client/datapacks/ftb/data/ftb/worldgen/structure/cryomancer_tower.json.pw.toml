@@ -1,0 +1,8 @@
+name = "cryomancer_tower"
+filename = "cryomancer_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d778bf59e25f70ab3f099a2455b3c366e345e4d7407b901bdd9309862f24a960.json"
+hash-format = "sha512"
+hash = "bfea60aab01e38cb635ebcf55a8b22541d9de33fe7c2be7bf4b238783173fa9798ba61393a526afd0e04ad77da7d48667b34f5bbb019e8b9f1791dfbfc331bff"

@@ -1,0 +1,8 @@
+name = "beetroot"
+filename = "beetroot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c91c4a2fd2f4970f37c946fc5b0af908d60efad1a475748a4a4a61ec3af2d42.json"
+hash-format = "sha512"
+hash = "a77f4a489ed33b35a7a9e1f93becc67d8236aa40fe5ba8cf63ce500cd0c082cf55cbf1cc39f142ce5bb901eec0d03f8883287e9ee558c8d808601a2800eb2735"

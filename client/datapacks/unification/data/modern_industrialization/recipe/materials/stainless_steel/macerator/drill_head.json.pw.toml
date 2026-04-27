@@ -1,0 +1,8 @@
+name = "drill_head"
+filename = "drill_head.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc93e1cd03aa2b08f5b0db3b94cbc7a91777c760b6f0f2052e0ffbb69d7f5f47.json"
+hash-format = "sha512"
+hash = "e3de104bd703ff0ac9b908048dce5538e656e481369aa8b40270405487b318417fe03be832a504785395552c8803dfea2339bc66c0e0c1b48b78dcc0aafe7cfd"

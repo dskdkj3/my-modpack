@@ -1,0 +1,8 @@
+name = "ftb_pyramid_logo.png"
+filename = "ftb_pyramid_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f23dc810333eb417b24c9d06f219091cf7c4a1db1966bdd1f06d831bc21a3dc8.png"
+hash-format = "sha512"
+hash = "374c59b9a163b333c296be115d126ead0bfa6d0b5df501888d4443efb0c525f8fe7ebc23e9a9cb47bc7ab9462ba28dd25318a43ea1b21e85767394dd39f31b93"

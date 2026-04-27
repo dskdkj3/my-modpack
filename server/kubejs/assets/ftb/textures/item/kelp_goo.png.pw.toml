@@ -1,0 +1,8 @@
+name = "kelp_goo.png"
+filename = "kelp_goo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/54a31e7dacbcae2fe86fc2011ada72d47ae863e2c8692128b4d6ea887b251824.png"
+hash-format = "sha512"
+hash = "0064033947be1d5284f6075c227a50a74108144e41e2b44f425fdd61d7e7b1eefa362abe2ad24a84c485a9aa81d72ce32a8e82a79edff867a69a4d2f2289f0d2"

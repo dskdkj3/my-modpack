@@ -1,0 +1,8 @@
+name = "ftb-auxilium-neoforge-21.1.5"
+filename = "ftb-auxilium-neoforge-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39f14a0879841127d2f2731817fa0477986af264efaf90954a9975c60555bb7a.jar"
+hash-format = "sha512"
+hash = "29860025a395221959beccc029b8fa43e31f5af6aa22606f81352bbe2e5b108b756783a1df06e348a939d82c1c25ee1c1979d2517b4557ce2f34f37f797895c9"

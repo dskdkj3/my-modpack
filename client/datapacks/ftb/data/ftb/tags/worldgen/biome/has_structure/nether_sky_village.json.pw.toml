@@ -1,0 +1,8 @@
+name = "nether_sky_village"
+filename = "nether_sky_village.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/747b648e52aaff9b63ad7ab98b64b4959d3f8dd5c3fb47d4d195df571d6e12da.json"
+hash-format = "sha512"
+hash = "5e7cfa539d193b0020c382b6a0ea6beae31ca48b571656a220da42df2bd985e99cc84ac73ab9f4506445bb9041c5d67854f377f0c2f2d730fd10f26aff63730f"

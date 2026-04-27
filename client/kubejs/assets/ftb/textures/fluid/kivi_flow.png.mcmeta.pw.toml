@@ -1,0 +1,8 @@
+name = "kivi_flow.png.mcmeta"
+filename = "kivi_flow.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/420355d8656164b49b9fee0bbd805c3efbecf9b92e8442f2c8d12635a9c35c99.mcmeta"
+hash-format = "sha512"
+hash = "404934ac34346e821ab025c4f1840a9400068603d011c7885fb1fc81a32af0a8cd2cfb42f3a763abf881bf74ecb13830178bd37e55d5978ea6fdec0275f2be2c"

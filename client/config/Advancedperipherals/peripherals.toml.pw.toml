@@ -1,0 +1,8 @@
+name = "peripherals"
+filename = "peripherals.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d315c544e561acc7681ae2a023b6ffd90db5018bfa4c8c000dd2467e57fe2b63.toml"
+hash-format = "sha512"
+hash = "08002a73235d015525f24033caf2f9f6730882df6f890c2fb7653fa3c2c90f6766d72a3b50d92d882ea41f4c8ac87d54d0a73a1af260cf0306b4fc250c7686ba"

@@ -1,0 +1,8 @@
+name = "grip_blueprint_alt"
+filename = "grip_blueprint_alt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/937339d3deff7cb12b8c415806f6a4ad5948687d151518c4db6a11d61aabcd65.json"
+hash-format = "sha512"
+hash = "480fc20d13fd68e664eab5a63c963a9b6b016a3b1fe08e78456ac747969738ef046e7b940ea57f5cf7ca93210136374aafb59555ebe730052d97de337fb3a615"

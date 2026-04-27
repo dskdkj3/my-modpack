@@ -1,0 +1,8 @@
+name = "cable"
+filename = "cable.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2fcdcfc97b487a86e383032b2b9cc91a307f295203bc8c9a43985d6329be65c.json"
+hash-format = "sha512"
+hash = "4c31989ad2ab6d01de9f3c65a71ac65b8e62ca14091de5b2ed97e83a6c812e8d88c6d212bd5b00314d97cf7dd9c827f155b970f91548d0ca8a4fb73429482b32"

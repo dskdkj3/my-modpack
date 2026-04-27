@@ -1,0 +1,8 @@
+name = "ftb_pyramid"
+filename = "ftb_pyramid.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93eca77e7ccdd0358e0535d7b0dd901cd41f826800767df2ef828097fc51db4d.snbt"
+hash-format = "sha512"
+hash = "f5087f2861e2589a922bbd71dc42707f398a6b5710a3b5731ecb29fb12b1b9693c391247f38c23d81839da6c8f8d8531aeed69eaef2d38dcf12a1fe71382d018"

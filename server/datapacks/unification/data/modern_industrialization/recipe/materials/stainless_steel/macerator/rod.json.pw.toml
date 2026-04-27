@@ -1,0 +1,8 @@
+name = "rod"
+filename = "rod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20bebc74b298c268776354a72cd3e09af89c0d6447f683c33c7299e6e6ee4373.json"
+hash-format = "sha512"
+hash = "667532cac40758529d03d61316392a14a1e49a5e37ff22419e8bafeac6b89d12075434851e3a24c0374215176112851301f36097998aee85937d4d9403b759bd"

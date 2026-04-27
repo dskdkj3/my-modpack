@@ -1,0 +1,8 @@
+name = "hot_ingot"
+filename = "hot_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f8f34352ceb61d4f5e574986cc44846d0f31e06e2006f7a678f57734a0e1f4e.json"
+hash-format = "sha512"
+hash = "7e15263f8f73949c8d7c31d25c8abc93ceb403e64562398a440b06ef0eaa4586049c9f99265b8dcebb5464cca78d6bd14d08959914d10a9ab0e3287cbc3d6322"

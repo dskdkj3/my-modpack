@@ -1,0 +1,8 @@
+name = "rep_ae2_bridge_matters"
+filename = "rep_ae2_bridge_matters.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de61f901380ae59938aa6443cc12e12fa93eeb6ff5281aea20fcd20f384b618f.json"
+hash-format = "sha512"
+hash = "b67a74bf2cfaac623c308095b850d1cd80dea4ff2a1464a1d35489d53a04a3f4dffd5b818612ecb7373433bffcdba40e434a388cb2caf0939bb266986054a65e"

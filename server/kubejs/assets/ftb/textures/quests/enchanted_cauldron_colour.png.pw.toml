@@ -1,0 +1,8 @@
+name = "enchanted_cauldron_colour.png"
+filename = "enchanted_cauldron_colour.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad5fac371c3ae53e4293ea597dc3a44decf647cb2106e1de72321ae4dac18577.png"
+hash-format = "sha512"
+hash = "27fced4a8f74a9615a3b15c9f59c13971e1c486f58926d068f81f1c447947bfda0ef3feca1d2c2cf6f0201108fa3e69df02b72e8fcef68b218db08558856b0e1"

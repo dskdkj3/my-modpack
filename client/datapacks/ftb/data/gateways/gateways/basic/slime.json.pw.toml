@@ -1,0 +1,8 @@
+name = "slime"
+filename = "slime.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0ee3280ade4c0dc1331f5439d5958378eab8c8aaa22a95f541d6927f4e8145c.json"
+hash-format = "sha512"
+hash = "a2beb7509b1a6ee253b89d111fee056c838733e8b84dfa3bbfeab771f33509ce113e0bbde74172b28a99b5d18e9cb04390aed9ef0922cd57f6eb1ab8b73f0189"

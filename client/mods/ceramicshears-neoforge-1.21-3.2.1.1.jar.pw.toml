@@ -1,0 +1,8 @@
+name = "ceramicshears-neoforge-1.21-3.2.1.1"
+filename = "ceramicshears-neoforge-1.21-3.2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6290/122/ceramicshears-neoforge-1.21-3.2.1.1.jar"
+hash-format = "sha512"
+hash = "7672511173a0279cdf2be5577fc327841c24f744765d1027b6299be30818be3da09d706a4ae797e0391cc49834a31d6cde45cb0c47ead2dc6ed6af5423f4e32d"

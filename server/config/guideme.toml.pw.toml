@@ -1,0 +1,8 @@
+name = "guideme"
+filename = "guideme.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/dadfff301f1a14fd3389ed1d09ecccd4cfeb2b8fe24ccd276d0bfdf699dfc86e.toml"
+hash-format = "sha512"
+hash = "ed8607b900c7a378648f9ec56875e5caf9016a388ffa83bc2ec6d07c01666a181787135d0521e235fcaf1c4a94af051e03d6357b8992ac75f88b9c7e90970c6e"

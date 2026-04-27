@@ -1,0 +1,8 @@
+name = "deep_amber.nbt"
+filename = "deep_amber.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/0284cf4ff44a6f0a4426337dd58043aba63294b61cd17820fe7e46745cfe018a.nbt"
+hash-format = "sha512"
+hash = "5ee3c5d4ce3a6cf744538004bf1181a1b2f071766face1207c654f61e355648320b5b851e5a98fe68090fe1ad3b918299500d2cc454eb67b96ed06ec373544b1"

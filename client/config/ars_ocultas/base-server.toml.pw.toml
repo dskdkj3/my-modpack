@@ -1,0 +1,8 @@
+name = "base-server"
+filename = "base-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/933eecb49c61d0fc66b059b95ae6358d54562b25929be71ae56a2c1781190673.toml"
+hash-format = "sha512"
+hash = "2cef309b6931a25cbe870eac5e21cd77e027bfed2e35eeb4e917c84f37680d7760e4f38916331b1abc8945a3a9f96cf8189328782eef8f5d90313a33553497ab"

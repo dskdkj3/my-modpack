@@ -1,0 +1,8 @@
+name = "basalt_deltas"
+filename = "basalt_deltas.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05d15433a7a2968de32bf5684577dbf05dcd961dc2fc1f2f68e8603a163b79f9.json"
+hash-format = "sha512"
+hash = "0a4b02e74b9dc854c4332eba167864d491b4a092eb4022774485ed651f2727d115edba682ec22f753e780eb30ac1e249e7aee9df7fc1ec4fc202f82e6becf324"

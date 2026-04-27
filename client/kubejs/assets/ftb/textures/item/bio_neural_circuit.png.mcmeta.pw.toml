@@ -1,0 +1,8 @@
+name = "bio_neural_circuit.png.mcmeta"
+filename = "bio_neural_circuit.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80f2823a0b5bf696997a21c8822430a89ae4cbef293d1f19871eb7833d7f1edd.mcmeta"
+hash-format = "sha512"
+hash = "bac3f280bf26a5e355398a3099e8caaf786b5d65f13e22fbcfa5d49a7e0783032a88e4fad826a43f91e506f7ab84035d153f0796e1fa7b60ad1ecefcca77986b"

@@ -1,0 +1,8 @@
+name = "ice_skates"
+filename = "ice_skates.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a950e7b2d2e21073d2457f0bccdf18b0c245960e7b8df80bcbaaee0b22b01f03.yaml"
+hash-format = "sha512"
+hash = "fbfd1f0249d4fe1ef9df3c65c3c85e3915c78e2aba5db1fc211703c456af425dc0541a951d161ad2122c2d4591e311f2ed90153953a0fb296374451585044cd9"

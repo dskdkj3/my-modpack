@@ -1,0 +1,8 @@
+name = "dissolved_potential.png"
+filename = "dissolved_potential.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfbdd433b02462cf1922bc7e82148c4f50bbeab1bb9cbb8f657e3a3dd3f10d27.png"
+hash-format = "sha512"
+hash = "6cdaf9659ab49e9b1447843bc615b9a2344bf18d21611c969b2ff9de2fd49a2e820d8efc78147240eb1edd8df9999d334770d7a898c2b4b5b4806d354a700769"

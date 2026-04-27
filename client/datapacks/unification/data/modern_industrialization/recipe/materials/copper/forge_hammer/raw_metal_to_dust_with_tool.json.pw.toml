@@ -1,0 +1,8 @@
+name = "raw_metal_to_dust_with_tool"
+filename = "raw_metal_to_dust_with_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/04e0ae07f9652425db6a63e9e9331b08906a73acca8c5c88eeb3c83b8c0b4adf.json"
+hash-format = "sha512"
+hash = "1bafb852aa333b7bfb95f246386fc291f97a8836f8fbc19abbe8ff08984d24d6f80f22111b91d4024fe662353e37ae377003932b8e81eee6e079e0e819ad2483"

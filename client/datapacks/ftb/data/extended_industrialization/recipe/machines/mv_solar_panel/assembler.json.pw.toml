@@ -1,0 +1,8 @@
+name = "assembler"
+filename = "assembler.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb015a7a0551932b63d2f0b834f6fa689f8494a6932392b8cafe76ec0f5851d5.json"
+hash-format = "sha512"
+hash = "ab65871cddd04d29cdb02c6b8e8b997c15274a4dbc03546042e1e807aac9868f8f88c127c80339b624a8fbe3ad70cca28d9638de1b35ae797a4100ae3f6be9e0"

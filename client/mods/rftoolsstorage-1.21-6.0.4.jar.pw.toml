@@ -1,0 +1,8 @@
+name = "rftoolsstorage-1.21-6.0.4"
+filename = "rftoolsstorage-1.21-6.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7041/247/rftoolsstorage-1.21-6.0.4.jar"
+hash-format = "sha512"
+hash = "2a9ad464c7b79282fe3cb456358367a6646dd315fa6d9a3a86894eb2465ca288e5cf3977f625d09fed9122afe067ad84079963687acde5450e28d6bf2b3ceeef"

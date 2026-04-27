@@ -1,0 +1,8 @@
+name = "machine-agriculture-husbandry"
+filename = "machine-agriculture-husbandry.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/8240d24cab5251d36490d8c47763521cc77637c32fc0e31be24cf36b5f3fa9db.toml"
+hash-format = "sha512"
+hash = "76d029cccbdf85aa2908077037ff333a18624198dfd7c743fbb215c55a326e2d677d331738597113ec1c38b40eec313b1b703b03ffbe7c2cf09506fcd7eb2222"

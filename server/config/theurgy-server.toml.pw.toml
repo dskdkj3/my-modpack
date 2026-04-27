@@ -1,0 +1,8 @@
+name = "theurgy-server"
+filename = "theurgy-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0efea97879324ff947541a48ac2d7154c2674cadd4360f9c2ae8841168df441b.toml"
+hash-format = "sha512"
+hash = "c30092fe8d583f2f412c5a1b2f46937305c7f6b6b7470614f183fe53cdf1a1c80cb1414291ad33e0b150ef8e5312e996d49b13ae3f76092aa899bb29df0c0621"

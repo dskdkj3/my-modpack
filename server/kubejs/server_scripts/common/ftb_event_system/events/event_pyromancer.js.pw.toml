@@ -1,0 +1,8 @@
+name = "event_pyromancer"
+filename = "event_pyromancer.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa1f031fa867a1436c26506450aeda8b87ab692c93f8287c219c488f4f35e2a2.js"
+hash-format = "sha512"
+hash = "d121269a8162295f50657a345f1f2baacb8c62ccfd04ebb8101189e62c101fbd728408663dd47dc5ab94dc4b79a300415abc17e88b00018d35859d99ea576bec"

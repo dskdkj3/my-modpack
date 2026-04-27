@@ -1,0 +1,8 @@
+name = "utilitarian-1.21.1-0.18.2"
+filename = "utilitarian-1.21.1-0.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7768/242/utilitarian-1.21.1-0.18.2.jar"
+hash-format = "sha512"
+hash = "b21e8a5f2b52fbd691d062de5caa7ffa535014751f6fa3a3a707dd521536a528be7fc9595ac1473526ecd49b2b65eb3466e7376625418b76d811d933904e1eee"

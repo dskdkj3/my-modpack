@@ -1,0 +1,8 @@
+name = "cryomancer"
+filename = "cryomancer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c4c6726a545885c6291c2d44245560cb571ac073ed1eb9f470c3ee9793722777.json"
+hash-format = "sha512"
+hash = "f632c0c1d9510796247d6ed2061f0e42e4ef847ab55f9ee2a6fbf897f6c68618bf9017d3b58bf6148a3e99200cead92bf9b79d9766e3b69ee13bf1041ec35176"

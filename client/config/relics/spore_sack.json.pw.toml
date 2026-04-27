@@ -1,0 +1,8 @@
+name = "spore_sack"
+filename = "spore_sack.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/3991dc83579acf4282ac443c99c09c3cac5a31d06aeaf73dc63479071fc7b107.json"
+hash-format = "sha512"
+hash = "749b16c8ea8ba3dec56cf504a85e40e155c06bc2deca266ca2dd08e92beb9f06a4f51b400971d9667d02275652a41dadcdf1fddf8923f02891da743ba2b5dd43"

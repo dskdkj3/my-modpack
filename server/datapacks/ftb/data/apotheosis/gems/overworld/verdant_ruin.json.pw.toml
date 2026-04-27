@@ -1,0 +1,8 @@
+name = "verdant_ruin"
+filename = "verdant_ruin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69fb9a8bf5d6363adc8ebc32725b5e94b59d1fbeab68e055cdb55afb969a0428.json"
+hash-format = "sha512"
+hash = "10a8aad376515fca499bf4ad3ea6a758e6738f4ede6e8d318d2abceba7b5afa8c22194f639e1886b1da17d7f35f2dab2af2fa2be41b8b39a4e1bd874b23dd299"

@@ -1,0 +1,8 @@
+name = "Pretty X Smart Pipez"
+filename = "Pretty X Smart Pipez.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf698de4cf37f3aaaf002f4da0b4ff678a5a00c8c2a1e07a97b1fa4e28fbfc5c.zip"
+hash-format = "sha512"
+hash = "1c56e36e5f2cff0747e487af1462fe1b9e98a1a78ad3694b0893e3f4185ca605befee7ff4fda834d0f23742db6fba29efebc8cdee66c0d26c905ce869807de24"

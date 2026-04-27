@@ -1,0 +1,8 @@
+name = "fortune_coin"
+filename = "fortune_coin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b58802b969b44a8dc4c85d5c997072b6872e035b81def1ea5fe20fac987000b2.json"
+hash-format = "sha512"
+hash = "682e1b007cac4436474dc1f6864e31757cf1a4c6ce03ebac9cb92715e3d89727eb02a86aa1ad3e1877c077006df6bec5b516f1f0666dcca2a0fd90aeedc9b349"

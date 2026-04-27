@@ -1,0 +1,8 @@
+name = "create.png"
+filename = "create.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cdfc0444038d75c908ae64906b67b5d0e7ec1c65213604396d55f5b558dbbb5.png"
+hash-format = "sha512"
+hash = "87f4a9bf4abaf01a5cddffcfde5979b40d83f74ab92e52ad6c9fe40080651c0fab064620407885a9dc1e823e0ae95ddd55af3738ce95c1409ee412b8e72c9a76"

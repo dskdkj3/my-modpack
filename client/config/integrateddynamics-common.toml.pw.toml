@@ -1,0 +1,8 @@
+name = "integrateddynamics-common"
+filename = "integrateddynamics-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa706d8c07a2134a9401d563628ef86080b8575c309ebde61bb8b99abc8a3aee.toml"
+hash-format = "sha512"
+hash = "616f397923238daf19744d317ca295f3d98aaa362b1dad2a825d5fea34ada3d96fca9c4a538feae473b440ecd21f1ed43cfe436f13097377eb4314e6fac94c20"

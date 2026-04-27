@@ -1,0 +1,8 @@
+name = "worship"
+filename = "worship.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9fff1b23a9ec966077fc8827c2e272f4d2e610458154a082e592e4168d3973ae.json"
+hash-format = "sha512"
+hash = "77a3fe71efc60043c528a95b9a9020d992c33b6ac3a2aee70ae29d9a08c56fc040a0b6ec268779aba2c94326da562300ef3bba12eaa3ccf1c221f078db876f03"

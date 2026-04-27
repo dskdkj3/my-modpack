@@ -1,0 +1,8 @@
+name = "simple_weather-client"
+filename = "simple_weather-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/377702a3d0a0808e9c2c931d4fa24931cf67f67b8965b1117b1568a485372d43.toml"
+hash-format = "sha512"
+hash = "c8ec202b5f386da03393b9c85999b052f66f31ca9be082c3573736b5f4e448b7dc58082fce2b6ef781f6abbf3468125df68038f75c8473758d1dc5e869c157d0"

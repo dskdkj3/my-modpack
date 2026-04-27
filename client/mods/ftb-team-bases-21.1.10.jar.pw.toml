@@ -1,0 +1,8 @@
+name = "ftb-team-bases-21.1.10"
+filename = "ftb-team-bases-21.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7210/78/ftb-team-bases-21.1.10.jar"
+hash-format = "sha512"
+hash = "f80c3a5e8a9d28578b39f10076840ea85238d3dff0fabdf27c162f06c8e20f9e6df934e42ef32b9d4207939fb75e1b4bda4d79d78a67e376c12cd5a454efae5a"

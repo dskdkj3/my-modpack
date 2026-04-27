@@ -1,0 +1,8 @@
+name = "glyph_bounce"
+filename = "glyph_bounce.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e66e7091e9aaf63c2c2097d469678963651a6f499b8475a3ecde24a89de400e.toml"
+hash-format = "sha512"
+hash = "40b3bc9951a99228ebb35bed111b340ded8a4a3cee1b17c0a7f997768202e62f7240f0659c752b65820eb6ebedb31430add5d66de9a41299cb09f52789e30fb9"

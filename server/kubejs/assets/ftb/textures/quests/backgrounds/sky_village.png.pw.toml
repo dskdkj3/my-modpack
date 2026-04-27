@@ -1,0 +1,8 @@
+name = "sky_village.png"
+filename = "sky_village.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05e01c8df924e03e403c8093745bf9d5ac6ff4bb4335ec39ed564aeab3c6e65c.png"
+hash-format = "sha512"
+hash = "ac4b8b65cbebba9174c8c38496a0b83ceae4fa538b803460e5221b2022a8e0f36847769402075e5f5c4ab88a506515ea929f23352bda81561506cf60ff08e195"

@@ -1,0 +1,8 @@
+name = "endersurge"
+filename = "endersurge.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1cf55635554a105f8c99fa26096385324115bf193ea3f54671cb326593074edf.json"
+hash-format = "sha512"
+hash = "0472fa1cbeffaa6696ec322823d96474c9443a6655d7c8fedfafb019f4f8af7a4cd22e2f7e17188d7e7327e61e06be5e77a76968f4959a31d38e433ee8cff4cd"

@@ -1,0 +1,8 @@
+name = "deep_amber.png"
+filename = "deep_amber.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0ce0a79ff650c79fc8e35bcb9d7d42f27775dde40adc5bda8912436ebd7398f4.png"
+hash-format = "sha512"
+hash = "d4a333d8a78d6e33e0e6a2cebfc1cd16c55003b9d7551276e811a5b527c54ac3be3c5a6604b7cf3b091e3fbb474b3025cb1f274592442245c72416ec94ead1e8"

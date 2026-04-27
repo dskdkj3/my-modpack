@@ -1,0 +1,8 @@
+name = "glyph_contingency_fall"
+filename = "glyph_contingency_fall.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f60c2c89a83ddfbe209da4bb2e11f73bc8d6f6e706737ed9c2368104605ed5bf.toml"
+hash-format = "sha512"
+hash = "bb23365b5d3bd17be8ce12533fe8def7cd5d9a6d0800f1a16cd22aa172ab066d06193e5e8d84424d6ae774738fc9e97ae49f2f55510a9d27e8f85aedbc6c87a3"

@@ -1,0 +1,8 @@
+name = "Statistics"
+filename = "Statistics.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/10c76ada8dae9c97b02c78f27c57da2647719dcc5a53394b76a8ac46020e207a.js"
+hash-format = "sha512"
+hash = "9c416664a5aaae6638cfdd46f81601f58ecd181e3eb7977a2510b54aac41083983199659eba70ed5f4ce04f2fae2fa7bad4eb9f1a96ea75b5193e8aa92191604"

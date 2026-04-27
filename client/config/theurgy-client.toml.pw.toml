@@ -1,0 +1,8 @@
+name = "theurgy-client"
+filename = "theurgy-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f949bcbbbd32587aded45726ac68eccfee396e8fd8f95ffa04fcdbfc6b0bab0.toml"
+hash-format = "sha512"
+hash = "6df8848ccfcc4cddcd7658c5a740851b359cc234363558cde01137a04865e94b615bff8ce7b3a835f25b4dd1f7b87c1ff54aae25fc6136393b1fe268a5a7083f"

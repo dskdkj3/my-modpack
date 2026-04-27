@@ -1,0 +1,8 @@
+name = "gold_mesh.png"
+filename = "gold_mesh.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/8067959269672e0e9866f8f7bfd08dc96827de57cf3372524529c9b0dc93c2c7.png"
+hash-format = "sha512"
+hash = "2cff4541eab3a09d92a2a4b2f7532c7aeea56225cdfe910a4e47ac023e9c5b563be535a190674e4a47c1ef706a8aad985d8008450955f0f5f44ed5927aa13536"

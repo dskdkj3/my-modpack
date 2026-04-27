@@ -1,0 +1,8 @@
+name = "repairablesanvil-neoforge-1.21.1-1.21.1-0.2"
+filename = "repairablesanvil-neoforge-1.21.1-1.21.1-0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6606/93/repairablesanvil-neoforge-1.21.1-1.21.1-0.2.jar"
+hash-format = "sha512"
+hash = "e064a40f6faded0b60620604718f8d7b9096bec58c6e63df11b01c04a76848614dae058fecff0a4bb183115402142943be1161e011f3e57cb0be4992e8689503"

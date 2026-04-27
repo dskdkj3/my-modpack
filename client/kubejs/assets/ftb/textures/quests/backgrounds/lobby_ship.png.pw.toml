@@ -1,0 +1,8 @@
+name = "lobby_ship.png"
+filename = "lobby_ship.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/857027dc3917d2f288f87aa238e6bf92d3c2af56dc8327469607bd558223de31.png"
+hash-format = "sha512"
+hash = "89fb31c38511cb4a276efd2172fb6531a5756e1b7939f1775e7b92d666625e0983f958f6571ee284512a4bbdc47f7f920c7df6e804d7acdf2cab70458a7dd185"

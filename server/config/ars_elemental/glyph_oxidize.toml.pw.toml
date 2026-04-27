@@ -1,0 +1,8 @@
+name = "glyph_oxidize"
+filename = "glyph_oxidize.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/580ca52ffd98f260c4ae812df6ee60b82241264e7375f2eab94ad7bcd957fae2.toml"
+hash-format = "sha512"
+hash = "944dd8f98c677342cf8c798cac2513708f11d32e174b5001736e03eb402d40a724f3329c506f485e617d3b1d3167883a16445d235ee61d15d059d9df37d8c738"

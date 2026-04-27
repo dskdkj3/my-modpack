@@ -1,0 +1,8 @@
+name = "fountain.nbt"
+filename = "fountain.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/62f7a686cbadd9c887368b493c884145962a7648778c6c945a0b107eb7950d5b.nbt"
+hash-format = "sha512"
+hash = "f777c08d006b84900406c5eec11f19e41a84ec0af7f6abd039f1251c7b16b6a6b8a3fb8ab0a681a06216913c530ab0863607f7379bb5f19ea461e6c060bb3057"

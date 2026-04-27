@@ -1,0 +1,8 @@
+name = "alltheleaks"
+filename = "alltheleaks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c6c1e4961ffc5ae202c7a063433264300a2179d7f3a78bb24eb10f9acdb796d.json"
+hash-format = "sha512"
+hash = "a6791fa6439b3335d6add0b4807870d890454aced9f75ee0fb5f25f1eaede602f02c313340a35d22709c5be5a140de5ce6838655e5ca99c2b6a2e739dac4058c"

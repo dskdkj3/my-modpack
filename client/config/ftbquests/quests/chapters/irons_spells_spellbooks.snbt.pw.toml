@@ -1,0 +1,8 @@
+name = "irons_spells_spellbooks"
+filename = "irons_spells_spellbooks.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7769c5c2cfaca606167b86094e34059c62412be0ea4cbead55366c02d78e767.snbt"
+hash-format = "sha512"
+hash = "67195d10094bf796acd6aa21fdda7a098946e2ba518e5a2e091eceb409b89b43f801a6ae15778824402658fead76858db9596428d96a5f3a3878021c8d41ea39"

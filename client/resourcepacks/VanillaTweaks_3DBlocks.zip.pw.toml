@@ -1,0 +1,8 @@
+name = "VanillaTweaks_3DBlocks"
+filename = "VanillaTweaks_3DBlocks.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9e90a7b2101fbb7e05d42a4d15282fb5c30c33ea79a86c949ec1df70f0d2c0e.zip"
+hash-format = "sha512"
+hash = "529d34c23243d80a607f84e1d21cd7e3ff8166fe4dddd0ab348bdf7aa7023a2eea09aafe32ead6afebb2b2b0e0727252c1246224975ece76d94a03a7a23acbd1"

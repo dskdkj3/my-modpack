@@ -1,0 +1,8 @@
+name = "honeycomb_graphite"
+filename = "honeycomb_graphite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0f8463d9fae525dc9ff507f771e711f3a8a156d5b13db4f150b89cfe4b4d713f.json"
+hash-format = "sha512"
+hash = "b10921ccfdca856b0c9fac1d532fd2a011c6fb4f9965f8f9c573f732c932e9521b7bd01eed4fdf73101d410185efb605c7e96efcc09da42d24fc4a3d174a9091"

@@ -1,0 +1,8 @@
+name = "large_motor"
+filename = "large_motor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/0414abf323ccafd7a559ab4ba265302f7f20ce1ff3cfd849c14d0ad0af4a840a.json"
+hash-format = "sha512"
+hash = "183b436536ed1094c7139d572807b71e299cc0e3bea080ee96a3e15577d39fd9d72f0d5841dd4a4ea4ac8ce0feef23b9f67b46babfca2ffe42e6e79b1726bdbc"

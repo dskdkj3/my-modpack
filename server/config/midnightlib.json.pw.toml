@@ -1,0 +1,8 @@
+name = "midnightlib"
+filename = "midnightlib.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f995187c65d45248fc27bd267c7fae305646a4bf5388638e7b0587ad9d46b916.json"
+hash-format = "sha512"
+hash = "11eec015078f0f924bfa00bd5ae40f7007c4b8ee022510fd1a3f6b490e5390a63ddd7e0adfc8c3e7d29a9f1ce611b2cfb11e209d8a7455464c245f9f6967d425"

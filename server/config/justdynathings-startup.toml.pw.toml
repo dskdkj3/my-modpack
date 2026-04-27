@@ -1,0 +1,8 @@
+name = "justdynathings-startup"
+filename = "justdynathings-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a3ecaceff81b6e116666dc6552b1acc92059a04a24ac346f0f9d7a8c5ad68145.toml"
+hash-format = "sha512"
+hash = "39d56ac6edf6c62ef9701bf3a210d8476adfb65576d24cc4012cbe43b1285bd232134088d40dfbc445712bfab7779e1f29ca36667143193dfb6d8ba66e99247d"

@@ -1,0 +1,8 @@
+name = "actuallyadditions-common"
+filename = "actuallyadditions-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6bc2c9c766d515c7e7441bb0bf435a084ad618c803c305246a10f1d2a3f35bfa.toml"
+hash-format = "sha512"
+hash = "1f3bca2b435d0a2badab0023826abca6011db747ed5673d8ac1d09a4706f504b28c5f0f23d5099074db9199c20105937ad36b9601b85209f71c5a16d2b3eb922"

@@ -1,0 +1,8 @@
+name = "additional_end_city_loot"
+filename = "additional_end_city_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a58d2bd5a664458399d6f84a84942975c0f507d44b91aeb27647c00c95124dc.json"
+hash-format = "sha512"
+hash = "7002f52b5185405b091be9e41e4e41f896a0d8c23592cb42564c7f98bbf114bd90a8737764e7f086c08ded036063449dd5ba97225384d19231c3d77b6ccb112c"

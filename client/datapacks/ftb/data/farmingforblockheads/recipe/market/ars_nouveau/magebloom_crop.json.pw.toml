@@ -1,0 +1,8 @@
+name = "magebloom_crop"
+filename = "magebloom_crop.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b45ad94aa86d0fe2208fc7247b8194596a58da5f0aa1ee68e5c53241e81cd99f.json"
+hash-format = "sha512"
+hash = "fe86861f5b5a5990931666c03ed438cbd7bca79381cd0949f744b2acfff35c8f1ab347409c9f02430423ca706be1ea3950f40b2c762d06d947ac8b563bf8ce4b"

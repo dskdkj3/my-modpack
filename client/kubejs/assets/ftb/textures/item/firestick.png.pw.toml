@@ -1,0 +1,8 @@
+name = "firestick.png"
+filename = "firestick.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/338c00e606edbefa8e4be1aff9fbb05dc7078ded926eb1487f09b4c908a35e1a.png"
+hash-format = "sha512"
+hash = "1b688299a4ac5c50a095f18341e9c02410eff3df1f3bc00c8f4193ecd5a65b8d22989f193de3597b909996655f94e8035a40bb0f5eb4561b32a70e32e51842f3"

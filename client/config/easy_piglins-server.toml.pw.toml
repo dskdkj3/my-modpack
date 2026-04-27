@@ -1,0 +1,8 @@
+name = "easy_piglins-server"
+filename = "easy_piglins-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93db8c11c4f008524591ae0e4095e117c9dbc1f83487ae678f42be2b96f73e48.toml"
+hash-format = "sha512"
+hash = "2ec32df14c827d28927c4231fc8a9030558e3c3752ee97dd82c9417972ced413d37c21af89cd13bd0757f13092b396415a430b0f752c10278693b431d3bd811a"

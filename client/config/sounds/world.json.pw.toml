@@ -1,0 +1,8 @@
+name = "world"
+filename = "world.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09548fd1f48d9b4b7c9bf6a9f09bd822c4bf8cd54cc7f20a622a3c85962a0eca.json"
+hash-format = "sha512"
+hash = "382504ade862bb1e0be191f18512c675573b9ab3e920004d051ff786f240715ada6a5aa32b370d3bcf3ad7923d3182477dbf8af136ad60f490af228c411f03c9"

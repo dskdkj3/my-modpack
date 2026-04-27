@@ -1,0 +1,8 @@
+name = "integratedcrafting-1.21.1-neoforge-1.4.5-539"
+filename = "integratedcrafting-1.21.1-neoforge-1.4.5-539.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7734/666/integratedcrafting-1.21.1-neoforge-1.4.5-539.jar"
+hash-format = "sha512"
+hash = "a3c2e38160ec321ba545f31573bbe5495aaf00259d44d5b8a7dd865fb718bab439609b4c15ea11ec5c3cdc69e2253c7f09203f8e37e5cb8c8ca950b2cf365356"

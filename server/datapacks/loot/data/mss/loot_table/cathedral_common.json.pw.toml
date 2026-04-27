@@ -1,0 +1,8 @@
+name = "cathedral_common"
+filename = "cathedral_common.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f9695ff4aa19407ac0bd5a549d864d2a6acaa320e966be8190a621bef33fa33.json"
+hash-format = "sha512"
+hash = "61eef6316353add7d31fcec20994a914294ee986a607c5251f8eb929791fbad657129b1372664d8fc0c4af36b7ecfe7edf7d03ac5477ff6e3648998cae613155"

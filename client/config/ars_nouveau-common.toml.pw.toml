@@ -1,0 +1,8 @@
+name = "ars_nouveau-common"
+filename = "ars_nouveau-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa758f6ec1f1c47c19e451d4dfc8cd67bb76c0f58c59826f4b5cdeaabefa4842.toml"
+hash-format = "sha512"
+hash = "b13ebd6be2c0c0e0faca2010c4bcbcfe4be5eb161af08f967b77cd2c210e52c32e5982ddbc9043b5bd03557ae0e187655428fc0e6d8c9f86b815711d07f7dcf4"

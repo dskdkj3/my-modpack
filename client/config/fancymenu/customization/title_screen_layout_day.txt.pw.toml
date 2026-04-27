@@ -1,0 +1,8 @@
+name = "title_screen_layout_day"
+filename = "title_screen_layout_day.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c36e0875b885948e6e2c8573b8a6e8ee936063525c48b51c613b5acf78770cf.txt"
+hash-format = "sha512"
+hash = "566d4726c8a49288a65970f38dcb2a781f621a2b150e1faa0b82c550866b0d3e0aebf3462a94df942fe5d6d11278944bc24809a7f1e70718e215539c1152d27b"

@@ -1,0 +1,8 @@
+name = "skies2_icon_16x16.png"
+filename = "skies2_icon_16x16.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16e926243a67862dfe0d57eaed5be22480adf5d18fe6f495122b5b5a1559f19b.png"
+hash-format = "sha512"
+hash = "8485014c1acbfd8874a7b688441ed77317fb31b0d0606912f83456a62c68db41e943064706fa67d9b80c808a843ab3449e4c2d213f5729d6fd4d0dce45d3866e"

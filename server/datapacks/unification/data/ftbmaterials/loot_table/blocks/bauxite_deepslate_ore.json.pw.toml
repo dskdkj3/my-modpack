@@ -1,0 +1,8 @@
+name = "bauxite_deepslate_ore"
+filename = "bauxite_deepslate_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0fd133ea109201d377929c01a89c9d55e125b78ec07d70dfe1a743b7f5e72f8e.json"
+hash-format = "sha512"
+hash = "518e20ef72aa733e0a27498aae8832de43245d8597620f2ff7e672ea78bc18105df029eb637b80c44ef4cc663e45c8f44594d11865bab6c38cdec15bd01e8fa1"

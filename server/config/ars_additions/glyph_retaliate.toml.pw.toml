@@ -1,0 +1,8 @@
+name = "glyph_retaliate"
+filename = "glyph_retaliate.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33a44e16d2ab98d690803028aa1438b4813350d7ab536b88372757d2ce1c97d1.toml"
+hash-format = "sha512"
+hash = "479c97e71fca400e69a982329b9d5da73b775975938dd84a65ab6469c06075d4434ba3b245465419d4af471cde80a9df6efc43087bd0bfe71938ca6d1eebe8c9"

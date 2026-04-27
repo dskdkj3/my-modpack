@@ -1,0 +1,8 @@
+name = "craftingtweaks-common"
+filename = "craftingtweaks-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44f02c2b8b6a34e083db44d7a78a729342aaf5fc89f2c701028b5c18c1e46bf1.toml"
+hash-format = "sha512"
+hash = "e300b192bb439fedaabd02cc1df9b5bd01b46b1763df7ebf09eceba956cf23a628f271ed62fa85744fc836e927120bbdfb5127072b0aae4ce666995fd8cd169d"

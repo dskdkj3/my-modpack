@@ -1,0 +1,8 @@
+name = "glyph_trail"
+filename = "glyph_trail.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/4797917f3e2a1f01cf2c7b12e48ce9108b4705584165e0d14a85bb2835ed4e3c.toml"
+hash-format = "sha512"
+hash = "a84a3627fcbf1c10490c39c2602c45ae2b60053daeaf50ed6ace5ec71ba343b6a4277a8088adbc77c71011a8ca84992029a401452dacf9512b472854e3c3d587"

@@ -1,0 +1,8 @@
+name = "supply"
+filename = "supply.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/0736925dd4567ce1b69d3b26d51d6d09cd890b1a797bdfc27b2794796eacf99c.json"
+hash-format = "sha512"
+hash = "58fb17fab60a9d9793f74a2c996a65777e48975c8e413a6fdc057bc4586419495ad66b3339c900e13511aac2f75f840fa6568eae049c22918bcb3ce9be3853a9"

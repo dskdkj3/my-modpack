@@ -1,0 +1,8 @@
+name = "sulfur_deepslate_ore"
+filename = "sulfur_deepslate_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c9/c93639f15ef6356ddc3d4b7d4cd84bd58e64afa4ee4bf70391f2af85981cc534.json"
+hash-format = "sha512"
+hash = "5da99860071c8f0498ffa60da77055058773cfa81f46eae11eab8c3d2e7ad74ae400e143a78fb135a798a0ba0b7ee77c44a5eb1e058e683d3403e7524df50ce0"

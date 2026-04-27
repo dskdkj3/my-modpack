@@ -1,0 +1,8 @@
+name = "neat-client"
+filename = "neat-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc6c200ac159a83bbe42ff32531c4e9f61272fa9f67c1f7a45f74f8d73c62582.toml"
+hash-format = "sha512"
+hash = "a16f27f0869072ed1d15e2e7585920db6e4fdbd077b6090a1b9c311957c7a048f6efe4a9643118c347ef730d9dffffb066b4573778011077a572e448b9b81c50"

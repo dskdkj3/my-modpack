@@ -1,0 +1,8 @@
+name = "wild_tomatoes"
+filename = "wild_tomatoes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4bed52edd3510385da2122757697b412365384f143f8c7069cf31f7361a46af1.json"
+hash-format = "sha512"
+hash = "c1f9e8a7689b5ea6d79b8b647a481506853be8bb5096deed461082d51ce0f13a5de0936deba7315fde9b5eeadc5838ef6b03ec8c2d1b0f9b74616e44f34bf6bb"

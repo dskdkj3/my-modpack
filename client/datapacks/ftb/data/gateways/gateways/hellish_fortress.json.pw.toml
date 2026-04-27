@@ -1,0 +1,8 @@
+name = "hellish_fortress"
+filename = "hellish_fortress.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c908853e3e60f3ce0d0eee488a36266aed61e641f62a6f6327de651953fd42d.json"
+hash-format = "sha512"
+hash = "8e37a2aed0c3ca4bf83407e9c3a115e89eb8cc02869a43bb7c358ba9a9e0537bead0d0b7b8e86c010d7ed9030cdded0a7d6c64d7a330fe09f8eb2bb081631a33"

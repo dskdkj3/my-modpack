@@ -1,0 +1,8 @@
+name = "placard.png"
+filename = "placard.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0f6ab86fb6da7dd9ae91d3336d0fb9559079289cc27597f593ff5c5c4c70d59a.png"
+hash-format = "sha512"
+hash = "73fac1a2480ee52f2e2ce7d600f8cd84dc21354b01edd69e20d43a6c44cc1749d38337982c432afac324052265cd1c1dc6be477f694cf1579ea1ac5f1a2485c1"

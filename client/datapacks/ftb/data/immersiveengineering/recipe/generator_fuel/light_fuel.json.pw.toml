@@ -1,0 +1,8 @@
+name = "light_fuel"
+filename = "light_fuel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/933e289db3c86eb230dfe86f884b740132bbe409e7177fd6ceb565a11a3c3b40.json"
+hash-format = "sha512"
+hash = "511008c92c6f19411e8d563df7d56180289a821d6a465c7b1f0dcc09d79e43d8f1915f889e9b7d5e67b220e4587d7f4d082550474f091c5bd256ca89d634e920"

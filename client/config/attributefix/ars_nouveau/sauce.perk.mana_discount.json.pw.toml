@@ -1,0 +1,8 @@
+name = "sauce.perk.mana_discount"
+filename = "sauce.perk.mana_discount.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f7bc78246470009349ce6d5bbad6d5d4fa6e5c127ff776b9e916087becc6ea0.json"
+hash-format = "sha512"
+hash = "cf83683d9fb3dec068f47df9d5b5d372d299a7d747b19438691608c9fbf05aa4c51983142ddf449869d30d4b1516b880b34acb42c126a05fa997c32d583cf037"

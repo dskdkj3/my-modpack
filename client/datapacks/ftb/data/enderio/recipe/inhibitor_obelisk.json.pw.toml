@@ -1,0 +1,8 @@
+name = "inhibitor_obelisk"
+filename = "inhibitor_obelisk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/89c1c31075403aedd33453ab6ceb4baaff6b5e3315c91775b70c3b501671a9b7.json"
+hash-format = "sha512"
+hash = "abd82c2d944a1154bba05fff3142bcc54df0e4719922f5e986b1ea3f51a95a39c8ef8ba14f2787ed2991ba9c1675397e969d659c384df2b06c6be4b998d1d7e9"

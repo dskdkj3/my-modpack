@@ -1,0 +1,8 @@
+name = "clickadv"
+filename = "clickadv.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b01d5d2a05f42ee549de005497e6f4cb5d969a4245eb9e0c1b2025f4912fd1d.json"
+hash-format = "sha512"
+hash = "69e9af66399e5f612cdf56a733a8ee2abd03b912cdf39f07bd5faffedc1763ea225d06524bf4d3de23e4a26654c533b03e5b7e3cf066f1b7eccdfd1f9ba2e1f0"

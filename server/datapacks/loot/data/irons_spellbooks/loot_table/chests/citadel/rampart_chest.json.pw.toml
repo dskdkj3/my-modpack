@@ -1,0 +1,8 @@
+name = "rampart_chest"
+filename = "rampart_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73a71599240fb4da97d548d31b0580a3de68edb2dc10283bba0c7561eb4ead2b.json"
+hash-format = "sha512"
+hash = "32b16e093f18d1e9cb0deb59c968b4855aeb80fd96d6cb4552796d7821f5aeb62dd069c4160c467663cb15912f82e059d99c10670609c3f52a0479d0c7449811"

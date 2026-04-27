@@ -1,0 +1,8 @@
+name = "integrateddynamics"
+filename = "integrateddynamics.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5cb2a25b07956fe837fc162f911ca6ac3a9abc456838db45ac27bd69654d8faf.js"
+hash-format = "sha512"
+hash = "9e7e1851cb464f00fa59ea636e216055c0a466e6f1b190ce28818c852d068ce4e0ea74e20442fc40fe1df343103df8c9be292ef8813237f43e7193096e1d07d2"

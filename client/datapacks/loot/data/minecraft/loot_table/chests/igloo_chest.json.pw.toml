@@ -1,0 +1,8 @@
+name = "igloo_chest"
+filename = "igloo_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/157b569535b51a363bfc79a93e88d8fead46d41f13dd82f2076179d37b1ad1f3.json"
+hash-format = "sha512"
+hash = "97d13c1ca8b5901af5abac6e34ed62e0799c0826a03a69b252362ce9d256f29b5f7865dbb678cf61a29295b5967c081d9fca02d6885335234ba948100293df07"

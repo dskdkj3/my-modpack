@@ -1,0 +1,8 @@
+name = "cosmeticarmorreworked-common"
+filename = "cosmeticarmorreworked-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c46eef71972dd3204e79b379dcc1c06e08b7f813f3a2b749cbcf06e8fd67b24.toml"
+hash-format = "sha512"
+hash = "83edf5e300720c032e6af2ddd0b8f15ded9924aa751e887878ccca4286959b671f71c9ac3b5cc2f2947f81ff28f7991e4952bf801e89601b08feed6f26e8878c"

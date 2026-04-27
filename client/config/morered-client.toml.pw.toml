@@ -1,0 +1,8 @@
+name = "morered-client"
+filename = "morered-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/1171e570e9d819fa7f7dab823a338c5f2862c3312183fef0b99a88c6d7e36d71.toml"
+hash-format = "sha512"
+hash = "ffeac5aab9462f026c088f1d4592c35a2eaec0bca1ee52b62697a2c03bd53a5c6f08559ee4c525e0f47843df664a4fba7b09638992f8dd41f4326670bd85a353"

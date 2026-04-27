@@ -1,0 +1,8 @@
+name = "pressurechamber.png"
+filename = "pressurechamber.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/982e0ba4ecf39b065bdf172282995c8d535896f8cf78b8b510c62c8d76e5ad9f.png"
+hash-format = "sha512"
+hash = "108c0c997e1252b3f2390ab7c839c432905c9cae4517a27e05db6681ed467eaf510ab9f317fe59739d5764561a005607e97f3f494bdc67830fcb8e32ddaf2a51"

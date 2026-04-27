@@ -1,0 +1,8 @@
+name = "time_prism.png.mcmeta"
+filename = "time_prism.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e65d48634e370c422a48cbfe1f01bd7ccb49958a1a1d9238cc035acef5d9755f.mcmeta"
+hash-format = "sha512"
+hash = "617dbdf58820b56339c19b5451d98a57185437db4b37602b2d926940ab1b4d0440a2d8949ea6916440bc2db28475016f0d8b817c478580d32224df69e8758976"

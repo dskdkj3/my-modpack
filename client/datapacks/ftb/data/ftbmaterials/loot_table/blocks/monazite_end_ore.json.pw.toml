@@ -1,0 +1,8 @@
+name = "monazite_end_ore"
+filename = "monazite_end_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1f3c2804cef46218ac6e3f475a75b9a593b67934ecd940af5be0cf5b1b046d51.json"
+hash-format = "sha512"
+hash = "6e7b0d67d260e3e1f15214c281f68b4885257f07489ce06cb1b33144cb94edd8c69ee844414ce3edbb7e1e2be92b1e5d0fba4e4f45c4bd5aab0ed51455142fac"

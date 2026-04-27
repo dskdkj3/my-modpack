@@ -1,0 +1,8 @@
+name = "houses_common"
+filename = "houses_common.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16bd392ef015464a2bacbd1976b4ea94ed760938e273fe99c5464e16b08a4357.json"
+hash-format = "sha512"
+hash = "e61c4a5ba7ee3271fc339312e8a3ffb868958d7480355adca93000f2d24824ca8d2b17d09cea69d622ff271c0ec55ef3345e8b2203edfd4e9927e5a163b47f98"

@@ -1,0 +1,8 @@
+name = "oritech"
+filename = "oritech.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e306e5f3e2f8ef0dbf8a39f6c991fc212b5a4c8edae569110e3e1af54b35fdf9.snbt"
+hash-format = "sha512"
+hash = "4dc17318c8af84a9423a284e5eb2e7cf6d8e71d6dea5487012fa10c3f76cff158735de426044318dcb1ca2a37d0a04fb95e0a21842b5b7b13c55fc8bdd22d3b3"

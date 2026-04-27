@@ -1,0 +1,8 @@
+name = "entro_crystal_crop"
+filename = "entro_crystal_crop.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e34a4537212953e7ccbb9606d8f47c66ca3f2771eecce4f5f888d056759c4b2b.json"
+hash-format = "sha512"
+hash = "46e6718efdfb0e43dd16f7d52a5ae48cc2d5ce5272178f3ca7a58f26beb71af0003b56bc68d74d76fcb0a0af5a5daa7e192cf0b71b435fb0d92bcb7e19e2a71a"

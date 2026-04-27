@@ -1,0 +1,8 @@
+name = "easy_villagers-server"
+filename = "easy_villagers-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31069bdb9cd6f033cc54498c173c477db26695fcdad7b6ad688ec8790046e1f9.toml"
+hash-format = "sha512"
+hash = "7d9d3fdd7a099f0199c20f3cd93eac2639bcc1f220f2efad36433825793c2df86a898ca44ea9128edeceb5cd2d44a5ac9111be8978cf7f9370cc8badb4923a8a"

@@ -1,0 +1,8 @@
+name = "blue&orange"
+filename = "blue&orange.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17acdaa788b1975810ad1399aa040f56ae32f63074575fd54836df171a4c993f.json"
+hash-format = "sha512"
+hash = "6f886ba32cb8c090e6f1d4720291a8d597cda65cbbe37a6806d37d079280cad1c128029c6be591d7bc3f0bbe32263a9b0f2513070e080d68b0bb9fa772d8c032"

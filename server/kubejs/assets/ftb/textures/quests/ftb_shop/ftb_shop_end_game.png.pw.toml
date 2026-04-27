@@ -1,0 +1,8 @@
+name = "ftb_shop_end_game.png"
+filename = "ftb_shop_end_game.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b51bc8916420872a2cc2279d0050ab6c049b9af7fd7ebea269df2d74083a802.png"
+hash-format = "sha512"
+hash = "baced6ccd43cc0a5b437c0def047e1e0b0d2cceb0303a7c34e8def5828d66c9c9f0992a5066b8e6a6cef5085c8d06bc6b5fe44725ae2d4e80212c5126706db5e"

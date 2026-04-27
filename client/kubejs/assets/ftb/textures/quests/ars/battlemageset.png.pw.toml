@@ -1,0 +1,8 @@
+name = "battlemageset.png"
+filename = "battlemageset.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/149eb1745963796d4daeb5d3a2bc505892cdc4117f6485c1dbd094afa26cbdbb.png"
+hash-format = "sha512"
+hash = "5747545c02cc1c729c9e6c5123eb62e2e2214e63288480b625724c1e096d79a32689a7b73ef71390a6523a2702c03b92e6a77e9c5185936d5b6c8ce9258ba52b"

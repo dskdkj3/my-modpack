@@ -1,0 +1,8 @@
+name = "small_snowy_island"
+filename = "small_snowy_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a054c0bb57509a30129e2bee5d8dce9d764ffe6776a3180f8f0d9c4db725dadd.json"
+hash-format = "sha512"
+hash = "a7dad2970443067f25fa9f3fd90a4f58ea34cd833fb051b62c270f55fe6eebe8936f44d20b2e8eb74760c00a5c53a74d34ec23ca1e20c4ed07d33acd01476a7b"

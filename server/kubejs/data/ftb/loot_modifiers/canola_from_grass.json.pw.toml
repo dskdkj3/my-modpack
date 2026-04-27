@@ -1,0 +1,8 @@
+name = "canola_from_grass"
+filename = "canola_from_grass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9ee10de0822e64adae5dbca299b95195b64afc521e86b5b558af4a84d12a0354.json"
+hash-format = "sha512"
+hash = "3327b5894378583f45e70b99e265b83df9d1ba66637ec3dbd16fcb2ae196ec9a11691b980ae72df8967122afdb129caf692a39f8447056391111235724fa5656"

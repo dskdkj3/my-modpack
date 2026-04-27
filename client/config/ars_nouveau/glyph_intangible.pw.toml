@@ -1,0 +1,8 @@
+name = "glyph_intangible"
+filename = "glyph_intangible"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/786d911338688ebd1acf2f248ed5eba2f55b5e1b5d56e3ee29cad11b8f2dc093"
+hash-format = "sha512"
+hash = "7e93cab5655a1693e374ef0d70d25b41d8658e94d2b7a9fa473f2df834e80a8ea5529cabaf824e383fc6af5cc7a309ebe2d98eb6b677faa51fce4cf87dfc28bb"

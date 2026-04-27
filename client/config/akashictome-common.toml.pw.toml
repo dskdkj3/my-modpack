@@ -1,0 +1,8 @@
+name = "akashictome-common"
+filename = "akashictome-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a539061a26f713d9b5edac0b964a82fe83b4086b02e1baeb99147955337c0bd.toml"
+hash-format = "sha512"
+hash = "dd822de5bc5f6955324efd4a82f3a199c420c1691af0904307c5e8e60046f5ff1419ee25813b8b7b8460f6b38fdb47ffc3894defefe578c2c34bfebac705df72"

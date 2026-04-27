@@ -1,0 +1,8 @@
+name = "recursiveae2patternprovider-1.0.7"
+filename = "recursiveae2patternprovider-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7081/391/recursiveae2patternprovider-1.0.7.jar"
+hash-format = "sha512"
+hash = "85e0222b5dea1fc430f8e14d2fb818d87899cc244e70c2a406c4f4f48451334544f6cd85d000e75ebf8a1df411fca47837b5a74ded6bd9a2d0c79d7fef634edd"

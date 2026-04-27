@@ -1,0 +1,8 @@
+name = "travelerstitles-neoforge-1_21"
+filename = "travelerstitles-neoforge-1_21.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cf23e37dc7c9088d946f688d08c916ce19f4d3bb288bb136aa9be3cc4a53078.toml"
+hash-format = "sha512"
+hash = "c934beed74f8d309df13c887909681e13c5821086d84f07d05b847299531c414423b4bf182d928b7b4bfaae58794f0c102507efd878f9769b83c0bc65b3939e1"

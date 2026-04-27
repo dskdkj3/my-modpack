@@ -1,0 +1,8 @@
+name = "glyph_cut"
+filename = "glyph_cut.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/5778627465581c377cc61e93ebfbfc601d27864d02c821ea5b24d880a65e89df.toml"
+hash-format = "sha512"
+hash = "da18ff9283140c7c989f44db816ebce1456b7d15629648aa7c88413ff35fbde17d1d310f4b40e98bc6c0646a8768b123643ce29835e67fc3fd2655a22e144cba"

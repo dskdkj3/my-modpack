@@ -1,0 +1,8 @@
+name = "village_cartographer"
+filename = "village_cartographer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61f42423a5499cf2b02c9a27f1c1618a50654ec3d994b52ccb62a9664bb29c80.json"
+hash-format = "sha512"
+hash = "23253bbe6ffe31bb4bdbd1e6b3b248a5ba511ae7189bc907cc821ade5af6a4f324f4860c70080e9667f1a2cee01cfcbfd24bc64dd12c930ba9512cf8ec816e41"

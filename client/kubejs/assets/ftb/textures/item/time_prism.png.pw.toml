@@ -1,0 +1,8 @@
+name = "time_prism.png"
+filename = "time_prism.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0893e42b992c27142101274663971c78fb05c35237fb58ec4f5b3999fe88bb2.png"
+hash-format = "sha512"
+hash = "55ee9b3915bb540c2cc36e16d65eb9383c0f79bf980a8c352869abd7256b214f2379bfcc8464f7f3cf9743ddbd4674d74eff799524cfa6cadd588a82640f08dd"

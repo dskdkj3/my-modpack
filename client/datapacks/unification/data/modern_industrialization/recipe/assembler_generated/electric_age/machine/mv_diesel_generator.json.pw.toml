@@ -1,0 +1,8 @@
+name = "mv_diesel_generator"
+filename = "mv_diesel_generator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/94f81aab3d42ee8fcaf3e97af28c00598c3a5296f442fe128d570af8e6a62ce8.json"
+hash-format = "sha512"
+hash = "615f086214c2e883380d6e21315bbea66798acf6660c9f917fab49076afc1d82e5900a414abd71c822617964d881bc538feaae7160894e4ff13269ce0f8f7ec9"

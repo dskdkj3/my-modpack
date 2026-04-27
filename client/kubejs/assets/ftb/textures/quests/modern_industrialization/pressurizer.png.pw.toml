@@ -1,0 +1,8 @@
+name = "pressurizer.png"
+filename = "pressurizer.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/538d86b308474bc574af30909a66b6efacfd4038ddd89eeba1094c57485258ef.png"
+hash-format = "sha512"
+hash = "e5204e119c19c140ccbffa285883b7d0303820da0e02ae30a513d84b7737b5d3eb0b8e7c843c83d3a857c6cde64ec0e7e93dab7fa10dce4c82fa1128954ae6cf"

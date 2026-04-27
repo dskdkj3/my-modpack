@@ -1,0 +1,8 @@
+name = "nice_day_for_fishing.nbt"
+filename = "nice_day_for_fishing.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/00c1814d915b895d2f73b394f7dd838cfb6c0bb0509c7561dc29c8b2f2d2d296.nbt"
+hash-format = "sha512"
+hash = "a372c6af288e1ee8380bfbf5a6c6b40e4db9125b1c13b8cb96b5f2fbcded462ffe9d27c7fa98786ce47523452afe70f54b543b1ee599c71506d34779392b5577"

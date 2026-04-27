@@ -1,0 +1,8 @@
+name = "heatexchanger.png"
+filename = "heatexchanger.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/18/182185bcd1a50303c4076ae3b451d037f4f23d3d393e3ac3de01844604f03f66.png"
+hash-format = "sha512"
+hash = "410ca8c55012fecb49423df882fa73bd8fff76c2007da8e835ad42d9dd40cb180ba7203a0f8cf45e3de8baa7b88f6b150c8ced1319b7eb121b9c5a570d067acd"

@@ -1,0 +1,8 @@
+name = "eccentrictome-1.21.1-1.2.0"
+filename = "eccentrictome-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7045/757/eccentrictome-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "87ddc946bd7e221150670664c14f5f5920abf3100cbc9d0e8a39289a3b1ca7206c3f1967fceae1253090988b26869954385cb6d1c9a30e7b0247d4350111a100"

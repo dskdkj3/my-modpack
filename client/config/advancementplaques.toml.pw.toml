@@ -1,0 +1,8 @@
+name = "advancementplaques"
+filename = "advancementplaques.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9bd6d9357a0234e30dcdbffccc471fd3c507b22ae53c4f31f266c27c8df9bde0.toml"
+hash-format = "sha512"
+hash = "b00529ade0b48b0c8cf562f27f910083563ed7da43ce9472ed8c242929bccca32c3972722bbf0a5457deabdc2ef85c1047396977833a490c49bbd04374b4a76d"

@@ -1,0 +1,8 @@
+name = "glyph_chaining"
+filename = "glyph_chaining.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/acd367da02df17acc99024ee1bb8f6a74b9b03e31f52232efe2883e4f2b23a49.toml"
+hash-format = "sha512"
+hash = "159a93781c96f44cc586692346f4f18e6759f084ddebb0c8774421b1f86a16d5fcd359532699b89098aa7e5ab9805336784f6e763805336c0fec52773449b729"

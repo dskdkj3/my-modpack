@@ -1,0 +1,8 @@
+name = "necklace_blueprint_alt"
+filename = "necklace_blueprint_alt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a6678cd26ac5458976ca2874f284d2bd2132239489ab1e0e38479e6686311f0.json"
+hash-format = "sha512"
+hash = "8693f3a9ff81bc69c6214285d286c1bc5efa28e0f40f7fd20d8a028a8f3d6fd761039690841c21d4f6c5d3dd1dff2ce5111e8851e3953bd5bc2a185735e77ac8"

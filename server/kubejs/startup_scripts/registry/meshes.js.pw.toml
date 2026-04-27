@@ -1,0 +1,8 @@
+name = "meshes"
+filename = "meshes.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bcf4e4d53bd9ed981b0daf6fbee21988453d853e978bf069e558af89f8573a74.js"
+hash-format = "sha512"
+hash = "0dbb10c52c14773bc9d1589f496af84d27a358b6bdf22804469aa5ebb36cbb4055cbee89ac22cfc6bc3676c52bb2a81d76448d19a7b93e35d2f58a611e39a49f"

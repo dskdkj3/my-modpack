@@ -1,0 +1,8 @@
+name = "bricked_fluid_output_hatch"
+filename = "bricked_fluid_output_hatch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/247e282fe0301a127485e24bbaac9094db150194159730cfeaf6348a1c955c9c.json"
+hash-format = "sha512"
+hash = "5c17666a06f5b73a8614ce1a81868ccbbbe5631be584e52723d1739b72c0e21b0a23c964c23931c594d9a297270c69ef150cc7b120751e8e79ef2fb4c2fb5f63"

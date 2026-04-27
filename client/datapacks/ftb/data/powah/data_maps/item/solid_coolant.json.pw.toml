@@ -1,0 +1,8 @@
+name = "solid_coolant"
+filename = "solid_coolant.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5180fdff8fe282cfe3f8fe43d1d793507e0f4742b55f6f218c30a1a0906aff9.json"
+hash-format = "sha512"
+hash = "f97f5d4a7e7632a9cb58e83848a58a5178618ccce105ebcd7635d3ea33750d8cf4057caf5c608a2a856cd02db7afcac619edd013f5a143a3c9db0606bbe72f9e"

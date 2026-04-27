@@ -1,0 +1,8 @@
+name = "laserbridges"
+filename = "laserbridges.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c088915cf638364740b273890d961aeb46e1d9a5da5378a5fffbfb483e3ebce7.json"
+hash-format = "sha512"
+hash = "0ff675fa8d072f716d71083927f847f8a4dda3df4e205ec5939892e6a1aa202b9c46c17d84c3b3f03650538d8bb148b69f0c36f5f23a6b55811ce98a64e76381"

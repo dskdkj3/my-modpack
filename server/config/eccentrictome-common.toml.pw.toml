@@ -1,0 +1,8 @@
+name = "eccentrictome-common"
+filename = "eccentrictome-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96c01a6b3ce72febfb3b69464b9ab74a39fffe89ca3d6f4153d4aad7c24f5a14.toml"
+hash-format = "sha512"
+hash = "59e41d21929e7a42a8069b3ada3fbce4aedd951298921a44f82f28c2b8b69396cde11d3db8390fe4c1e10ebdb1ccc7ec36d1ada090ca6a9bbaa1f0f568b5acf0"

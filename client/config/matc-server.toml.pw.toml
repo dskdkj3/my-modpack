@@ -1,0 +1,8 @@
+name = "matc-server"
+filename = "matc-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f13f2a860a10184f41a5304497d99cc253fded541249c011194b8c4101d71534.toml"
+hash-format = "sha512"
+hash = "7e1abf62b85ca0300112fbdc9e45722a3faccca33683094fc9cb3370e8cdf4ab916e4610c1e950387fc19685c7ebd1a4c1c8608768dab6ddd1d09af24dd65c41"

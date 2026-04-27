@@ -1,0 +1,8 @@
+name = "snad"
+filename = "snad.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9ff7185a9810313c4798fae4aae8be10f0f06283fe8226306b5729df5d3136f.json"
+hash-format = "sha512"
+hash = "b47f1e3c451d7830709610653d7b9709c7676ec93132040e9e245abc343351fb4df9005af6c7da184157777b0882247159b238d803ef7ecb1ee92ee57ef4ab01"

@@ -1,0 +1,8 @@
+name = "monazite_nether_ore"
+filename = "monazite_nether_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65c8135460113b8920990f5bcc35437cb45871037963920af81145bdf9af20ab.json"
+hash-format = "sha512"
+hash = "4070e20dff916bd3a335766c6b53799682f5656df64867adfe5d2f88a1a2cec24c22f95188fa2ee9293e3d4363b6dd3518aa7c8510adb994d9d85c865eb2f9fd"

@@ -1,0 +1,8 @@
+name = "lubricant_from_diesel"
+filename = "lubricant_from_diesel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b263eac62b836b2107178bdc6e7872f5ff1d399769f677953832805bb0b87b40.json"
+hash-format = "sha512"
+hash = "45c2b93271155adc7b473d917d238e25ec5d387ed7878f1627bb443a3960f74bee0e7ea6f9bf98fb998c834e4e6225787a453b3293e31a639ec6a6833619e08f"

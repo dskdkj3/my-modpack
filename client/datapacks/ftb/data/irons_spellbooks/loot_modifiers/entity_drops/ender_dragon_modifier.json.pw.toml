@@ -1,0 +1,8 @@
+name = "ender_dragon_modifier"
+filename = "ender_dragon_modifier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b4091b73c00622eabe72f7565aa8378a19425d9f72f9f83f6e2ee7a6cfd5b2a.json"
+hash-format = "sha512"
+hash = "3a72449855a7d5d5413d8b21a4829ee8750842d0d9c77221973019c2c4dedea43e30eb6a71e208a52e6674523831bffc1c4922f53b79118856d04f66272418e9"

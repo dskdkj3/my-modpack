@@ -1,0 +1,8 @@
+name = "ftb_houses"
+filename = "ftb_houses.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d19ebcc90ee56a6f8acbfeba7613e2f8ef52d4a7f99b2e0818b694ec8a2a8e4.json"
+hash-format = "sha512"
+hash = "37d396e297fb612dbc0f87c18b9227d7e45c61c7dd0f7db6dce3b370b45d67273fdba04619a45e8e772e294c447f306603561a080dc0a1176ca92172817769ca"

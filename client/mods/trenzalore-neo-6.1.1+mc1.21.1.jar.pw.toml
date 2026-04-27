@@ -1,0 +1,8 @@
+name = "trenzalore-neo-6.1.1+mc1.21.1"
+filename = "trenzalore-neo-6.1.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5623/160/trenzalore-neo-6.1.1%2bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "5cf8cfd047a15c15be64a448cde125af60e68f9695b0d2301f3c7a2bf3b465f666cf4f7020608c7e7b90a4a357a3a6743824b4bfb263ca3ed06e6ab8805b1d7b"

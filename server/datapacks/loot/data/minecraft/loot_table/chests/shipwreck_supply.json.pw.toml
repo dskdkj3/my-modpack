@@ -1,0 +1,8 @@
+name = "shipwreck_supply"
+filename = "shipwreck_supply.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0ee10d84e486700c66b2c093eff4c89895c69d765bcd8b8aeff3661f680697ab.json"
+hash-format = "sha512"
+hash = "dcb58134aee99883117e25cf0a19a2e9455d759c18a3d699763f1b3d34fa2d74046c0b1a00393bd8c0f39a3ac5e76a563a358455269e7541381ae367e5d8f2c3"

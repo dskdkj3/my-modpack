@@ -1,0 +1,8 @@
+name = "sauce.perk.abjuration_resistance"
+filename = "sauce.perk.abjuration_resistance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/6125be17c1d88b95bba761b93efc539cbdcaed0f41714709e21c018d3c71aa48.json"
+hash-format = "sha512"
+hash = "ea4cb41b8f9bf2d5b96f0bb7545e7bfdcaf3d3e5763a83dfce580df369efa9c94bfeefab6892be2d70cef890d4a0c9ce9e0ae598fac1ff60d0ff077d101d12f6"

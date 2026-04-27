@@ -1,0 +1,8 @@
+name = "primal_essence.png.mcmeta"
+filename = "primal_essence.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97f2c01618e5dbbf8097a2c953a917d491189106d7b537f8c8a577c697794f24.mcmeta"
+hash-format = "sha512"
+hash = "165377609f31fba2c5d876bc645d805983b6c3315aea444ad03f085e5b5f7b6b56fb300ee31b6b8425dbc069098db0fef15e58832180dd48dba9b97a018b3ea1"

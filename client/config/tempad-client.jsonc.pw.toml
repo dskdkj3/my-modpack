@@ -1,0 +1,8 @@
+name = "tempad-client.jsonc"
+filename = "tempad-client.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/155340be03ec764ea3cc73c5c07b237704782b8d8818052bfc4d284df88ba909.jsonc"
+hash-format = "sha512"
+hash = "75240e9ca2dc9a50c582e46a76be7c00f68227ff5e61903d71b657ccf42f55c8fd6893b96f93fa1c669a003e048293a9eb501cf463df1894bcf611b5bdfb4b9b"

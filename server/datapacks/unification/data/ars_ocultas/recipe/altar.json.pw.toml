@@ -1,0 +1,8 @@
+name = "altar"
+filename = "altar.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b357591b764943285a9d527b84e62786fcf93ac98427f6347fe4715db19dd97.json"
+hash-format = "sha512"
+hash = "61010b4a929dc56b24eeb0f55611be794f8ee00e0f6c78b821d7b9468abc636096a5b760efca671d3ee8ffcb6f6efcbcd2bbdbca45613c0cc04132e074b26ccd"

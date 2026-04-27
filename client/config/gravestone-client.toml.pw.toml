@@ -1,0 +1,8 @@
+name = "gravestone-client"
+filename = "gravestone-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a07a429cce7cd88aefe75c79e15b924c0c9da9de694a6053545ab0fef206801.toml"
+hash-format = "sha512"
+hash = "68843fa529f6d41c43af21047ce9517500f176cdd700dca7d4d87400f184e69043736d8a49df8c04fcf06e416b646a578e417c799809dbc588d0593c41086bf9"

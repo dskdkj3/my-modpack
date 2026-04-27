@@ -1,0 +1,8 @@
+name = "elytra_booster"
+filename = "elytra_booster.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b37de60a8c1f4f53d30d4ca78c05100cdd2f3ce17a7041a33616afae40bd494.json"
+hash-format = "sha512"
+hash = "5d1fa8278766377549377e5ffd609b80375f602299f1617c8709890665a228b4835c85745fe1349131c1d618bb5f7508878de7adb2cb62dd80f46db947d03fa8"

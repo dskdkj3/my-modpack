@@ -1,0 +1,8 @@
+name = "sussysniffers-1.21.1-0.1.3"
+filename = "sussysniffers-1.21.1-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6679/817/sussysniffers-1.21.1-0.1.3.jar"
+hash-format = "sha512"
+hash = "a57445288a19f5853ae29fd0a7cd2331b3bd84d4b25d960d7f15aab63ee935f2d7209f841e540316804fa7af486f6157cb4ca843e20f6d0e861afbf95368763c"

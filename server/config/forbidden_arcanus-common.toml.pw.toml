@@ -1,0 +1,8 @@
+name = "forbidden_arcanus-common"
+filename = "forbidden_arcanus-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/619dc502e02d11c09a0a4807f74f19ec19ba3c6dd56924241e3b82dde632a10e.toml"
+hash-format = "sha512"
+hash = "eb52916e714ae9bad76358062d7d8725ad9f0c0a2388a98e1eb0fa604fc7727826be7a46ce889ab8a6be476c8bb238b63797b580c6de0cb2b33f41fa06f3c87f"

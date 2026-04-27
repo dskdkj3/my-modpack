@@ -1,0 +1,8 @@
+name = "nether_castle_spine.nbt"
+filename = "nether_castle_spine.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8a4b03aae7287014cb9b3d867e1016e1e43b8fafe231e2c2ce1a3e4a9cb2a86.nbt"
+hash-format = "sha512"
+hash = "39b8959eb80bbbc45e46bf4313f2d8204f19a5e3432ec20e6b15275cc6a89bacde9a23b6b31d8d160aad256d4673460b55075189cac7966d18b6832eed6a14cb"

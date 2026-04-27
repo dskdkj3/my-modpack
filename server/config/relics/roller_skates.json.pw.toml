@@ -1,0 +1,8 @@
+name = "roller_skates"
+filename = "roller_skates.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8baa5f2573a5bdb3ca928584c46956c02bb6ceb2dfdfe61454d238f29a3da7f7.json"
+hash-format = "sha512"
+hash = "09a7ec7600bcfcdd7110c3f22372830ac9635d7e20600ce0a55fcf73aa57a81d46ce6357b751f2e417765b4cafaef0731ead9dfa903cd0be2f0236589fef35b2"

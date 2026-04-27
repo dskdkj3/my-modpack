@@ -1,0 +1,8 @@
+name = "alchemist_1.nbt"
+filename = "alchemist_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f47b3f5398d75d1e35361a075c52f9f3b26659ae389650cc537b765dea2c078f.nbt"
+hash-format = "sha512"
+hash = "4255a2f5c217b385bf23fe5b6a0c9c56717a5ff6d5a6e61a2c58da4ad2fc616f26437d8f967a8e4ddb18275725df52abca0c21f42113d78b72cff6605475c19a"

@@ -1,0 +1,8 @@
+name = "elemental_arcanite.png.mcmeta"
+filename = "elemental_arcanite.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e88eeaaec1f68d926ad5e319a731552a8fcd01ae3673c338e35be59c95dabe7e.mcmeta"
+hash-format = "sha512"
+hash = "1bbe559d0872c2b25796f448b09eb8e4c6ec945851010ed8210cdc2a6c9becf21fc6c9b9bbff82b1bc0ca428c3d0be891404c3d2c35a2e631a2f4a50a27ba2b9"

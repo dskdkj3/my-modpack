@@ -1,0 +1,8 @@
+name = "glyph_crush"
+filename = "glyph_crush"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/511e927fd8e42aa30d7490e3be732e120d892f4359169ddfa2f2e9cb41595a7e"
+hash-format = "sha512"
+hash = "95b3375ba7a51b7aa41f742a257271830bde3b7213059129ecca6d121c5ae4ffb940834db3217694e133a4da32d5bf836c11cb35f83a882df4740dadd8f8e57e"

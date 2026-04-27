@@ -1,0 +1,8 @@
+name = "malum"
+filename = "malum.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/626d4d9cd8217ffbffe56fa0e44398aaec42661df4cd526616eb56365ef38721.snbt"
+hash-format = "sha512"
+hash = "1a586101899c2245b817716cddf9880d63ce47d27455c81e9c181067f4bdd2db47201d2bb6333f2b59fb12300429404ee9b736d5271b2d8c7337dd46d73e9d41"

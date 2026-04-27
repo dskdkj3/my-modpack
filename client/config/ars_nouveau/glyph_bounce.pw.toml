@@ -1,0 +1,8 @@
+name = "glyph_bounce"
+filename = "glyph_bounce"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d9c8a0911ae2724ae9aa6ce01c26c2083ba27d8d6d71dc477574058012c0754b"
+hash-format = "sha512"
+hash = "f144c22d33ac8df794e076517ce6e8a983c6174cbbc182074ec79131dcc88503419c9e3ade04fdf7222ab2ffe550de40ebecb9343ed4b4db6ce997d09d1ff966"

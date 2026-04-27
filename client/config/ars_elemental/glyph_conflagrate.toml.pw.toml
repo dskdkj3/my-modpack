@@ -1,0 +1,8 @@
+name = "glyph_conflagrate"
+filename = "glyph_conflagrate.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/06ec5f8cae7413a184d2953fad801733a2e048d5fea78e09e35014c201ea033d.toml"
+hash-format = "sha512"
+hash = "a8fb6ba30ac35d6db5f16123de7310709590707458a041e62f1fa566c4b10826c910846c7f664942b60ed9eb4f76a9d8dd7bb38ff190b386f73da350d0e0c673"

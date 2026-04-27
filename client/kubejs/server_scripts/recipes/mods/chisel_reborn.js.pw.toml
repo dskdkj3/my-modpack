@@ -1,0 +1,8 @@
+name = "chisel_reborn"
+filename = "chisel_reborn.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/27b6bd88c40add3f5313d393c6803ae75050e83908b616eede67382cda32ff47.js"
+hash-format = "sha512"
+hash = "0b78ad5048fa4d82f588b99037b11fee72323779a6c2eb45c817212e3e4a3acbb5f1b14e4d6fe9bec358e0cb891c67f6edea1481f90cfc9e5b7d93c32bc84063"

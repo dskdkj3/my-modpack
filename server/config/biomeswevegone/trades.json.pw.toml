@@ -1,0 +1,8 @@
+name = "trades"
+filename = "trades.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65e13846a6cf9334693d05389cace2c77e2f52a5535992e5aa65dff67a0d2990.json"
+hash-format = "sha512"
+hash = "f96c74ff926b6aab21b25990fd05c68e495f4091ca4a372de8e31ce34be213914acaf0649a8a4580723abd33d6aa2e67b0a48afce927ccced34de590e288253c"

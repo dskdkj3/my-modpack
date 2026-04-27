@@ -1,0 +1,8 @@
+name = "explorerscompass-client"
+filename = "explorerscompass-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/106f1732de3ca375247bac7b1c6728317f614e36f3677758e24611e6372b0fb3.toml"
+hash-format = "sha512"
+hash = "997e022e3e92105e02fbd46a7354ffa7c156e0424d8447cd8a12c1c697c62ceb96499002fd4951d1ba287180e549ffb93b341f4d2842e25fd7e570a543e1ab63"

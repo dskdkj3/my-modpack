@@ -1,0 +1,8 @@
+name = "vacuum_freezer_asbl"
+filename = "vacuum_freezer_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f1df51c48d3004c9b77e3e0c6c1b33ae9ccb259c3bd3e4405bb7631adec09b20.json"
+hash-format = "sha512"
+hash = "f9a6a0d9447f322f9693a93a962c17a7dcbb8c43c22b263091d46e6ee78c57d057a1c079c5cd9a2f30b0928ef9449473e3324af10bc80341f3dbcf524374d54e"

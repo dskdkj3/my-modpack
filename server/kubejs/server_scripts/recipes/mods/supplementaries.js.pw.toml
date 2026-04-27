@@ -1,0 +1,8 @@
+name = "supplementaries"
+filename = "supplementaries.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa279abbfb2f806b25fbe0bc39aa673d85372a9439caf66d67c7117c7903b530.js"
+hash-format = "sha512"
+hash = "edfad477fe23e3c4b39a75bd78c8364dbee2bca5bcf678e7fbb618bfde51be55981d63952c2f36c6eb53bc164e7f1a50c2e3455de8dc409725bdba74292dff37"

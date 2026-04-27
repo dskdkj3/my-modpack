@@ -1,0 +1,8 @@
+name = "ftb_shop_others.png"
+filename = "ftb_shop_others.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a9dd4db1eaecc4e2806edf7409693df6ec3f251fc448737db0284e0aa03c63d.png"
+hash-format = "sha512"
+hash = "d2b7191c65a4e579a59246d36da7675fa1aa895a14ccdeb99db3e6960dc1390147032bd2a1800bf56a2895d1b12baf55fadab5f0aeb14b693908a57374150785"

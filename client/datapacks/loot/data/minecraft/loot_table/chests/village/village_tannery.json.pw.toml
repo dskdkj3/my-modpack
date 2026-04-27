@@ -1,0 +1,8 @@
+name = "village_tannery"
+filename = "village_tannery.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9128e648217d5d657023f7566c7efa222809f652d478ba4adde324853b517700.json"
+hash-format = "sha512"
+hash = "fb86e063ddbb26875930c6a88beb4e77239a0167bb70b50ea677defe75aeec2d8eb065a6e11e7174567da51bdad6f07385a06a24897d485218a3b8f36ab536c7"

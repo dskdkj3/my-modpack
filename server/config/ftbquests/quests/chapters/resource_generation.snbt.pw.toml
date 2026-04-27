@@ -1,0 +1,8 @@
+name = "resource_generation"
+filename = "resource_generation.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/5909c8e2b0cb4cea4a812c328d35bff3a70eb4d6a69d1328ed9d95ad778b037a.snbt"
+hash-format = "sha512"
+hash = "397d31a95f4a63af04a36266b7b681292a9f78729e658c25679c96e527a4d454ae6e6bca3aa9c32596e236e3e629c12a3efd3a795475f9581e5a5416b24bc6af"

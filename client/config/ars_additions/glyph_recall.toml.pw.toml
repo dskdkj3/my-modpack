@@ -1,0 +1,8 @@
+name = "glyph_recall"
+filename = "glyph_recall.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6ad17b7d10d2b508039c9f247704e767fcb84100daa7d8ec54f0a0d1a94b2962.toml"
+hash-format = "sha512"
+hash = "89fd765a24c39ca06dfebdc35a2bf07c5fb12b7037101dfd72f004e11ffef70b4e1c8dca4396e658096e7b672a69bd1c48a267af269d5830ae6fd6e57aa950cb"

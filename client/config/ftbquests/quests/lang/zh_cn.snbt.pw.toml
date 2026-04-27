@@ -1,0 +1,8 @@
+name = "zh_cn"
+filename = "zh_cn.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edf52f5d305339e0549a372730d9117c67e2af5905f700c6f94a5ee029620bb3.snbt"
+hash-format = "sha512"
+hash = "a044be97e6274c091eb0be57143261397bb22b757343b4d0ccbd8a458296a0a672d3ec74fcb0013346f5a76c33240110616ca2ff8f91b2ba00b965a904dc1834"

@@ -1,0 +1,8 @@
+name = "event_trader"
+filename = "event_trader.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfd92c77483389cfe09309338375aa31b12b9c974f3a0c545e567c168936d7b0.js"
+hash-format = "sha512"
+hash = "6db8b6d355104b576aa33fdb1871ef828b293273a2172e9fc036ee068cfaafa9bd08ddd2dbbd1eeb8b07d7773b2c2469026b5244965db21492fd54710af5e2c6"

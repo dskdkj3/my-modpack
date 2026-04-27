@@ -1,0 +1,8 @@
+name = "compactmachines-neoforge-7.0.81"
+filename = "compactmachines-neoforge-7.0.81.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7621/553/compactmachines-neoforge-7.0.81.jar"
+hash-format = "sha512"
+hash = "871851d65e45ed4772485a496e6cf6eeb47e42dcf98297b6bb85622c541ccd36879730da6020803337478337a8f70f8175e8653be187e8ab6ef8c2684dce0b50"

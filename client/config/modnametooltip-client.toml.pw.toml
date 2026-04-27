@@ -1,0 +1,8 @@
+name = "modnametooltip-client"
+filename = "modnametooltip-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dccde70e02d152547a4aac53d322f0a53edde6ad8ff8b2ad0566f5658dccd294.toml"
+hash-format = "sha512"
+hash = "d61245be312b430f7850689019a0b91e7c3b61373a196772b1865bdd5d77a45df94dae1638a3a582b1678a080c1be9bba84b3adf9f09c6b43a9b61a49130815e"

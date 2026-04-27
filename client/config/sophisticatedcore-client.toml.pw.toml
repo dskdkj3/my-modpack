@@ -1,0 +1,8 @@
+name = "sophisticatedcore-client"
+filename = "sophisticatedcore-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15a7c969094a1483a055a75566680bb42ab50e3e53ad8454dfaa44e0103f4ee7.toml"
+hash-format = "sha512"
+hash = "ef6e9771e08eab84dcea10e4460de2e54860119b57521f7d51170a8e3dc47adbc4c343718dc1882d2b270e211aaf03c08710f87863837992963775cac128bf67"

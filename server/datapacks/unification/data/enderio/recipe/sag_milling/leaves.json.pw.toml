@@ -1,0 +1,8 @@
+name = "leaves"
+filename = "leaves.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93c7eaf56cfc5df54e0b925fdd3cec64a08537ad7d3aee8c8b08830d085a31a2.json"
+hash-format = "sha512"
+hash = "2ef98c7aaacc5bbcf33abadd0d53f8d2292a6538545e5b8e206e6ff8831c5f357c1c25d32d9a4e7fc27d2e903e9b39e9aac7872d5294bfa4c04fa099347f2796"

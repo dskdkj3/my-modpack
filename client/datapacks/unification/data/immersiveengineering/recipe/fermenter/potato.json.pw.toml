@@ -1,0 +1,8 @@
+name = "potato"
+filename = "potato.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9cdfe9354c5df37877f35f06bccad41ee99bc2d014db5c50760e5edb5addc14.json"
+hash-format = "sha512"
+hash = "6d264006dfd1eb4879c8b02d6e598ed56971a7655a39fc73e39252761cff85961c485b7b889ee827ca68da24e11beea1430a09883397a1ab3c52b546d910e4d1"

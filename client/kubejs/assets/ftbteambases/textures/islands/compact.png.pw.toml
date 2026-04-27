@@ -1,0 +1,8 @@
+name = "compact.png"
+filename = "compact.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d44d4db504c54fc08587863375bb16d8f838c4ed80260ac063ebf50542119b76.png"
+hash-format = "sha512"
+hash = "8d182372416eb219aca2591cc224d3114e694c4e8891b692075a478b686284ca8c0d6c7eff0748652befd4ec69fdd1f65cac64a6c9b21ffeaf2eef3229b95eeb"

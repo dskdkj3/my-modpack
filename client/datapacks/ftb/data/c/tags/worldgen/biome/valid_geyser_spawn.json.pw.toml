@@ -1,0 +1,8 @@
+name = "valid_geyser_spawn"
+filename = "valid_geyser_spawn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cca095abd825046aaa225c9a5eb6e5b35dd1b8c58e7b3c0a7b2f1606be89119d.json"
+hash-format = "sha512"
+hash = "1fc87401665c757aa104f542a93b51a480690328f92dadbbce8acd05775d307715b99879cf918e0236033e6dbdef2616a51e4e1ac41b563674175503b58b33e4"

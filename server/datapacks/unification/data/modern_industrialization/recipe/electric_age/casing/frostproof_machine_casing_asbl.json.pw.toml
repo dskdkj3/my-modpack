@@ -1,0 +1,8 @@
+name = "frostproof_machine_casing_asbl"
+filename = "frostproof_machine_casing_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad3cb4c77bb31f08ea8db50bb1b9b0abbe6042f497b3deddeebed79fd6cb1717.json"
+hash-format = "sha512"
+hash = "3cb041d82a498c8492d12f62d5f8ef8758b95b438b1ca73e78994da32149ee2a9331a1615224f2062eb723341e3a3e3f294be92f0ffd8bb8aae7993d45da23b9"

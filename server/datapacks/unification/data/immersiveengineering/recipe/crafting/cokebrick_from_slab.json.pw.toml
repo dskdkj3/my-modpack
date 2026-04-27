@@ -1,0 +1,8 @@
+name = "cokebrick_from_slab"
+filename = "cokebrick_from_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a036fbdc1b9535af0073c9b96261c92a0eff995e35bde8400e31bce3427ce8e6.json"
+hash-format = "sha512"
+hash = "e65ef0ad654550037597ab59232a47926dcac1cd5dd4481489cb1aea1613de3a0ed0c84d328e236ddd56cb876f94d054c9e3af2aadd062a845e8c031c3ccb7fd"

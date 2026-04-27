@@ -1,0 +1,8 @@
+name = "enchdesc"
+filename = "enchdesc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/109d7c775071df5a2f091816182eee89d103c2730a088ff64be42ea0ab68080d.json"
+hash-format = "sha512"
+hash = "cc387056ee3157dcee55574779d87418b9bdcaaf9dacb592663525731f62071d016f4e00da99153a0b943eefc2ef3b7e8d468eb7565289702e09972e15651c5d"

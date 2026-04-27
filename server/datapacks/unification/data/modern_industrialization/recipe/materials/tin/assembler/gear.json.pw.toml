@@ -1,0 +1,8 @@
+name = "gear"
+filename = "gear.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e0fb046c057733d893268639941209091624bc55795f66bc81d15d645bd41904.json"
+hash-format = "sha512"
+hash = "4785ae2f9333561f1c0d83bddb68cfbad2e6589241821fa54e0e0852769851581c2abaad824da261280f01e356f77e25bdda2eca441feaf13bb4aabf150a64cd"

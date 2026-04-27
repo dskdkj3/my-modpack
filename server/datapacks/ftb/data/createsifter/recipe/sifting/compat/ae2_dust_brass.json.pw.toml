@@ -1,0 +1,8 @@
+name = "ae2_dust_brass"
+filename = "ae2_dust_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f14af8b13ec66f4c79374596fbf7967549d95b54353b00a9bbbbf221ecf0fe9.json"
+hash-format = "sha512"
+hash = "b27bea45ea06f7fd39b223fa15f7c2432e4d43560085d4e3547aeba47ff2a6c45ea048e52885dfb3be20854d039a0ae8336c5bf30a9a88f114199f403ac012bf"

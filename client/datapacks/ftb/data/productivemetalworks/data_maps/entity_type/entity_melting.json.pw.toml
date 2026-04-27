@@ -1,0 +1,8 @@
+name = "entity_melting"
+filename = "entity_melting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96edd2914b61bdfea0cb636c7149db170d952ea6c9028490b122398592326755.json"
+hash-format = "sha512"
+hash = "61f4664235129b5eeb7b2764ac5c8fe914bf245f40cd3ced67e16e2e72c14d80c3f63df7871037d313e558462cde8110da3fb25f6e030585426050dc33602436"

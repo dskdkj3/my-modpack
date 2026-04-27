@@ -1,0 +1,8 @@
+name = "audio_element_controller_metas"
+filename = "audio_element_controller_metas.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45e4a9f22fcae1ed1240ab6b2c7920df77ca42b2f81a5e15faadb5b56f2e5ef6.json"
+hash-format = "sha512"
+hash = "8b31e93fc6a68dea18135f4dc2165081a8aaa0470f35d1a316afca828ae3aa251add1e03115930824e6c8ca5dad01c5605d57e6851ecf0977d5e90f976f1cdba"

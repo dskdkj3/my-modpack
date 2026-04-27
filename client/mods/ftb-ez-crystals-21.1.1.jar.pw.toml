@@ -1,0 +1,8 @@
+name = "ftb-ez-crystals-21.1.1"
+filename = "ftb-ez-crystals-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7565/280/ftb-ez-crystals-21.1.1.jar"
+hash-format = "sha512"
+hash = "0843f40897c9d77fe9a8032639085b319c47e0a7b31a9fc1a3de7efac90ae1bb3638109d569b711a9d18cbcc0ac9828ff866c9eb77f35939bd96b8294b9407c6"

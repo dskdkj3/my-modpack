@@ -1,0 +1,8 @@
+name = "tipsmod"
+filename = "tipsmod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cf09267984cdbbf350d436d9e1797c29019248e629b4823f8604af0bfdc658be.json"
+hash-format = "sha512"
+hash = "9480bb64b283109435927a2a655f7da5e169862fbe1bc28372e000877b54639089c86c809cf83505a8bf01acbc6c275c6410e85e383378934c0ae723c23b84ec"

@@ -1,0 +1,8 @@
+name = "jungle_temple"
+filename = "jungle_temple.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/390627d7b2ed01984ca8f668efee0c95136a46da34ad659f6f9c82b10ddeec03.json"
+hash-format = "sha512"
+hash = "f2e7921f57e8c3f352433fac3817ba924b58a8ee2adc69d9d70a2828240cd6e01529ef06fdb454cd45113939c6fca8aa854970163392bcd794d4cd23ece05ac4"

@@ -1,0 +1,8 @@
+name = "dependency_line_largeround.png"
+filename = "dependency_line_largeround.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1b48751e895d5149530a5b63a768794692afbc58e59c57a4c75c9862a7fd711.png"
+hash-format = "sha512"
+hash = "08b4a66a61346ee96cfe08fd6c7451b2afc849bf96503d2da227d8e0e912f0357c9f33ac2dc5da3aa277e1819651ee87caf1b83d39159f7c413314bb943f7091"

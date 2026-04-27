@@ -1,0 +1,8 @@
+name = "terrible_island"
+filename = "terrible_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d5c12353692654aec819e7a0a20f4b23385c61c2d351dcf0298bfa30e7aa2b7.json"
+hash-format = "sha512"
+hash = "3d94c248a911d6a7b15623bbfb18afd26b5cd572185ce5a2c26c51dcd317311fef6d30bbb649053992b62793e98b77c048f80323428e7cefcc8dc81ca9da3b61"

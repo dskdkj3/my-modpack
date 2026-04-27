@@ -1,0 +1,8 @@
+name = "filter"
+filename = "filter.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/eddf1878e61a4b314798b69b7f8553d336f52e70a836338a72bb0e777560c80d.js"
+hash-format = "sha512"
+hash = "b84821aa3b5823967a7982db08ab260a4570b7414c44ffeb9c31b6379589dad488dcb2be176cf60b93351001ca89a0c4be07bbd95f9160637021993eba5db56d"

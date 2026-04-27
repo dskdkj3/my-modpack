@@ -1,0 +1,8 @@
+name = "inferium_shears"
+filename = "inferium_shears.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfa53e758eb7bace0c917122e0a5c7f896649c584f732f02a1d4a980cb23e5a5.json"
+hash-format = "sha512"
+hash = "42cd4c9eb02ca38f0e1c4be5af5de3bb84bcbe829633c4ef88c2bd361319d220c189f9d537e2218beaca428aba04bbc8f53f242b2f205d3c919dfc142cd9b004"

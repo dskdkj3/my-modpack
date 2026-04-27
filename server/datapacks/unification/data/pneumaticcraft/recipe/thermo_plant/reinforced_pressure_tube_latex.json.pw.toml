@@ -1,0 +1,8 @@
+name = "reinforced_pressure_tube_latex"
+filename = "reinforced_pressure_tube_latex.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a84fff31151c24895f1ea7b02c2cf3f3ef6477054fd890075c4b00539609e64.json"
+hash-format = "sha512"
+hash = "cb30de8c7c2eea3d5474be3e42a14ec33d5e15dade25725f502ca1a720fe555173f3895c5ee9e8ad8d872395f2f6d56a099fb7157318f5e05d8608f28c270557"

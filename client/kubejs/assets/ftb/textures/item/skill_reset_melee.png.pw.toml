@@ -1,0 +1,8 @@
+name = "skill_reset_melee.png"
+filename = "skill_reset_melee.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/238df8a9937dfa8806308f7a4c135897e990d2dedd1f456285e9b7ce2e6bf624.png"
+hash-format = "sha512"
+hash = "b6b037b0521fc8c1cdf017ceee23e475e4378c9357964fa19ffe43b77edc839bf2df9508f9b5ea1d0c087936d7be06ef0973cb1687aba04178807a0397a305f5"

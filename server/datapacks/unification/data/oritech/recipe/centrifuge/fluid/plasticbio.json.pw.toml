@@ -1,0 +1,8 @@
+name = "plasticbio"
+filename = "plasticbio.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/7320051998e5c4c759c5aead07b76de5ab6fb3b6bbd809d0b22081a8c23f90eb.json"
+hash-format = "sha512"
+hash = "a50f1dcffe0381c68a6ff75871687a9f399993800964eacf8d2f1e0209744e0924968e2605fcc27d86150df7809d28e181f54ac217573de8b0a1d18a4d7322f1"

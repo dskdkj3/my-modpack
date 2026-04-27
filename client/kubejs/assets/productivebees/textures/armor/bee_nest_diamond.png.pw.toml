@@ -1,0 +1,8 @@
+name = "bee_nest_diamond.png"
+filename = "bee_nest_diamond.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/767684c3314a7e54450c78f1dd69fb15e436f8fa58afce11c88302cd3aacb319.png"
+hash-format = "sha512"
+hash = "caf366ce3819f8aa8490cc2fcabf9a786cd28094010902b26f9d4225c42519727d043ad1ec2f3ed4a89ce15c55f1feaa81f3ee7b5dcf2835807ef933f7582f2c"

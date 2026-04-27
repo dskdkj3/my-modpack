@@ -1,0 +1,8 @@
+name = "showcaseitem-common"
+filename = "showcaseitem-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4dd11bedaa16d758a867c59323f5273e300ebf9f089c9d2a103b44166f08b680.toml"
+hash-format = "sha512"
+hash = "4469f34ec96714e3208a9e827db66025a2d8e29bb364e0457fb790db9ee690f55e5aaa915a30f5e4c7360af0bb705b4ce5c4634b036a933673405124a24f0f9a"

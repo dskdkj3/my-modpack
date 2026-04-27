@@ -1,0 +1,8 @@
+name = "bucketlib-neoforge-1.21-4.1.6.0"
+filename = "bucketlib-neoforge-1.21-4.1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7211/879/bucketlib-neoforge-1.21-4.1.6.0.jar"
+hash-format = "sha512"
+hash = "022081cc70930f34abec08baa102fa48261b1b9a9a73fc8438e857a536c962055ce1afe78348e5ca4b16efefdd14d28f9ccde9b2c133e04f1ee5c366f4ebdb5b"

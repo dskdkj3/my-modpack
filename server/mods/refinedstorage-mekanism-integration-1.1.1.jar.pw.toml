@@ -1,0 +1,8 @@
+name = "refinedstorage-mekanism-integration-1.1.1"
+filename = "refinedstorage-mekanism-integration-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7163/500/refinedstorage-mekanism-integration-1.1.1.jar"
+hash-format = "sha512"
+hash = "c5dd55bfe19621558899008f6eeda6e47feb10188893aa88a52dc21a593644f0fa87d4059e8a3ccb5ff09164aeb475c519db5fe35e54b16dc77271f7bbe02358"

@@ -1,0 +1,8 @@
+name = "tungsten"
+filename = "tungsten.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41211c4ae74ddcb424bcb92a7a0a4b5a0bffdcd9c127ba49603346512068c527.json"
+hash-format = "sha512"
+hash = "9904b7c1f19b50167119e175ee61a4cf9397b04596f85c7771de4a73b41f71249a50d1470878598356db3858875f53347b4df69ff834cb78c6965c3fcd8ad07d"

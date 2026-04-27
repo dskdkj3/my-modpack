@@ -1,0 +1,8 @@
+name = "stone_tile_wall_from_stonecutting"
+filename = "stone_tile_wall_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/70c76336f80c743dfd165abc1cfae7077caf58531d5cf097ac7bad8596fc43f4.json"
+hash-format = "sha512"
+hash = "b57b80a3d6e5c89cd9fb1641b14888b1095dd1b2a0111ceb883dfa181f93e64ab86ee3d18cd18e26337c3e806df1d95bab2cffaf2f1af85786f0ac03fa49dd3f"

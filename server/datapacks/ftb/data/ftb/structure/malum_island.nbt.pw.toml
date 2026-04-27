@@ -1,0 +1,8 @@
+name = "malum_island.nbt"
+filename = "malum_island.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74f79b3ca0d90413b0fa0ab2c2eaef8f4be22ecf33c843c1d15177e19bda2599.nbt"
+hash-format = "sha512"
+hash = "33eae0c6585d3da9132d5abbab6fbcd42f42986c43320c4193b85bc6eb3d0e607a421b8b7a44bade7c13d29fdf63e7a283e8bbf8de9e7fb881dcc48f1bcb0d9c"

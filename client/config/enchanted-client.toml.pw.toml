@@ -1,0 +1,8 @@
+name = "enchanted-client"
+filename = "enchanted-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2ffb9c4b21eed0287758ea013b0dc0070dac85ffe62e97cb6fa3d58be67651a7.toml"
+hash-format = "sha512"
+hash = "e66a1b871df884da32870b70ab5c29408988e4e46943924cca03c3d4313b305954c85a80224d9528f22ac151d5df32dd62b5ad13f21a8f9e9ae5491165f47bda"

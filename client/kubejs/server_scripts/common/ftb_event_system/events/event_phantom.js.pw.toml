@@ -1,0 +1,8 @@
+name = "event_phantom"
+filename = "event_phantom.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9bfab10ec6b418adf364a69992b350f75b3852b15e40b0f1e7035e4caa31536d.js"
+hash-format = "sha512"
+hash = "0199665039445866608498ee52e93324e3050a34c39e28672eefda000d34d66671b7014f5a8e2d44ca10f4dfd3ec5136f78291607c3be2640028245b6060e64f"

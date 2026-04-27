@@ -1,0 +1,8 @@
+name = "dysoncubeproject"
+filename = "dysoncubeproject.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/3326ed2b1735e849356ce71efa926426f56eb733c55b6c646ecf0ffe5efb3197.toml"
+hash-format = "sha512"
+hash = "23f197abba924581d9f55634180d9140fb67f8fc1364df050303c421012f8c507fd962d542c11eda77f637fe10123b86a44c1cf52381d02a14e1c6e09c63db0b"

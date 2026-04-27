@@ -1,0 +1,8 @@
+name = "or_gate"
+filename = "or_gate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5e68e4de0f2dd4411c98eec3bfb8ec7622e38bca20b3dbdf1007db76303808a.json"
+hash-format = "sha512"
+hash = "1c03330a610344582c19b20a873ccdac4f24c915dc1fae75a258194a4374e9e5f50c9e2af9a8791fe8de2433fd5cf61485c403f3b9af5877ef46ecc9746a06f9"

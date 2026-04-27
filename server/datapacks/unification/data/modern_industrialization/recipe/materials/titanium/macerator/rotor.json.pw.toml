@@ -1,0 +1,8 @@
+name = "rotor"
+filename = "rotor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f51e7ee5c5923efafa2eeecd3ddea98162a816d86e2b67a2151d367b5eb1d47.json"
+hash-format = "sha512"
+hash = "6066016bbc9129a28418ce1664ac3f9446ab390ca30e3bda61b409eb9c833f6e8a7f9f327f728d72cf1a679ee450c927a0bad3e0c259f9a982a80f3127cc9000"

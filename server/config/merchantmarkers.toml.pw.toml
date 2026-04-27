@@ -1,0 +1,8 @@
+name = "merchantmarkers"
+filename = "merchantmarkers.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/daf22ece7924242b017f909356defd1a208bd160a33b0f47ecd73605a84382b2.toml"
+hash-format = "sha512"
+hash = "2d4ba5016e9f5afedf8ce4b17ade5c6322bef05bb73c3f8e792ff548b679d45917c82451f2d6c43f880794dfaa56d6abbc53ed3f3e0dc15026d7d39b8541599e"

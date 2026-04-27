@@ -1,0 +1,8 @@
+name = "honeycomb_ghostly"
+filename = "honeycomb_ghostly.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e3fc23cd1f2eed9958a4c0c430d3ab21e99bb0308732cbf6d6e1e8873c1d9fa.json"
+hash-format = "sha512"
+hash = "8ef83da6e8a32e198d6be0b048e279bf76ee86c2a928bd16c7d962b7c7d4cd2a1471acde8ce5fe1ca420744f17fa049e09a0f0d9b9cbde469dcf29b908650212"

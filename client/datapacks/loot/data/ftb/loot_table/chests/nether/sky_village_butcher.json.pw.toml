@@ -1,0 +1,8 @@
+name = "sky_village_butcher"
+filename = "sky_village_butcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e8eca52b07a6b35b8657566c4f4e68d99898a58c55b9fa2d65df6f38deaf881.json"
+hash-format = "sha512"
+hash = "8ad44e18e1875cda1023f67cfee73403391da0c3d8d82c78cb59e4f2361431bf121106f54f0435126225634da4bdee7b360b7b9fc47dbd26ee157b64247d107c"

@@ -1,0 +1,8 @@
+name = "minimal.png"
+filename = "minimal.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a0ec49c7cf68ef24cd42e8b1de5e18f36e135e0602b842b9f60bb275f1aa3b2.png"
+hash-format = "sha512"
+hash = "1a2758f99773f27a97a0a22be9554f614cc161e9dd90eae9f6c3444bd507afb7364890f39510aab69a8894e7c227864ba16f48ab76a2272cec39c1b4c623afab"

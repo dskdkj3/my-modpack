@@ -1,0 +1,8 @@
+name = "village_toolsmith"
+filename = "village_toolsmith.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aea54ae336b744acb0b2b49948c60d27f503bd27cbd6a62674f1fdb5408904fe.json"
+hash-format = "sha512"
+hash = "4ca48ac471ea8818a660d205ac71108879f80abfe556052d0f30f545eedd3aa602a803b114988a598702411888d09f0f3cc97e27ff12fe0a8d7251cae54abd6c"

@@ -1,0 +1,8 @@
+name = "rgp_client-common"
+filename = "rgp_client-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/ccc7714db11713bff888d0cd03386dcecfee50e923a4351d04f43e7ca94678fb.toml"
+hash-format = "sha512"
+hash = "1a259094da9daf422cffe9e8f0e532c1ed68ac03222d27290e5f0eaf7e01b7b81c5a7804a6d302e3e4eb7a637060507aa20a48fab0e8e3ac8b869aee133aa962"

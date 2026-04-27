@@ -1,0 +1,8 @@
+name = "small_snowy_island.nbt"
+filename = "small_snowy_island.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/60cd7835b2f0b764df28db403e90494b4a169a01a850e44f67e917c4102945ab.nbt"
+hash-format = "sha512"
+hash = "e7797d2c3fcd8e17542320eb499366b38c030c60d445c1339ae7357e6f8508b3e30974483eb9c11502033301dfdc278fe9aa0f49661e21b8a97193217f9666e6"

@@ -1,0 +1,8 @@
+name = "gold_mesh"
+filename = "gold_mesh.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a7fd1a0af71c4053e341586e1da2f6d86f80ef72c145b4c5855b2d9bf6326596.json"
+hash-format = "sha512"
+hash = "3c4dcabdbd5301403a4a7356f930c09051292c97890078cff0de4117af6f45e85e9766f8a577f45f7dec7d2844a9908683d925b1f88a77dfac0152ee989a06d4"

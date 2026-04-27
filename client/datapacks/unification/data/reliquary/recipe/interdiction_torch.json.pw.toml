@@ -1,0 +1,8 @@
+name = "interdiction_torch"
+filename = "interdiction_torch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/316235305f23ffda7f5932768bb1985dbf237b955d9b80788716695dcb096cca.json"
+hash-format = "sha512"
+hash = "9aab5ead7a4fef3d9751404b9612534cd646221e0b831f9b32b70bbb6d54bbed6d95b923d4934e4e96ee92bf4d750f6bc3d679a774d4cfd91d89e16eab8fa216"

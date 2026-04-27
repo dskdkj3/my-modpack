@@ -1,0 +1,8 @@
+name = "honeycomb_chromium"
+filename = "honeycomb_chromium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/129221dfaf7cd53cb78481f10e92bef0bea40b18ee8093fc593ba5696c48cfa2.json"
+hash-format = "sha512"
+hash = "a956c7049114331e697a2994bc9c5017070797caf6321d712f3245b8449311afb244fac79f6645259c0826dc254f37c617fff6fe976212c71aa8c2c1cee81f74"

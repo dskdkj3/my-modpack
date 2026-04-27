@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_shovel_from_blasting"
+filename = "nugget_steel_recycle_shovel_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2bb3ebb249d6ac3f9263c481570e9dabb97eff94d76f2e38ba5761a810fb018.json"
+hash-format = "sha512"
+hash = "dfcccd5219f6b74c97108a717487bbafc6229311bc4a4b175edb4a5141e780ef124223d33fe1d1a251c0470828cd63f7eaf55fd6a87f3a3fdaf55c3994952b28"

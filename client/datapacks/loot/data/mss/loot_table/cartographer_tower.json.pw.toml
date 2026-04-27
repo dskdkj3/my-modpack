@@ -1,0 +1,8 @@
+name = "cartographer_tower"
+filename = "cartographer_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee4591af8ae9a981957ec981161313720af549c97263e0ec1183f04bd772810e.json"
+hash-format = "sha512"
+hash = "7f36fe87ae1f884f67bfd61cf1885ecbc7765a75a87062674292b81196174ba57c018fb2297f1fb117e9c708fba9c47aeb2c19c3d141da9b76125dcd84b7fa7c"

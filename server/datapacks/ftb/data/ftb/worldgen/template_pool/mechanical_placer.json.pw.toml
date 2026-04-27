@@ -1,0 +1,8 @@
+name = "mechanical_placer"
+filename = "mechanical_placer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b0ef44e8abe393df6fde1a6a53d6eadb928dfd2771cc653d1c287540fb8c453.json"
+hash-format = "sha512"
+hash = "2f69ab7352238f322bde1fdcffa44eb2c6177cf10fed9875a079a8ed58da609146d8df58f9723836ca1fcd311f189fae7cfd0ef4df560d8e877951bc10df71ed"

@@ -1,0 +1,8 @@
+name = "uncooked_steel_dust"
+filename = "uncooked_steel_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76a80190c80fc976fc4d08fb34c69ae37da7252987a5404af6be0274d9f4c966.json"
+hash-format = "sha512"
+hash = "4aff13cc3e6142a0dcb5e809311fba282be5b9d7a6fde51cd3fa433c67659cdd2eaf9ea9d7de5c9131d490c7039dcfff62e929a3da3156d6d6876712a1b24842"

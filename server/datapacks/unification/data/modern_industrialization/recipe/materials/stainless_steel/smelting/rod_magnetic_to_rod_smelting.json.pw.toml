@@ -1,0 +1,8 @@
+name = "rod_magnetic_to_rod_smelting"
+filename = "rod_magnetic_to_rod_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cc21f9c42b09098d3ee399fb24991976b51cfc8eecb5fd026387ecb8b370338.json"
+hash-format = "sha512"
+hash = "8d08336574c5fb95711dcd8a1d0e96bbff3e3ca38376f90ea79da2236d719ee4923b29ce9b990ee52c44d6efdc75e96f82fd5133a1a1384355f2a66285d01693"

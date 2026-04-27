@@ -1,0 +1,8 @@
+name = "generic.step_height"
+filename = "generic.step_height.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2c3dbab68f986f856bb5e55ab29dd13b7e3a9b8f70e46082976698464e914e7.json"
+hash-format = "sha512"
+hash = "a577c3e0f04509d445770961adcbab524833a2710d601ef8a5f3e1aaa402d65ac47eca3987b9d5ac9b3114a1d037efca1e9e8cae9836f9211dc6203b17fafbb9"

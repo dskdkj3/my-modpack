@@ -1,0 +1,8 @@
+name = "integrated_dynamics"
+filename = "integrated_dynamics.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/3706319c421c29cd6f353d35c52260d961c37079e032670e4b0fdad2e39675b1.snbt"
+hash-format = "sha512"
+hash = "5a27d8eb43d3590a5d591cb8d4b475de595f27d5a463d3e714cfd8de62bb738efb8010d3a3d2f9666205bdcff807742cbe6282570549f83687384f67fed228b5"

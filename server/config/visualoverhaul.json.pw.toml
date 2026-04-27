@@ -1,0 +1,8 @@
+name = "visualoverhaul"
+filename = "visualoverhaul.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a7d3fc2f494c092fa7ac72d6654edbf587b22e1e22671aeff87cc5bdcd4284ab.json"
+hash-format = "sha512"
+hash = "76497144eab2278e88c1a09c321ad46f03fb5e939d2b458501ebc53092582df4daf77ce021caeed1926441c153461ab606ecdf6a2aa4972177a4b7cd5c21fc89"

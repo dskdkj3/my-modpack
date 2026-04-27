@@ -1,0 +1,8 @@
+name = "additional_hoglin_loot"
+filename = "additional_hoglin_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08bccbee93bcbde1bba5eddb686892595098220e739ec58003d4727115b76cfc.json"
+hash-format = "sha512"
+hash = "3edae89192cf39af43711df86e796c85455b77a3c7c3978feaba7e2f08cd456ad8a361321d114a28d3d4591bf51f1087d94bf508f86662490703107509475732"

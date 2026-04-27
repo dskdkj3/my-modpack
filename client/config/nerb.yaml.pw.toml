@@ -1,0 +1,8 @@
+name = "nerb"
+filename = "nerb.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c3990a92cc1487672fdab8d61020be175a01e3524cc4e8e7073be62767005ed0.yaml"
+hash-format = "sha512"
+hash = "6d072d233e68a26b8e721b1be6612095f8a2248109e597387302195419babc93153031d495af9d2053372ba22545c3d029e931aca6582e6168854efe3373ffff"

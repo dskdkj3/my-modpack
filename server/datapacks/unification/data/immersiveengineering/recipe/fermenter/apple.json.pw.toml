@@ -1,0 +1,8 @@
+name = "apple"
+filename = "apple.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/dafaca000e8a1458875c535d3cb2c4358312055daf5505158010c1b77fe8c8ac.json"
+hash-format = "sha512"
+hash = "779468f7fef57e4258120f2cdb30c1357c844a241958309acea55774db2371de58559220f908e00001cfd957a5ea39fc7e39aaa1cb455e0bc3e6e0733d8b2f32"

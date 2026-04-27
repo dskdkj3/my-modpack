@@ -1,0 +1,8 @@
+name = "create_sifting"
+filename = "create_sifting.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c353b9ace00ab78c82c1f2f0d178707808756f41c658010c7bd705758d644de.js"
+hash-format = "sha512"
+hash = "d57b52d31aa1133dfb2a9bd70fd1501185a48248e1f90f8c4632ede5c917a03ac4e36e037052624ad12b44d1ffcd05e87cb1ace3baf1e061ced0187ed3c3de09"

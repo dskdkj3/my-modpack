@@ -1,0 +1,8 @@
+name = "enderio_dust_brass"
+filename = "enderio_dust_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45b42605c37a2db91f0a2e5e88bd5e5096d293aa1e582e7c5c61c13f95cdd130.json"
+hash-format = "sha512"
+hash = "8143febd5c5085c4bdc37ee1f874ddb87f9247dd5e0d258b9d59da1953063c87f5f33ff1595c079ffb26c110f6d0c74a8db3769383d2bab991eedb0365a58aa6"

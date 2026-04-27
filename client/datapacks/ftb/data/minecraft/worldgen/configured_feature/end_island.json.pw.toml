@@ -1,0 +1,8 @@
+name = "end_island"
+filename = "end_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/123564bb95f835170f3dd2dffe44bafd2c1342102491578f56a937a1b42ea97a.json"
+hash-format = "sha512"
+hash = "52bb42bdfd2d1a23512ddf727ca4b0ed352072144313746e5b2706e407e169e277780d1fc40890b3a7f59b1dbb596453dd8198206f419faa8af8d9e0db858b4a"

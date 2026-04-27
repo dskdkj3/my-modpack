@@ -1,0 +1,8 @@
+name = "skyvillage_terminator"
+filename = "skyvillage_terminator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fcdb087ba36ae1467f3bf73b9882519556d870770879efbe3d2c18938742e5a4.json"
+hash-format = "sha512"
+hash = "54a8b3faf62143b54146601c703dff9d4ee946fbc0dff353ebcc0248387221b67579360992c40f97d907799449ea8ce8eca468ce1ad6dd96375bd8413b463557"

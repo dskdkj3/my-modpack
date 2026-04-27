@@ -1,0 +1,8 @@
+name = "generation"
+filename = "generation.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/6360225d49fd391165642a158d2b872a277029097e993ce5aef064636dcd7d8a.snbt"
+hash-format = "sha512"
+hash = "710e86d54de729bc47145a93107a01d233ba4ca65e5e46659cdbc9dba73e48112f5d9947b456418f4587fbc2dedb533c6c6ddd8d0af746d929ca7b72c46da99a"

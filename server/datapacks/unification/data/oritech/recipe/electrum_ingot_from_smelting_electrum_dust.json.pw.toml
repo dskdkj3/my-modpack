@@ -1,0 +1,8 @@
+name = "electrum_ingot_from_smelting_electrum_dust"
+filename = "electrum_ingot_from_smelting_electrum_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d49eb59d6569e1353611a1960110db91b5d0db2639c85fca713ae32c185b5503.json"
+hash-format = "sha512"
+hash = "e89fe5aaabfb32d457c69810f2533128e5f36c4833d08e9c877469a7b7c44f662848b517fbae475b3fdb61214f3ce51db055dc2372c626c1120c517ec0b6bd06"

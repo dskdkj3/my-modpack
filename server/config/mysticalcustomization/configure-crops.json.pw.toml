@@ -1,0 +1,8 @@
+name = "configure-crops"
+filename = "configure-crops.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab59c4a51e34f88b58b0be19cb4dcfbfe8dcb5212cd7d3beb0a499312d415a3c.json"
+hash-format = "sha512"
+hash = "de4a5dff83a210366e020c894dced5323c8b0b14509f56e01ca3ecf34747c44de0126061bb09b34de8c9a81679c493b4ec0012791ae2914d6e9577d79af1bd1e"

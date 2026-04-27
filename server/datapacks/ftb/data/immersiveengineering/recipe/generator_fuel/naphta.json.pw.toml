@@ -1,0 +1,8 @@
+name = "naphta"
+filename = "naphta.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f61d56d7311987b8eadb06bec492577bcbaebb5d1dc65ab416225939a0f10a8c.json"
+hash-format = "sha512"
+hash = "feb5c0ebb9d406940760399d0da3252cccba7825c2199bfe986f41529e9c267c73972e5d86352342a72b484d9e294420423d5301797a844d329a755a9e94b5a7"

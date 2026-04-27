@@ -1,0 +1,8 @@
+name = "soul_bricks_casing"
+filename = "soul_bricks_casing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/4337adde782ad982bcdeb7a130d40c0bfd37ea2db30d9398d9c4ad83038e492d.json"
+hash-format = "sha512"
+hash = "062a6f37f9950604e0883b976949a3349f2310a4b02eeab3fc0a62c641618ad9055f08343ddefe7fe76d31cba5012027f15d27a4b33512dff679052f0ededef6"

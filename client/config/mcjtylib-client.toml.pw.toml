@@ -1,0 +1,8 @@
+name = "mcjtylib-client"
+filename = "mcjtylib-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b108d577d337815ccdd3813b3bdcfd4d67fe3f36ffa92ccd038625c8e4ad6a74.toml"
+hash-format = "sha512"
+hash = "e78cfc1799f39929bce0425ae309f4b5d1342f9dd567651a239709f2edbc5280ab6c90e47644087f33970e343bd610093eb414824ac4b1ea4a0d5cb73a059815"

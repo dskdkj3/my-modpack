@@ -1,0 +1,8 @@
+name = "cart"
+filename = "cart.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3daaccec3efc5828627331ebf0642c165045b51c1ad68b99dec17a44eeb87d10.json"
+hash-format = "sha512"
+hash = "6f0d795f1ceadb447678c4977825cf3daadc61dd19ffb89823337706399741b0edcf6164f58067e218d9b638e36b5ebfc828eb80f9d7be0e757c387f0ba6eae8"

@@ -1,0 +1,8 @@
+name = "ars_additions-common"
+filename = "ars_additions-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7ffc7c3bd0df161c646fdb8e49ac604c9a337a2883f661fc058060ff376bf87a.toml"
+hash-format = "sha512"
+hash = "51d11468ca8a6139cced24d91a67375e3b7ecf57d758940a6019fa58ebe7c7a57bef7ea084dedf2ee844cbce7404f394a647deaa1497351a18ee495d485385a1"

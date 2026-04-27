@@ -1,0 +1,8 @@
+name = "up"
+filename = "up.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86b943ec36917cd32b97b43648a3bbbc67e171f042c72cdaf841db8a8920e9a6.json"
+hash-format = "sha512"
+hash = "e58dc69b6a480703399acb59cc92ebd0f3311c2adafd4d97c3121628f7054861b5eb9653584e5ebf29ac3eb6d21f4aa4751fd794da855769c17904b9ba78cf3a"

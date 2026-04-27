@@ -1,0 +1,8 @@
+name = "inferno"
+filename = "inferno.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/369ff90049116590459ab65e2b116922a020a8e5212622bc6917dfcf2af8306d.json"
+hash-format = "sha512"
+hash = "2372985a3b7a016388f4489a4077cf0316ef0a3416d514964a28c8b03f78a0cabe6ca41ead94ebb31eaf0743dcc882396b21546e527606b702234bbef2292a0c"

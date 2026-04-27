@@ -1,0 +1,8 @@
+name = "glyph_glide"
+filename = "glyph_glide"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/796e4e0f866a4848e410e6061516b0859f418e8b7c8fef7fb16fb99afb0efe59"
+hash-format = "sha512"
+hash = "481f74fd6839acabb6ef5510d0b949c6446b70c0ef68be5ca48bf0caf3a47de8ad2c70e27537bd022dac85a37e1d284e9b743246a08b5cbbc6f42d4a23498030"

@@ -1,0 +1,8 @@
+name = "mangrove"
+filename = "mangrove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d7586398085713baf7695310bd882a6e7aca2457ef9cad5bc3d1bc93a872dbe.json"
+hash-format = "sha512"
+hash = "70edf687fe30f58944a3f5dcf4ab42797e0307b5caba97a63167e98407d040ce9d5323ea6a65c62d46bd8cf525c8f587f3462277a45f6b91bf07a7a2cd5d7a71"

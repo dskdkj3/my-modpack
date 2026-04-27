@@ -1,0 +1,8 @@
+name = "core-server"
+filename = "core-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a86886d8a12947e9a7f42ab3976925b8561a1da9be0da008d5bd71beaf714556.toml"
+hash-format = "sha512"
+hash = "7cfb1a91cdc5094036e0db32dd6d6f3e05e6eb6908df0a8319161bbd23ef3a81858517fb41f6e2108732d0a23cd572a9fd8142b3388f350f610423e908d5b623"

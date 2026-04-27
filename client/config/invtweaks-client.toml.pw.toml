@@ -1,0 +1,8 @@
+name = "invtweaks-client"
+filename = "invtweaks-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce9afc65419e00b804f2252cd8c9350395c79028c5e1d2ea4b125c7d394a664b.toml"
+hash-format = "sha512"
+hash = "135192c61cc8fbf07f107ca14447abc35dc281f14b1280dd4b9f0357804d29992699f1f8af9e92c501d72521e1aeb90c6a0050c969c66a622d0ecdfc9765e201"

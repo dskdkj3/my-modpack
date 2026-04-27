@@ -1,0 +1,8 @@
+name = "sky_beginnings.png"
+filename = "sky_beginnings.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8a7c0e171a0d6483cd1131c10139d68cd6c70165aa7b6b379e929a7c238fdcb.png"
+hash-format = "sha512"
+hash = "0c1ea167a3476c230f0b65bcaa67cc0291a28949b4328002224cd1c2e45e9b500664881cb8f02ed461c0caaaf656ea6c72b10d15bed044f1aaeda462ed5caa4b"

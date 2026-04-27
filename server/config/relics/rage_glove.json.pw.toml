@@ -1,0 +1,8 @@
+name = "rage_glove"
+filename = "rage_glove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c619d0eb0624481637e909306d7852cd25b1ef851b1259381282ba1b87d5519.json"
+hash-format = "sha512"
+hash = "e02a4f1861e94c3a648bc2d2f25230c7fb6d00ec037ceb7315904314ec3b889edf1ebb52b4e01eda1dff471e5b2fa8823d0b516b56cbe3431b6a09be8c79af70"

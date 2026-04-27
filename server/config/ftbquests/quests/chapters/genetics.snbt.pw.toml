@@ -1,0 +1,8 @@
+name = "genetics"
+filename = "genetics.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e8223dbe4ada87ff5f581570729f75c2ed03a562b22658140297969c028fdac.snbt"
+hash-format = "sha512"
+hash = "15e1a404c9ba1e6ca3e8aa3bb0980403b2faf098115f79475d6cc7c95cc663f9179455b124cef78fe272f497cf9d06079288587e125f2f77d06af9c2806fdc0d"

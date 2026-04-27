@@ -1,0 +1,8 @@
+name = "blood_lord"
+filename = "blood_lord.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1064c0e3a047aa580055b05ab68c575ad6f7b9c98c744ba0449e367e5a5762b.json"
+hash-format = "sha512"
+hash = "54bd505aeb5a55b2f797e02831c43fcdcd27bba0fa59fa61f18a8e7bf3699363d4cbaee32e2bc4aff83c403777c114060cb5f5093ed923cebf41f685b329fae2"

@@ -1,0 +1,8 @@
+name = "rune_nature"
+filename = "rune_nature.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05e279c2e1a18614e586b92165a81fb6619120055c21ed9e22cf3b9aed9ea6c4.json"
+hash-format = "sha512"
+hash = "a32a6b79163f7923763d01f62c0e010b8589ebd94724ae6e12246dbd2b972506744a001c58bedc715e37eb7f67f1dd0b150a95d72ec43b74455e969df7cd5046"

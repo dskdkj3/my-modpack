@@ -1,0 +1,8 @@
+name = "rftools_series"
+filename = "rftools_series.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9c102e020609881ff1a97f449f00c4916d694efee94caef6f2aa92db2a3f158.snbt"
+hash-format = "sha512"
+hash = "ca2d80bd2e837101ea9f74e7bf12aa6f52da3c2d74659196d8a4ac6258c9c602b27bc6bd784343d9f49a39a317e881cde295d67a1cf47a37db82f713fd2e07db"

@@ -1,0 +1,8 @@
+name = "component_electronic_adv"
+filename = "component_electronic_adv.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/599df54a2fe99a1662f83a4262161d071b6d5e9c35dcd8625e35ae468371e5ee.json"
+hash-format = "sha512"
+hash = "3672034298c3b78530932bbf613f492e29c1dec2d39638074b81f417ae388a5e4bbef04ee45666e9e426a20ea812ffe109cb01931a8606b49558c10b9c72945b"

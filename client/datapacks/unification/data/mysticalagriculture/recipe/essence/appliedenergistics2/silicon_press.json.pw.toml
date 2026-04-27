@@ -1,0 +1,8 @@
+name = "silicon_press"
+filename = "silicon_press.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/7882b73cee238774b55c19ec5a54400df6f51858099c099ad64711a36ca23cb0.json"
+hash-format = "sha512"
+hash = "772de0177862f2cac10b3dae551f97705eec29b9362a7de08003bd7b537253b42d216a7f5e55ff8c7a3a79454f45cf01758f7098f45d3402045a80c2e94cec11"

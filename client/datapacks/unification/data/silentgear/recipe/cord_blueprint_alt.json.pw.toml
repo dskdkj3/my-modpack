@@ -1,0 +1,8 @@
+name = "cord_blueprint_alt"
+filename = "cord_blueprint_alt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d400d36f3ff8e1605495d465de16a8e2893eb06125278dd3460d98cd401d7b5b.json"
+hash-format = "sha512"
+hash = "13c97287a6d026d1f2ad0dad79ed1c34a7d2647ab7ba4271f0422a18209020b2a6a05e9bde39c5c0e31d972cd5f54b4361440b10530380d68df9a564ebd709ee"

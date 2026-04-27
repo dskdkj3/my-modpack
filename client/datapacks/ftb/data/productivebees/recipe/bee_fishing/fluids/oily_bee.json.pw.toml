@@ -1,0 +1,8 @@
+name = "oily_bee"
+filename = "oily_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/529ecf6d09e42528ea594d68c2a673af48f0b95ec4ceff8438fc971caffe0149.json"
+hash-format = "sha512"
+hash = "fabc7172dcbdb9734339bdbe8088a97b27bb0c5e5c6d23a838c9683c7de9ea9dfcd5a0b5e20942ea9d20831c96c2f957c07ec5bea487d77e17531622469f026d"

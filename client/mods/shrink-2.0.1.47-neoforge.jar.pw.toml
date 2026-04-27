@@ -1,0 +1,8 @@
+name = "shrink-2.0.1.47-neoforge"
+filename = "shrink-2.0.1.47-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6194/54/shrink-2.0.1.47-neoforge.jar"
+hash-format = "sha512"
+hash = "3707a9f7d8c810a10fb7a0f09c52cf06699637d5ea872ec1aa67bbfb44619611cb0895b19d3869c2f52a178fe88486f74ade05ca1cd07f98ffbb3c2e057ff35a"

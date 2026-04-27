@@ -1,0 +1,8 @@
+name = "skies_2_header_day.png"
+filename = "skies_2_header_day.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/51585bd24965d5b6ed62a8122811d113d1f460b9542c1c74d1b84960fbb67a17.png"
+hash-format = "sha512"
+hash = "0e7a70acb9b5a4c5961c3d97435f801032c48ae65337292d01212c15bb76b46f786e1aa3e23ed86450258a323cb5f91fa1ceea481a353db6c4b5cfe0f0b723b3"

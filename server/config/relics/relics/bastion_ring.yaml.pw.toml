@@ -1,0 +1,8 @@
+name = "bastion_ring"
+filename = "bastion_ring.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52713b2cdd4ef06e4475b41c147bf424dda20bea70ec1faf073fd931af4e731e.yaml"
+hash-format = "sha512"
+hash = "0c5ff06cf5059985b9091d7a90254b68a2c28d75b94d54ab96080f528e1912731d996506f677dfd9a7cbf8803c99d7a456512f393992b35ebd0d393d8fc1ba3c"

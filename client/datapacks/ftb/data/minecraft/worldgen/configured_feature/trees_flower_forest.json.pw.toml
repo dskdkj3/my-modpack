@@ -1,0 +1,8 @@
+name = "trees_flower_forest"
+filename = "trees_flower_forest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6b91cfad6c7ab9f72777c43dfa492d6e0b969c5cac23b2f19a5f5f21ae0d429.json"
+hash-format = "sha512"
+hash = "4837244d89142a011c5578f68248c8165cafb7ab813d7400666ba73380cf720dd84b4a129214167e4226f0a60d68b445194ea45f48e754536c5509c5d5d6917c"

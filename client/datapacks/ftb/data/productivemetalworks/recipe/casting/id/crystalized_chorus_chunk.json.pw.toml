@@ -1,0 +1,8 @@
+name = "crystalized_chorus_chunk"
+filename = "crystalized_chorus_chunk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14e84eb563c2280d172d502d1fe90f126dc3fadb667f8e80cc6c540902c037e7.json"
+hash-format = "sha512"
+hash = "3b5857be4812323f63c4891a7339cda806a7b850a5672410ef997bd1dbae955e8d1393e6aabc83a8ef76bc20de0565e3d984a5145bbf7b2210d2e0c1c05a1d01"

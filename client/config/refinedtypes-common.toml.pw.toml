@@ -1,0 +1,8 @@
+name = "refinedtypes-common"
+filename = "refinedtypes-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/964598d641af5ebd9fc3c9c4641c3ee824daedf8f80fd831448796131d831661.toml"
+hash-format = "sha512"
+hash = "4315c14eddba7fdd789641f4741211cf75227b3809078d23662ce1a8346c3c11d08829e20e437c7a7ae20c3bf5d2a975efa60394a20b453f3cf39f37dc2ac843"

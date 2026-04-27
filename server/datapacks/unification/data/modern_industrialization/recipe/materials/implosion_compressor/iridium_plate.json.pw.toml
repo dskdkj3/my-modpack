@@ -1,0 +1,8 @@
+name = "iridium_plate"
+filename = "iridium_plate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fbaf39f9827cfe98dec8800e893422135c3b4fe6b19cb75c5d2a1b4403f2e3a.json"
+hash-format = "sha512"
+hash = "f7256bd11753c37ebcbb86ae4d4bd7495fda30df9022558c564e664ec23a92e8b9b075e37b11a6e0ec06f240822180a8fa00c1df6802becf1afb620d14da7fcf"

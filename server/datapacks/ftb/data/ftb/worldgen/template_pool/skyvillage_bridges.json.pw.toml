@@ -1,0 +1,8 @@
+name = "skyvillage_bridges"
+filename = "skyvillage_bridges.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/5506bcb5a5bc6ec1698adcd48d89291d85b5e3b18ce54583cf37940ec121801f.json"
+hash-format = "sha512"
+hash = "5bd8349819831e251164a66b220cca687315752f10c7ba8a6d86e8427739e5185a01241fe697b26fd2cb4eec328c0482d8fced9a36463865fa8c3ff338763b7f"

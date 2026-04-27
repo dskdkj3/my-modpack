@@ -1,0 +1,8 @@
+name = "refinerymodulealt"
+filename = "refinerymodulealt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e889b8e273773fac3b738deb2485c958f3dc66fca0b3730e55e411639d746914.json"
+hash-format = "sha512"
+hash = "cdb23247163a331db889d1c42264fc40bed8afb3016baf086833cfa1c5842dccc0636a679e82b20e8f1be43cbd44445e8abce4e5b3ac11ef054e589ce2555eb9"

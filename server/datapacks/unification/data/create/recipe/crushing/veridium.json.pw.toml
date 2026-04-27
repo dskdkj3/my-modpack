@@ -1,0 +1,8 @@
+name = "veridium"
+filename = "veridium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/63bc7c15b1dfd4c4e084e867472ded9435e9acb1ce7762621cd40d885f3ebf09.json"
+hash-format = "sha512"
+hash = "5c2e9a52f84003b8d4f65cc777fc828e91aa463a38b87d8439ca23743ee2a368f7d203b92213eb4c48619e4623c05b667a9e1bfdf3f0b70a5ce28230bc41a1b1"

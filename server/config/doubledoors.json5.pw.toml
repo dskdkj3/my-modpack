@@ -1,0 +1,8 @@
+name = "doubledoors"
+filename = "doubledoors.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/2066844392ce2170906352c0c87cea1c1a5f55ea39792d095a18cfb0a958af73.json5"
+hash-format = "sha512"
+hash = "c3377452bf1a448347a8f0d362a3d02a74812da98f959d70ad36097b748485942757673d9faa7fc736433c462c7634f2ea793fe11929eec8649bd06a272c9f6b"

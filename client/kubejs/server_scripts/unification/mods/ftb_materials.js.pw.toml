@@ -1,0 +1,8 @@
+name = "ftb_materials"
+filename = "ftb_materials.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cdd0e0cc62f305f4fb0fa66b385899bffb382d025cc6ffe920662889205b383.js"
+hash-format = "sha512"
+hash = "9dcb3f3c401c6ad172f446c390c5c8f05c105bb2d78df3ed2e2e8bb5dc93dacbb80599cb86288e790b6d0dc48cb0ce6b8b00b1f1d969c9b171b75db1d47e9bad"

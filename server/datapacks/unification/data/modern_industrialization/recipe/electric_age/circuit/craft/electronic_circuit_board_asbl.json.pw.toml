@@ -1,0 +1,8 @@
+name = "electronic_circuit_board_asbl"
+filename = "electronic_circuit_board_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45f0cb43e2bd347cdc2a9f064f6d4148b734d2e34d5a85313a219cd07c86e7a7.json"
+hash-format = "sha512"
+hash = "2ba892401e027fa43adb3cdb7f266bf9d5287a58ee9468910d46a1b7f39bcad4232f08c39b7c396281dd35fe359d89197749b65768a9f80ea2c3db82f884366f"

@@ -1,0 +1,8 @@
+name = "motor"
+filename = "motor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b821c8e776a51b7debe41308983fbddf83bf4e8721bc5008307e4e8e64f5b143.json"
+hash-format = "sha512"
+hash = "711a177d822604c6ee270291b82701cd205d7a7fc4ec44fe915de48671645d8f3a109107100a6d9ea32338dc542909302e4f53224f92e9a0878b5848471f4f10"

@@ -1,0 +1,8 @@
+name = "diethyl_ether_biodiesel_boost"
+filename = "diethyl_ether_biodiesel_boost.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/0859277296649c69179592b84ff5a4a9ad8aeabc2be673a2ba662fdb7677ca66.json"
+hash-format = "sha512"
+hash = "83df39b050206dae7dde5e2864a274fc19b69e7c062585842508166c6e110a0961e43ba3c5d5745b41f353b894454ee901cde198be8b5e510e622a3fc02e2949"

@@ -1,0 +1,8 @@
+name = "Powah-6.2.8"
+filename = "Powah-6.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7503/293/Powah-6.2.8.jar"
+hash-format = "sha512"
+hash = "66681e28b9e3f8b491bd10bf634af5372465fd851d404f9bf05ef1f26772cc8b3fcfb502ae29673ae6ca9059dfdbf70afb2ffe938d7ef5e29cd65cdc3d91c53b"

@@ -1,0 +1,8 @@
+name = "create_fuel_motor-common"
+filename = "create_fuel_motor-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/227d1d357914a7b13ea01acaeaf9ba7baca6052468525edc5531bae6e7346a93.toml"
+hash-format = "sha512"
+hash = "809034522fbf352bd0d87e2f163cf8a1ef67172609dc105761aa093ed97139a2aa2d4db206d776dc0165deaccf0cdcc116f19a3684a639db9a71fcf77e8c2ffe"

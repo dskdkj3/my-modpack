@@ -1,0 +1,8 @@
+name = "bracelet_blueprint_alt"
+filename = "bracelet_blueprint_alt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/caddcd74e581a0fdf55d20b32608d4f20af084068b3927363445bc975f1ec3a2.json"
+hash-format = "sha512"
+hash = "63cb8eacc0def617259bbd9bf56a319c3db511947340f2a977833db92dda67d136c57430ca37a992da70f85ecaf6adb94a2edb090b0ac42824d24f18bc999cfe"

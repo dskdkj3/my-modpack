@@ -1,0 +1,8 @@
+name = "forbidden_logo.png"
+filename = "forbidden_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/64a054887080258e765214a90817a61ca376b002dc8619ade546ce98a87f0ca4.png"
+hash-format = "sha512"
+hash = "7cb76355b9ada546d678e8051e82d0bf5d77af68948c83daac7e264681bc4d66279e472b2847e191fe7ed115160673a74aa166731ee61c9d17b29c63c1bb3cde"

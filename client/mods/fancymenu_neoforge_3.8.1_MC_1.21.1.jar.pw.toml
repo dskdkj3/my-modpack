@@ -1,0 +1,8 @@
+name = "fancymenu_neoforge_3.8.1_MC_1.21.1"
+filename = "fancymenu_neoforge_3.8.1_MC_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7256/741/fancymenu_neoforge_3.8.1_MC_1.21.1.jar"
+hash-format = "sha512"
+hash = "b427c7b2f3315d146fb8ae3a74c54fa67880952458335d802e635426a3a96d523cf5503afb91fa001cb4bba17c8face2ac5baa8cad488aeb6e2712c3f4b0b891"

@@ -1,0 +1,8 @@
+name = "overloadedarmorbar-client"
+filename = "overloadedarmorbar-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/5733b7591980241cf5891e6fdc49f49feb9316ee449b0e537b44249a69d9beec.toml"
+hash-format = "sha512"
+hash = "fbe9e2fdfa8c52ecb32f2fdd3f03908d1bcd674573d8e845cc48a8bb6989e4cd455b8cc206d17243d5e1662aa8ce3962e507b830ff18a60391af16290a83116a"

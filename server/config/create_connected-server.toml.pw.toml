@@ -1,0 +1,8 @@
+name = "create_connected-server"
+filename = "create_connected-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6db97c313466d6e8417db506c0a05a208ee679115faba845d20b18e40101b3f.toml"
+hash-format = "sha512"
+hash = "a28ebe209f6e5fab547b47f9d78f84fde5a01bef4b858d3bdc482b4fd8ba23187d817c29e12f7485924703320779995198fe664a259a550eede9a5deaa86dbc5"

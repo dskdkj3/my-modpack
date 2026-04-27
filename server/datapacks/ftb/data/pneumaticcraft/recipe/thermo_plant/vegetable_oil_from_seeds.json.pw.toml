@@ -1,0 +1,8 @@
+name = "vegetable_oil_from_seeds"
+filename = "vegetable_oil_from_seeds.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/60829cb303c878e1d1322a3bfb8701877e0ad778ba4621a08e3a7cb9203e426a.json"
+hash-format = "sha512"
+hash = "1816a88d1ef75ba54524ac7b4d5cfe4c35978900d8c6822012262f85f6ade537c8bcc5d200e8ebd1537191c7bde8cb9a69c731586edbe8eb89bbcf3fb3865250"

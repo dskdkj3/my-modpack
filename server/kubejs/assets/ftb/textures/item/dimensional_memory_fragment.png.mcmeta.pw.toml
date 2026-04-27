@@ -1,0 +1,8 @@
+name = "dimensional_memory_fragment.png.mcmeta"
+filename = "dimensional_memory_fragment.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c620ce8906d3361d79867617462f8549659baa54391aef44c1f7120ef5a92419.mcmeta"
+hash-format = "sha512"
+hash = "060740da97a7f79d79a43b17db061fb2e224f54dce0eb50760e3c715750a03d476550b59621305f4142847ed4fc5e2f573ce7dd0e57ac853ee5c4b167c8b807b"

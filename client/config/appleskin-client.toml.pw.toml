@@ -1,0 +1,8 @@
+name = "appleskin-client"
+filename = "appleskin-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/9245ae1c0bfef00bfca11a72d50ca430c2c91cc8f8432680a5cc3d39059717b4.toml"
+hash-format = "sha512"
+hash = "119074e357cb7b9f5400d3ff061ed9b9ad1f3014e52e78b65d9fbb73281386b0c6a0260ee9ece8b16c55ff100d9842a55423de3c6c35e5d99be18cec3ee8443d"

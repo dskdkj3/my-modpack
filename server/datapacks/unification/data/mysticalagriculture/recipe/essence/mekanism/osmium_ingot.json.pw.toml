@@ -1,0 +1,8 @@
+name = "osmium_ingot"
+filename = "osmium_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a91682314e4b342feabc1c80ddee2c237d11a91067c6f1111bd4e0cbf5bb0ef0.json"
+hash-format = "sha512"
+hash = "95ac010b1d34f0e40d64f44337d31d45028a8d65b39e3bbbfc695a6204413275812e4ad34299343a0fc483c36f7a448efb704ed13f55707db9321720a0c2729a"

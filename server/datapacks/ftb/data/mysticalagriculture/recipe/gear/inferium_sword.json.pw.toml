@@ -1,0 +1,8 @@
+name = "inferium_sword"
+filename = "inferium_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da6e03ba684195ecdacbffb879080cac003c69263cdf6cd668f4193e344fb3c2.json"
+hash-format = "sha512"
+hash = "82306eb4d818da65be3bdc55c5417b225cde6946fb59cfe3c05f16eb9f87bc26f0c2d56e4d0e56e134677d02985c3f727720b5c5cd3ef7b1f338d83ec1f4bd3d"

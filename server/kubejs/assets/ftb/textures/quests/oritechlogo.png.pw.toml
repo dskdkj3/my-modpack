@@ -1,0 +1,8 @@
+name = "oritechlogo.png"
+filename = "oritechlogo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7dd1a130b93023f4834e4c44d24eacf2f15035c7bbd9a811714a9744adffacf8.png"
+hash-format = "sha512"
+hash = "b48fd82a96172ad80d0bd0e5cb18970cf3c6dafe618ae29878459f67baf8a6706c21817f448c18c3a565362e78db01f994d3edb921b29801f9c86f2709fec340"

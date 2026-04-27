@@ -1,0 +1,8 @@
+name = "apothecary_hut.nbt"
+filename = "apothecary_hut.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6da873c75c8a42358ca41f5901d430fea59e90effff59db67c39c3e0b545afe.nbt"
+hash-format = "sha512"
+hash = "0823a161a3946bb2b3003b33c4b6dcc0b5da6b9aa89b0c8645f7286d22986e5cecf51f21b7117e04f46a4c5db30d915cf238bb2f1621f91d940b867103560cb0"

@@ -1,0 +1,8 @@
+name = "glyph_infuse"
+filename = "glyph_infuse"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3ad319f5149f55f57d1c6ec603c4ebb08a119783027a2dd8220fa15ceb4ef9d1"
+hash-format = "sha512"
+hash = "af67341db3ad89163dc5a5babb495b20562e0b34e334b59faafc3d223baffd63fbff4f42126012febf7dffbbdd6aeb9c451e152f34495b755adab2b5228b00e9"

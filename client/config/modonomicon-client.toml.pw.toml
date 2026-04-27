@@ -1,0 +1,8 @@
+name = "modonomicon-client"
+filename = "modonomicon-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/2468bcf7614e3745532d7a699eaaf8ba1449fe3fb7ad726d9921092d2acc7d7b.toml"
+hash-format = "sha512"
+hash = "76cf9057569d73531b27b16f5e8912687453e279d4890564ca4cd3f33254e70d5e67719b39642caf4a18c6a32c24b0581df2c6ecd9a74c753d1f6be35219d3a1"

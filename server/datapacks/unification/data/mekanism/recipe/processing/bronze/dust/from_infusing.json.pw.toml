@@ -1,0 +1,8 @@
+name = "from_infusing"
+filename = "from_infusing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/710b4570ef7ddfdc3571c3d910598eba05e436923b9006eb8019ea52c82abd08.json"
+hash-format = "sha512"
+hash = "463ea874101a4092a7d778485577567749cd45b748df1c61d0cd58ac4a99b45158cb9f058b2754962fd5adc2702e47eafb1df93e9f67f795d25fba4d94bf1468"

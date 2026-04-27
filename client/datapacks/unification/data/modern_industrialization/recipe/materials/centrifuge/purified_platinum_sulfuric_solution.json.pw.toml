@@ -1,0 +1,8 @@
+name = "purified_platinum_sulfuric_solution"
+filename = "purified_platinum_sulfuric_solution.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2eb53273a1b5aed56ac74bea8a39d75ef4c912d0e9a8c9c325658ebfce6b7336.json"
+hash-format = "sha512"
+hash = "eb209c9eb3838ef3a18f600526068a295e3af7893709b72f4a940806e0fe7909d141e73382653240f03f95083a0bc91806c1591305f819846ac4de95003952c8"

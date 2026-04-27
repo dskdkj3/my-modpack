@@ -1,0 +1,8 @@
+name = "beacon"
+filename = "beacon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5eb04e04da2adb96b4c797849721b2a3697c8f47ee87b1e1f9246eb442eb2f2.json"
+hash-format = "sha512"
+hash = "680690cc93f2179143b5da3abb5fb008a90412b071a4e0ae10ba8e8460c1af4c915000bc7ffc46d0058074be294b50ac9302149cb83834a27bbd7659597e1abb"

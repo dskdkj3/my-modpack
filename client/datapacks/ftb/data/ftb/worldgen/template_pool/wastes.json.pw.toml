@@ -1,0 +1,8 @@
+name = "wastes"
+filename = "wastes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1728a91986fbeca69d17015a81f198434f9afe748a4237697f9f7061ebe2e62.json"
+hash-format = "sha512"
+hash = "45ced2e9ccf518be57ba2cc0a326d0162743f619a431211f9d7dc59114ef265c475c1edf07667974205e10860950a7f261701350009421a1fc15702f159e20da"

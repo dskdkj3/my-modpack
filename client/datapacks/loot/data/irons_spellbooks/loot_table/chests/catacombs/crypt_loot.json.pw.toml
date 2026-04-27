@@ -1,0 +1,8 @@
+name = "crypt_loot"
+filename = "crypt_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff29895930daacf4991941f3e13c3e6f4fbbbcee18edf1a6b08f6987e4a5b2c7.json"
+hash-format = "sha512"
+hash = "8cf6277642bb69fcea3efb2d8aefece6d84a894acbf7d43530a47ad36555096cf27ceda3ea69bd058b9222595bea599896cc26cf8f394a9a1d5640c76f708ce0"

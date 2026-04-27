@@ -1,0 +1,8 @@
+name = "blazing_desert"
+filename = "blazing_desert.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/396a742054d944f622094b972bc910e41ec539bf74a73ec3db904f3b1b69a941.json"
+hash-format = "sha512"
+hash = "600f303def334c840d15bbc95a4cc749124ddf8a9a9b636ceb6ffd60eb4a23201b374442626dbaf351ecd50cd831494bce844195930409e0bd6fe21405d5b37e"

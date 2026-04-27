@@ -1,0 +1,8 @@
+name = "milogo.png"
+filename = "milogo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1dc5015353486e4638ee779381d41caf95ca98eb45cee7271d40adbe5882edd9.png"
+hash-format = "sha512"
+hash = "b533cb1830078b9fe2c54f113db1a935e08cb77066cb162c2d2a456b117dfeed73af03dd5e9e2f93f0041307e4d35e303c4b451e7f12285776ed3170d2e7e37f"

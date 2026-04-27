@@ -1,0 +1,8 @@
+name = "ftb-quests-neoforge-2101.1.23"
+filename = "ftb-quests-neoforge-2101.1.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7775/452/ftb-quests-neoforge-2101.1.23.jar"
+hash-format = "sha512"
+hash = "2369154a41b1463d79e678b25c5d7bdbe767a77d4baf0a9bfac53e5419962e19d7cb2aecdf31ae1238806afd06f0b55d3ebc34196a6168eb0bd29c355b68ed77"

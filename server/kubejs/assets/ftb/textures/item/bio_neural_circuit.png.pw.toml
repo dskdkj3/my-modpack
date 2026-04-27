@@ -1,0 +1,8 @@
+name = "bio_neural_circuit.png"
+filename = "bio_neural_circuit.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/18/186da24c34ce43fb1bbe858198c49ef732bc41b473136a68cddab858e91bfa2a.png"
+hash-format = "sha512"
+hash = "428bb0913e6899e41bbf1abaa2f919df5b21bc34acc9c8092b94719375e8f95a8982f998ab9f88ec297c33119c9cbe69a689ea03ba4c30eef0a29b50c2fedc97"

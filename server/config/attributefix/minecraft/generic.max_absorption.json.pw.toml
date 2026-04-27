@@ -1,0 +1,8 @@
+name = "generic.max_absorption"
+filename = "generic.max_absorption.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4ea784047e83341f3048102b85dfcc6dafd9f8b566814bc1c0a4f6b724d88726.json"
+hash-format = "sha512"
+hash = "1e0a7f93e305a24824ede58fb3fc6b1f7ca318e81dcb390ba357cfd732a101f6a29b40fa778fcf2a7dc22105174d1c39153d3fd5e9b17411587de0d61c08f8d1"

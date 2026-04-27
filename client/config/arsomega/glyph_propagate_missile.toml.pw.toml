@@ -1,0 +1,8 @@
+name = "glyph_propagate_missile"
+filename = "glyph_propagate_missile.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3d9fb4ab3bfcc9a6c2a416ebfb51c1d437230c5b24d3f1728c23b68c8be129d8.toml"
+hash-format = "sha512"
+hash = "1c84ccda2eb738cf74c1118933599940b2ab603a43c81e94e25d5729f13d5db0e17c93286181fd01d5ce5ca73273374d432a83ed0c674983cecc74035a97f1b3"

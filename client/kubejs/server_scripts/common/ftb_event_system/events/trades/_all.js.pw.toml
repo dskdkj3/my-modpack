@@ -1,0 +1,8 @@
+name = "_all"
+filename = "_all.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b508fd2eae5884f9b8f565a38cc35306b0af6317323e665b5951fa7488fb9231.js"
+hash-format = "sha512"
+hash = "34eb2f3b82a511398f53fe2b4bc3ec1eaa9e3d60b258ed1c0d4111c534e3a3bda84ecc3d4dbdce2651fb6de573dcede769017563d8a6153aec0d80e690f0bffa"

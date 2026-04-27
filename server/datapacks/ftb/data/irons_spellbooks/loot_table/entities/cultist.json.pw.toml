@@ -1,0 +1,8 @@
+name = "cultist"
+filename = "cultist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f4df01aff8e2e19a02c79f1d147639cd5bcc9168fce9dcaa4c3960967f67591.json"
+hash-format = "sha512"
+hash = "d81cc2ee28c0fa0336d981b916b2eacea0b1e7b39b9a4639e58e470599b4ef20bfc7de040c88d7bb951a66e86d4613c756547fbffd6280d6a560b515b2b7372e"

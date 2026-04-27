@@ -1,0 +1,8 @@
+name = "xtonesreworked-1.1.1-1.21.1"
+filename = "xtonesreworked-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7032/490/xtonesreworked-1.1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "af02b3a2ab3977310b21c55807b374eec3e9a64dfe9970049d4b6a9aed18cfd2136a2e42103e28d8c2124d84d5cda5f60d564a088152c972501c752088c87f2d"

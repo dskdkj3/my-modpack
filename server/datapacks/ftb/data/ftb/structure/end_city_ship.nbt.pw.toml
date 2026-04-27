@@ -1,0 +1,8 @@
+name = "end_city_ship.nbt"
+filename = "end_city_ship.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7c8f6000f401e1b92651a96a3b2286be74f88dd6b0218d5ed4109c966f6b4d6.nbt"
+hash-format = "sha512"
+hash = "c480a45ecec2dae3cf0f1efa8aae0eff3d2c22a22397ef92579a649bc09a004de9766ca9b2dfe719598de7229b32430e7226b4f7df9a71dcc5ffa3dc3cf90f8c"

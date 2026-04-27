@@ -1,0 +1,8 @@
+name = "glyph_wall"
+filename = "glyph_wall"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2afc85cd4a67b73e04337e4627b9209600311c28880ccc187e79a9e68a6be41"
+hash-format = "sha512"
+hash = "9688541b436963ea04ba4feb38e5dcda791c31446b57a9a5766cd7f91502f8c72aa47686d021d07fe2e696003c771f2557438aac6441f2d1a760156da5361022"

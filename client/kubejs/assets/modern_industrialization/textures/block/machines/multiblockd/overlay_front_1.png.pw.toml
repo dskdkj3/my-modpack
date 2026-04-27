@@ -1,0 +1,8 @@
+name = "overlay_front_1.png"
+filename = "overlay_front_1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65414d519c947a29470ee70198b7276f63695660b76f86d3af879fcaf80d853d.png"
+hash-format = "sha512"
+hash = "30cca9aa89e20351a20980c131f29f3398688dce50a9d889b93d4203559d09a6e71c16a210a780f842e34e98f9ee87b6505b68ec4f69e6a9737e6c8e16cfd070"

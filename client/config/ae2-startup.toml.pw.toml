@@ -1,0 +1,8 @@
+name = "ae2-startup"
+filename = "ae2-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/661798db90b09e9ca65831e4eed12f71a059515bc4d725c5eda77372e54d54ba.toml"
+hash-format = "sha512"
+hash = "548aef68cf2886c49d95af8477fbb3cd887cdec9992e665ea450c0efe11c77575510c703a578c5fb5375804069e16fef7ac768dc2208390a9ecac082b49139fa"

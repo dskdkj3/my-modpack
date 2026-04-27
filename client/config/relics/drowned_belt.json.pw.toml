@@ -1,0 +1,8 @@
+name = "drowned_belt"
+filename = "drowned_belt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/287d7e34f9e35923a660ffc133067af33dfb8e180ccdd438ca939f1eccc5be3a.json"
+hash-format = "sha512"
+hash = "3e594854f502e26cf114c79ae6451b05c751c273629063a9551d52b2b7b191952fbaa7f0758246524a4f6474a70a50795c0c8eb3e35666c188fdd7e80505a784"

@@ -1,0 +1,8 @@
+name = "dimdungeons-client"
+filename = "dimdungeons-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/58d4aa0dcbad641a24f5e0efb029e1ead2be8f5ba0175cdeb79b3bb573f42bc8.toml"
+hash-format = "sha512"
+hash = "9c4cc9c68b1cf5c112cf61238ce410117b73f7e2cbab7b9b77816bed8fbea03a3056d50321bc3cb0dd604f2f894739f66bc04aff330a4c98188acd0eb175506f"

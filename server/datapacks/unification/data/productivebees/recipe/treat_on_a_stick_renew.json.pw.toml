@@ -1,0 +1,8 @@
+name = "treat_on_a_stick_renew"
+filename = "treat_on_a_stick_renew.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b8fdb87df414ec04f51805d39ceb496960163b4cc18963b1b2abbcf4742fc9be.json"
+hash-format = "sha512"
+hash = "28f662180aa15fe564dd166e1b560eaa46f79d6e632910e90eeed68f0a71939c89bff5c2f3030f6265b4314eca976c5836a70aacd51bd55755592fd312a0e14a"

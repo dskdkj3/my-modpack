@@ -1,0 +1,8 @@
+name = "village_fisher"
+filename = "village_fisher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/319813b7439b90b8df644b583820fdb2daed1414236c0380e7e74d55653c66a7.json"
+hash-format = "sha512"
+hash = "78ce306459336e97d092b7af6ad5ca8b5441a3c3a2c5029beb237f0dc9ab0c56d937a51da49035edb74bbd4d617bda73d49395043ecaef7d8812447ad821462b"

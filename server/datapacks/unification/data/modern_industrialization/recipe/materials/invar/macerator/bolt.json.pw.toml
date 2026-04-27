@@ -1,0 +1,8 @@
+name = "bolt"
+filename = "bolt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/23d5237dc04b0b15b9d879855483530b366e62452b1d8c04859f1f24313e0de1.json"
+hash-format = "sha512"
+hash = "5274a8beba125f0f3e417399766ef3b1b38bd99de4b4a2d91994800a93cce3bd5d7252ae4309e1313968bde174a21eb8448bed51fa47e7d5833101557a11337f"

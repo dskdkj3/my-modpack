@@ -1,0 +1,8 @@
+name = "thermalevaptower.png"
+filename = "thermalevaptower.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/219d572e4994d9fee77d9057e2e964754e9d374d22f6cd399a3915aee974ca55.png"
+hash-format = "sha512"
+hash = "171dd0dfc3686a93438990759f8687c9698ba58137d568d3ef07e597936a415cba153657d5ecf047f3d69a6fe28882cfcb89121a835879228fdaa3720593b499"

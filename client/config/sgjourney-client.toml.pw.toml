@@ -1,0 +1,8 @@
+name = "sgjourney-client"
+filename = "sgjourney-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd210b97e605ebd19666c5dfede90bb60ca30484fe450fc8d8097c8ff6fcab34.toml"
+hash-format = "sha512"
+hash = "b78e85052d3537bc4966db26eebb8baed114d9bb7ee603707a57fc10e8210ad2ee60e5b2fad8d0a69507981951d8f3a28e99d2af688ce10013961cdcc2ab786a"

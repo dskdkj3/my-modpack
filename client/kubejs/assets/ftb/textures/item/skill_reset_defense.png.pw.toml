@@ -1,0 +1,8 @@
+name = "skill_reset_defense.png"
+filename = "skill_reset_defense.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/60604685314d9645d1d2afa44499a99b8c5460cbd283f0317475160025084c98.png"
+hash-format = "sha512"
+hash = "2855af691a7659b4f9f0d6281602acc7ab7473c1e73f6e656fa22929708a3288847ecab720052c998bda8ec42857861ca1716c6163b20a295f4026b17ee8572c"

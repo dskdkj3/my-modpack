@@ -1,0 +1,8 @@
+name = "fargo"
+filename = "fargo.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74ba21d025461c8d73e6da7d34ceef9cbff8d8b60e52fc7bb5e0e6aed3df8f17.json"
+hash-format = "sha512"
+hash = "9637fd4c01327741fc9678f7dd7e9d98cda6b30f113c7f1de10d623eb46a8bc9ee28ac92f5517760fe55c5268aaee44bb943952f9a84bf772a987f997bd946da"

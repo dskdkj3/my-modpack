@@ -1,0 +1,8 @@
+name = "glyph_dampen"
+filename = "glyph_dampen"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad90bf8c1abc4ae7243ce293865f6f31e0fa11d5141e328ab2352d28f9fecc13"
+hash-format = "sha512"
+hash = "e222ad07d14f7d129e10499513dd2bac41eacf3c0226f439e428e83dfa3b435f195f3043ff9027aec5cc2db7c495ba3fdfc8d222612d06eec67f660406024bb9"

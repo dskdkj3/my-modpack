@@ -1,0 +1,8 @@
+name = "glyph_ignite"
+filename = "glyph_ignite"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3d9814c861605f657c30543e780af78388db20a31d1adead9f74c1d88bd867c0"
+hash-format = "sha512"
+hash = "c079cbad778e8e1e5b74682b438107834970878a18a74bca55d2237b2c4fab109757a1fa5105cbec5c9fc61289aa5aed051f78fbdce610c5c91df83c6082d392"

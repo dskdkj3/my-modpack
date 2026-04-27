@@ -1,0 +1,8 @@
+name = "houses_desert"
+filename = "houses_desert.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e62fd2d1e3a4527807491aa9fc5b8311a7fadd21eb33ed58dcf3ea73f44f2bc3.json"
+hash-format = "sha512"
+hash = "4e3d3e52ba86ff1ae6a37e529d65514eeaa661d2f1e69aec390084628a4f8925efbe7172cda68d9a438c066a08533258243075274232f76e1e682a9f9f618c29"

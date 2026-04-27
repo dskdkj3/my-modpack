@@ -1,0 +1,8 @@
+name = "bastion_hoglin_stable"
+filename = "bastion_hoglin_stable.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78f3c9ae9eb563fc673f1cc430f14656c4178c879c23e43ddb5a47b931bd3082.json"
+hash-format = "sha512"
+hash = "7e010e54ec3c9071dd2f7775258db4b6d24cb51bbc57669dc1ac4e3bd07542576229c4943f436cc6387d2e9828202d857187762f24834c3b9f4b6714366e0520"

@@ -1,0 +1,8 @@
+name = "trees_plains"
+filename = "trees_plains.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/685dc4499202d603a12256961ccf79c24d293f78ac6307bd7572d5e5363cb5d6.json"
+hash-format = "sha512"
+hash = "ff8840857e9c86e614c68e8f33e38af8b946594d1ebe12d154a0c641898948060b55710965a38a3d1c85c326b34ce828a4169f58ba07e10968f01483ac2d9a95"

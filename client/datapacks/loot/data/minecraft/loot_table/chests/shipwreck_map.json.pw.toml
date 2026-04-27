@@ -1,0 +1,8 @@
+name = "shipwreck_map"
+filename = "shipwreck_map.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5fe527194656bff3eb2cf396bbf7d230a849b967e4727c10c4f64f908146078.json"
+hash-format = "sha512"
+hash = "fa0899243319ca5bef977ae79235871f282cdf3d03676f76506fdd6812649dc9ad11878d87ff5ecad22dad673f725ea889bc3727f6874d8947e26ea023e5d4a0"

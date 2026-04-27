@@ -1,0 +1,8 @@
+name = "evolutionary_arcanum.png.mcmeta"
+filename = "evolutionary_arcanum.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cc6769f70d4400c179909806343c5cc3f7ed49b493780ebd0013341b92b845b.mcmeta"
+hash-format = "sha512"
+hash = "d27bc171b4ca722b959d498ca43d2158e665e9abf385b8640958076f5b695f10c6137436e58fa2bf2623eb42381c586534a2798fc45dfbf3e893f69cc89e2152"

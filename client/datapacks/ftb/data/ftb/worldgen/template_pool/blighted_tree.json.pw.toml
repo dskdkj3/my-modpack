@@ -1,0 +1,8 @@
+name = "blighted_tree"
+filename = "blighted_tree.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b9a47468e8513ffb03957fc2b75360d09da89eec439b46712a51d7541cab98c.json"
+hash-format = "sha512"
+hash = "8ed36455b024f89a43fce2cb4e359fcdf6b8b10389741b7c16a4f8886858bbfc8d179d5f733ecf70034a11916346afc1fd897c9767503573dc2bcafea6387b48"

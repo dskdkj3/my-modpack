@@ -1,0 +1,8 @@
+name = "comforts"
+filename = "comforts.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8b5dbf57d04353036283a3b134c2c0c83f8af883be2a0049498b3f3625244c4f.js"
+hash-format = "sha512"
+hash = "fa8f91c398463a2f7672d4913c3c14e6fb04b50e71c5169ec25cc761abeef13b14fe704ad69078dbba1cb20e2b1344197ac288bcec7c26000ac35324d6de2df3"

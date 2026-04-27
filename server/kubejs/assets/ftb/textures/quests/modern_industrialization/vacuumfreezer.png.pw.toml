@@ -1,0 +1,8 @@
+name = "vacuumfreezer.png"
+filename = "vacuumfreezer.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6145fc6a20f51b24e412c3e23fdab6b9d848c0f7901106de225403ba20c05a4.png"
+hash-format = "sha512"
+hash = "3254e3831723dadcfafb7b0a7e9179473f09018669cbcd243eba2b55fc4be123aeba74f9a801b4336c247229dfc168261dfdefee278b0a6966d7020b877493a2"

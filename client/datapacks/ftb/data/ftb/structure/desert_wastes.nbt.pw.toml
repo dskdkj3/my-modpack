@@ -1,0 +1,8 @@
+name = "desert_wastes.nbt"
+filename = "desert_wastes.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25dfbff63881830e032b24b5980e75c8fd50732b2d0fd84c86bd5560c56b9dbb.nbt"
+hash-format = "sha512"
+hash = "a3ebc65e3a30411e4b3ba0aac9421f23dbaa0d0d1191da462de73b005717de63d18452e61dcad96d93845eb7d27197a633f0f73aa8efc1c5ebfb7f4d525abc7e"

@@ -1,0 +1,8 @@
+name = "MysticalAgriculture-1.21.1-8.0.23"
+filename = "MysticalAgriculture-1.21.1-8.0.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7666/363/MysticalAgriculture-1.21.1-8.0.23.jar"
+hash-format = "sha512"
+hash = "23b78377dc597018f29a597f5cd6f2462ce3a6a644c70b1cb01262a75fcc183e7334929ff1a146d09ded09cfc74dd1ccd84c29fd6ac0f12a995a13c76b3be11a"

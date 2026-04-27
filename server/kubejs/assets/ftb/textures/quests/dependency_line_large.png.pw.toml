@@ -1,0 +1,8 @@
+name = "dependency_line_large.png"
+filename = "dependency_line_large.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c42ed3bae4a041bd2abfed430e09e67c23947d505fa10c1151e12dd9e1a471c7.png"
+hash-format = "sha512"
+hash = "5b6894ac2d28bf7e90a80a31faa7da2e51aa5f9f2480741271488c2184ff0f1df9ae299aea52646825fffdd86d3807fb228bfb8a978dbae1a1e2ae7446eba8b6"

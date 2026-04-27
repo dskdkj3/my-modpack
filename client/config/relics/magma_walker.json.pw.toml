@@ -1,0 +1,8 @@
+name = "magma_walker"
+filename = "magma_walker.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3fc2594945e9db6756dfd760fd83a27ac1b325b95644fd4c679e4eb1a2d89871.json"
+hash-format = "sha512"
+hash = "6638dd9df5c3822916dbe531d847fffdfbdd479510b76e7925cd91478721df40203c5c17d9c71d49957e1513bb8722307b1117ad8eb1e18f35d584b48c0854b8"

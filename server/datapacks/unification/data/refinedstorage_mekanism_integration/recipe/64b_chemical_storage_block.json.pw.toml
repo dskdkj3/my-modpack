@@ -1,0 +1,8 @@
+name = "64b_chemical_storage_block"
+filename = "64b_chemical_storage_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b78dd21389887cac9efc523178270217d8202e9f9ec86e57b0aedb724f14c6e.json"
+hash-format = "sha512"
+hash = "7cf8cd9bb3c3ea46a5cf027b59810b24be0f9fa60de69aea3c82cbd7d8c7799cc033dc1674b8623200fdcbaca9f7239d11b1703c5643928af4ab818d4a06f2d8"

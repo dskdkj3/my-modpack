@@ -1,0 +1,8 @@
+name = "silicon_from_smelting_raw_silicon"
+filename = "silicon_from_smelting_raw_silicon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc78ee040bd234cec6ae04387d5004a2ffc2d2ad5a2b891be51e72b8bda43052.json"
+hash-format = "sha512"
+hash = "667f85341442776c5fef653eb0bde3f20887428fe6bbf1eec5cdcda8a5e845cc76a97354be18e1be863f41da3911fc958657404120e3ad2d8679289eb7c4e20f"

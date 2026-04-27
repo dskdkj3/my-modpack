@@ -1,0 +1,8 @@
+name = "end_prosperity_ore"
+filename = "end_prosperity_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f35dd064969ab2a22e6b322e0159de996e2780a7ec6b2e872eaf8645a4ebf1c.json"
+hash-format = "sha512"
+hash = "eca6e7a1e37e67f97629d11917c879aafedd63547e14f470bb28d549233203a68b450fd6b422f55c1d5bd5f3521a8289e6fd56c7f3d22162da7948a37a3b17ef"

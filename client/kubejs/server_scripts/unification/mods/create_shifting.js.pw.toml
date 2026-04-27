@@ -1,0 +1,8 @@
+name = "create_shifting"
+filename = "create_shifting.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f362dd01d4ce6a2670ccdde6a977b2f7cb8cdf25d8642f3677a63932deabff0d.js"
+hash-format = "sha512"
+hash = "eceea3985528364e7aeb3d64e841857310b3c876317db57d3966460bcddc277623cd68d30c331be0ff5f7579005297597342a7c857a79bb097fe3e46d55c99fb"

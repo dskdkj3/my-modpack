@@ -1,0 +1,8 @@
+name = "tramplestopper"
+filename = "tramplestopper.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/99317dc1dee2a7410c275aacae935777e5e7a2d169209f4e6204fb36eb67393c.json"
+hash-format = "sha512"
+hash = "ed76edce71348d2e9bccad7a298ff934cae95b18ebbaf897a7ae65d917839140f238dbd559a5ccd60520b1c3ea245e1626f83aeeb2702c4493aec2a0d8a4e641"

@@ -1,0 +1,8 @@
+name = "puzzle"
+filename = "puzzle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f25312c0fabf5dcfb8dbba73a5faa053fc995a33c383086f5ee2ed4a3325282e.json"
+hash-format = "sha512"
+hash = "83bd51bd1af1ff18cbc6063bfe08ee3093e17286c6f4a4a9ccc51b7157929f5e3738fa210677736018859589305657491889b051424bb4bec4cedccd7557263d"

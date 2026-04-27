@@ -1,0 +1,8 @@
+name = "neoforge-common"
+filename = "neoforge-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8eb07a560167ee525be4579eda108746e94af4a9a6ed6a237777b5cc3cceb342.toml"
+hash-format = "sha512"
+hash = "a4d0f62735c65e9e60df6d1312d6ea5dc89235b11af34e6e4432100ba354366fd5c9280fd65f5cff1c60c8f4471eef389c9e0b1b7ca2587148f3c3259f0206e1"

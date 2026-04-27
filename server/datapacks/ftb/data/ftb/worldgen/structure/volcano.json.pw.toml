@@ -1,0 +1,8 @@
+name = "volcano"
+filename = "volcano.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4afa5a41edb96bcfdf62d3a642eaff95adce2bc15d957306181b727c8c131aa0.json"
+hash-format = "sha512"
+hash = "02c43d712c24dc94688bd29365acc6d2a973bde2dec6f1269384b6e3c21a08e8da396975ce6341369422f26b3563ab8ec68f51d252bf31e9ae67e3d172851f60"

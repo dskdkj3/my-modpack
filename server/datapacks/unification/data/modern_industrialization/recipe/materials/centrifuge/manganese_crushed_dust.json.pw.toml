@@ -1,0 +1,8 @@
+name = "manganese_crushed_dust"
+filename = "manganese_crushed_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de895c00c2d81c4d22655f4609e5cb20bdcc9d764289df4d6c066cd036136b04.json"
+hash-format = "sha512"
+hash = "ac2aeb4b0953eb1ca99d3708d7a141caa5aaf3ba981999b68a3d19e2b780cb697d6647ee3d6f762c7fa8acb58708b908a8d638467b57e65488c429a78995b4b7"

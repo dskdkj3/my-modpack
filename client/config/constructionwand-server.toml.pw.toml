@@ -1,0 +1,8 @@
+name = "constructionwand-server"
+filename = "constructionwand-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/955c757badf5a890405701fb36e11406133ea1455b23b678e28bf94a8a03c48d.toml"
+hash-format = "sha512"
+hash = "9c2eb980f848f7ee4161a98c28e16262c1c55c8b553314c06f5b27bb8bd6bd4e894e03df8378abfdc5d08bb90a961527040d2e8fc3d44f1f17d9ebf75fc34da3"

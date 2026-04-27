@@ -1,0 +1,8 @@
+name = "oily"
+filename = "oily.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a2e450a38ce287f7aa48d03dc094600abd840dd7ad9e2971390b6af46716e71.json"
+hash-format = "sha512"
+hash = "88442c5c4c5567ce044504d6230cccda0d4d9949091d61d64a3f420d30d11fff630f4922318ec2c31aacee99291c8d1b2cef00ce3bcdb584d5480ff8340062a9"

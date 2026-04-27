@@ -1,0 +1,8 @@
+name = "steel"
+filename = "steel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/11125942cf8b54b3a4a0d3012998ede2dda35c13891c270a090399dc9c6f6b51.json"
+hash-format = "sha512"
+hash = "3e5ada2398890c7dff5be09fb50e4d6cf36c562dc503aabbffce45a913bbd219bb5cb210b2bb644c4d356481843f4aa336e53326f81e4e3f3025cc660a035f4b"

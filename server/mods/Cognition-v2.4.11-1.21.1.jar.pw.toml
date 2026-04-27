@@ -1,0 +1,8 @@
+name = "Cognition-v2.4.11-1.21.1"
+filename = "Cognition-v2.4.11-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7709/64/Cognition-v2.4.11-1.21.1.jar"
+hash-format = "sha512"
+hash = "a1fab3145636ece668d3136da788237113e089eacdbec2c36b6352f2332813d7dc029af59af451e2671f685440cd547ba43154972fd140a27a442dc41c75a48f"

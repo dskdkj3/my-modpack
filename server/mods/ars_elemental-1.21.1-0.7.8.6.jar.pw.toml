@@ -1,0 +1,8 @@
+name = "ars_elemental-1.21.1-0.7.8.6"
+filename = "ars_elemental-1.21.1-0.7.8.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7710/618/ars_elemental-1.21.1-0.7.8.6.jar"
+hash-format = "sha512"
+hash = "52b8af62e3839f687efd226d92e07c9a1f082dea7206e9ccf6ba9dd9f685e21dc70b624d05cbe697666b54c6d559bb27e692da26a5cd84000b4a717a0e2b4d8a"

@@ -1,0 +1,8 @@
+name = "event_llama"
+filename = "event_llama.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/693c3e0b69e2b543bee0e2c2f11e92edd2323ec65dfc3038d8c5e38f2ec107cd.js"
+hash-format = "sha512"
+hash = "2973e363eb0e9e0c636be23a0b8b500b2d3fbcdf34b0b7f845bf2d5f47334f63775632e609f137c962c037533184e84ac3f4ca3b68f37efddb5d954a09afde52"

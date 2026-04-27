@@ -1,0 +1,8 @@
+name = "garnet"
+filename = "garnet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/1671dd1bff6ad9a60c67ed88096840178faf5d1b9c0f00e0c2d1594300ed7070.json"
+hash-format = "sha512"
+hash = "096a26fdf01d7b0c9248ef2b02a4e87b93f934fefd249c52066b16b1dd44b1614a74c51119d4c74c10e24ba0c2a014318a7eacf11623473a1852f7ea68895742"

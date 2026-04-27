@@ -1,0 +1,8 @@
+name = "vegetable_oil_from_crops"
+filename = "vegetable_oil_from_crops.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/411380e5ac9b138aa1865cf433f0904f982d5c9dfe8c98c0e964921c729d304b.json"
+hash-format = "sha512"
+hash = "c8260a25b97465cb87e73f4be0e63528d05c416acea2b6882817fa63a8512b299ba02c574452970a5e854ba76e0cb781f305fbd57d0346698b45bc5b758af09f"

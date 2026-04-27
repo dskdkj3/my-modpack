@@ -1,0 +1,8 @@
+name = "mushroom_island.nbt"
+filename = "mushroom_island.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/807539689041203c0463558dbe7bc4e551095da528272f0c12eb7a79a38aba3d.nbt"
+hash-format = "sha512"
+hash = "f0e78a43e4a53d73a54effb84efa623989dc4a1a1f278844cc6706abf8cfb3235d856d37d7641b3b2b4c50ece2852c943b7bad82e7431fb97316150c9d134467"

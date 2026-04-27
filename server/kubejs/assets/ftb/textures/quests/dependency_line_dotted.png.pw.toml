@@ -1,0 +1,8 @@
+name = "dependency_line_dotted.png"
+filename = "dependency_line_dotted.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cf01fc6546bc3805a078a380a66a850ebe55f4b0e8cbbe750434b0082ff482c9.png"
+hash-format = "sha512"
+hash = "e3d41e4cf804a24bfb4e4b120438d74bef31f20314b1178fee63b918f81ce0c2baab4a4eb0eb06c110f432f24830ded9eecbc3e12c021e48c37a1753fe109529"

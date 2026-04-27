@@ -1,0 +1,8 @@
+name = "vanillabackport-common"
+filename = "vanillabackport-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/0832845dba452680fe24615cfa82c78e1eee1e991bbf6ba2b46be53f85f7947c.toml"
+hash-format = "sha512"
+hash = "a478fbfb1108a0359d1415e36d672c056c4c56bbff666e479b91555ac678e6dba9bba1a67ae2dc63986c29b4816a4fca4720ebeb5e29f4e0018f402616d8fee5"

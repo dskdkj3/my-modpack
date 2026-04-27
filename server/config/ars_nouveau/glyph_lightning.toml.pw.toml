@@ -1,0 +1,8 @@
+name = "glyph_lightning"
+filename = "glyph_lightning.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6ffdf976e2039cfbfefaa8359d49217b833d5b019bbbb30335b7f9c81cf5da28.toml"
+hash-format = "sha512"
+hash = "a0e37a8c82df00bbc68898345934ecabe3d73bb9e585d192578d2c08f24d2e2ae529eb157cc8e7d72c8e3e02660a5afdeb343c4ba00fc72638f442550e374a73"

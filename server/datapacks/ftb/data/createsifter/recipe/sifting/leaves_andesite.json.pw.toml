@@ -1,0 +1,8 @@
+name = "leaves_andesite"
+filename = "leaves_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/62e84e2010281f578c69a6912140d3965598925958515e49c6d5bf9897e2f99e.json"
+hash-format = "sha512"
+hash = "4c8ccae67e56d7682ccc1d65f042dc0af9003f419af44514ac1d9d5b566f0dff9fb949ebfee085bebde6623598cf8cdeb512a924983a847f4e083a36e89ed551"

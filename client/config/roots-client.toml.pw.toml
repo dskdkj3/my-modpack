@@ -1,0 +1,8 @@
+name = "roots-client"
+filename = "roots-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1f318c844781f671d4b0e6874b6ec7fc8b9195bb06227c669b6348958dc6b11a.toml"
+hash-format = "sha512"
+hash = "ef0d8ff8b79964d62f106c5047849283d84f634a38c0cf1573e32f589e40e18e17aaa98d94fb767f9f62f868d89b0d0bb9de4e768b192feeb9723a5da0192a8f"

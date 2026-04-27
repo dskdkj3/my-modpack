@@ -1,0 +1,8 @@
+name = "cognition-common"
+filename = "cognition-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/111cebb186900ab6669e2f1b6745cf0923e0ffcdd5c301fc110e9574ccd374ba.toml"
+hash-format = "sha512"
+hash = "4770dfc9177e24632b3565389ac4c3211e5f330c126bf0880e856a4abd56d56178b7676d67fb5aace1ca079615c4aa43fcea06d2449849e279371c0403e1f1a2"

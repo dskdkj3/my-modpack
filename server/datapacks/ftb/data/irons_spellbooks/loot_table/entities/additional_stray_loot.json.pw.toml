@@ -1,0 +1,8 @@
+name = "additional_stray_loot"
+filename = "additional_stray_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/8169f0ea1e2bc39fc704a2ab8a6c530d6bc31973e94e3559ac5ffe3e4e65f993.json"
+hash-format = "sha512"
+hash = "40a2ee17466ae6dd9f63663f29cd5b8c43f5c9bb3c1b010a43580e2e82adf18cd2b19faf0054fdf24554efe5c57cc7bf0aba14a84c895b22fd3164cb7427a6c3"

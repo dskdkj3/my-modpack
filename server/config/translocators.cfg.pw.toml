@@ -1,0 +1,8 @@
+name = "translocators"
+filename = "translocators.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc97e10d59e953752fa0dde8b9073e9b4cc9fb1c044f9556443839778f0166cd.cfg"
+hash-format = "sha512"
+hash = "5d0e70f709fcea81cf4f73a79abbce8b20ca4e4701562a1741e549c7987a29050ce111cab75099b3eea9c9683b589bf4832dc7b1bd50df7f5690c981ee99c70e"

@@ -1,0 +1,8 @@
+name = "64b_chemical_storage_disk"
+filename = "64b_chemical_storage_disk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/860738bebfe9b577df08d5fba3c799ca1ce61f5c890dda30f17170b80e042995.json"
+hash-format = "sha512"
+hash = "f9c64e5bb6f5dc713c31b5199ae660c8a334eb1036c128fc09514e39f6352d7dec644dab735e136448b112fae7d189aae738ed940fd398c2d5fff6e1fdd3a738"

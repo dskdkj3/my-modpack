@@ -1,0 +1,8 @@
+name = "glyph_sensitive"
+filename = "glyph_sensitive"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/011327bde0163b51df25b4c8b9c29a377201caa32ca2e6c16252b1f1a35db2d2"
+hash-format = "sha512"
+hash = "0731179c7b21e1c30e9c34f7757b5c9ef0d73658559a7085a1000adc442bdacaba490cc9ae84677c1fbe8bef0159d294609006ee0431b734f4cb431d52a1be59"

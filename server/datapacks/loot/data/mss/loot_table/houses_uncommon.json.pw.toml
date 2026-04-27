@@ -1,0 +1,8 @@
+name = "houses_uncommon"
+filename = "houses_uncommon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45d5bb7bf1c878a65a5c1da066910afa0cc11e9f82f88f16888add8be5721322.json"
+hash-format = "sha512"
+hash = "2c646588e01f2f9bed5bd7e18ae1a5d3b5bd63ce296a1aa57988a3c134dbd6ed8aab5cfc58436ae63022785d205a0b772a6bfc1d60f235fb2ee7e7aa7ed5a822"

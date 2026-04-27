@@ -1,0 +1,8 @@
+name = "Measurements-neoforge-1.21.1-3.0.3"
+filename = "Measurements-neoforge-1.21.1-3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6956/811/Measurements-neoforge-1.21.1-3.0.3.jar"
+hash-format = "sha512"
+hash = "0a9cfff47b4d100ce618cc4447f456d2d1483839de80d72ac96f8c44b680e580658a740b7fa746fda7296396a2785b85f537bf5dedd06c3e1ce440372f0ee11c"

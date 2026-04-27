@@ -1,0 +1,8 @@
+name = "inferium_shovel"
+filename = "inferium_shovel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d24f2e4dc762f00ed14aeed9f58c44baa1bf9f66c106c984cdecc15f2a56df4.json"
+hash-format = "sha512"
+hash = "d614993602a9f3058ed175441014e38be07035790bb2a77141b78f73cf435649145136c7f928494f079b0bb7446d46ed2be76e3c8513d4872c9546fa1af3241b"

@@ -1,0 +1,8 @@
+name = "mi_sound_addon-common"
+filename = "mi_sound_addon-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/2278b5ba89c287263408e4fbfc649374018b29e2e7cc268868c30881563799d1.toml"
+hash-format = "sha512"
+hash = "fcf3c9a78d74ef5aaafc1142fc714770ad479c4008def38da6685f33f4d0968f466fccf8f97461d6c0ad41289391b5869ad0f1f6896f426b511ae1b584e01d1d"

@@ -1,0 +1,8 @@
+name = "pneumaticcraft-client"
+filename = "pneumaticcraft-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9bcfd44ef5083e656b188d4535107848cd37a413c8f9b5e37184a14d50e149f5.toml"
+hash-format = "sha512"
+hash = "c5c3cdd5ee1b6dd9ed6aa99edfa182ca79dc170ee6468b7b6df299373e2cd57b98920d6ade033b845d76a12165421e4a84c67d487b5039b9233a006259655d82"

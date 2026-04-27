@@ -1,0 +1,8 @@
+name = "blighted_tree.nbt"
+filename = "blighted_tree.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/6034631bdce40ddcc204e92d0696db9e062c15d5df0ad3fe80d6511e5e0927c6.nbt"
+hash-format = "sha512"
+hash = "cc447638d047acf548b107dbd36aab4072b1ae00a227b37972d6c6e2ec2ceadc88fbda4ef4bbc4a7d495e6c88bfa6051f424104c36b7dc2ef1f827c6fdfa6325"

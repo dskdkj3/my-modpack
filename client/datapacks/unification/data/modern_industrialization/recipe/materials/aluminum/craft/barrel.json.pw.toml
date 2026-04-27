@@ -1,0 +1,8 @@
+name = "barrel"
+filename = "barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/991d2a1554f7bc57d447254bf3ffee0cad69a04cf3670b12cd4853a4c4572fb0.json"
+hash-format = "sha512"
+hash = "59a1750c24a4900cffc367ff54c2e79679f0692821e6ae191d9568b0f8edaee7081f1afbcfb573eb52409dbb7a72003fa88c7d6395b715a51f44276f7cdaa946"

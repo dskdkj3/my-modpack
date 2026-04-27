@@ -1,0 +1,8 @@
+name = "createsifter-server"
+filename = "createsifter-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd62088b53c9941d12139ab9551c652ecaf2b4fc3bfa539eee2538bed861268b.toml"
+hash-format = "sha512"
+hash = "4345824c6baa99333f5c44b040944b9001dcce3b1d4872184538e4ef80b20517932383fc64c249e3a87dc76bba1589b1f974afbb1af1cc2797a389575c487b15"

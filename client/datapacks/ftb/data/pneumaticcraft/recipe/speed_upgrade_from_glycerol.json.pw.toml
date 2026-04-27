@@ -1,0 +1,8 @@
+name = "speed_upgrade_from_glycerol"
+filename = "speed_upgrade_from_glycerol.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ecb12dcf944465ab4dbe12947b8774974d049ed54562a4cb711471482738e6eb.json"
+hash-format = "sha512"
+hash = "968ac79c1faab05c856dc3bc86bad7a842dcebc6bd41c932d9c2c20a4270e57d4509b4e11b04cb93d3bbb1b73509a90d527ef97462f9ca4b45cf6b44eab5a836"

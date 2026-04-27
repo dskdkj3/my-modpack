@@ -1,0 +1,8 @@
+name = "cooldown_reduction"
+filename = "cooldown_reduction.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3ac25f70d2e519a95eebd41eb83eb4da824074fcdb494dac9f341e06396f1f4.json"
+hash-format = "sha512"
+hash = "07fb3545d5a4e8e8ee7b1b595c6659d75c77267600965881c2568f43a4c527527ab36440a5b49aa788d2b205a5b93801216b3866b2b7231c9e9a770d7bd837c9"

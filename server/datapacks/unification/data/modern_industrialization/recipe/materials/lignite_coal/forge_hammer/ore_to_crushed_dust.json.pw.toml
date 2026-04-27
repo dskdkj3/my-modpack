@@ -1,0 +1,8 @@
+name = "ore_to_crushed_dust"
+filename = "ore_to_crushed_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d51971a1fcb95d016c6a6a56a722f47d1564dab0c4a9bd80b8f3769626192e1.json"
+hash-format = "sha512"
+hash = "ba7ed98d8ef1644538fb365483be07ab293fad0c0a26b77c5a6f674bdfb79b427225f599a7b3220717076f9959d8faf2dbf99537e354473e0751894ec20d2a0d"

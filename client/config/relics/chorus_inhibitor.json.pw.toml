@@ -1,0 +1,8 @@
+name = "chorus_inhibitor"
+filename = "chorus_inhibitor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce9701a193dedaf4777b66a842670eacb32e3b36238d9851e55c14227ab54cf8.json"
+hash-format = "sha512"
+hash = "b901804273bcb6f9f5935f7d6d075dae09b8efebadf68ac9ba2aba4bf71bdac6b26ad7107b82105108e3711387999ab405ddf8f730ecc03a31856e6972f00e3b"

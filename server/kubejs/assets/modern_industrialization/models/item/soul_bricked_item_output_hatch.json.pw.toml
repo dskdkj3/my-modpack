@@ -1,0 +1,8 @@
+name = "soul_bricked_item_output_hatch"
+filename = "soul_bricked_item_output_hatch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9d983cbd68f70f72355fff4e29006fc1429389968df4b2ecca0476a33d330fe.json"
+hash-format = "sha512"
+hash = "a7686586be7171d85b6b8ae54b3bbe5c7694fe3fcd0f0964e6b413abc398b3083e395dc448b768356ba56d713d421bd14333d254dd933c59c00128a443dd1e74"

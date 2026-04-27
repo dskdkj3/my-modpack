@@ -1,0 +1,8 @@
+name = "sg_economy-client"
+filename = "sg_economy-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cfc1e69e6eb95519e0b45edb683c7e325e63d9500b62af82561b8c0794dbea74.toml"
+hash-format = "sha512"
+hash = "ea184fa2a0858b26c499f00608b6b394b4322ec51d71f403d2bd3b5d729f57abe06a605e7d4623bbd3b767de71082ad1f394136d586c631c24f332b1a6dbebed"

@@ -1,0 +1,8 @@
+name = "before_cobble"
+filename = "before_cobble.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15fae5647b3cf5496228390be1dd3756f833c9bdc19de7705178cea4900effb8.js"
+hash-format = "sha512"
+hash = "f8cf6599b39b8d4ac43118734668ab18c40838fb68c9fb672c842e8305b85a8ce6ec0344b8b51dc9b6efea16bc7938a987d646a3fdb2fc825104a9524b8859ef"

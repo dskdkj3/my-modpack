@@ -1,0 +1,8 @@
+name = "glyph_burst"
+filename = "glyph_burst"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e18e9fe8b607c44201542234e6f086b5777538daa3c2c2758d0c614b8b1356a"
+hash-format = "sha512"
+hash = "8a9fe172c34a8a76db0bf7982730e9aa6041f3944fb879097f600cfa78212d8d2fef4ac1aef3b4ebfb01b9188b428caf195d8e306f677f22adb15cbdd8655301"

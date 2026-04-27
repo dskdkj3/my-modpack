@@ -1,0 +1,8 @@
+name = "shale_oil"
+filename = "shale_oil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90e6dedd651345190637bd700696c50f730f65e2850fcca7c7abec751d5bca0d.json"
+hash-format = "sha512"
+hash = "9745e02ef0c0df200783879eeb103bdae12139aa073b85853707afb67c25d143fbc982fac71c0e22a2fcffce25503abd3db01c9e42baa57a0446c37e41d8e548"

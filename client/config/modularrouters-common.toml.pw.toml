@@ -1,0 +1,8 @@
+name = "modularrouters-common"
+filename = "modularrouters-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a306e8b3473f8088fa09074fc435c8dd6481b53bad759a6d0e047c0a25065f4c.toml"
+hash-format = "sha512"
+hash = "40966122cbdc8dcac0af6e2ed10f2913ed62ca077fa3505c646dffe18aac966e5e69775033a9a8f07158ba4c4727890d772133689ecc8fa46c5df36e681f99cd"

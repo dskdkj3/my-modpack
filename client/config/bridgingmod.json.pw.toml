@@ -1,0 +1,8 @@
+name = "bridgingmod"
+filename = "bridgingmod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c773b81a9b3dbdd4660dd1eb2073e8b186d10c2ed27738d5ce5fde4de6823e2.json"
+hash-format = "sha512"
+hash = "c5be5ec74a06c3022d823b5e486509a1daa7860e58793706b03758947d58379633a64e4523d03a05af18dbbfd5c07cdd4abba199c54bc25e095929f9579a4a82"

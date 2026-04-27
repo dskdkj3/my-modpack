@@ -1,0 +1,8 @@
+name = "diamond_mesh.png"
+filename = "diamond_mesh.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/999cfffa3ac6b2a22e219ae23a6817a264fb22ae79fe55369e5bc0e3794b3c3c.png"
+hash-format = "sha512"
+hash = "c7cb964dba11c9f24668527d1083e70903a8ee30a3d0789b7d4a3321c9ac57d165a608ec1a19e43c0d4cb44732adec9a398e4daf845ac4d5a7fd064d527b3c47"

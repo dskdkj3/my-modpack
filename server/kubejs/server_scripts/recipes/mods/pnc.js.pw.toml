@@ -1,0 +1,8 @@
+name = "pnc"
+filename = "pnc.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c3dfc7af8753ef2970aa4e8002e93effb314baba89151ab11c466290a1d77eb.js"
+hash-format = "sha512"
+hash = "37b41ecba7233aa2816604ba7c5e0cfa3ca3bc3bed2c3e879166eb69c4f4600c3ad47fcb764d5906189af0ff28ac13d206ed0dbd1e19a8b47bbe0517c91f3211"

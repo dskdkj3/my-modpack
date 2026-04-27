@@ -1,0 +1,8 @@
+name = "ingot_to_rod"
+filename = "ingot_to_rod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b125611f6d1c7fffa6426055d5e37b8f4a7faadbccac984c5a493a3cc2899a76.json"
+hash-format = "sha512"
+hash = "3f8de6d0c27fa466828a90ed83a153698481b21ab7230d17abc277b60499d8f62f4e8a53ae64dbec0662393720bbe6fbfe1242188d64f586c983ace969435a9d"

@@ -1,0 +1,8 @@
+name = "after_cobble"
+filename = "after_cobble.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/3214cd4efb63cf15e484906e4df9925b183d869f08b6586975f03a944a83f1e2.js"
+hash-format = "sha512"
+hash = "ca3fc1469f0de414f7017050358de34e03ad95c0c5253fc52c0ae69b39a0ed9438de8e380d514cbd03f30c2416eaa1588d4fcff4ecfda03268ca5681e7abd397"

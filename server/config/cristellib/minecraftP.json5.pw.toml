@@ -1,0 +1,8 @@
+name = "minecraftP"
+filename = "minecraftP.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/34/34b0f25974f1c204994baed047da4a954c1e687a08b27b7f7b2b77d83aaf36db.json5"
+hash-format = "sha512"
+hash = "2aac5b1deb1f65fab1586dd192f90ec35f3dfeb0bb942ac6dd4197710ad1d2afa6b966f40ec7b2b0f0c7eb163ec41876c5cd525d5dac38a3eb3938e04f346b39"

@@ -1,0 +1,8 @@
+name = "ae2ct-client"
+filename = "ae2ct-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2ab506d7be88656c07e517af830cd616af48a4389234121669b10205af1631b.toml"
+hash-format = "sha512"
+hash = "8407b0192416737a599dafaad6a90b5f1adf3f761e0e6383fd0e0f92e31391af1311418c37888e1d7ec5e147a457286c659c61da37ba5d5f936e425ec2a0c1c7"

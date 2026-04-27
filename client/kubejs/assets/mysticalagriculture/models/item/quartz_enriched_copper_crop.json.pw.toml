@@ -1,0 +1,8 @@
+name = "quartz_enriched_copper_crop"
+filename = "quartz_enriched_copper_crop.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/19ba275bb12f883a90e25863737f6d72ddf5d4155b7485561c930b4127b06de7.json"
+hash-format = "sha512"
+hash = "29eafa46c5549e2675c43b2604365f018cc8e8058d5808589e889ee5758c5214141cdef883534c4520b11abe41b1cc801535dbe46134a7137d4bb094e37854b1"

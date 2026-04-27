@@ -1,0 +1,8 @@
+name = "holy_locket"
+filename = "holy_locket.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/0504cec17d91317e901b5759d3e4a67c712ce1c1314cf8993a5a49ce5dda6cf8.json"
+hash-format = "sha512"
+hash = "9f54f9a7770e4fdf376bae767c948cd72a0a4bf27a3e2b1990b4a5b4caad5f745085c9e31f579799eb955585c81b5a341af7693debb6ca67d41302f8802e4bcd"

@@ -1,0 +1,8 @@
+name = "craftingstation-neoforge-1.21.1-1.6.6"
+filename = "craftingstation-neoforge-1.21.1-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7537/245/craftingstation-neoforge-1.21.1-1.6.6.jar"
+hash-format = "sha512"
+hash = "41017199ee830f2b67c3686366c59bc8750f6e5a7ff62bbcb8df932ddbbb5e956724ce2fcfceb8e9ae979781630f1394660f0083877793ebe910753afc09e0bd"

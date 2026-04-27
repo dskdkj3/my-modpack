@@ -1,0 +1,8 @@
+name = "slurry_registry"
+filename = "slurry_registry.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/01db00a204ad5c62bdfe8c48816dabf257369c9d258531349415fb6d9054e0a0.js"
+hash-format = "sha512"
+hash = "4ec7ae960281f4cffd430dc0a867c91b6f8e89eb81430f6f1e2f3ecb952e372bfa31d8dc8af6404f80cd8b2238bc3847871167044288f78fff9e27ebcb44a7a9"

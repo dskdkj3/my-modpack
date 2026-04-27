@@ -1,0 +1,8 @@
+name = "irons_gems_and_jewelery"
+filename = "irons_gems_and_jewelery.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fa061e3d670158af45b608c97e6d95ca1fec8fbd710b6e7994233f9afb689a4.snbt"
+hash-format = "sha512"
+hash = "153a385470b10edb6561a7803319000110dec42ec183e504e155fce5ca4376233abb83f4105c925fa2ba4fd7b2e44bb8ba45f9387f2b14f8cea7cc54ee5a835e"

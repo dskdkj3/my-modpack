@@ -1,0 +1,8 @@
+name = "uraninite_crystal"
+filename = "uraninite_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d06a9f4f257966624fc8c122d1705fc64fb410f6661dff0aec803443bb92f1a8.json"
+hash-format = "sha512"
+hash = "2d199891305d391f3208815de3865cf8abc2a8f5d95d1769b690102d9f7789eda957f22e5bd56bebf65230774244991d32bacc740016e54e8c87979cda7b8173"

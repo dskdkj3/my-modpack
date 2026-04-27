@@ -1,0 +1,8 @@
+name = "warden.png"
+filename = "warden.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1ee0f5034158932d58357aa4ac08efcff69a03f79be732a822d60c2bbfbc86c6.png"
+hash-format = "sha512"
+hash = "a062177924d8da0730a806ab82d75345d6069853cf6c2140593658a0129dd86799f9a068f1b6a84e78d108b8e73849191797e237230fc444b8f46cc960d2cfe8"

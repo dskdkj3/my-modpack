@@ -1,0 +1,8 @@
+name = "MoogsSoaringStructures-1.21-2.0.0"
+filename = "MoogsSoaringStructures-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7132/460/MoogsSoaringStructures-1.21-2.0.0.jar"
+hash-format = "sha512"
+hash = "86475abb345aecd5e70b7d1bde8c29816612221502e3d97de31393acb08da1dbe49766cfe8739dd6015e8097bdd5efd6dd3c96dc441347a2cf1368bfc9a24129"

@@ -1,0 +1,8 @@
+name = "wheat"
+filename = "wheat.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/269d2f001293855b5767e80420d8c8e3bfdc8d0e59aa3e3a8afee12ddee0ab52.json"
+hash-format = "sha512"
+hash = "47edd046da7c9fab8c5783c0bef159659586b540dfef076b0cec9d6580db88b7a6a29537dec4ac854c7aa681dda005a23b49b602cb32aced1808b75d2e2321ad"

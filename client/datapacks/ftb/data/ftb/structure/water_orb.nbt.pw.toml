@@ -1,0 +1,8 @@
+name = "water_orb.nbt"
+filename = "water_orb.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a42359b0a9bdd20a212888b8849aadaddb63f4f5e7334b2c22c66303d64b0056.nbt"
+hash-format = "sha512"
+hash = "80824543d14e1c6ed2f5a0a850773917cf99ba3e9763c46a7145f776a6eba1164184a5cdd9beb0f1f962f02b126fc084d9d51ef05ce8c64117b2b049cc328ea0"

@@ -1,0 +1,8 @@
+name = "jank"
+filename = "jank.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bcf0b102aaacea59c5651a3e243770276332d7cd66f54ff49d597d32118a9ccf.json"
+hash-format = "sha512"
+hash = "304f5dc1b5a88ddba5318c4385487b6e29690c64812688eed59ba1b17f1c02ef033b6c73ac576972a53fb63528551796830248947bf94e04c116c2ba0f0c4095"

@@ -1,0 +1,8 @@
+name = "ftbpmapi-client"
+filename = "ftbpmapi-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/51d4f5b09cb8767c2e81c0bf4db1bab48b73381381c8c7e99a15cf55ec1fb7c5.toml"
+hash-format = "sha512"
+hash = "db05e7a94c211b36f3a7a146c39dc957ed015caeb77427f20e04cf3d9c1eca9055b7eb546097b2a3979d2a5131eebaf1493412e34d38c001ff2633a9d2e374b1"

@@ -1,0 +1,8 @@
+name = "gravel_andesite"
+filename = "gravel_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bff1b1bc2faa03a6d95b5a37e97b1fb5a0646031446d85f33ba8dbbf3c4badc5.json"
+hash-format = "sha512"
+hash = "824044e842a75aa1aa2e37ce62d5eb20f71366f8652318bc012ab21b3d4f81f1fd12854614a924bedf990ac2510aeac20fd1364b361291b02729ca813c9e2f17"

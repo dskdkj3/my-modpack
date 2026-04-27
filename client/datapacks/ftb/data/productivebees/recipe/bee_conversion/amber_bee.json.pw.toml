@@ -1,0 +1,8 @@
+name = "amber_bee"
+filename = "amber_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/cebd7ac1d4962d8717b30913e0d5357f64d502421329b32182892769b1a8476f.json"
+hash-format = "sha512"
+hash = "9a4594cea50889e2a5629407721cdc4edd230966265d24f44e74303c6d49da6bf1a430c38d939ecd427f89963f4988429f575cb137ff2e796795caf70d03a867"

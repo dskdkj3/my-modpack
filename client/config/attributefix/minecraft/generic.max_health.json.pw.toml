@@ -1,0 +1,8 @@
+name = "generic.max_health"
+filename = "generic.max_health.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad70c0a55ffdded419bfc65113d321323839570ba53e4f7453442cd36066fad3.json"
+hash-format = "sha512"
+hash = "a9c66cabef26416a3129bf6f7af4ba1e0d1b903878a7db6ff1830eed451ebbe6341673543b87edc48b869e62d923c9504de88c6b7f235de4506d84bda66e43f2"

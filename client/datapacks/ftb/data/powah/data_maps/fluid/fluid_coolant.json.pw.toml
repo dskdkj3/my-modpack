@@ -1,0 +1,8 @@
+name = "fluid_coolant"
+filename = "fluid_coolant.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e54e5dea31d12ab6d5ca17e9263ee5d57e976211a5691dec116684801ad165a.json"
+hash-format = "sha512"
+hash = "4566b75390d8459d2c07d5ae700407b27928a5ec274dd000583beab25bdefcd87a7c496da521433bdc566cf268ff9ab96c5712f5f28710abc82fc6910d5e5625"

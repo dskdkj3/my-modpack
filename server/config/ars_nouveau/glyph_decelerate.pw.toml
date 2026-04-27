@@ -1,0 +1,8 @@
+name = "glyph_decelerate"
+filename = "glyph_decelerate"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/552634d90205bb8dad2abee0f6de397235d798e51144e0f469e813157a587566"
+hash-format = "sha512"
+hash = "05527b1cdd0c3452790bce33765c98a3ee335f52524ef6bf9b5d62870e1e79e9c9acb1eef24faefca9de6c09496a6493beee1b1da3f58093c1a51a6324b8c66b"

@@ -1,0 +1,8 @@
+name = "replication_rs2_bridge-1.21.1-NeoForge-1.2.5"
+filename = "replication_rs2_bridge-1.21.1-NeoForge-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7674/130/replication_rs2_bridge-1.21.1-NeoForge-1.2.5.jar"
+hash-format = "sha512"
+hash = "3e25402ed1bac322757e9d4069f9aa9396184c23600825adaa808ba461a15247df83f607094b13c47955dc8f0e256fbb0be20a1e3852f5df596ec173821d9a52"

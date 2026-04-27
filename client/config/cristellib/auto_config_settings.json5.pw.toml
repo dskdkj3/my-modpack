@@ -1,0 +1,8 @@
+name = "auto_config_settings"
+filename = "auto_config_settings.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/2774ecd6eb0f567cee2954f6e54e78932a13cddd27d6eba8b94cb4de0ba49a2b.json5"
+hash-format = "sha512"
+hash = "213838df27ab2db1f0622f34f30da9607e7ea29b80655944453310725a2244911c9266042f4c700636655c5f3c626e08f3059cb0ef076294986c13bf493cac1e"

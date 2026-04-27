@@ -1,0 +1,8 @@
+name = "fargostalismans-server"
+filename = "fargostalismans-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d991503ff47781b9ab00f13c691e1669586ebee288f121b81318971fc44ed97.toml"
+hash-format = "sha512"
+hash = "2d7cb4bb8b2e525920d8fb110460b462c5a4771334f9e1fcd22a98284aee02bc7cd07c0144bec1d7a0830dc9b9a592311a45a0b6c2ef0a148336e8bfea6aab3b"

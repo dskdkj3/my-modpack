@@ -1,0 +1,8 @@
+name = "potion_ingredient_storage"
+filename = "potion_ingredient_storage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da3fadca419e75a1ce0c9a8c13de63b5e8523464ada7d13d3e4167c846c5140b.json"
+hash-format = "sha512"
+hash = "3c3c140f8179b313a54894198bcd3348ce0547404a989a9e73c386d4e4c839c331272902e2d5129391f086e0a5883bbe1bb0b043123b9b14eb927bf470c3a3ed"

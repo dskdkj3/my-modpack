@@ -1,0 +1,8 @@
+name = "food_barrel"
+filename = "food_barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee2422069993792fc82d29bd077b12deee8f9fa1977b7940f10e6ab19c5a1bdd.json"
+hash-format = "sha512"
+hash = "99f6cef1988901789606b594a59a55b4f579f6740d9ce6aa0c580d86550be576bd0ba14e499fdb19000f1e449702a96d35a322895b3122d4869e0762348120c8"

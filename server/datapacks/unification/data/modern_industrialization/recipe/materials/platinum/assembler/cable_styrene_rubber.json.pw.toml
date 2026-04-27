@@ -1,0 +1,8 @@
+name = "cable_styrene_rubber"
+filename = "cable_styrene_rubber.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eac49da792644fd4332380c5f3a3f0a03e57d7827391978db513a96fae63d582.json"
+hash-format = "sha512"
+hash = "5a55965dc978a74b8366ee97f16d0c76076874aa84512467f744ab51399f162175dd350abd8b64434e9eaeb1286e853aa8c6e967eacb6c546a513f324316d235"

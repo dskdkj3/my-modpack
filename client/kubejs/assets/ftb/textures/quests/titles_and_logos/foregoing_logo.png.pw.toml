@@ -1,0 +1,8 @@
+name = "foregoing_logo.png"
+filename = "foregoing_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/30df85a0994197e0e94f5417dfcfc38c6b8e67938abfc885a59e55ce773295b0.png"
+hash-format = "sha512"
+hash = "d3cce7701456f2bb8cc12494723e64a0ebc263e7f7ac56a7a9a2ed0bbcd90dca7515e715d6fde174e52e01d6223ba4050a0b5d7b72dbf4d555f1fdea1910cd6a"

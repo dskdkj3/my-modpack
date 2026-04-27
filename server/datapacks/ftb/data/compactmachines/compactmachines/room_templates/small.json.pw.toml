@@ -1,0 +1,8 @@
+name = "small"
+filename = "small.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/9769ce876f955fb185d682dfa0b78d156d317b94b430d3c8518c580c3ea3dd50.json"
+hash-format = "sha512"
+hash = "1c76fdfa5bda7b3fbd62693f45b04c0abc1f6113cf4075a8e190549d16748c4b74008ecbc14eeee51d8e8451c451820261b218eb76bf8d40b6eeda8a88063edf"

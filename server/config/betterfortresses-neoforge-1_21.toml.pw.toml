@@ -1,0 +1,8 @@
+name = "betterfortresses-neoforge-1_21"
+filename = "betterfortresses-neoforge-1_21.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f26b428780c39f5ef5846f0e8d1d95141336aaee814ccb815cb7e5f683367d93.toml"
+hash-format = "sha512"
+hash = "8d3104b852cd2ae7b2ecc302e201f984cc4e4847d52a75c75daec1753d854d266860b37b7a650aa7407c53dd65248de68a1e1e883ee3562ac81bda1f1fd7bbe0"

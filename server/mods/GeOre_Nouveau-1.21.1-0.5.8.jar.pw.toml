@@ -1,0 +1,8 @@
+name = "GeOre_Nouveau-1.21.1-0.5.8"
+filename = "GeOre_Nouveau-1.21.1-0.5.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7645/732/GeOre_Nouveau-1.21.1-0.5.8.jar"
+hash-format = "sha512"
+hash = "a32a24bcf1bfa200d8429a81baeba89da4a62bc61bd2bec58d403927d732276a65be18349c9d852a99d47d5a401f0d5caa8c7be3a5951afad4ab164da860fd64"

@@ -1,0 +1,8 @@
+name = "ftbpc_server_destinations"
+filename = "ftbpc_server_destinations.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebfb082b5ab81f6ed6cdca2e06910cbcb54b2db8db69d95b21b0feca99bb17e8.snbt"
+hash-format = "sha512"
+hash = "5f7299450b49a89262c5352d6108751c458b0de5d46b4927e07dc35b570390289b713ed6979ba0607f78613240ea0e7ad54d05cacd04439558ca39770034310d"

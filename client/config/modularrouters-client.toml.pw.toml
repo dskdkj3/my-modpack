@@ -1,0 +1,8 @@
+name = "modularrouters-client"
+filename = "modularrouters-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/62245e63e75c4d705ef5e1d7e196fd119e06942ca10b90bc8199dac6cb1c8c45.toml"
+hash-format = "sha512"
+hash = "3adf0fa85939c7d4d18ade8f46374e6985cc94765d1af955d4dbbba54d1425d2654880d7fe409759ddf7032f83cd1d5e2bd960bd168aa330d9834092fb045397"

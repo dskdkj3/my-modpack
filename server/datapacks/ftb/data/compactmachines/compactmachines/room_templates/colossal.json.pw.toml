@@ -1,0 +1,8 @@
+name = "colossal"
+filename = "colossal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/13ad52e0204438867025f890c843a248df4e1b06858fb169a4da5b44fba2f0f7.json"
+hash-format = "sha512"
+hash = "8d2d9f6ab0a80e1281fbe70433b6762e279bada959635cf5c6ab4b6391940da54ae4b99a421c67240c33f8b4e0f617134aabbf4c9110a05e0ba812fe3b659da1"

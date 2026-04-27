@@ -1,0 +1,8 @@
+name = "andesite_amalgam_block"
+filename = "andesite_amalgam_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f786af115292d6c921b3e0f4bc57595263c40d4ce0055b52eae409e15aeb08a0.json"
+hash-format = "sha512"
+hash = "11386b9782060b6577b3008c47c9c145d76a905cfd015b6fa8861b94dfef4d10a38f97215c94d30e3c4da1e07aa23e43aef88ada9e5d510666071e9a7e856fc7"

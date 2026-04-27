@@ -1,0 +1,8 @@
+name = "balm-neoforge-1.21.1-21.0.56"
+filename = "balm-neoforge-1.21.1-21.0.56.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7420/963/balm-neoforge-1.21.1-21.0.56.jar"
+hash-format = "sha512"
+hash = "2f4dd5668a2963d41f72dd176ebd59faf5baa754b544de9742e897f464fe508aeaedf9bb66bd0d8e5ec3ce94509bc126fe4e2b2799895da3c7577ddbb7fcee60"

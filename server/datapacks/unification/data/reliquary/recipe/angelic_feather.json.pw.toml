@@ -1,0 +1,8 @@
+name = "angelic_feather"
+filename = "angelic_feather.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e7c0c722bca32b7cfe64a4f16ea1c17943ead1b9ce77b2a89b758c66b4507807.json"
+hash-format = "sha512"
+hash = "2159c98852b901fa970674ecea61d2a03e337c127962a4103865daeb3c58c5bbb5f245d6ee0a2189c317c421813414ce8c2c445ac5486668c59a32e2b41ac64c"

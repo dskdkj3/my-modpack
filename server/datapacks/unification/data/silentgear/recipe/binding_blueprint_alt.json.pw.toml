@@ -1,0 +1,8 @@
+name = "binding_blueprint_alt"
+filename = "binding_blueprint_alt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5ce4792b2a6942fea197428f7b42ee60b96bcb8188a0ca2e4de6eee149b9df1.json"
+hash-format = "sha512"
+hash = "0ba98f7f4a57751e09a35fb72abe8e378b8bb854d6a1b19748205cb792fc13b70ec6324cd0b8cb55cb030f336ff8b3e0e19aaad6354f8052e894f00d56e7325b"

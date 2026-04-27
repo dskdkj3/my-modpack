@@ -1,0 +1,8 @@
+name = "productivelib-server"
+filename = "productivelib-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25cb5d8ab887afc2e49a4174878d68d8d8fe7bdda82697c034d1c32f3b5ce159.toml"
+hash-format = "sha512"
+hash = "61779b3e8e59c13e8ef9a2e61842e549d9c92bd5732342d9a14992c5858695e6063cce8b629b3c3d7617fd1fa5f889374557431257da3d6c577fab5d55244ca1"

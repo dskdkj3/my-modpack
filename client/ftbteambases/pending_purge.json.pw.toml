@@ -1,0 +1,8 @@
+name = "pending_purge"
+filename = "pending_purge.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16bc5e24323b7ba4a11286c6bbe5a70f285346373318a37dc0d6b4fe7f064692.json"
+hash-format = "sha512"
+hash = "fbbd8f4904eb427ca6230e86debd38f704f38235b24754f6b719333488ad0b3f04d94a2c0074e5c947bc155cf9de4e37c8de96c9cc6691b5f7e5eb9a6a06702c"

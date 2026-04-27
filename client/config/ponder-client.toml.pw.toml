@@ -1,0 +1,8 @@
+name = "ponder-client"
+filename = "ponder-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a785112f005542133918ef2d2c0c9789ce56cac87d5bc91cf86ddcbc61c0cf4.toml"
+hash-format = "sha512"
+hash = "f9cebe35437ab8f65c8783ebd973f5fb5f8a054999a754a6c42bda48c920e3861b5146bbb4fda01a88c21deb27d1531dea597420021b398c1f68158d37498809"

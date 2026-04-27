@@ -1,0 +1,8 @@
+name = "rftools"
+filename = "rftools.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cc063ed73af46841d163611e74d1f613e572c59583a159629a05961bea30bed.js"
+hash-format = "sha512"
+hash = "d4e5d5c9f9b1c5dcae8a6cd9b80676734002f64c47e65ad6295fd156517cc2c7d7453fd5b171b8db1d4989d70ea4ece53062c49b5f62537284032b5a26701806"

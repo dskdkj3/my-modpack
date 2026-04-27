@@ -1,0 +1,8 @@
+name = "glyph_craft"
+filename = "glyph_craft"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e863c0dad7406708166a9bc4f30b3f42ba984f939397767031993c8881761283"
+hash-format = "sha512"
+hash = "72c6e71b42ef8058dce6e90f17067252b6dfbb276787945dda7a3da11ec3cc91f7f2a4298f222d08e6e449ebf9b2044aa92782700dfa80668c5bcdfe3ca376e6"

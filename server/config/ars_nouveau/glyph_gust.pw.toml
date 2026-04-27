@@ -1,0 +1,8 @@
+name = "glyph_gust"
+filename = "glyph_gust"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b5947ba2631f70db41cad42399d7ddec77f98b78f131f31908c322d54301c7b"
+hash-format = "sha512"
+hash = "ac46ed80bb0d9c1416cdf5a890bac20ecce9e511bec6cd54c68d415ac0d8aa4ca30380aae7c28a3ceb5efa022d61ee8fed83f417301f5ea6d1e7e10103ba7eda"

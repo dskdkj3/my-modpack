@@ -1,0 +1,8 @@
+name = "uranium_dust_blockblockinv"
+filename = "uranium_dust_blockblockinv.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f43a64e749b4773de5399abf96ded58d59e8cd1cb97ef554cab1db061958f9a.json"
+hash-format = "sha512"
+hash = "966f5cc74374c9e20e5e883113c35c4b93befa01c43febdc23671c3d050ef9d602599fc0e08078309404cf6d4ece4f77a8c46f37aa324e9f7591d45450e289e7"

@@ -1,0 +1,8 @@
+name = "connector_ui.png"
+filename = "connector_ui.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e28b9698a82438275a5d71e23607e42ef25a43998fbdb4a913bca11eb7b95261.png"
+hash-format = "sha512"
+hash = "7db34b2e2a5bfcf5baaf836b8f346c05a7a236ee987762cafbbb273dc74559772fcb86e00caf73e77ac7011c5e60bca6ed828d66c95613d7d858bccd67dec1b5"

@@ -1,0 +1,8 @@
+name = "sophisticatedcore-common"
+filename = "sophisticatedcore-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/933ef2cf96fa49db27a2cf9ae071ce6ff0d6e2527d8cfeb103e13571f06d55ef.toml"
+hash-format = "sha512"
+hash = "b0bc01f2825788512aa988f8e6a47060c359ef03e85a5303ec60dada6b58e83b06c4f702a92a5cddf04babfa6b51785cb17a2abc14d8087c3a4aabccd0737c3e"

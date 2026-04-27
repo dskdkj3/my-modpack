@@ -1,0 +1,8 @@
+name = "modelfix-client"
+filename = "modelfix-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/6179eb5d39e6951b6323ff3e92a58b50621f401b1540e39316c698546ea687d2.toml"
+hash-format = "sha512"
+hash = "a371b4b903dcba8677550135c55cfd41e938736b1ffea319586f47f472185788adc304760aacdf5ce1e3102f231866238a6b4c510ab44fa13b10b305e13237eb"

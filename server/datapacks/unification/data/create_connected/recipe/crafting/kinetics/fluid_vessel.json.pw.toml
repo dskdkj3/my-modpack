@@ -1,0 +1,8 @@
+name = "fluid_vessel"
+filename = "fluid_vessel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90051595312e1d7fdb682c66d5036806ab2945e3e4004023b06b72edddf59ed4.json"
+hash-format = "sha512"
+hash = "040a076ebd40b0ee1b63d410b7740a1f0e70b4c1d76dcabb78331b959ccaa067522b505680dc3115b2d12e614b28f984aaa59f3fe2920af5e1a1cdc221fe691c"

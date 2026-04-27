@@ -1,0 +1,8 @@
+name = "meadow_trees"
+filename = "meadow_trees.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c7cb8933978bdd64e104bb29bda5432761066e313791cc6270a5903da84d4713.json"
+hash-format = "sha512"
+hash = "dd571cb13572632d27e1c19c1f6ecce08355b287ec6b199562fe257bf319c3b0ba3f0c1b330cff648c96dd1cd2320f985d8f553438169bf0bf6d7ebe4dfd145d"

@@ -1,0 +1,8 @@
+name = "alterationtable.png"
+filename = "alterationtable.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/418046a679fc1a480625428c0d32b2f6647c7a4dbe6eca58ee8d73e99a619ad6.png"
+hash-format = "sha512"
+hash = "0d5ee3bd1a446aab4cc19e8803bfcfe7a0be69b3dc2c2aa416c118b59ef7b4e793a9a0dbfbdabad7ae511818946398c73bc36909cda590a9e5687be69e867414"

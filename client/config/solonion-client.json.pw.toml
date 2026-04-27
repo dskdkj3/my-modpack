@@ -1,0 +1,8 @@
+name = "solonion-client"
+filename = "solonion-client.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/7358f21f60f7db648dc5131bbad7fad8fde4da4fecea49946c2e7bae6467dc2d.json"
+hash-format = "sha512"
+hash = "57ad36fff9eadcac36908fd4a55ceb327cecac65442aac4b529615e784e5029f026371cba9067ef25d8c14bec25275b7d685e8172f8992ea98f773fefa4d7edd"

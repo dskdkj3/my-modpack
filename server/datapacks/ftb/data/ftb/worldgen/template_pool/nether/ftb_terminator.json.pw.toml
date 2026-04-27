@@ -1,0 +1,8 @@
+name = "ftb_terminator"
+filename = "ftb_terminator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d8a87cddd246d1061f3312cefbf8e2dc1e673d273672dba3b8d288829c4ae6c2.json"
+hash-format = "sha512"
+hash = "efbb9d68c7930fe22705fafebc574c7380fb1002e0988f464687d31f3f4c6504d5def27fe9f7b8ddf141f173838b3860860d0a7abea69277a678e24c0c146131"

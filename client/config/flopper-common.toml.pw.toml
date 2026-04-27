@@ -1,0 +1,8 @@
+name = "flopper-common"
+filename = "flopper-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69af7d304b3022dbb42b7e069ad08ea3797d20a2df475b5255a0414a07eb6d36.toml"
+hash-format = "sha512"
+hash = "ff35c336fe9718e21bbb1d9a651c81a52e1bd9ece2df5283b55195b5a398246105b0d398c7fb8feab1b68cffefc9564c26198789dedae57eadc1bbc0263b930c"

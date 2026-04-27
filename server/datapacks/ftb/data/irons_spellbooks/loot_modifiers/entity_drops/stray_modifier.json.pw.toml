@@ -1,0 +1,8 @@
+name = "stray_modifier"
+filename = "stray_modifier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44452ad05abfecb04a8b0ee326c6cb1bc605249a06524656ff22cbadc71f7985.json"
+hash-format = "sha512"
+hash = "52e203d7ea2b18416848a18f40b59c97c16c4b49f5b5997b585f7544e24f1fabccadd5f4480e013c96b0e7c4b42de6b424acf4b8f3243eef3b990e9b47d3e337"

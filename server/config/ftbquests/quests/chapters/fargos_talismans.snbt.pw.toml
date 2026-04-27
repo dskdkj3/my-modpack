@@ -1,0 +1,8 @@
+name = "fargos_talismans"
+filename = "fargos_talismans.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8eb3020f7614d3c32768a19ddc11c4b30ede13127ccdde078def2cae1b50e719.snbt"
+hash-format = "sha512"
+hash = "9df7c4446ece912a1ff6911666045467f2c0c6dfcd6f04d1d7e7b5268265d457aeb26f874d92165c94d79f01389e6dd68b95e36ebc125fdab278eff1c9f29b8f"

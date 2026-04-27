@@ -1,0 +1,8 @@
+name = "glyph_place_fluid"
+filename = "glyph_place_fluid.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/223b9aa6e1f0503dad7f2004e428eaaaa8be863594b98fbdaaa921306e518197.toml"
+hash-format = "sha512"
+hash = "8a2b504818c5e56a19dc9225bce97fb354a8e26afee4df33c41dafda81d6f272ca97a2c9047bac182b263e6277815788e98a5ae4af5568075b07f791fbd64996"

@@ -1,0 +1,8 @@
+name = "modopedia-server"
+filename = "modopedia-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0b1e64004f32122ce6baf656945f63bb1d3e8e07405416ebcff2c64c1e4c055f.toml"
+hash-format = "sha512"
+hash = "a6f39f06248d05a259d3aa77b56bc39b49d15e5261e69760924ae6006c9bf21c35c26ea6d5b42e95b3c6e69c67342594df4a13dd36bfd4c02ce9c2c036d3cd46"

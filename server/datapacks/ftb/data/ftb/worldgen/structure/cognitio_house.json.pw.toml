@@ -1,0 +1,8 @@
+name = "cognitio_house"
+filename = "cognitio_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9849f17cc1f01c40ce3faeab523ae12f0ec3f4fac4f2687aae1847238d7aa63.json"
+hash-format = "sha512"
+hash = "3b28ab99baeb40b3943efee0b7375c2db23c7dc12e24e78da28fe48803999bca59eab600f518d2bee22370b0bad1eb88f3ae41b4c18612ddc96d0bf39351bd16"

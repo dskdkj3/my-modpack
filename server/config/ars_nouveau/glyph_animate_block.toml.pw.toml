@@ -1,0 +1,8 @@
+name = "glyph_animate_block"
+filename = "glyph_animate_block.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/99ea563f4b4d4dcf4346679c834cc3534817c2104256fc26c88bdf209d02b0a8.toml"
+hash-format = "sha512"
+hash = "05c6c45cba18b9e3f278bbab046200e937be4cdcdb278307f53d2131384fd64bbfd1522dcc026f30a6b9873517f10ceb29e4f84433cd759ff113390eec117220"

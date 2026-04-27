@@ -1,0 +1,8 @@
+name = "quartz_from_smelting_quartz_ore"
+filename = "quartz_from_smelting_quartz_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a3c2ebdac575e00bade25aef70d2cdda2c3b347213fe3df945a8da39062f9ea.json"
+hash-format = "sha512"
+hash = "2459607c6c48b65b2bde8cbb407dbb50218fe5ecd09b0c604382b6a3c89b35977184ce8a9dae08d0741fa81a92531034cb7f6a9f42c0e62845d877a98197b016"

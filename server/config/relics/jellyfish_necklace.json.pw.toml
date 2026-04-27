@@ -1,0 +1,8 @@
+name = "jellyfish_necklace"
+filename = "jellyfish_necklace.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e858aeb28d78b2315f394d9f815379bbb818ab16c93e2b285ce5b925a53e9d3b.json"
+hash-format = "sha512"
+hash = "9fbaf0dc823ceec8ea5d9a4498216d48f83541d409295a2f6832f13333eaab6b07fae94da480b554504da801c8d607ef8a12467987ddc6df5e5208b0e915bed7"

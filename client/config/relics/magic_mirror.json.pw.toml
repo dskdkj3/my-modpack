@@ -1,0 +1,8 @@
+name = "magic_mirror"
+filename = "magic_mirror.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd1528cb8a3a48c0fc28313b59ffbfa339a7a8a142c59f5c81e4672cd3465611.json"
+hash-format = "sha512"
+hash = "739ea4070bf9d9317d5174fc8d4fa5976d479655dd0763b490d0fb9880eabe1c917cf51bf8a3647b5be82596cf4006b30c13cba948916238b73dfcdf2454184a"

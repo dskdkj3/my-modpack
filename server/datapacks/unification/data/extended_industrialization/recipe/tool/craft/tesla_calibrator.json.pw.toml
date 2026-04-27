@@ -1,0 +1,8 @@
+name = "tesla_calibrator"
+filename = "tesla_calibrator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/70b8e972e973f5967726e3033fa030059860d8697e7646f15887629734e05b19.json"
+hash-format = "sha512"
+hash = "833775b181ba8922ca5bd473069fa12737df7e3af85a7591b63bdbfd654d164fa3bfdf848b92b494b3e80c8d7fedcf3caac5875396e9bc91bb8df90c0bea454d"

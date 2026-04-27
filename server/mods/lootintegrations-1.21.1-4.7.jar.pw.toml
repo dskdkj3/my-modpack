@@ -1,0 +1,8 @@
+name = "lootintegrations-1.21.1-4.7"
+filename = "lootintegrations-1.21.1-4.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6640/970/lootintegrations-1.21.1-4.7.jar"
+hash-format = "sha512"
+hash = "4b4e96f698c50dabaf0a9e008053148bc9f671ce3ba6fb3e4ae5e3f387d4ed8a517f7299fa1cb3b0f2768380e8738bc3e325f7664f61caeec46e8f4048ddf17c"

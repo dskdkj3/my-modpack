@@ -1,0 +1,8 @@
+name = "glyph_contingency_time"
+filename = "glyph_contingency_time.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b4bbf18fd3bc21abe9ad17d86afe38bb49cbe0b6a5ab1ca11f15cbda632810f.toml"
+hash-format = "sha512"
+hash = "91660745447f6ebbd00958c721fcd9f84960fd98dcf7e31884ee5e0a1a5ebcbcc330f9c14440e799bfb8f931b741451a5502b4dc9e70b859661770195968f346"

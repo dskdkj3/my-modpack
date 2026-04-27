@@ -1,0 +1,8 @@
+name = "malum_logo.png"
+filename = "malum_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96a7dc582e545f05ec72839355319afa6fbaabaadff002351a37b9efa3def1a1.png"
+hash-format = "sha512"
+hash = "08ccb1751793b388224a07e620723bf7930351ad59842b577fe1e3a2f56216b001252af7603efa6c27b5ce1b7e9eb79e366cf2cf5bf745f24f9885930957ca09"

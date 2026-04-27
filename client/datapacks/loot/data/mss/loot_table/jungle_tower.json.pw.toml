@@ -1,0 +1,8 @@
+name = "jungle_tower"
+filename = "jungle_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8888f807e7fbfbab6b1e3fd93e2c3bce340e1ae5574ba68846fb124d21cd840.json"
+hash-format = "sha512"
+hash = "4d5d25ab114ff8dbd344afc589cc5ee76ef9069799cc66fec630d51f09c11234ac01ffe6011a031f22920cd37bd9924cc8271e8d282d5c2038123051ae4bf5ff"

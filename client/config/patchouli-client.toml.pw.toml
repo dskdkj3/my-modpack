@@ -1,0 +1,8 @@
+name = "patchouli-client"
+filename = "patchouli-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/469e62a753419acadb1b906ab8a17e0e2c1082369bff10348339938a90a601bd.toml"
+hash-format = "sha512"
+hash = "ed6fbe8083c4f10e598a4bdeac5c404befcdd6dd587d1af7f5e2befa737c4fabf5abf5191baf5cf173bd9469bb638970b6f4331011283585e1578e7d8f9a8064"

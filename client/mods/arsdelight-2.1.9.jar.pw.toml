@@ -1,0 +1,8 @@
+name = "arsdelight-2.1.9"
+filename = "arsdelight-2.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7041/458/arsdelight-2.1.9.jar"
+hash-format = "sha512"
+hash = "280173163716490deae284a5472c0864f82a27d8f91c3edbc352f6471d0d707be7668140726f0337487c48f88abb5e2ca24f7eed9ebbb06bd1e2b559b3bff968"

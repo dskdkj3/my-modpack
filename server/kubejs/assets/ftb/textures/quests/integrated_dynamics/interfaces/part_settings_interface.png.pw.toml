@@ -1,0 +1,8 @@
+name = "part_settings_interface.png"
+filename = "part_settings_interface.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a99c11af156a17e5ea611b8e90f2f9bf86f892cad8e8501237c1b9e8c5501bd6.png"
+hash-format = "sha512"
+hash = "ba88d271d4e5cd13680f0c7e3f836e2c1656647563ed79a27a18c920b44b0d051d8577f57bec17cb233d58a73a6f486ce8cafbf65bd220c1be88e52e7fb7411f"

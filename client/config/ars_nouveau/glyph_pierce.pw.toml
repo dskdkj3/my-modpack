@@ -1,0 +1,8 @@
+name = "glyph_pierce"
+filename = "glyph_pierce"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1fddcf191ab5104657bc8fbb5212168ea67e1fc4f98bda27cc0bf408f01403b8"
+hash-format = "sha512"
+hash = "3afb4e493cd43e12428025e5b1643e66484f6f2b9aabe56b7ac3b14adaadcc7329a96539f7a9c48427574867ddc3aaf3452f3983e31b60d5ef4960c2816fd648"

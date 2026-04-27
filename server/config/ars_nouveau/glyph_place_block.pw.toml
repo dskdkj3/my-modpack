@@ -1,0 +1,8 @@
+name = "glyph_place_block"
+filename = "glyph_place_block"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f02c179807d3ce8b76beb6b5e3bc10cc66e0c99c13bb6d2cc51d0710ccd27ff.toml"
+hash-format = "sha512"
+hash = "e0151e527562fa9ca3b1a2acd90c578e8518b987e2828afa1a631922a85d48cf726389d90ae5e58f5b1a112c5f938ff2e15f488218962a05cdd5df6f9b0accf7"

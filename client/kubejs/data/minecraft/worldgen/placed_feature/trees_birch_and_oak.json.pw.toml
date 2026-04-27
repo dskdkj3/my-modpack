@@ -1,0 +1,8 @@
+name = "trees_birch_and_oak"
+filename = "trees_birch_and_oak.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84a6d683c0db7ca809b04d4b0f404702f8c73f9a6d8e5f6b6587e4ef09005e7d.json"
+hash-format = "sha512"
+hash = "82aa28b7343954884eb13103027936917d5c476eeaa8a15b956d2a572b2ff79d960751e79e53748966499f935db005a2dc701f1cbd8a8125a62c5299a62d325e"

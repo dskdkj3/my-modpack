@@ -1,0 +1,8 @@
+name = "keybinds"
+filename = "keybinds.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/692f9919d4b791fb5c630c74be8ab3a87e31a5dee6becf80c87bd114fa8cc0af.toml"
+hash-format = "sha512"
+hash = "d895dbe570376791c8e854f077d6f6dfa822a3a32609dbfdb2b2ffa7a5b4f39d737680e710efd0a01bf873e9b82f0c7dadd9b0537ee36c89bd67c5e6a645e8f5"

@@ -1,0 +1,8 @@
+name = "bronze_plated_bricks"
+filename = "bronze_plated_bricks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5f0cab4ab795945d22e2b792107846fb87a86ec7f632f8c0f24b4f87669c126.json"
+hash-format = "sha512"
+hash = "0ec7ec7e484cc6c7b091bfe9586987ad0fc97513d2bb40e5d67f6e034885820277020f84aa8917c607628261185b40e2d950351fb3f6bd931f641e7663db3b1b"

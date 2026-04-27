@@ -1,0 +1,8 @@
+name = "bastion_ring"
+filename = "bastion_ring.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80076fa9369211d22149bb1e1e365572bb19c2caa1e653f26512158bb65c6d4c.json"
+hash-format = "sha512"
+hash = "b4ecfb40421b01e18fdbae763b5847eef2a32a13958c5710cb7139647a48bf6527d4ba700dcb67203493ff538ca4226f3668b25856a1bd0fd52023ffb23b8829"

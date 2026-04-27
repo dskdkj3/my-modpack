@@ -1,0 +1,8 @@
+name = "dimensional_shard_stone_ore"
+filename = "dimensional_shard_stone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3ba7c5ef980de20965b7006c937b4e1df961ee0121e28a7894aa67e18e0e061b.json"
+hash-format = "sha512"
+hash = "4f815f6a4ee5e6248596c23475d7ceb57f8ac98140ec0b52ebd968a7b0efead725ef6813d211f5e9387562f242d1c4e270d9787be9c1accac20422cf1be89c5a"

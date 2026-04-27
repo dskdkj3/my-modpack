@@ -1,0 +1,8 @@
+name = "bastion.nbt"
+filename = "bastion.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/56fb8c2fee7c374f6c878ea8bab78578e73123f2ae45ad573cd6796dcd7c65c6.nbt"
+hash-format = "sha512"
+hash = "8e1efe2b009027ba07d5583174bbb8c8b68019c98d7abf38c9677489fa595aff510172ab74c13010917ff54ad2564f4e350c657c416d3fbc260b5dbcb5710807"

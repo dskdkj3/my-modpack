@@ -1,0 +1,8 @@
+name = "prismarine_crystals"
+filename = "prismarine_crystals.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/dbe782fdfcad2e3d7c3348c3f3cec2e87dee1535ff9325107255470255185d3f.json"
+hash-format = "sha512"
+hash = "c3ad44ccf26577b9e041ebffe1b3b679a4be3e1617661e19aadd05ade99d8263e75addad9f082f2e52a8d56f81327c0bbbf660d90a4bd4069b64741a62db2c1d"

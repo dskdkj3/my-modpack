@@ -1,0 +1,8 @@
+name = "eldritch_chalice_icon.png"
+filename = "eldritch_chalice_icon.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96b2c8ab7fbc00392ffe90fb2b5ae8b0dd7a660308d9522c8f865a627aeb39ee.png"
+hash-format = "sha512"
+hash = "c28a13bd183bad8babf1b27a853401e1b5842f48226c377a06743f8566aed4006119e742072218e354f038dbf956bd74d0589b97644fd90036fe9c7bb64578f3"

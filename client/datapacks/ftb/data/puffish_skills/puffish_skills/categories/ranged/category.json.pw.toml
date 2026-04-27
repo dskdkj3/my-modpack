@@ -1,0 +1,8 @@
+name = "category"
+filename = "category.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8501c22e439663f622a2554be2c9c143a5fb5f85fdc43d930d311f79e791ed2.json"
+hash-format = "sha512"
+hash = "d1e958e1e07b4d17f2d28b9a3dfe73f11172af98b9628f3bb6e964bec71bffe8acf420bb5ed5ee66b383398527737fad934f1aefe5c87f07998a5c4afc77c003"

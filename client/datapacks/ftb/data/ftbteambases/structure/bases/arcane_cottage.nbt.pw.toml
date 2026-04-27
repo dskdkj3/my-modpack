@@ -1,0 +1,8 @@
+name = "arcane_cottage.nbt"
+filename = "arcane_cottage.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c61adbdb1f62f5acbfa0c4da207817dffba106769c07f179a6defa289d02b40.nbt"
+hash-format = "sha512"
+hash = "9215769357ba731ffea8fc84388812efe3338323a34b66537868650bb996aa5c1180cbbd641e5aca99d25d7055ad4d58ffd1f8aaf48c16a9d3bc5598452566fd"

@@ -1,0 +1,8 @@
+name = "armor_shred"
+filename = "armor_shred.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/261e56c2657e34d19a0166e7a198d87c1e1c0706289a6b03436554179348dd03.json"
+hash-format = "sha512"
+hash = "8f50746e586e5e6c611827a6dc6c1a9e95b6e7bb71c6e77578ac6797acf2df971b2a3f0e105ae6141fd3b70332f4abc42b64dd9665b1cd6542313da5a3c88851"

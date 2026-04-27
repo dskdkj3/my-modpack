@@ -1,0 +1,8 @@
+name = "fluxnetworks_dust_andesite"
+filename = "fluxnetworks_dust_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f86d186851b4ce6c65359c3bcc4b97eb8c3ae85ebf69b9620faea33472fc6830.json"
+hash-format = "sha512"
+hash = "73a34037bffd43cc177880f24a7d6544a96895458fbfd5741dc9a847561d8d06eb51b6bda23c81a97a373fc9ae2866d526b2e84d13b010f6263bd14ea0a9e6e3"

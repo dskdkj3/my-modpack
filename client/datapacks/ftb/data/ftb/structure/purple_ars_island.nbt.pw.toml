@@ -1,0 +1,8 @@
+name = "purple_ars_island.nbt"
+filename = "purple_ars_island.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba2f6f807c2cfbcbbba0c1394216506c361cb00b5339523672c1544b893ac179.nbt"
+hash-format = "sha512"
+hash = "ec13c69f239d545721e98312dc185b3a2b8646890d09ef1079a95fed5a551a3ac6ebca64f7b55821e358d9b65dadd3da3ff1dc58a9704c5672b6d13519ea1943"

@@ -1,0 +1,8 @@
+name = "64b_chemical_storage_part"
+filename = "64b_chemical_storage_part.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37f4eb3a1fa413f8950d6f766f3d5ed8f9e6a574c6414e86ecde1b0fa3026066.json"
+hash-format = "sha512"
+hash = "0c14fce1c05a5e56f2ab6ac0f2270f83c65a4f44d52ef6818a4245659e715247aed1bf4b7c614ee73314949d827d5c9fae62b7fe1a5d9f081f7ffa96525ecf3f"

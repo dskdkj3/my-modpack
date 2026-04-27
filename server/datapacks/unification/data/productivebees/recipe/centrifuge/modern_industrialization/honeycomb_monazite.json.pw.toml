@@ -1,0 +1,8 @@
+name = "honeycomb_monazite"
+filename = "honeycomb_monazite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b63b6e832a1af778e9041ce45a31efb8f9a0129c0c08fc6c8dd90c79aea00fe1.json"
+hash-format = "sha512"
+hash = "0b8d328f8ff3b5e2d69d72f106c815869b9a644107fb7033376e050b26f809b1f498ed5ffe208d1d1ba31034122d305517cf6a610eae572ccb6061fba0e6006f"

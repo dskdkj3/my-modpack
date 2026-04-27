@@ -1,0 +1,8 @@
+name = "mekanism_turrets-2.2.1"
+filename = "mekanism_turrets-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7130/552/mekanism_turrets-2.2.1.jar"
+hash-format = "sha512"
+hash = "edb039b46a3981daad5acd8b3c3c77196c79b8ba5439f35d83bfde163f911606d59b91a78a85b8df0d71b38a3470996980ed41cd1fa9e493feace2809fe588f5"

@@ -1,0 +1,8 @@
+name = "pneumaticcraft"
+filename = "pneumaticcraft.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cbbea62915d13b7e8d93a513e937ea42b2f22b26f7f38c13c3de622ace2041fb.js"
+hash-format = "sha512"
+hash = "6eb395be724ebdb5095ee63c5cf658505dc8228d5a56fa8dfe2cd9e4769a0b6d634cc1709b0402d5e8ab6f2324611556f6a58f35be41f66e98e2d63542737bad"

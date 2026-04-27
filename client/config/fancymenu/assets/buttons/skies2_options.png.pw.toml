@@ -1,0 +1,8 @@
+name = "skies2_options.png"
+filename = "skies2_options.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebd9f19847e5db5a7fed825267270a07756d664ce68756d64cd3d8b6d5713dd7.png"
+hash-format = "sha512"
+hash = "565d7c3ea674acd6b01202b821758ef89317c05c5254226ff79d67512e5bd7cb175942ed7104a497a0fa1858d39a210372fc32db9618502ea8689bea9a46a34b"

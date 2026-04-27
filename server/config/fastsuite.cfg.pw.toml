@@ -1,0 +1,8 @@
+name = "fastsuite"
+filename = "fastsuite.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bcc54f656096efb9ed3899fdea409624ab17d12fe9647f43a1bcf4e46fef9f04.cfg"
+hash-format = "sha512"
+hash = "673a7022cdc88486d5d6b8533d286ce6e46e6168a9b2a6763e1b67b1adc18fde6a8828156aa3e7c7e2b5cac5926ee7200dad55aceacfcd7b4bdc3d6d94b9f11a"

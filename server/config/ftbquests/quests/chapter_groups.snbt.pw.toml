@@ -1,0 +1,8 @@
+name = "chapter_groups"
+filename = "chapter_groups.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cf5be02f0c718d593e5acefd9477963c62cc01219f5461d7819f0ab56397b7d.snbt"
+hash-format = "sha512"
+hash = "116b0c6dccd0c921eaa42f614101d9e8eb0167b790d3f10694663894e8045db3e4f55fe357d4a22d9e3749b0131607ffdf932311dc7bacb4c846ff9305e286c3"

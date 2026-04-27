@@ -1,0 +1,8 @@
+name = "ars_tower.nbt"
+filename = "ars_tower.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1d7cc51131749bb35143bfc078431b8f5c97ccb06186923cc9c7ff7273877be5.nbt"
+hash-format = "sha512"
+hash = "840900ac2099fd880e062b621384e23084bd5b8c1b930ff34e37d04d30607303ae3df99495e874cb9ecef13cafe9f803a200fce4f7e25dfbd4123bb9489e5b92"

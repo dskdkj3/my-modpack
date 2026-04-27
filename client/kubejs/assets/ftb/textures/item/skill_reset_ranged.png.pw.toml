@@ -1,0 +1,8 @@
+name = "skill_reset_ranged.png"
+filename = "skill_reset_ranged.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5093e36677c830ffb099d9fa6c0a028a1cee5d0fce7c9643d5f40da81d4d1c4.png"
+hash-format = "sha512"
+hash = "42876007cb1b2921f0ca889809bf0528e6717ca80e0c3e164314cee97c162f2d0fbae4f07b584afa752c7bb45095a07d6c30cae7070180339bc315ef44b870db"

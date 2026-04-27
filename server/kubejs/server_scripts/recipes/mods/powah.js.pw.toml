@@ -1,0 +1,8 @@
+name = "powah"
+filename = "powah.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7baff811c5967aef1ff539beb6c4c65f41c03adc8b2ae006be57d345feb0e586.js"
+hash-format = "sha512"
+hash = "2555e67ff0d0a65f9fa2df2dd2e72788b250cef7ed1f44a739bd31690d75f6f385db8de3d50a3bca2e5504b07b72b1139a2a8d5a0a8735dcd465e1e6cc97396e"

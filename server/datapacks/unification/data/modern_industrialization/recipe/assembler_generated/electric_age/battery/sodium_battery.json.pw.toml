@@ -1,0 +1,8 @@
+name = "sodium_battery"
+filename = "sodium_battery.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/89d70a25d4a5595a65f6672ab601c2c92c94ee4e846d3362a3dc617c3775ff77.json"
+hash-format = "sha512"
+hash = "db193a18ae058688718a5074401525242283864d53c2cc38a307ce9a14ef47546d8cc7b9861a142d95bf601b4acaf9d96b33f38601445956037a902244099c66"

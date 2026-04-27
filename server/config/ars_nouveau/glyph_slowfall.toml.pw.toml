@@ -1,0 +1,8 @@
+name = "glyph_slowfall"
+filename = "glyph_slowfall.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/656dd3ea4e0ac223cd8fed951a95b79222998263b91004f2bb0d30d9fc3abe63.toml"
+hash-format = "sha512"
+hash = "21d8f106eb516e581024b1d280650fddac70e9af0420992f8b86037cd594362fbda33d474c14c130f45d1f1bfee2130b105a6801f3a78c308ffe040ba1cdc76c"

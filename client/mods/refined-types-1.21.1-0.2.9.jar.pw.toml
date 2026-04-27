@@ -1,0 +1,8 @@
+name = "refined-types-1.21.1-0.2.9"
+filename = "refined-types-1.21.1-0.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7282/158/refined-types-1.21.1-0.2.9.jar"
+hash-format = "sha512"
+hash = "ef59906f8d64f354f9a6ae68117a057143cb0028682dd11c189374fb3adffb4d1084cee527953450961522af5a8227d116a7326f14537a095378ba68da89c5d2"

@@ -1,0 +1,8 @@
+name = "hidden_potion_storage"
+filename = "hidden_potion_storage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/201bb63fd3767adf7f67b956f0e3c8cd234e2e231340f1602066a28b33665ee3.json"
+hash-format = "sha512"
+hash = "9827ad8b3a03a876714f9014de780283098ebb0ec17bbbcedf7db5b73b471a841ce47404e20d29e4f9b269232214452cd20108c4484df5342aadc02bbf3b3091"

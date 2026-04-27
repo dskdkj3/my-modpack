@@ -1,0 +1,8 @@
+name = "alien_paint_bucket"
+filename = "alien_paint_bucket.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5d7deca1873bf2416526ab095374b906609f35757613186548a53b9433db3c4.json"
+hash-format = "sha512"
+hash = "f7951f520b5def0ec436f415701d7e41ea27f8fd776433608bd1e2df5929512213753e3614d766dc86a02a825551a4acd7fc3ddb6397bf7d1888a659566e52ee"

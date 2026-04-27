@@ -1,0 +1,8 @@
+name = "sky_village_normal_house"
+filename = "sky_village_normal_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/60adf3089385a54348b6835bf4b13f5a75f2f23a65cefad82866c02d132a517e.json"
+hash-format = "sha512"
+hash = "d0461acbe5629f2fd0bde268cca9eeb0a4cece030171b1f9eeb54b6740b88b78bf3ca3591bb004a4aa3bd0ffccd860a667ad6455bf73b3466b8833179c04fb23"

@@ -1,0 +1,8 @@
+name = "laserbridges-1.21.1-neoforge-5.3"
+filename = "laserbridges-1.21.1-neoforge-5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7150/38/laserbridges-1.21.1-neoforge-5.3.jar"
+hash-format = "sha512"
+hash = "a4980d60ac432f5649cbc513ed145e296590204095cd431d4c21be8414306569898ec298ecd964901fcd6a913acc5bbe8604af1b6d87f48ead8fe04a7b3d6cd1"

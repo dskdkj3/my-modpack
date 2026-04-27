@@ -1,0 +1,8 @@
+name = "glyph_orbit"
+filename = "glyph_orbit"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/ded68e29f791024ef308c19a4623b8885742c7aeee9d1531a531833ee51cbafa"
+hash-format = "sha512"
+hash = "a90221e7a48a563ab5fe4c9d1442f89daf5a514146589bfe2d7f84384d3d93ae60e0c246604e57c664a964e4574753118651cfbda88c48175374a6bdff55dd25"

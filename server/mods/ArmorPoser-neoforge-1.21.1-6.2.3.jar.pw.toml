@@ -1,0 +1,8 @@
+name = "ArmorPoser-neoforge-1.21.1-6.2.3"
+filename = "ArmorPoser-neoforge-1.21.1-6.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7258/882/ArmorPoser-neoforge-1.21.1-6.2.3.jar"
+hash-format = "sha512"
+hash = "b720c487673b124d068ab8d0cd1c28fe69541e4a8e7430bff39a8a0bb170e93d9693ee7c6a6c1e423ef6eec58a13a3a2bb347d63ba119fb5a6c15c47815b8e75"

@@ -1,0 +1,8 @@
+name = "ftb_bridges"
+filename = "ftb_bridges.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/87e4e19d408245c63330f270de06d78ef10fccc2dbb597c5458b9f303eb725f9.json"
+hash-format = "sha512"
+hash = "381dc32b03b3b84bad253f2865b894327ca59bcd2e8421dd78c1b8fad34465a59bc75c048ae2a5aba48cad814bb060b0a5e967d409c3d4117b087d86a5eb106a"

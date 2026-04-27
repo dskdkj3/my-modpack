@@ -1,0 +1,8 @@
+name = "skies2_icon_32x32.icns"
+filename = "skies2_icon_32x32.icns"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4b240bf60555b4de4229e4fdb83dfca765f6a794995a6b291106c16931be69ba.icns"
+hash-format = "sha512"
+hash = "a89ad143d8338d343ff92a10d9936a0bf518fba6571dd3d239ecad3ba95f6ba4b6f99812500dee7a7c5fc6287a9ea81d2a7c291675a56ce2c9196ec40dce5021"

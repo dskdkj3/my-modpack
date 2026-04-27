@@ -1,0 +1,8 @@
+name = "large_steam_boiler"
+filename = "large_steam_boiler.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aaf5c590b4e5c9edb11165e5211c5629eb01ae619aec2caee62930974b5db27a.json"
+hash-format = "sha512"
+hash = "8933a977dc10b863e9a0a2fe1ca38325036cd8cd596a8efb78901d540d1c9d2fc75af53c877adb39f3de79bae0e4366e5b96baa928215124be1e254976f6c3a9"

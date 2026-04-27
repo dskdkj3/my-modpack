@@ -1,0 +1,8 @@
+name = "oak_bees_0002"
+filename = "oak_bees_0002.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fea4fb5343d536a9e3164b003734c33021b4a2a714948301a9e4a08661f98b4c.json"
+hash-format = "sha512"
+hash = "7565489f4f6c46ff3819a82bd31784c0c1c413da53d1aef6d04b439fe349a31a60f85694408ff33e7f474a33332d9e56746a18c73b5d70a45ff5dd1877c308c4"

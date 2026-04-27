@@ -1,0 +1,8 @@
+name = "ancient_city"
+filename = "ancient_city.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eac36de330ae3624609eb56f437148b990473d8e5eb9713382d0890361fc3985.json"
+hash-format = "sha512"
+hash = "3b9c646f4cccbb4ab15fa6762590ae9da723120774024756ab00e8dffa823dfe3f486249afd2192608fabef380e3dd21c4f515811101fa4a8570532a6d5f9068"

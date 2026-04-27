@@ -1,0 +1,8 @@
+name = "skyvillage"
+filename = "skyvillage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0423ba8b06dc669256309f82bb7fd78f15c3a86bf37b509d85c93e0b6242428.json"
+hash-format = "sha512"
+hash = "6bd47ab51b931bfdbdff1be3349a00fe69e9033fae67bad16c195ed5f194f926b5523c8f395045498993fcd1cee887369e9c19dcd524f5ab9e467328ab2e0190"

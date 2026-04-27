@@ -1,0 +1,8 @@
+name = "village_taiga_house"
+filename = "village_taiga_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/ccd78b5e392c880dc1eafb4991c997f70830db1020ebd43144bdab6003ae586a.json"
+hash-format = "sha512"
+hash = "c6a9659773904f1efcee7648bb882a9af13f314a231bfc182f405763a9304db2e096c10c8f63dd2f1fb0ef4aedae078d7540b6280535d39fee4ff5c8e46b7737"

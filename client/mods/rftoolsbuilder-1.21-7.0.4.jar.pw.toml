@@ -1,0 +1,8 @@
+name = "rftoolsbuilder-1.21-7.0.4"
+filename = "rftoolsbuilder-1.21-7.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7284/650/rftoolsbuilder-1.21-7.0.4.jar"
+hash-format = "sha512"
+hash = "35290821cf3f82838cb572e28228780bcfc09b31f630d59f57c01842ef328f92b0c2f16ea4e3330caafd6443bb649f24507a8e6bf69cb6b56bd63c6a53b5429b"

@@ -1,0 +1,8 @@
+name = "custom_gui_screens"
+filename = "custom_gui_screens.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a6b54abce8677f87f74d804ae28dcfad5617ba68f12502981e3afca477561d1.txt"
+hash-format = "sha512"
+hash = "c9a0b424ae50982066dc7a1dee0ac802a5983811cf49efad12bfcbc2aea7a79b844b77f9ad8ed954e419f6c05082025dba1d54233ca59a9a661e7635913ca717"

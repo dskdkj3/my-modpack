@@ -1,0 +1,8 @@
+name = "chemical_reactor"
+filename = "chemical_reactor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15661ba799a50444112a3279a222ddd43081e0b62cd7c8a0b03ef67ee98ccf6b.json"
+hash-format = "sha512"
+hash = "3b2d157da03087425b97276ff5f8038f01fa06774051702d090fed96120268426766be084f60e07f3c0d99f58adaeb747ac5e6899e660a2f8cdaf10c9479bb73"

@@ -1,0 +1,8 @@
+name = "xnet-server"
+filename = "xnet-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f1b7b61653e75da2640bb089516cdaf4581834cc172367a5f2711b98c0336c2.toml"
+hash-format = "sha512"
+hash = "b026b01861881792fcb3fdbd8b00e0604f1c4950eb6f33862bbdaf8773c7133198fd30937106b5d802144e3d15c0d8188116d5a07b646b297545c46182cfd00e"

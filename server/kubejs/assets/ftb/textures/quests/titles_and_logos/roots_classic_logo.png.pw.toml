@@ -1,0 +1,8 @@
+name = "roots_classic_logo.png"
+filename = "roots_classic_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/2484dfe1ada39363c6d889c9d8bd2e89694f51181bea86597a25ecf56b00d162.png"
+hash-format = "sha512"
+hash = "0275966600459796555d95d74061e95e6ee10a31c192fb0344b77bcd69f369b3243f2fac9d4722f7abc30e8b517d7e026baa424586b3d6e378b44ff7b64bd3a2"

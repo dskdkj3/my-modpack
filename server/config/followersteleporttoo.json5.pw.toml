@@ -1,0 +1,8 @@
+name = "followersteleporttoo"
+filename = "followersteleporttoo.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0c4e1c551c08fbb507def3baaaa239f15207cc6e27b7c3a67d9f900244e3b6b.json5"
+hash-format = "sha512"
+hash = "229620184045b9b5d9b054bf98b0e056a09fa9aade92b7ba22c18040591146c77f7879be9e6770a6ec9b57baaf86ca8a1eae19d2142d9ece720e4f1b624cce3a"

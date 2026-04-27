@@ -1,0 +1,8 @@
+name = "industrial_coolant_flow.png"
+filename = "industrial_coolant_flow.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8dd498f9c9f74d6c77e588800b40e4a5d05a56524724cea73b48e805f3f9a5af.png"
+hash-format = "sha512"
+hash = "969d4c77f4c75c47cc0801b60293f030ac3dd305ab66f2dc9cebc01fb285e4e234e5fb5f6648bfc1d36282eca64c14c10fe72152c2f04aa051c41557407d522a"

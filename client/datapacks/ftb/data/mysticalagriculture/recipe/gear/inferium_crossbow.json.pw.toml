@@ -1,0 +1,8 @@
+name = "inferium_crossbow"
+filename = "inferium_crossbow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/9793d5c872f7ef644d0f9fbef746c05cda2e29f9480cda27947df34153bb8016.json"
+hash-format = "sha512"
+hash = "cce455d93ce59c344be3f31681cfd436d2972c92555e1803c61a075e0b3b58ac09cf94b9d7cd205e165a8cd7c69a6394dac17b4ee3933d801eab241be1d1b336"

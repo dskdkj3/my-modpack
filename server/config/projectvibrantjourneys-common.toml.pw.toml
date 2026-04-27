@@ -1,0 +1,8 @@
+name = "projectvibrantjourneys-common"
+filename = "projectvibrantjourneys-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3fdb2f1d549340110de087ad16efb7889d2a9dc30cee3e95cf10d71e800cc6a.toml"
+hash-format = "sha512"
+hash = "1b00a6d4b345e48e23688d970125e7d560e82abe1f44fe8fd37511d8b355d012f3f6ccdfc7f9f068d2956c2f50871d8fa543f111f7890dd5c798377ad9fa902a"

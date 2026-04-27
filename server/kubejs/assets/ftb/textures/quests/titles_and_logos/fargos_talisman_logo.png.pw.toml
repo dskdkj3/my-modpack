@@ -1,0 +1,8 @@
+name = "fargos_talisman_logo.png"
+filename = "fargos_talisman_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/3371a1f2eb31f55c94f5bb5410b860aee268b77e175a71044182179924bcecc5.png"
+hash-format = "sha512"
+hash = "1eed23728ba2fb87c6ba2ddade7204860c9781a0052b782a088877b7a556aa0bc21e4bfc7f0c525845d6d7ef64e230974afa51d1480146acd6cfc2d9c2b2f00f"

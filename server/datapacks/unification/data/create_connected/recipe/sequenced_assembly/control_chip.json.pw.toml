@@ -1,0 +1,8 @@
+name = "control_chip"
+filename = "control_chip.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53a3e28746d6c1849b307be40aa425ea4ed791066076692426f52a7507f66f0f.json"
+hash-format = "sha512"
+hash = "5c32591f8835ab277de6f8d5eed0e80ffc04b9b5581d426bc4bc7b8d42b4616b6251abec760e51e34034c0da5ea0f0997034d45e46dbc39db127b3b8e18fcd69"

@@ -1,0 +1,8 @@
+name = "ftbessentials"
+filename = "ftbessentials.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c17152d1e93d68191f748fdd6aee4db792fb0ed4f4cece91ad8ab85ec3f04a8d.snbt"
+hash-format = "sha512"
+hash = "ca46096d3cb82acb1b25218f611708acc5cb3bc342a430c551fbd0ce68cc16f80a89affe412c1a14f1813c8b87e8af3e44cf723638c0214b10b81a3ae7e214fd"

@@ -1,0 +1,8 @@
+name = "event_apoth_boss"
+filename = "event_apoth_boss.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f9ddd80eb530b77924c0389488eaa1fc584851d4cdc4112dea7081809467d9e.js"
+hash-format = "sha512"
+hash = "f4548bd517da6e28517a11e412e3019236d7c96970be5bfd01dbe9c907689555c9ec22339822078005182da358f930a0549a7379990b6291d28f11a0ee6af475"

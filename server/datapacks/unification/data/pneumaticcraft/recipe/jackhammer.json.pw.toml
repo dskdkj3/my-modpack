@@ -1,0 +1,8 @@
+name = "jackhammer"
+filename = "jackhammer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1d91344675474311b6c4903f0121ce3a77d2ca98031d0dd1a757b3a4f1e73bc.json"
+hash-format = "sha512"
+hash = "b2ce728a779877b94155753f828ea40df15786810644799fb7d21a5363858e94ce16b5743fcc713e30d2721585a4179fb9e34febc0f0ff83b984868483d01359"

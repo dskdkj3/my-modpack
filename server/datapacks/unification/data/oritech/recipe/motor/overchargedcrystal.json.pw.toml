@@ -1,0 +1,8 @@
+name = "overchargedcrystal"
+filename = "overchargedcrystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd0cd64354b800883bcff49d35184f94dbc3a93e83cc5a3ec3b51a6ede7c1dcd.json"
+hash-format = "sha512"
+hash = "219c15ad72aa75999605810fdbeeb3b717a55360df562d7483947928174d55d62e3c2a55d6053432042b21586ccb6ebda7e39ea25a38bb1ec4b2229b7d0ecfda"

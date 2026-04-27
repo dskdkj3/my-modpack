@@ -1,0 +1,8 @@
+name = "glyph_split"
+filename = "glyph_split.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1438fb3030e039070f4e81b5d951ca700eea9d9e44fc5514a2f5d0366a00f2f.toml"
+hash-format = "sha512"
+hash = "900b3d668e7a3f2d885f5f1f02a841046edc78acf5085452de3bb4d8c1eb4660c6eabee547c4c699fccbe85349b74c41b4e6742446d4689e76c64d0c3018c6b0"

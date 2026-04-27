@@ -1,0 +1,8 @@
+name = "burial_loot"
+filename = "burial_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e752fd27825775ebd8bc82e662971a40b39325c2e6d9977f5bc82c59e4afa938.json"
+hash-format = "sha512"
+hash = "ac5f182258c4ef86958b36ab670ae9677a234a7710634f8b7f5cd41237d8cac24a8250d7c7a4514682478c4330cef9d8fe3dde14f382dbd3e23e3f61001211af"

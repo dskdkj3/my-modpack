@@ -1,0 +1,8 @@
+name = "sky_village_fletcher"
+filename = "sky_village_fletcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33cf0c023847737eaea7ee3fa34cc9eaca1699062120db6bd4182f67f910b842.json"
+hash-format = "sha512"
+hash = "b18a243e55f428bc7d5c2d8dad4270177a7db446743e096daa818c64354be5e555f41db5388e52100c15e4fd66054c9ef77d8418bc5feea9e421e439e1a53546"

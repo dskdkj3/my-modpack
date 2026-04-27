@@ -1,0 +1,8 @@
+name = "electrum_dust"
+filename = "electrum_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/00d3bcc271e0e562c0eee87b35a0d699197bfc59d4bbda858804bbcf4b7ec30d.json"
+hash-format = "sha512"
+hash = "871bca176fe4dec1db3d559e1ace3826fba997656674371b3e3b71133988366499b4be2caaa62b781d85d2c7d057bb0d83d0e10da9b32f9f315b5cc383561781"

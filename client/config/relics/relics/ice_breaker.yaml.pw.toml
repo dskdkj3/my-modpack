@@ -1,0 +1,8 @@
+name = "ice_breaker"
+filename = "ice_breaker.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e26045eea3d1d08de1c0b62055a47c346a8d23ea08b2030f795b355199291e52.yaml"
+hash-format = "sha512"
+hash = "ea8070527da66902945fe368e2949ef55f5ae4f7d4d0b66e463ae34b8295f6c86efef255f5e44c258fcd68d54dc0ae50b2178195a7262d4b825c19c4a611f863"

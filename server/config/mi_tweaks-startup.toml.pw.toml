@@ -1,0 +1,8 @@
+name = "mi_tweaks-startup"
+filename = "mi_tweaks-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1f5da79fce0b208b2e020eef9fa21238684b7919233de95f7302dec8921d0ca2.toml"
+hash-format = "sha512"
+hash = "6640a88bc50022ffc8e8a2ef548a3bcdd6a79772c6fe51dcb493ffad7c190be707b2c9e00ccbd1a0ba20b27341bbdf57aaa8c417fc6a0aeaa0e5f0c7a65588d2"

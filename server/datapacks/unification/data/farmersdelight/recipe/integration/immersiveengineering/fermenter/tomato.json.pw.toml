@@ -1,0 +1,8 @@
+name = "tomato"
+filename = "tomato.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/acc44328e4284221d6d1388091cb5103583b16454f87310e5afdef4e2aedfe06.json"
+hash-format = "sha512"
+hash = "0115365aacc896b314f7056049900b537215c42175d9988fe3121ca44930823165c9eed4cf347f565961c03ab37ced94d1bbf6792bbcf14841f664dc936b6f4f"

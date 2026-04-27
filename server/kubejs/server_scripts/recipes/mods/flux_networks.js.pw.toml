@@ -1,0 +1,8 @@
+name = "flux_networks"
+filename = "flux_networks.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5bbb50e89e4ea6f957757f5bfe1a2e8c0e9767ac2e9671b591e5d02fd825011.js"
+hash-format = "sha512"
+hash = "db7aed23acd9d29895d87d6bc4282b2071e5c25c6e6daae4fc86fdd0ccb6cee410dbe98da9d50b18f83f3f7135482cdd35bd56d2322d4730a8deb27ce2f8c74d"

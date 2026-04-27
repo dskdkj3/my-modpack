@@ -1,0 +1,8 @@
+name = "ore_to_ingot_blasting"
+filename = "ore_to_ingot_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b460a85c7ee5ac03d41676d68de98df3b27e482d765af2d56f871b9fb26d52fc.json"
+hash-format = "sha512"
+hash = "4e392c6f9086307308430b8b2ce0b45e0d11c496cad14214d5197bac32695dae626f1098697ced628be0de015413d5524d9b16fb071205e0bc707d75e9558140"

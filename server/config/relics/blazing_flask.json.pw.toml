@@ -1,0 +1,8 @@
+name = "blazing_flask"
+filename = "blazing_flask.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/415acbf6490a011cab6d4d210c504ec512d6a6f4223d9a8f87e31dff69f79f05.json"
+hash-format = "sha512"
+hash = "fcdb522b494194c9dd25b3e80b75e26e2f11577338f4cbb965e893059591161501cb1b36b347fc29767e49ec1529e926cbd193b0f787cfb4c3dc4695ac07644f"

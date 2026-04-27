@@ -1,0 +1,8 @@
+name = "steel_with_carbon"
+filename = "steel_with_carbon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cae8c6101ecd5ae99ce976da7ad3dc9aa1b28bf606e83051f619043d2a661e9.json"
+hash-format = "sha512"
+hash = "6448d1a7568bcca7977698aa82ecf4d49e2efbbcb0f6a8144389a70cfc45ca1cc935ac94942421ea450f64d3537e4abfdbd1239f3a156f85f00751423f03cd25"

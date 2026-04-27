@@ -1,0 +1,8 @@
+name = "crushed_dust"
+filename = "crushed_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6aca2eacde7d1c65a3df937879272ac7ad95df5f672ffe975ac1fa4d04cb2e11.json"
+hash-format = "sha512"
+hash = "ccadccd5f1e9737ab6716ffccad05ec9e7f93dcab3a20b609b285ae5a56dd238525caf6879e3c2fe3c7584307704bd695ce87bd74b5098c14241f01ea67b0b0c"

@@ -1,0 +1,8 @@
+name = "buildinggadgets2-1.3.9"
+filename = "buildinggadgets2-1.3.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6850/515/buildinggadgets2-1.3.9.jar"
+hash-format = "sha512"
+hash = "41e61011371da600c2883fcf55e5e589af973a8d4c444479e1a6ce1686ecc9e63d6bb7f2fe20389e4aa79a47826dd2239db78788ad511cf02df1dbe698eeef0e"

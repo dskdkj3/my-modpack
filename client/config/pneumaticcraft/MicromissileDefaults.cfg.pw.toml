@@ -1,0 +1,8 @@
+name = "MicromissileDefaults"
+filename = "MicromissileDefaults.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/dbcea0dbd1f61f967d47e2613304aa5acdf7670a48afd15fd026a8f310e1463c.cfg"
+hash-format = "sha512"
+hash = "c1df134cef8583f2d9d874d4f6c8a7e2a4ad3df4c3c873fde8b048d79b68d98f1a6df0028e9250ab75c08403905a1512e605c870d07972101fc4a025787752f1"

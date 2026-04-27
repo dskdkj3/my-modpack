@@ -1,0 +1,8 @@
+name = "largesteeltank.png"
+filename = "largesteeltank.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71dabd5b106aa8a83cd99c96490ab42300298e44dd71d619e960a92c1437474c.png"
+hash-format = "sha512"
+hash = "d50a0df16e2453fd56944e5ebcd512589f8f2541e282c68bbc2fab74d01a99c22a4f6f6712c06ff0cb906d57cc3bd6bbc2caf27060c55ff42141ca0a3f06d451"

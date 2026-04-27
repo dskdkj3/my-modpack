@@ -1,0 +1,8 @@
+name = "sulfuric_acid"
+filename = "sulfuric_acid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44712a9d24e65d6871781acceb0b3a7fc77a1f61fab61647d2cedf734ccfb01d.json"
+hash-format = "sha512"
+hash = "bdc2a6ddf09d92fff6f0c8d30af9194d87b740da5c102fe22151ae311b86f2a65478cb91e406aecff130e41dc4702fc128edaee5193860ca7940cdb6ceb04c63"

@@ -1,0 +1,8 @@
+name = "itemmodifications"
+filename = "itemmodifications.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/883c939aead3700a8cfe349541dcc48ce2b363123159fdfb8df13e05d43ad9f4.js"
+hash-format = "sha512"
+hash = "e4aa5b9fa9555fc038ad922de4dd1c994522ebf00a03adba05d0009ebbaaa3de34a1ba0debd6974293e56e89852f447f391ef90d890b6df82a69bf2124821acf"

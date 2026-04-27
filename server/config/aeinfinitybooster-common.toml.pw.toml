@@ -1,0 +1,8 @@
+name = "aeinfinitybooster-common"
+filename = "aeinfinitybooster-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f8bb6831fb4b8b05309f960ce25502896bff4a27b975f9d05229b15c50c2d50e.toml"
+hash-format = "sha512"
+hash = "86b644d4040c37862dc1a2cb6d0f144e7097709152a7810f348b5f045ac3f71daa50ae884507636d9d1106b4100ae08cdfcea686bcddc9b716a25268ede221b4"

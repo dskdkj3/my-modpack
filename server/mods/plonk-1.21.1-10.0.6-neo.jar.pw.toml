@@ -1,0 +1,8 @@
+name = "plonk-1.21.1-10.0.6-neo"
+filename = "plonk-1.21.1-10.0.6-neo.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6343/120/plonk-1.21.1-10.0.6-neo.jar"
+hash-format = "sha512"
+hash = "53863c453d49193ce2e337d046c3282cb291aaa516f6da32377a723d6f4338bf08bbd0da638ace2cb57b6a10f7213c3375832da07646d367ccc61a81bec51516"

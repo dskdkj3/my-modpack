@@ -1,0 +1,8 @@
+name = "glyph_delay"
+filename = "glyph_delay"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2afa2f896c5f6631d4f7c6e0ccaa4c340db94ab2c4322a8721a579cd4bf67dc"
+hash-format = "sha512"
+hash = "53968e641ab020eb494d215b9595a799008e11f48a0f81cc6265c639696a9381b2ee5876a66b7d7494e85ca36592053ae85979e4d609341fd9fd67637aab4341"

@@ -1,0 +1,8 @@
+name = "plaques.png"
+filename = "plaques.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd6101f511b15ebe156467246e727900e062ced370cd5468d45b990995be8855.png"
+hash-format = "sha512"
+hash = "4285e9d186f9006bf405d5afe8394f4e042a090b9e145a832c033d44ec8b845922d0d5862198ba17e94288f4d290bc11dfadbc8cf499a006cd9baaccce7db367"

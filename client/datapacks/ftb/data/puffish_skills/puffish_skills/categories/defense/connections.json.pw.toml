@@ -1,0 +1,8 @@
+name = "connections"
+filename = "connections.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/517c8a8d4ed84cd49fa192e62a8714d1adb0c065c712ed04e248eb795b6ef195.json"
+hash-format = "sha512"
+hash = "d0c3b5493211e46aea0b2b769c346f268d88d7d7cb108febc8c74c0fa89acfea7bc030fafab71763f00c0d4187e22e839ace19c61c086cb91ceabca3db108a50"

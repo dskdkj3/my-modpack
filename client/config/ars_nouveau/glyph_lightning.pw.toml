@@ -1,0 +1,8 @@
+name = "glyph_lightning"
+filename = "glyph_lightning"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/155d9b5190a10b33c709f5edd10f38d657a53513ea818d214221d657f1f315dd"
+hash-format = "sha512"
+hash = "5ccf42914320eec9fd1e62fa5622652ade1a7bff79496e8436a0ebe4ed64d69f8deed642cb9be3499874daec79de4b75e1947eb46c08af324cb3bfb86b11b13f"

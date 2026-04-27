@@ -1,0 +1,8 @@
+name = "divine_pearl"
+filename = "divine_pearl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/0413c5b45a4b3ef46664f15b3c6f04af952f87a4ec257afe254d7a063bfd80d5.json"
+hash-format = "sha512"
+hash = "60df36e78096c3cf56052c1f2c91d123382838671d4a985b30b0ccfff4324aeae01cddde1305218fed2f38ecff1d15976d230ac3d38b9f2aa1ffb39b270afefc"

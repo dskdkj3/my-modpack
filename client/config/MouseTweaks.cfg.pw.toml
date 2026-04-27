@@ -1,0 +1,8 @@
+name = "MouseTweaks"
+filename = "MouseTweaks.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20766ed8c25147ca5fe4e7fb900fbdb8564e46cb1f1fc3d903b8a144e4bf8033.cfg"
+hash-format = "sha512"
+hash = "5a86dc45e2999e337cb36f69ca9d388495ea496058b7346d24369c272bec91af055d3fbc37a26a86d0af03a1a29605c4c846612eb58280bafdb648716220927c"

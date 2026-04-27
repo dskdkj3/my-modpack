@@ -1,0 +1,8 @@
+name = "mushroom_island"
+filename = "mushroom_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/485d3c92873cb2aa17d44cad3a4c966d3b40f8d08735f776442e03f9fc699d20.json"
+hash-format = "sha512"
+hash = "277a77bb56e40b8cb6006bf8362024fede7fead5d8fa07345b41c525edae2f5a794d5b1f2f5f8af6b8168dd7a32b3a64a6c5af88daad575611f1f0e7b7ccdbc1"

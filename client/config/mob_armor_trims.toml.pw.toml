@@ -1,0 +1,8 @@
+name = "mob_armor_trims"
+filename = "mob_armor_trims.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97258447ee6b306b7ba09b3b976ea03678983491f83b17ad250f9ef7c35c3d1e.toml"
+hash-format = "sha512"
+hash = "5e93d1594ba5f9a70f8416ca96f135118d5ba72adffd7e9c1d528b7654e2bc2cc3eaef0e924210dc2130445c2e13b2c8bcd3b53a512283cd318ce1637fedd1eb"

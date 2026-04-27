@@ -1,0 +1,8 @@
+name = "glyph_fangs"
+filename = "glyph_fangs"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0c70fceabe58fc76f0776d4674f1c116a4e6bb70ea44525bdc522405a7d1eb8"
+hash-format = "sha512"
+hash = "ae4110e5e066b3bae1df03767e7664b4e8c625dc66efc6daaca0f76db250fddb03dfb18d09fe98270ee35a68fcdc281b476984bf00114621fd7d02ab0f58e7dc"

@@ -1,0 +1,8 @@
+name = "glyph_infuse"
+filename = "glyph_infuse.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb89f94b1618adc04a2dedde00be6f00b842a5680dc761ba9bb3b7f810de504a.toml"
+hash-format = "sha512"
+hash = "519c72a5141fca7e17e0de039584ecd51d9b360a5aefdd9e1e172e7383f20c7d10ce90ce22c90cb9de3fd759218935b8046439d62bd9f7fd7185e232dfc06b87"

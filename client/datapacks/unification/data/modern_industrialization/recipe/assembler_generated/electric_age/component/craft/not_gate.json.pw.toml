@@ -1,0 +1,8 @@
+name = "not_gate"
+filename = "not_gate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec60820b662dc6f879e9c8364cb878b1bfd8b5105f6ac07eba234a27c8b453ab.json"
+hash-format = "sha512"
+hash = "22fdbca9550b99aaee6d750b21174bc16d9aadd41d7fd455fb04e773ef15cd1a8dae21488be4219e641bd235df7070212e45b3f791b57320440079521d6114f2"

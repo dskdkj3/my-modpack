@@ -1,0 +1,8 @@
+name = "additional_library_loot"
+filename = "additional_library_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8bb355ea02e2f691725e53f595af79747775e88de06369b49da02a293e318d6c.json"
+hash-format = "sha512"
+hash = "a7b761a35bd06adbff85ae6c61379bb8363e88a1f52cdaac0ddca095d3b9df772ff2701ca9a7f5893b96939d535b3b786cdaad99f1961271ccce442f33025b27"

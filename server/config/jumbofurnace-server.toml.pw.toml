@@ -1,0 +1,8 @@
+name = "jumbofurnace-server"
+filename = "jumbofurnace-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8398775aa5a51a5a858d81975523aa0bdb125dec36cfc6cedb784dd6a8f4ddf.toml"
+hash-format = "sha512"
+hash = "aeea7416f3938bc20a5db0fb79b3b67c549dbab690dbc911691e5eabb228a0ca886cb40cb4d29abb12e9f142248ee9debb4a3c75454be1d059a66def98c35cea"

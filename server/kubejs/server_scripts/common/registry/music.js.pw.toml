@@ -1,0 +1,8 @@
+name = "music"
+filename = "music.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0af1b56cb8f31cd664056284e70fab8b5c30c1e50e84c4598bfdc2be53036e0f.js"
+hash-format = "sha512"
+hash = "137ddf12276313a1bcb7e9a09dcd132238598123f1a8e97962bd6b5bc09ed8e8c0bb1c699afbd0a03a9dea9709ed35e40f90a20687df3d917204158197020163"

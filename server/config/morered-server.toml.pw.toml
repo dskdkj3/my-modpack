@@ -1,0 +1,8 @@
+name = "morered-server"
+filename = "morered-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6b35121a39d6ee6b5dee9f77d54db818f1a36153e3977c4cc42f643e154812e.toml"
+hash-format = "sha512"
+hash = "dc76e0dc732202293de92b4dc52fe94f686a132fa9309e06113900615f935932bb5f571af374760fe04e2598664d3de71c3d8c7e51ff5e9a68222d5bbed957ee"

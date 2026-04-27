@@ -1,0 +1,8 @@
+name = "rewind"
+filename = "rewind.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef124a184962d5802c5d7aeb9e347a75c6e38971d082d8bc5ae8fe2437004a3f.toml"
+hash-format = "sha512"
+hash = "ba06310b531e8d3fcfea9aa1cea1330d57fc6ab149faca4a896ab6826f2039f9d3ba27d3efa95d3627ce8553b30bef99246eb646d47ff861baca15b8df8259e6"

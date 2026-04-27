@@ -1,0 +1,8 @@
+name = "ali_common"
+filename = "ali_common.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/688802fad71da534453dc29f4a6e63e4c3f9a69d7705e714e670947a5c138087.json"
+hash-format = "sha512"
+hash = "2eda5031c1c00a4908cf4079f68a0e27340551e8c05316a2426a81c5cc4e0be151690d949c0a928d3b78b57dfed50e0c799f4f613b8f59c9d9b5fb2b2d67e0ec"

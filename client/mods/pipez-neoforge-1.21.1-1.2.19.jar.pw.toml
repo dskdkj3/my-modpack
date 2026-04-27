@@ -1,0 +1,8 @@
+name = "pipez-neoforge-1.21.1-1.2.19"
+filename = "pipez-neoforge-1.21.1-1.2.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5757/713/pipez-neoforge-1.21.1-1.2.19.jar"
+hash-format = "sha512"
+hash = "6c81ac7e659e8df3abc066d1cd67251fabc39b58d3de7b6c77d8a391d8d76f47d1cdc33e1790bdbcc4054433ed13f299ccba983808d5a386a2e8b1dfafd475c7"

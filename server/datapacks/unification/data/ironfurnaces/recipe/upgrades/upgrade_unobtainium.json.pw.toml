@@ -1,0 +1,8 @@
+name = "upgrade_unobtainium"
+filename = "upgrade_unobtainium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc89a9032d5f7793272ffc01c4e8bc4ecb195da9a57116ec36e423c72774bda0.json"
+hash-format = "sha512"
+hash = "a330fddd2e4d589a3fe362e609fd414ca12930cac12553b7f3698a59ca6f4da49a9ffaea856129aa69b684ed69e88ba4e0710d3ecdc69d333addd6073eae932b"

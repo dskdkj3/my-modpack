@@ -1,0 +1,8 @@
+name = "sgjourney-common"
+filename = "sgjourney-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/79dd249b5c5e94af0524be8d1a38883c1f0fa47e37da1343f2847795c250bcd6.toml"
+hash-format = "sha512"
+hash = "643af747e97386cf1b75adb91e59cc6b361c622ad7284e7c6f5c994812e3967496a823b57c8e7758db88ba5facac65d4a7db6b67f4e9afbc877a7b029dcf0aea"

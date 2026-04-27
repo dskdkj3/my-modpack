@@ -1,0 +1,8 @@
+name = "glyph_extend_time"
+filename = "glyph_extend_time.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a5c4f7320be90a9bac4ec0cd0cfa7ba5b9623c4a8d7d6eda6f544e91debb6aa.toml"
+hash-format = "sha512"
+hash = "12c57c5e043db53c43e0cc0934edd4f7ece2728300b7313c01d1feb928746041d231c259766049b0300e56a9f2796be1c6fdf51496e4839eda47c2dc2ceb95c3"

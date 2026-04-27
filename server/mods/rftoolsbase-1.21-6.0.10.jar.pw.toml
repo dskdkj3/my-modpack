@@ -1,0 +1,8 @@
+name = "rftoolsbase-1.21-6.0.10"
+filename = "rftoolsbase-1.21-6.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7263/404/rftoolsbase-1.21-6.0.10.jar"
+hash-format = "sha512"
+hash = "4fc0a3c9362cfdee0f8c32cb60b1e1cea9a9f7ab827812ad76528488fe3962011954efe41d67fb9ae74cd3c0e2e246c4691b806f3a512a7ffea8190329ef2f34"

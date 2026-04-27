@@ -1,0 +1,8 @@
+name = "forgivingvoid-neoforge-1.21.1-21.1.6"
+filename = "forgivingvoid-neoforge-1.21.1-21.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7458/886/forgivingvoid-neoforge-1.21.1-21.1.6.jar"
+hash-format = "sha512"
+hash = "c8b468aacc77a61eb2aadf085e7fa55e7e15527c7d68c6183facc202fdf80b055aeea67a6d91aa6014aa42066dd034958ff2f4d15864228dcac56b9fa91cb33f"

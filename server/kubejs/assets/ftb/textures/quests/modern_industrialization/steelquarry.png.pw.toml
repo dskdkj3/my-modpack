@@ -1,0 +1,8 @@
+name = "steelquarry.png"
+filename = "steelquarry.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a76aea6ddab3036851ee8298d2e2ac59ad95ee879c504fc8dd6ef20271b5715.png"
+hash-format = "sha512"
+hash = "8270f82dbc4ae8b0e064edc400b67b31d6138823748a624f639dd143aaedbccae8a150a7176b5bbb3be49dee83b8303260bceeef530c1efac9789e7debede99d"

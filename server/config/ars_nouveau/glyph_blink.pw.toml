@@ -1,0 +1,8 @@
+name = "glyph_blink"
+filename = "glyph_blink"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/4631c7ddec341f652531b9d82fc00b999e1a0473ca171c25371e85b91fbef62f"
+hash-format = "sha512"
+hash = "d0ef6469158a803f4db4d259781f7eb215dba267b51d807b62ac231b0b508015eb3484024e9dbb6521e41cb9695269fd53c3b268a7945c4ef3e28240c52db1f0"

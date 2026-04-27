@@ -1,0 +1,8 @@
+name = "crafting_on_a_stick-common"
+filename = "crafting_on_a_stick-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d19bcc54d0eb3a26dafda08d12dbdeb00a1c20df0dfff0ebd05bda61746f80d5.toml"
+hash-format = "sha512"
+hash = "be79febc4b7b644277a8dabd783e9ad9be28268a624db8c70a44805475340f91f075120edd1b4410dc162f38b85c40205e40750bebf6999f3be325011054c826"

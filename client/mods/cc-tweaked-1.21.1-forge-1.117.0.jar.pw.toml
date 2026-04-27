@@ -1,0 +1,8 @@
+name = "cc-tweaked-1.21.1-forge-1.117.0"
+filename = "cc-tweaked-1.21.1-forge-1.117.0.jar"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74498b83006ceba21b3685ce403bb0356d73b84ade3540aa479a0be158ffb1f1.jar"
+hash-format = "sha512"
+hash = "6fb0a7263845552d31683c7548b80bd9449acbaae5ad200391f1b5866caf225f2308a025a59bcfb0eca9205c11c691810089d87e569f6ada83b6218c0362fa97"

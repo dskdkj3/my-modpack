@@ -1,0 +1,8 @@
+name = "ftb-stuff-things-21.1.16"
+filename = "ftb-stuff-things-21.1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7321/199/ftb-stuff-things-21.1.16.jar"
+hash-format = "sha512"
+hash = "d80083cd5642b06bde641b2640c48e274d32bcee3f4633bd59fcbd61999448be4752fc3e44683149af6553fbaebb5d091c894dd1d23e516d1ff120fb2a8e9437"

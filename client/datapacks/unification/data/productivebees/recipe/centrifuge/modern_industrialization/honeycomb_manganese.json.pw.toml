@@ -1,0 +1,8 @@
+name = "honeycomb_manganese"
+filename = "honeycomb_manganese.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a3ab0ef968717dd9737743b97973a1034683ed30abed296e644f0f09f7ce08f5.json"
+hash-format = "sha512"
+hash = "03fd4eeded291844f849aa9886785074a0fab8e609aaa81a34fc1dc6d86ccb9435144c45690d78de1d2eb6b1576f83f5f5d516739723064e6434c9a439d78ae3"

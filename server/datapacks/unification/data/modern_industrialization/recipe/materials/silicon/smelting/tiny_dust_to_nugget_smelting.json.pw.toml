@@ -1,0 +1,8 @@
+name = "tiny_dust_to_nugget_smelting"
+filename = "tiny_dust_to_nugget_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f56cd5b877233784db35833d9bccb6c615cd098a8882ba17c839a3af41c4d01.json"
+hash-format = "sha512"
+hash = "5e359caa6ea8a7244f648d79b46d0afd8c21fc4a1d4e7ca79d17b513f21f9611ea53a8e0ddf8a6fe0bf1c2fe8e46425d4213f85205590a2b6811893b347e3a82"

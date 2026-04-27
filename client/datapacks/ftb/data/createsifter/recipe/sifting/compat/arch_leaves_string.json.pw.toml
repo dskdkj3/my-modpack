@@ -1,0 +1,8 @@
+name = "arch_leaves_string"
+filename = "arch_leaves_string.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef0015cf4248ef79a7974279a9c0aa3867a9061ad427a0c330cfa82e253edffe.json"
+hash-format = "sha512"
+hash = "170f11152b0deb322f6860df81a9cb1bff757aa7e5a9520b474536135cb5568bd440f6aadad92e88141e1d249df8f9ec17e7d1e1863662bf348eb93d2abe6de0"

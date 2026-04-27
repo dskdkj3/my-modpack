@@ -1,0 +1,8 @@
+name = "crit_damage"
+filename = "crit_damage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/880dde40ddd6c9b33d0d2adab2e6eeccfba7838689910dafc49f0decf970487b.json"
+hash-format = "sha512"
+hash = "52c363bbd759de94fbde6e03933bedf833c5892df4fbb09746bc51e38cf86792140c19b9e415f8a605185994a021f817cbf512483635daa495b71f40ea4f56f6"

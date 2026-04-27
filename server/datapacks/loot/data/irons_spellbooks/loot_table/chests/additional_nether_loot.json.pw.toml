@@ -1,0 +1,8 @@
+name = "additional_nether_loot"
+filename = "additional_nether_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e65dbdc419933071b83f5e3fd0c0c6ba4307c1112e7a3b8bb079155f4efa9ac.json"
+hash-format = "sha512"
+hash = "56ad4faba21252d06f91375d089b5f463557f84bfb871f9f5661cdde8661c8026782b96db3b53b48c6e06d79ed677374634f73fa31388b31eeb8d0d1492f01e2"

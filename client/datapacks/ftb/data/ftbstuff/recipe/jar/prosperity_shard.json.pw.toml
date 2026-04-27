@@ -1,0 +1,8 @@
+name = "prosperity_shard"
+filename = "prosperity_shard.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/51c47364b353ef19509d20519e810d5cc59c5879c0a4947f87ead4db95c52c92.json"
+hash-format = "sha512"
+hash = "d1b485894e85fd7ab7219b86bf2dd98cc173493cd50d864e209271413c8310bdde96faf401dc84a9edf431c24ba5df58cbb09712a078e1f24c7f4fd3604f3425"

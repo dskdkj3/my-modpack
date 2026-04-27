@@ -1,0 +1,8 @@
+name = "babysheep.png"
+filename = "babysheep.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6da3f3a0890b654cb43b8e4bf32884c65dbb676bc274ca52beb1c524cbcfeb1.png"
+hash-format = "sha512"
+hash = "6c62b7b812740c38284fa5ebb1412ba55889dfe38f11bb6d4169e2bd91856c1dfb4279b685f80463b894c73ace086c9bf5c868a3038f570d8727f043d6598ea2"

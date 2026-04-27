@@ -1,0 +1,8 @@
+name = "ghostly_comb_to_block"
+filename = "ghostly_comb_to_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e24b7ee6af752f0a5c079af8bf711a78f570e6b9ab4dd85319672e28f44d2a7c.json"
+hash-format = "sha512"
+hash = "8b47c51f1438f1e0bc71282d4603f48495173b9d269de5d59ae36fa8d92761ae4de0f73802d984b81b90dcfc0ad1859dfad8cdd637e1196abd2fb2135e500cf7"

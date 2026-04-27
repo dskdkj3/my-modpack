@@ -1,0 +1,8 @@
+name = "enderio"
+filename = "enderio.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc8a09cd03f4199c601d73a8d6d8d712a7df122b97407daa348504b83de101fc.js"
+hash-format = "sha512"
+hash = "8eb9370c811e11ea6121db8b40ca5fed76b2e231cdc6c423891f294c65079ac8542db27961e9df354e461a163c195ee993509feabd221ad89e6fe3e8e408ad98"

@@ -1,0 +1,8 @@
+name = "forbidden_arcanus-client"
+filename = "forbidden_arcanus-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1cf8ab6acbbedf0b4fa7ad0c7eb2eb9ab2bbcf875f7861062634e9952923729d.toml"
+hash-format = "sha512"
+hash = "0a278a449ff161dba48433a3bb4cba6279826558122bf0d78a3e7fbbefefac8c5bfdb9f2c02fa54ae870ef9175f60447b47a3ff322c1c3a55c5f6ebebc1b0cb1"

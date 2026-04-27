@@ -1,0 +1,8 @@
+name = "sg_economy-server"
+filename = "sg_economy-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3eab9919caad0276412ac3b125b04ccac1fae9c4ed95cc0eb8dc2c8fc0a39990.toml"
+hash-format = "sha512"
+hash = "d5f2f9612c76176a1e587d9f382441229a98e05ebe05e2d05c21ea2c0cbfbbd7ebd1043779ad59316a25cb6581774e01bf7c355a5955527a43594c42a8829e81"

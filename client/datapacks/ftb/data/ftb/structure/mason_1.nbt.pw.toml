@@ -1,0 +1,8 @@
+name = "mason_1.nbt"
+filename = "mason_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8bad3cb5a1ce0941afc97dc3dc550ea8066ce39686423811f35fbc78a49c70f2.nbt"
+hash-format = "sha512"
+hash = "616f19e985acd88ccfb567ace59c0adfb533132e83451e6452ee65fb7b2db5cd1eb629278808916739cef1e8857e4b2c7ad1833d74654648a67dcefff6b9dc44"

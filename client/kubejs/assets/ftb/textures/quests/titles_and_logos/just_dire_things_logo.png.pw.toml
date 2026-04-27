@@ -1,0 +1,8 @@
+name = "just_dire_things_logo.png"
+filename = "just_dire_things_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48d1d8d7cc33ce8ad93f4d98b38c689920a85477973846f6589985d6da74a8e0.png"
+hash-format = "sha512"
+hash = "c3723c8288f2b96263a4e0595a098725f877e8397bb0082f0193a254f8009b198682dca8b6243e342db317bcdbeccac21a22bab4d2e9e77af314736fc60ae60a"

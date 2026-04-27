@@ -1,0 +1,8 @@
+name = "skill_reset_athletics.png"
+filename = "skill_reset_athletics.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d37ad5904cd38543797e4cb46cd773848a967bb529f94b54edd2a2fd3e6af8a.png"
+hash-format = "sha512"
+hash = "67011975e328887e5cf4981f90a9b61607a191519d98472879d8bd255d6c1ec20bfe6e7fec9d7bf3eeadb86203df10429ccedef1e115c3680e10c81b8d3e32ec"

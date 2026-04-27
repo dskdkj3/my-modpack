@@ -1,0 +1,8 @@
+name = "pylons-server"
+filename = "pylons-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddcbf1ccd33cd39147a8435942277891bcb9cfcab91b4e9eab5b52dd47af3912.toml"
+hash-format = "sha512"
+hash = "59b3f995debc745cab9536ccae4c9fa3856c2a771b7a1ced51bc1691cdeb8d05663106eea72e00ece10a8744bed5a3a2fa952d637024fa3eadd5d883236605bb"

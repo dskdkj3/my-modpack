@@ -1,0 +1,8 @@
+name = "spellbookstitle.png"
+filename = "spellbookstitle.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1690fc84d9d0e342e512f035bfcf5f3e39054f8ceac9426cc4f23177e58c467.png"
+hash-format = "sha512"
+hash = "c8ab4eb7c7a7548c1b2ca760982653298a2f26c61e701b4aa0ed0bce36c8d757c15d11a4d632176f680595ea5c304cf7056ecc5aa90b268f20c4ddf10756fbb7"

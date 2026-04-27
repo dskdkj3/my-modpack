@@ -1,0 +1,8 @@
+name = "new_machine_small"
+filename = "new_machine_small.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b97b2152b6fcdf6815327f215edf72ebc040ea707d81e91bfe248cdbdfbaa81b.json"
+hash-format = "sha512"
+hash = "04624c56d30a7fd6cba328f8bd339278f9e595455e2597f42b947c6b137cc04096ca52403cbdc1a21470dbb6064052bedbc27960044d9d1b66cad1e2d76ea84b"

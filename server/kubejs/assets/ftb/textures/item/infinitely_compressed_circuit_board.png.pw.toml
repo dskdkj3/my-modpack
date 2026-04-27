@@ -1,0 +1,8 @@
+name = "infinitely_compressed_circuit_board.png"
+filename = "infinitely_compressed_circuit_board.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf9ad599fba9991e1d1885509e650b6d2bb712726bd533014f901379dff5943c.png"
+hash-format = "sha512"
+hash = "f8901dbf0ce92e3b643dfe9322247665d900477c7f3993d5e7ee63c88227a8c818eb297d4cb93eaf90cb5fd359c7723678827874edc9fb487fd6bf678b2fb3b1"

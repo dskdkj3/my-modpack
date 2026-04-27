@@ -1,0 +1,8 @@
+name = "blazing_flask"
+filename = "blazing_flask.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/826f2258f882e1cf7aac88b604f5d06ab85455aeae3b58e98dd0e1a073a47aec.yaml"
+hash-format = "sha512"
+hash = "bf553cfac1af30e8706588eecc71eb88b4bf5954444a2ce741e934414e5082cb73ccef0f427335d020578a85bb10f8ed42b199176a58ebded1d5b6d8642dc286"

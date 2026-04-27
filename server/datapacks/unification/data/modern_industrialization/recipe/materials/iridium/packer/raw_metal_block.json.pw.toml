@@ -1,0 +1,8 @@
+name = "raw_metal_block"
+filename = "raw_metal_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/23589e03abfbaa45831f346278f79d4b42263f35c77580839adad0f95de546b6.json"
+hash-format = "sha512"
+hash = "961e0ff9b3ad8f9fd33e943407c5a64a0f7d59781c6bc0d781b378d17e0c415c2f5c0bb986586d8842e8721e1ddd315086faa725980c8bb466bf8f5c3924aaca"

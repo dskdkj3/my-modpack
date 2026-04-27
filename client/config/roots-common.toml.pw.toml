@@ -1,0 +1,8 @@
+name = "roots-common"
+filename = "roots-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5ad33d9e653eb7c664abc6ba2fe738d494fb2fb525979f137d7def5c835c129.toml"
+hash-format = "sha512"
+hash = "f0b87539661f481925ce4ae65ea4b896ce40617790c241904275f446070e4f7095bfd09e4012c9bb0d8e4fd2469d00e2473455cfb304e0a216b3f4693c132155"

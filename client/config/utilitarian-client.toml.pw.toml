@@ -1,0 +1,8 @@
+name = "utilitarian-client"
+filename = "utilitarian-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/452b8571ba0d865011771ac8c7e8ff0726aeafeafe1735812d44fcadd3e280b3.toml"
+hash-format = "sha512"
+hash = "b5bc94538f96fbe6ecfd8f194ee09440d95e4cf26390a0b47659ef24d579ade28adce77986ed4c53435010b32d46a3ff0b332e22549a603f39eb2aa42d860618"

@@ -1,0 +1,8 @@
+name = "glyph_extract"
+filename = "glyph_extract"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c21eef88a504c9668ce4d60dbfc9418f5d2a19618c0f7960be5e0b5c62119e8"
+hash-format = "sha512"
+hash = "ffdae718654926d8d95102e2acf35271eb80d1c95d8f2ea0f1ba7635b2fec8fd93d941701d2427bbdec541b69b576fb00212cbbb341a392afc05fb8224f47a39"

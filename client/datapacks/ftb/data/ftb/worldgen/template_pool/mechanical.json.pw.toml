@@ -1,0 +1,8 @@
+name = "mechanical"
+filename = "mechanical.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b19f07f46f2c0143ce1207c2e4042ff267838cc42640c18b811bb3f77311e4a5.json"
+hash-format = "sha512"
+hash = "e8fb6610eded1b8063cbdd8bbeab4294fb38efef466db73468f898e4d252b4b52742a636dae7cc86c14a7877dfc0809e915e34f37f5cc755abdecf46099580db"

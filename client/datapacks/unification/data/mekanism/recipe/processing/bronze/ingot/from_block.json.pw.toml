@@ -1,0 +1,8 @@
+name = "from_block"
+filename = "from_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/eca03ddc229db22a32c2ccabc576cfbcee1d6f4f1778d36d5101e818947cc21a.json"
+hash-format = "sha512"
+hash = "8b0b515411fb8d6b14aa39c02d79a871f9480397c5d22252b699a305c716f0df73624b776d83c289df7698bbf89c9d7fc105a680d329741236de8e6675cc97fc"

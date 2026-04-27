@@ -1,0 +1,8 @@
+name = "create_connected-common"
+filename = "create_connected-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/525c5efcd7cc204a1328944bda0f98f9039bbb3c23e64cddb161b7d15480870a.toml"
+hash-format = "sha512"
+hash = "f70d02b82ff2ececd043f63f88d6258dc7b7f26278e7d5a44dddd5f3fdffc3fe8d8895fcfe6c1fd6a08b8ad46350b0e01df1306890614f7d63ee4dea6ab76915"

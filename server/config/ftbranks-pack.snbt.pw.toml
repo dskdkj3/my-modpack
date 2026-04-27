@@ -1,0 +1,8 @@
+name = "ftbranks-pack"
+filename = "ftbranks-pack.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52eee48600813aa9f1452e53d03fdbdaddd42901a00dacfd25771f0f3dfe979f.snbt"
+hash-format = "sha512"
+hash = "7469e58962068cb959f79e88a9a88b87be070b1f711d3e8deba22ce0c9f7026c3794af5d3a448021f44c562f82b5fdcaa26e84b5e96e10bafe89681088354872"

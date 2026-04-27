@@ -1,0 +1,8 @@
+name = "kiwi-client"
+filename = "kiwi-client.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c3d731546b36c40f34aaa39e5e2457f87db6c412f069bba6a7f73a32db800be8.yaml"
+hash-format = "sha512"
+hash = "2f3a82ac9384af923304ade5fea3c3a116fc6b1e380061f2d4bb89a9b59cb05f3c803afcba115850a137c81721799ead2c661b7e8bf56e0f384974d355c5f35f"

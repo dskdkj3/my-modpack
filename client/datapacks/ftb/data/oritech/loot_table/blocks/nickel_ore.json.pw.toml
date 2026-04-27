@@ -1,0 +1,8 @@
+name = "nickel_ore"
+filename = "nickel_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2252663e941a6ba5c3afe48e6d14f81788b5480477b7c5b78b8a2ac417e4e0c.json"
+hash-format = "sha512"
+hash = "5088cd9614d8ec3996504c733302094a37b2ae8209d1f7fd84edcfa4fff8e419fa0da6639ff05d6ede19ed4fc8c36c5b08cecff195c93de3391fc1727ffea3d1"

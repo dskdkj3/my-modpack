@@ -1,0 +1,8 @@
+name = "occultism-startup"
+filename = "occultism-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddfac52bbd15f595d5e442bd1190c9e310f30c484e06ddecb6693b87939ac3d2.toml"
+hash-format = "sha512"
+hash = "cd4b37c5eab8687d97c857a66b8421c9f5866d943e6d1a813ea6fb5ab70557e733d8b297bcba27bfd61e841189cc382628c6cc024bda4ca50bdde583af1a131c"

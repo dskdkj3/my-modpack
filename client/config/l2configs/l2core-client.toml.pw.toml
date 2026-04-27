@@ -1,0 +1,8 @@
+name = "l2core-client"
+filename = "l2core-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/dea75b0e0c417ccaf24edf8f356e7fe74a04604eedaa70f1e7f48e43fb2457fb.toml"
+hash-format = "sha512"
+hash = "7fb073959a1f01bad03205997bc5a562995c784b24a183e938f187ccae528987ef54b01b1316a96d7b4d536a11cd7c6ecbd08af2b52b154b15aafd63b9a01867"

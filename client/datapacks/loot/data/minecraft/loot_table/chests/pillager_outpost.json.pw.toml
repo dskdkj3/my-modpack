@@ -1,0 +1,8 @@
+name = "pillager_outpost"
+filename = "pillager_outpost.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97a2e0f87fe27ecff2ad4bc0e605263cc20aa3c4ee92a378fd6fe491db51bd3b.json"
+hash-format = "sha512"
+hash = "26f7dbb97e7a8635b7a9ecc9b1f9ce73c6598f57d62eb8fa66b1240fd08db8be8c06be198b29cae0c1ca35c105b1e01d3c400f6393499b46329f629587940c7b"

@@ -1,0 +1,8 @@
+name = "1024b_chemical_storage_disk"
+filename = "1024b_chemical_storage_disk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cd29544dae366037e17c8bfbb578900ba5929c99a5c07227bf61d37e4268008.json"
+hash-format = "sha512"
+hash = "d8e6d60f47056ea1775275cdab0581d4c8dac28236ca961c7934dd18fab00177474b4e2fdd14afed5e235080a7dd2d484a262dd3ca30d47db55ec6b53ebfb3e6"

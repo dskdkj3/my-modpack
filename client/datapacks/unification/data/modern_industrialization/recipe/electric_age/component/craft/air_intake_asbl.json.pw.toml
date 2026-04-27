@@ -1,0 +1,8 @@
+name = "air_intake_asbl"
+filename = "air_intake_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe198ca2b0bef092c6518a0d033ebef512e80b6531d238e02315f4d80cff7564.json"
+hash-format = "sha512"
+hash = "6e6f451f4fceef0827eb17509514d66ff09795ebe4cb5b1710e1922365c997a10ca52c42dc3e82849f81fc2b8af7926850e7dae520f3c067d8bc3fa50551132f"

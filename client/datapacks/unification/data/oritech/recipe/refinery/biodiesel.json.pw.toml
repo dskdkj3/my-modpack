@@ -1,0 +1,8 @@
+name = "biodiesel"
+filename = "biodiesel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c12dbbbf47519f5bb61a00be65091c0572e7a323555af99be68d020540628627.json"
+hash-format = "sha512"
+hash = "b59428d8fb47affeb60d1aec3f052923b86bf9e0f15f8a66c229a56edb9fd0979db9ce7b8c88d4bd5fb76b6cfd17b32391a2f5ad93a40ca95aa3c73d5a9e7278"

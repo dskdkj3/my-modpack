@@ -1,0 +1,8 @@
+name = "skies2_auxilium_hover.png"
+filename = "skies2_auxilium_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85a7ecf6fd2f38a0f0ffe44d7421a8bbde7353e4383aeb28e3339be75b51b957.png"
+hash-format = "sha512"
+hash = "a06e1102ad0ab393f79b2069e5477e8f02f352156501fd0638091d1f5eb4bd7e48f482d1709b648bbbac99fd2be0254a970900f391bf42b9673e86ffdfabc610"

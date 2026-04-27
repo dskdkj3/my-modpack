@@ -1,0 +1,8 @@
+name = "not_enough_glyphs-1.21.1-4.2.8"
+filename = "not_enough_glyphs-1.21.1-4.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7638/265/not_enough_glyphs-1.21.1-4.2.8.jar"
+hash-format = "sha512"
+hash = "6b665b9826a104577009e5ba3cba50dd35e0364e2a7503395de3d8d741af891a2824e0c9ab6ba318bc757939d66340429c18b3c1ca9f5afa17da6e6960649923"

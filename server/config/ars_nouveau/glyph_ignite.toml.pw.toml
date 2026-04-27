@@ -1,0 +1,8 @@
+name = "glyph_ignite"
+filename = "glyph_ignite.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f27e34f2ab34b03b5b406a15213982c4c4cb0f1bc0a4b8fc6482401e7d7d7a96.toml"
+hash-format = "sha512"
+hash = "585f6f2ebdb62183e65be4afbb0fc13d70668691b637b60e7e3045b47861f4f6d17fe0b27dd3648eae9e8274d90c1f0bff905c3df6bc7ddb4a54728ce39f4bd9"

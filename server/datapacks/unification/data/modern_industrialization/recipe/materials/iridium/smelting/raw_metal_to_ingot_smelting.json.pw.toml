@@ -1,0 +1,8 @@
+name = "raw_metal_to_ingot_smelting"
+filename = "raw_metal_to_ingot_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/101ad5cf2f8b58baff90f937fe4fd0f3289cfe1dbd6d06dc248481a27d22fdf2.json"
+hash-format = "sha512"
+hash = "f283773896d5db1e9816325a65b85974f1b8002f7dadadcfa8c5f33ef3aeca978aefb6e3223a0133a7aa87698099f9e28c83faaa87a1002e333e45b39d1d8dfe"

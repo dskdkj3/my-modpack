@@ -1,0 +1,8 @@
+name = "nightblack"
+filename = "nightblack.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c12acae4a4d0d9b05b56292a51229b9bdca3dd08569436e9ba038496425a05b.json"
+hash-format = "sha512"
+hash = "8fe1b86ff3db595816e8c4b969a7da1ed031ee6bda4a4c9f71f78228015f43429a7a3db2920f427b8bffb6786f0811ab669dea3bf6f37f7969457a52aa14abb1"

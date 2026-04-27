@@ -1,0 +1,8 @@
+name = "houses_flower"
+filename = "houses_flower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/112dc2c1077eaaea5403c2fe54e78d60b2934511a1086d4ab00831e037519120.json"
+hash-format = "sha512"
+hash = "b121b5dbbac0255ef98f4a7c513fad2050b8b451b488591d76dc619d95f24fb6b4748db900cead5e100672429969b8718210e6e75177e5424beb403f31f183fd"

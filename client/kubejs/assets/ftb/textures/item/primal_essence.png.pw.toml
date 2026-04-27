@@ -1,0 +1,8 @@
+name = "primal_essence.png"
+filename = "primal_essence.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb06ec642fb0493aead3fc406443a4152b53083951c87ea8dcf5b01ce843ab7b.png"
+hash-format = "sha512"
+hash = "f16d778a3464881e696d9120e85e02562530ab4ddaf8bf10b2425e2ddcf4ce0a6129d00d56b87e7a29d9efbb27fde2374c781bf3ae4b872339f4117bd18dc8de"

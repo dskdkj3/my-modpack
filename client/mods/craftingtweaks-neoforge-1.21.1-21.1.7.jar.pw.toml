@@ -1,0 +1,8 @@
+name = "craftingtweaks-neoforge-1.21.1-21.1.7"
+filename = "craftingtweaks-neoforge-1.21.1-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7530/379/craftingtweaks-neoforge-1.21.1-21.1.7.jar"
+hash-format = "sha512"
+hash = "388d7a2b62f41d1fc155dd86c716d27eb9395b777e8a4a5fd91a320361860fc573bfa99c434f664bd565191d4a2ba4130c1238074c1e84c834cd550875b6074f"

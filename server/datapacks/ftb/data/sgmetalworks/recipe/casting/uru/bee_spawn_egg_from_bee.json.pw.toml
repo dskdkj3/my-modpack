@@ -1,0 +1,8 @@
+name = "bee_spawn_egg_from_bee"
+filename = "bee_spawn_egg_from_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d2685f60419e7b3f4907367e551dab13274203e949fda9c83be98d036ac7ccb.json"
+hash-format = "sha512"
+hash = "7e630f0bf8da051a5f8a06089c5558c0f3a056205acefc568b60a1464da858dd9dd75647de499eeeefb6c1ea38ac7eaeb1d80d55b9fa4312a45b2735a6830dc5"

@@ -1,0 +1,8 @@
+name = "xptome"
+filename = "xptome.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e57c52bae8665941e95fc5a1dcea849dc9e96d8566ebba365bcacdc99c30311.toml"
+hash-format = "sha512"
+hash = "e36b235e6949b107848a1a5a4242959f2dd7dec71e26ceeceb84228b73f490d59e78b7e0274349c6b120eb34e2fd95f5fc59e4cea149bac20ea3c0076102f349"

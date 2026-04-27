@@ -1,0 +1,8 @@
+name = "glyph_randomize"
+filename = "glyph_randomize"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65e75c0410196aedb287e3f30937f673c924389feb6c9277865b07e4657ada2a"
+hash-format = "sha512"
+hash = "ccf749bf1f17bec9ea955441a21e7aa0ac9c6ffa2bafb216eac2e65dd6ab709c6e4a0955be8cca894ad19017d86571c6f8b21057accd78030537e6760ff2fe0e"

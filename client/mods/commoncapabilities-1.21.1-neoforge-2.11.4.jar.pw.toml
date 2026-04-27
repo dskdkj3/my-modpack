@@ -1,0 +1,8 @@
+name = "commoncapabilities-1.21.1-neoforge-2.11.4"
+filename = "commoncapabilities-1.21.1-neoforge-2.11.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7756/804/commoncapabilities-1.21.1-neoforge-2.11.4.jar"
+hash-format = "sha512"
+hash = "a1f6941432d397feabb103e8659b3b7b3fe00167f4754fd8101a137a305848bf5a6a4fb15d56b2e99bfa9ab50bb10831720b16dc1669a3f915462f286892ea2e"

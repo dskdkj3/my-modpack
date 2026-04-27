@@ -1,0 +1,8 @@
+name = "machine-storage"
+filename = "machine-storage.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/256d3617203e661ebebe05bde887090e9aee90e7af1aba70f3b4b5f6e3c1517f.toml"
+hash-format = "sha512"
+hash = "caa6c898760c5ca3209848375675ca2bf7f5b1755a3f22eaf53092e74ae3993d71add2b31ed18acecaebced2dddb7df4e48e99be562ef5750ea7fb1caeac6766"

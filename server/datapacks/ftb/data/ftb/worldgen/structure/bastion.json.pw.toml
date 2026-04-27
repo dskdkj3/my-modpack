@@ -1,0 +1,8 @@
+name = "bastion"
+filename = "bastion.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/51d5288f82e38fb430c0d023e15626af4e25cbe5e4bbae33763357d2f515ad66.json"
+hash-format = "sha512"
+hash = "d497330ac5d2171ff5ce1e9f6f9d1b183fcfec70fe9dafdedc3ea9f25662e885e6b83978875d7a3264f22283adaff96036afc1c0753306984ce0794e10eb50e6"

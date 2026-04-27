@@ -1,0 +1,8 @@
+name = "enchanted-server"
+filename = "enchanted-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfd82817f2cc7730746decfa6d8d64aeaa14dd6a2d90f947ea19b9e1e8922707.toml"
+hash-format = "sha512"
+hash = "5cc41c2d27ff4fa3d41a62c91ca0829862be8190de4d5219cc5641ba76b91ca0bf48d84b0c12f1726e1f0c843c5c0e83637bfc2990cbc56ebb451f6b6a1238ff"

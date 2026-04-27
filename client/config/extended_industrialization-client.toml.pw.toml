@@ -1,0 +1,8 @@
+name = "extended_industrialization-client"
+filename = "extended_industrialization-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c77434346517a21102e732f58d130d3338026b0e62cc965c697568a5be10d7c1.toml"
+hash-format = "sha512"
+hash = "975903d82fac98bc276f80902f5b12aaf58aaec8756ad1a9b75ec058b2a0f4a16011ef8e73649e22d409b4630393dd43168afe23e224b6d1f048fcc7dc22b9ba"

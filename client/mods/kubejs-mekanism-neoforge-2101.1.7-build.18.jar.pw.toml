@@ -1,0 +1,8 @@
+name = "kubejs-mekanism-neoforge-2101.1.7-build.18"
+filename = "kubejs-mekanism-neoforge-2101.1.7-build.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7213/666/kubejs-mekanism-neoforge-2101.1.7-build.18.jar"
+hash-format = "sha512"
+hash = "7255dbae0ab28eef0698c4c51998f8758eff611a979dd1cfe83d954c4ff5e93a2af65acce50d476d2c8c04dd03747edcc660214ef7a5c22ecdbebdb34cb1316a"

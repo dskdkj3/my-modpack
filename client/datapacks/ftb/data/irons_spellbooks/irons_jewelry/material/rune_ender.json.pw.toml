@@ -1,0 +1,8 @@
+name = "rune_ender"
+filename = "rune_ender.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f0c9351d611d13848f89768e31dd0bb4a13f4a0d17cca36009246a832146e01.json"
+hash-format = "sha512"
+hash = "c71a5c851add7d675050d9d8571eedc4f8a737b944dd7088e00c888d312e9d7c17c65688ca8432c7b49b2b0d27f9920e4ad7693629742d08008c9c70b3c661f2"

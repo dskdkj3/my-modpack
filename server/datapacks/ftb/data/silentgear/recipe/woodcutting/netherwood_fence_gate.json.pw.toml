@@ -1,0 +1,8 @@
+name = "netherwood_fence_gate"
+filename = "netherwood_fence_gate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c4054900f165a64a3fc8fe9cb8f960ea445c17b053fa348afec18bfd7e5b972.json"
+hash-format = "sha512"
+hash = "f2f099c5b714c34a80b4f7f92574bf9c781dd0092db04b89ca6addaf985c41602c1ad510370edd8348f06d9f4fa82884bf15cc8e054ce08051957259b0e4ff21"

@@ -1,0 +1,8 @@
+name = "nether_castle_3"
+filename = "nether_castle_3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/492cf6238f67928ec7e1cb4a5cd4186b29983d2b1ca2fd1bd497ec790f88e1f8.json"
+hash-format = "sha512"
+hash = "c835f2c5fccfc245ca9128d0502322da6de07915e36c8b8eaf574dba86064f61d2c17d325f48af304079e3d9539901a1dc97cc1bfd1dc12fb88061ac908b920a"

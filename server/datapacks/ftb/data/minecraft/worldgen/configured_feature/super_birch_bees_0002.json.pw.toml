@@ -1,0 +1,8 @@
+name = "super_birch_bees_0002"
+filename = "super_birch_bees_0002.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/582eced6e0122d119121a730a82e1f086bb31f2e339d95a343af4a0ce5978d94.json"
+hash-format = "sha512"
+hash = "704152a383cd8bad7ec509fc5d37c5694147e5a3115f9b86523e0b4c2f18ce3dabc06c5f2569da9c29a82467a860ed20c3006572deba8af847283a920864780d"

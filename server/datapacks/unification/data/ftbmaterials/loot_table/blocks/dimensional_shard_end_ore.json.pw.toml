@@ -1,0 +1,8 @@
+name = "dimensional_shard_end_ore"
+filename = "dimensional_shard_end_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc2c0b6694623f02b34a4a4c61c1cb9af55c6c0cf2780f3b56bed1e5f6728787.json"
+hash-format = "sha512"
+hash = "863493ea4e612f8ac8309648575700b9a16c5a029ea5663de83d7a37ee096a4522fa1416d2c1f7013948deb57d5fe320416605e401f215be4d3325f032be5237"

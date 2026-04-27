@@ -1,0 +1,8 @@
+name = "end_castle_spine"
+filename = "end_castle_spine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72a7159e7f10b1360976c5cfecad83adf07dfb13a4574918385e019483d4a783.json"
+hash-format = "sha512"
+hash = "50997eebae643f4afcda6bded62dbebfa8fb5490630a0dfc6d7bc27196ab7a21ba05d0f3369797b274700803601421869d66b61097ae085f445a493e667a4414"

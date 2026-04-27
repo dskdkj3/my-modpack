@@ -1,0 +1,8 @@
+name = "curved_plate"
+filename = "curved_plate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67bc63efd66a94ade7adb24dca42e5bb187754adc1c1205668a266487d9a2b88.json"
+hash-format = "sha512"
+hash = "d0d017e5a454bf387b95017ba796d34cc8cae12eb29b8e773a04f35f64d70f64d6a6a1554dc3db6c130d5cb4fa1e912b418e5ba1f221fefe31763c800e187386"

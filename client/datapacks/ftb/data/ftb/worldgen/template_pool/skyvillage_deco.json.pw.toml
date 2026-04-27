@@ -1,0 +1,8 @@
+name = "skyvillage_deco"
+filename = "skyvillage_deco.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e96476f978f7b486f60566dd9f49afdbf8879ac565f094c1066327668d70a758.json"
+hash-format = "sha512"
+hash = "a82dcb78af1ec464cca3501b34d26169b6bd313438d10472e728c91870fd99d66988454e369a4d50613d8b7300320038e2e934102c6616a6ef49a78ab673bbd6"

@@ -1,0 +1,8 @@
+name = "priest_house"
+filename = "priest_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/213810fa89d22a4157906c4a7176cfb183f29c63ee0918eb024c4a718497c248.json"
+hash-format = "sha512"
+hash = "14e734c701de504086508678fdc491781da532777ddaec5cf7fb0d0580819ed9f0317b0f0fde63a3dd2e439fd277e2d6054f5878bddb03694b42d595e27a1fe0"

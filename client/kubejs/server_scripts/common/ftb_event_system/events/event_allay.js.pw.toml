@@ -1,0 +1,8 @@
+name = "event_allay"
+filename = "event_allay.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d5a93f3225d50ff86ac120c867fd06c2f27085f5cccf58a6136b93aeafd785f.js"
+hash-format = "sha512"
+hash = "445d1a9126ec9a283e275d58a41e9ab03b804d05596a128319a2c53ce1bc92fe6c48dd2d82254d5681260db6122d3019f7d5eddc40ac40b49ac273abe9bbd9e4"

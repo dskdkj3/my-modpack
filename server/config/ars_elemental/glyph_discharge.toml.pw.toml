@@ -1,0 +1,8 @@
+name = "glyph_discharge"
+filename = "glyph_discharge.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9ed5200c199223206b125610bce9f3b9ab511ba30c1754389497e354247f96dd.toml"
+hash-format = "sha512"
+hash = "0768881669a143569d18ac2e1780fb1045615560f68cfed7e5bda2a54bdab1d7a1042a2b11c3f38d44aae4cd56ea40f86126228ccde05cc612ae21a21e9b1996"

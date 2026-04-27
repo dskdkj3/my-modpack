@@ -1,0 +1,8 @@
+name = "draw_speed"
+filename = "draw_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/30663cc36c36706de2ef4a0ba28915600b08ac4011ba9a34d07f89784501a769.json"
+hash-format = "sha512"
+hash = "2580cb24a72d06831bd911590d9293bf2ded1a8e13d57811318eeef50e78bfb1d468a1912a36cf1c5e6266125664542dcc1cbfc294d460d744815a4ca68be77e"

@@ -1,0 +1,8 @@
+name = "main_ui.png"
+filename = "main_ui.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f4bbad97e102e05d348aa72a9b5d55952253f564ebcc43857ef24e95d5338b9.png"
+hash-format = "sha512"
+hash = "d2c16268964b5de0f1847f115e9d2825415bcc4f17225853935eecbfdfc534c5e441892a204be58ec75ff43dc4085326a41f97c5d83ea4b9d32f9f3695c0ac33"

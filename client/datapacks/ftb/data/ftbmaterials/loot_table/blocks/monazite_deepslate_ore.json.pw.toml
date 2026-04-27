@@ -1,0 +1,8 @@
+name = "monazite_deepslate_ore"
+filename = "monazite_deepslate_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32ff93e0e8b9c63bbe92a12d1e3727c63f2281c72872c0ab4efbe81e1d00fa4f.json"
+hash-format = "sha512"
+hash = "fc53dfce168f743330956e8f195cfe8d2c4447ab5bef104e17a28a6867031e8dba81171f61a6a1d9e70064df90e4125cc78c1ddeccec21d393ad0077293b979c"

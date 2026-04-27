@@ -1,0 +1,8 @@
+name = "justdynathings-common"
+filename = "justdynathings-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5eb18f2041dfc19a4f6b17035b4c9750f83dacfd0adb1e3489a420c4ba047812.toml"
+hash-format = "sha512"
+hash = "d8d696220a4331765133acc99b716e38694d3f08049e1ff960b682517d99bbd799874a1726cdd6217f4fa13ee7a15c595cac45cd5ab2ca3b2bb222baf8f6e53b"

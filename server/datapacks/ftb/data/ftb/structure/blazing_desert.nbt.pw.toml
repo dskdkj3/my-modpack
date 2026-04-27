@@ -1,0 +1,8 @@
+name = "blazing_desert.nbt"
+filename = "blazing_desert.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f08c56d93788852fc3c3c63f375c6e0913086b3832bfefa6cbce448ac7fccb18.nbt"
+hash-format = "sha512"
+hash = "b619dd7a090448351348021c0ecbec7eb4ac4ae2989d4035ec25e0f7abebb5f7f22be85d16f7ee8a88a1e503e417fe8e38f674c310f97dcdf66af3e2aad7bca7"

@@ -1,0 +1,8 @@
+name = "almanac-common"
+filename = "almanac-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d6b24a77696b0ed9c1ed5b5b02b387911073405b12287181c5be9ac7eb5cba1.toml"
+hash-format = "sha512"
+hash = "43ba046b3ef6f37a88efc805e2a36b08c9b0c824f6091f7247584be927f281f63b812217d5df436d4f0686c1fca7770b54cedac1324c7ebc53ab9bf303b6398c"

@@ -1,0 +1,8 @@
+name = "magical_dungeon"
+filename = "magical_dungeon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7789304aa6a45928473174d65ca6e4818642d33475a97c9140f07e4849d3cda.json"
+hash-format = "sha512"
+hash = "0d2229fb6e5a5d38c230626d63a1962a69d55ad5b12f33ee44ede188e37a2d47994d74e1a9c95baa0ca4504067bea82c34e2d7be337632bad47b569759a080da"

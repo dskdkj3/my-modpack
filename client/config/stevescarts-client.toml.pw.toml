@@ -1,0 +1,8 @@
+name = "stevescarts-client"
+filename = "stevescarts-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed1f0febb7bacee0b2486e0b48267a484ee28774c3bf38739666e0c7d568864c.toml"
+hash-format = "sha512"
+hash = "605716a395abea75b183d0dda77c7e84871e5de0c9dd547be1c3d9f0c385c7acec108abc5f276581e3314fdaf9c18916bf6f192a5dc32c0b6d778db3fcb2a4b0"

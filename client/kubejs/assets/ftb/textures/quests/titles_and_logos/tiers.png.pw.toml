@@ -1,0 +1,8 @@
+name = "tiers.png"
+filename = "tiers.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91cb873535cf5c2db3c0b091b72ecbc62d7a4c6cb25ff7be19aa90fc5b515d22.png"
+hash-format = "sha512"
+hash = "7bcb47a1470d8de1ec73fe5d95561928a8cfb80faa6dad17c9124a31be8be7691f8c487ea5623439291c44a601826de24bc5cb54c0a78c77c3139bdc807fe1c3"

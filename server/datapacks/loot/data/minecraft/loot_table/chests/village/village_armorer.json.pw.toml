@@ -1,0 +1,8 @@
+name = "village_armorer"
+filename = "village_armorer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d37576a55c5d8044c26425715470fa31501e6a6841c902dffb1f2713a3bc3df.json"
+hash-format = "sha512"
+hash = "6f71cd48c09c4ce8382c2447aab13ae1c22663c6d33972c0e208a96461d5ce93f13127256bb5eb6f391f7ddcbc7e1caf3fb4348b8b17ce798d60b8307787edc6"

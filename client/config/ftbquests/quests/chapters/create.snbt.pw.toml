@@ -1,0 +1,8 @@
+name = "create"
+filename = "create.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/87461d0d9b64d248bda28d7b341edfc00bcee267e843647bd8cd5dfffa465efc.snbt"
+hash-format = "sha512"
+hash = "025ae916c539b37550bb5cad6442e0195fc504c341ee25d7d8062691c9d7f77f63c6672253fe140323f893cb7edcf6d60430450fb6d3a67bb6b0b85a2e42f237"

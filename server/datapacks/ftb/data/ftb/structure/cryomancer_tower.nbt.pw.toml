@@ -1,0 +1,8 @@
+name = "cryomancer_tower.nbt"
+filename = "cryomancer_tower.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85039e1f2475cdd2984d92e2e95e120c5bd6a30ff80f2e7752b64d58594e5492.nbt"
+hash-format = "sha512"
+hash = "12dd5918fb80654a4951f6b2e9d924931d84858de9e2e26f5ff0c266a172e65c48d6b13941ac800adc8c11b73cd96007cf4813aeafe1b6ed990d927a2ed0f825"

@@ -1,0 +1,8 @@
+name = "glyph_extract"
+filename = "glyph_extract.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2250c0d16c3a39360e2ebe9adbc328026a04f7b9a07a58ae9bb405deacc41be.toml"
+hash-format = "sha512"
+hash = "37199a7703d84f39694e7125dcbfc0ac93e6e61d81ea62a52dccf4b0aa6cac7c1ccca007fdcfad16e8f6479fa52b44dd2f600fc692b85b0acb2f52a150a6fc2b"

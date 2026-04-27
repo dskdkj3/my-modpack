@@ -1,0 +1,8 @@
+name = "flatbedrock-neoforge-87.0.0"
+filename = "flatbedrock-neoforge-87.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5443/976/flatbedrock-neoforge-87.0.0.jar"
+hash-format = "sha512"
+hash = "33e479f675f66f27505e3865c288e245676cb321368a321d2b54e0c4d1761d4e268f5eec65cbe9d19e91102e04dc8154466b5c31740bd00388af6d4f0c688dbc"

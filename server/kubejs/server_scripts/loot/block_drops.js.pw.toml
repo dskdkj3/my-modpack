@@ -1,0 +1,8 @@
+name = "block_drops"
+filename = "block_drops.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b78a4b1dfb631b2a0f61b1706336e7b18b2f650cb122089dcd905462ad431bd.js"
+hash-format = "sha512"
+hash = "fa19dfd1ec2fd68a634d0fbd2d819cf413f7b45715c016269f813ed0d14a4fa15e75b425dc4a52ed580233422f6e4b50e2dfc07ce1b443b404bfad98c60ad047"

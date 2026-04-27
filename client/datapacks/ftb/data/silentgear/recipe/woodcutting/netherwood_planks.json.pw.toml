@@ -1,0 +1,8 @@
+name = "netherwood_planks"
+filename = "netherwood_planks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa1a94b46ec49fdf3daf9094f2f58529c9969fe88450720cbfa167d8f33d4fae.json"
+hash-format = "sha512"
+hash = "42978df8fd400c1b06c83a6e139ce15863513afb7cc509188e5976af9436f6900e673052d48cf993852a940e543080e0e5660281991cb71ecc1368eb61572b37"

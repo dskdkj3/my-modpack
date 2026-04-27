@@ -1,0 +1,8 @@
+name = "treetap-1.21.1-0.4.5"
+filename = "treetap-1.21.1-0.4.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6944/182/treetap-1.21.1-0.4.5.jar"
+hash-format = "sha512"
+hash = "106edc5eb3aeca16d0c09436c16dd20464ae8f2bd57057d36191585347a3038fac6932351a0fee7f8a48c76c07841282ee8fa4f4bf59e77651cb57d50b1d58ce"

@@ -1,0 +1,8 @@
+name = "platinum"
+filename = "platinum.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e373fc223797eec81bdbc63dd91d05526213ebab26c7c58ab919e9aadec9566.json"
+hash-format = "sha512"
+hash = "a4dfd982f732141d00b4921b2b76a4840efad61695dbc57a2d0b6c32dd16b9fec76bf09e98c43191bf3ab503f2e65db6bbb6214a0b1994f94b20428abd7ebdc4"

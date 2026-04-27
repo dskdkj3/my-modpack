@@ -1,0 +1,8 @@
+name = "enderio_dust_andesite"
+filename = "enderio_dust_andesite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38cfb2177a1616637146e47dc6ca3a61baf6cc4b580fb26dc64bd70e60acf425.json"
+hash-format = "sha512"
+hash = "6b52867c7b85676b189a5609d81d6c466eb2d0c9d87f9613fce01fe5fdafeec4174ca723992a268cafac6f3850691ec6aa7a4e48ef5f0b6730b35939567aaf15"

@@ -1,0 +1,8 @@
+name = "EnderStorage"
+filename = "EnderStorage.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b531647b7f129799124b4594fffb05567cfde3ad884e3309557d45555a218e61.cfg"
+hash-format = "sha512"
+hash = "c59c916a4e1204eef90e8e5b609ea4e01ea11d91fe32ab97de4c6c19894eb1590859fd40a86336444799877d78511ae49ae4c8b4b3190f4f04db98837be5a91e"

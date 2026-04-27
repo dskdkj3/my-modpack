@@ -1,0 +1,8 @@
+name = "immersive_logo.png"
+filename = "immersive_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/0414d6732726f3a355cb7fbb9ca5b509f81d12086a1bc57eec079a6565d90977.png"
+hash-format = "sha512"
+hash = "d250d2861899beeed373f5c06a6b5e49c8a311c42b262016bb89704776ec19d97f1af424b32a68a5544bfc6f8f141ad5bfaae60df7fe3591c03d187d7332955e"

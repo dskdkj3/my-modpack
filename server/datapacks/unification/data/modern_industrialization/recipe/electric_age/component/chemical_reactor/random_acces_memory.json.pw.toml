@@ -1,0 +1,8 @@
+name = "random_acces_memory"
+filename = "random_acces_memory.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e06fc70ca4c43bed5f44fc4057ac7f796cc26ae6e5d8282e4b43b4b16e849ae.json"
+hash-format = "sha512"
+hash = "9516b852c1960a05713a50dfd7a69b491265a1b2b9f5e628140fe721bfe501161e0f4ebe17004ce52498d6930fd2c781b349c77a91268fa69e9a166bc916d23b"

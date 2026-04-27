@@ -1,0 +1,8 @@
+name = "planks"
+filename = "planks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb7f7795df2334cfb8f24f6f51cbce608088f94de66a0db18b2c703680f8bf42.json"
+hash-format = "sha512"
+hash = "3a40c85df1967b610e4e0c0c620f5b0f4bb822a9db60ebebfb9a1da7244c8796efea6727738ef4ef1cf1f5ff1d3050095d424840cf9f1137226d15210da27a6d"

@@ -1,0 +1,8 @@
+name = "ftbpc-common"
+filename = "ftbpc-common.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d878e5d1d33cdd16a0bb96969d01491243c796bf302af9d466b0ae011ec2b541.snbt"
+hash-format = "sha512"
+hash = "fc35edde5c11dbf4c6534ff2d714cfd32be3ce921c534ad89011dcce4c145bc6232046c490911a5daaaad8c30a206c6f2a113da88841eb760703ba0ce610c8a3"

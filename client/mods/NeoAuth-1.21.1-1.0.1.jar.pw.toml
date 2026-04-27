@@ -1,0 +1,8 @@
+name = "NeoAuth-1.21.1-1.0.1"
+filename = "NeoAuth-1.21.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7069/504/NeoAuth-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "7b2bd93de09efce1ac514bf680d049efecc38b7ef3d21e6cce31f349f4d180e4c46270db748ba7a0e71c44eb6bbfea7d71912b1def65fa10b65a7afc08381d8c"

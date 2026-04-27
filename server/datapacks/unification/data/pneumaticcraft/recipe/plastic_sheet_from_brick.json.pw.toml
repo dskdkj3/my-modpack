@@ -1,0 +1,8 @@
+name = "plastic_sheet_from_brick"
+filename = "plastic_sheet_from_brick.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/631a8362536486a7fdcae783eca4a51db8b831325f93c4cac66a3a9ce557db5f.json"
+hash-format = "sha512"
+hash = "dca9b936d8f383940c762ff9d442be06473f85c6a1a04f97b42536b85f47651ab7883fccc719d38fd33a1d31cdd5baa4e9cbae787cc3fa930be0652aa7a42056"

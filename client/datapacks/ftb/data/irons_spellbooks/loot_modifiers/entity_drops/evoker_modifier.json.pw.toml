@@ -1,0 +1,8 @@
+name = "evoker_modifier"
+filename = "evoker_modifier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40f3b8ee73f928ba770a06b88f83789bbdcaee8c8a9beb4e75ef24646e35961e.json"
+hash-format = "sha512"
+hash = "6182be55fe0ca797fbf281dc717b4e0e599a7ccdf40ff251e19db68e2d24e89d754d8cde4f7fe82c349e4912191faa84546b9d6bae41a5b819ef93c4109f43c6"

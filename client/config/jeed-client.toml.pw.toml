@@ -1,0 +1,8 @@
+name = "jeed-client"
+filename = "jeed-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e4e7ecaca295205dec38a1801297fb10e77f6c618ed9b3903941f9c6c239db8.toml"
+hash-format = "sha512"
+hash = "09d4aedea3998e9942f618730d74bbce86c1614d87f7a910e85b973aa1601b4d91f8f797ec1d19eaca5091dd0d658062f40c5b2f4e08093928fd79de993e7619"

@@ -1,0 +1,8 @@
+name = "mechanical.nbt"
+filename = "mechanical.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/42ba29f3cbfb822d4aabfc2b51a1f91db5826d4b02ec66e78d6d7f71bdba7f5a.nbt"
+hash-format = "sha512"
+hash = "e1757c7a7268a9417c7796b7d12d57a23926fdfc540670d1029ffb61564fa64b3dbb78073b7c39db3e3e9bca9becc4bb7014594c982e2acef11ba26781d3fb8b"

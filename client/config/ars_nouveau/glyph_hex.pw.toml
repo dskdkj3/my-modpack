@@ -1,0 +1,8 @@
+name = "glyph_hex"
+filename = "glyph_hex"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/eef797a8a077519e44da177c20cf19083733f39f8ed2e884b5fbce9018dbfb8f"
+hash-format = "sha512"
+hash = "3082fc23363effe50d0e8a1dfa07f842ffe821d1539d6a06ad325fe8884e29f4cc38f81b9ca690203d3935d3f29a940ce0697206d9997acdd3292a18a82f50e2"

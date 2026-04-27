@@ -1,0 +1,8 @@
+name = "sky_village_cartographer"
+filename = "sky_village_cartographer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6b904a610146d9df0044a705c2ff3ea2c58d76da935c09f2b70b7eee4d158f3.json"
+hash-format = "sha512"
+hash = "192c0f98fe0449c461aef78641230e510dcd900857601e7502d2026272e84ed980dca3abfd7e3b223a407627aadfcc10b9c3e34b634e92cee7b4c0b73ee7a312"

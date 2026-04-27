@@ -1,0 +1,8 @@
+name = "from_raw_ore"
+filename = "from_raw_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/821f2e39b956f9f28e632e14ca42e65842753363fe39a63bcd8c5ae77dcf64ae.json"
+hash-format = "sha512"
+hash = "8da590c4f564e095b5ad769205f09101882795dbde3aa85e466bc11b3f51288a1366bdecc5e324294737fbf489bb0e9ecd026cbf288da288e7b742e04d4d4a24"

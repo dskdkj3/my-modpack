@@ -1,0 +1,8 @@
+name = "power"
+filename = "power.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/058cc0726b99b5625abb490c6031b56d9a71793baf1f6779be9e45b6c17be1d6.snbt"
+hash-format = "sha512"
+hash = "896ec809781b5da43c237618e4ab1f100382644295f33e21db42686ca499542650eaadc2064a36efba1a5daaca70690047d96302ccbca773e55f5e293fd74d17"

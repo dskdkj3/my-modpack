@@ -1,0 +1,8 @@
+name = "lv_circuit_asbl"
+filename = "lv_circuit_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/284b42d3bf8f6295b1c85d1c4ffd1c2f4d76f221a52eb4689512247b179d45c3.json"
+hash-format = "sha512"
+hash = "ae888c0782b2ef9abb126416b3fa8b985f9d4e6006de89c013b21d298ca96c9991dcec5699affb2f5a1c68b6089db4666f8fdc9d82426c205b2b35d07488cbdd"

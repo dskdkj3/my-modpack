@@ -1,0 +1,8 @@
+name = "abandoned_mineshaft"
+filename = "abandoned_mineshaft.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/5211659f43fa464a91e4d5054a576f48386f5d532c2884b6d239a7187228b2ec.json"
+hash-format = "sha512"
+hash = "b627ed4fedbcb049190e364f1d37fa9301d020b1e27e86c50691e8309bb4ad27b3e7f1d4e505fa24927c6f22ba2761ab6da398401e77edab4f312b8079cb9a6b"

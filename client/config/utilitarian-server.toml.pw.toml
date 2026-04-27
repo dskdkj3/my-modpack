@@ -1,0 +1,8 @@
+name = "utilitarian-server"
+filename = "utilitarian-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c78bf9400d0a5e85c8d232852cf938dacde76c86e99e85248fdc112cfe4f7ceb.toml"
+hash-format = "sha512"
+hash = "97039fe70cfe401181ae459cf71d46312c8a37b6e097bef725db81d4bad6828a5aa3776ab5153d4736cdffbe5a1209688df13efa0d9721e9b7fb740aa4aa6c57"

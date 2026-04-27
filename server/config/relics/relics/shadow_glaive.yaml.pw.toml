@@ -1,0 +1,8 @@
+name = "shadow_glaive"
+filename = "shadow_glaive.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5c5e98d570de2d107584d1410763e9a966efbdfc482d30c76e0b36f0b4a068f.yaml"
+hash-format = "sha512"
+hash = "50a8300f368521e4ecc7dab9f41467d06d94b1eeb64f50ed2bbdf347fa27dcce3a33666d6ea426ea0e0be6fe8643abea2b7dc0cb6ccd69d16ed14bfcda5a43d3"

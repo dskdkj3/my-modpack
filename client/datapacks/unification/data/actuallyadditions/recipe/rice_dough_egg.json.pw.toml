@@ -1,0 +1,8 @@
+name = "rice_dough_egg"
+filename = "rice_dough_egg.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae096772e7f99c8319b03bbb44e1921b3aef697c2a841f32c9b1463a8747fa88.json"
+hash-format = "sha512"
+hash = "d4e4ab56b8ecad24165575de4f0c9fd4c01f5bb8e189a8e0184b44f758e23305efec3df966ffbdb2a189910c62b3c71ac6095dc59e59e024d43f3d11a7b753b3"

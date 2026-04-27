@@ -1,0 +1,8 @@
+name = "evolutionary_matter.png"
+filename = "evolutionary_matter.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53c64456ff88e8981d0fb5cb56dfc8efb1b0c3234ebb13f33b56f274541d42b7.png"
+hash-format = "sha512"
+hash = "c768060ad6085fff7dbfefe552245f29ed0b47a7c75c5c41b0cb7c359d212cdcb4cb83e18d5ebc86fef852e7575792dbe2816b226d2177d0412fff131b65af5c"

@@ -1,0 +1,8 @@
+name = "apothecarist"
+filename = "apothecarist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/0342a41a2971473f593de873c95e1c28da8c85f602f5ad472fd5577b1779a3ba.json"
+hash-format = "sha512"
+hash = "e2839c4d85251d59d416235d64213ee612041338e0d13f63ecb98140b9376c8465fda957aa0d81965d5ba7f8f7f1f6329a26bcbefd9fdf235b7cdc220f4d21cc"

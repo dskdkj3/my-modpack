@@ -1,0 +1,8 @@
+name = "steamworks.nbt"
+filename = "steamworks.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a642526897c525760d7feefb387fa5a370258fdc39a5d5502a34aefcb7a3944.nbt"
+hash-format = "sha512"
+hash = "c63f373e12e30236f5918e622ef4049ab1a08c036989f41a07e9f4291426c28fc59ecc817cc0764a4ee39ed5c0f6ce2f9be3c9df61cdf666bbaed85f3f645f72"

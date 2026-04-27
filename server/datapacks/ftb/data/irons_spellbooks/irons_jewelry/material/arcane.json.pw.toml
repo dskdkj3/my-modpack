@@ -1,0 +1,8 @@
+name = "arcane"
+filename = "arcane.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/384bb3e9bb3f3572edb38d66ddc7a9fd0e7b550e787fb50d2f1a8b68146d96e5.json"
+hash-format = "sha512"
+hash = "60ac39abcc3c69956e3708bf891f041124dd22b28a6abca48a68843f176c60848a13145e9a48b9a4cc47910fe5936aa94b36555eb5239d50bb15948870bbce87"

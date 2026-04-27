@@ -1,0 +1,8 @@
+name = "village_temple"
+filename = "village_temple.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97e6a7e1a0acf0e36e0899e165a69c75bcfd5fd59cc90f43cbd8c02e2ef3d72e.json"
+hash-format = "sha512"
+hash = "53651e2fdce4df0c213429d7d1a221fb3f62eed69dc49b667b69a8d3df6ccf74018dc4bf63ded93c3f5962c71b8d147be2b7df4b0619d56571eea43d4b254af2"

@@ -1,0 +1,8 @@
+name = "rune_evocation"
+filename = "rune_evocation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d33de91f7c25d04dc8626af8b00d4dff7dd27329ae2df137d7fb224e94ce297b.json"
+hash-format = "sha512"
+hash = "5204e0292bde1114ab4c08f947b1ab53042f2c2c5a89faf9c07327c0c90e4f43890be6a7ccb600693c3985c562510d267d9f6bd8a4f71626288d05ef52c1036c"

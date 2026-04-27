@@ -1,0 +1,8 @@
+name = "enchanted"
+filename = "enchanted.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/639bd57db4be5aae4955cb2b7fa7e8485f6793122b653bd9659a93106d0218e1.snbt"
+hash-format = "sha512"
+hash = "204e68279ac7902b8f078bc2ab3e6c847c7f55bae253d2a34e57b765c19e8e391cc3dbbea844c08136c0262abd55589bfd5e524e49040c0bb6979186530fe072"

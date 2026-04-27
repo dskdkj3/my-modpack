@@ -1,0 +1,8 @@
+name = "packagedauto-server"
+filename = "packagedauto-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc66613c8ed296390cba4bbe4969b07cc040d740b1e5167466837cc54ca2135a.toml"
+hash-format = "sha512"
+hash = "8025586f4229f3447f22a65ed436cbc24a4e14339f1b0da5375ebed35e60a1f472f9cd46191ec294408810f373b4b6de1d77f47720d2e8a3ffd78be8c1431828"

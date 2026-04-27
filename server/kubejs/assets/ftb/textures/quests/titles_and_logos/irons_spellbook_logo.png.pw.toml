@@ -1,0 +1,8 @@
+name = "irons_spellbook_logo.png"
+filename = "irons_spellbook_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f23ff983c0ac0710c375c664665c874830e16197405b4d9cd6f299093c0bd232.png"
+hash-format = "sha512"
+hash = "e5e3caf1dd8c342905e6a2d71bcdf0198d69e4e35f2dfc92bfe2ac59afcc4dacc6c67e01b533d1f5eadd40c5e9f9d512d179489d0c3fc4718861812e4b2740f8"

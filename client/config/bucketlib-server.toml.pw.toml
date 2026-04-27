@@ -1,0 +1,8 @@
+name = "bucketlib-server"
+filename = "bucketlib-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af045c35df13f89af3a973de795b4f3e8b3b309a38d98d87834eae19f8b029bf.toml"
+hash-format = "sha512"
+hash = "f35335e82918629b8df803a96902f7d11d0c86bba382707db15482af6acdca3035520c76eee6a4b8fa49926b0a09ae8cf15b8fdb07f8a4745ec997d804c4d5f8"

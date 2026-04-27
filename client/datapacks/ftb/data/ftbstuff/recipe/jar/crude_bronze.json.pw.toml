@@ -1,0 +1,8 @@
+name = "crude_bronze"
+filename = "crude_bronze.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c245fb9f830afdad72109e5f19b03c51666698634209a95164e8621f37bbbfb.json"
+hash-format = "sha512"
+hash = "7155dd12712c3fedd5ab3f1f4a936ec7e6fd246d85c102ab92427c499a626d97b675b809ff6ec5187a0c0c199025edf198bea5d5dfb7a1d4f238aa37649e5e65"

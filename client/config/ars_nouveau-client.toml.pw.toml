@@ -1,0 +1,8 @@
+name = "ars_nouveau-client"
+filename = "ars_nouveau-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5b97cb6da3bfd793df2ae421f10988d958fc37161760738e9b9f8ae5acae37a.toml"
+hash-format = "sha512"
+hash = "8269b08e8308924bbd8afcf80afee174ecb6ca07289d15529261bb87fba7abd5c932ba6a7a1d388c1334682056e6be0d234d0b3281b9a646fc71360e4b1b6f87"

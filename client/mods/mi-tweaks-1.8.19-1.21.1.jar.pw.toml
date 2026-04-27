@@ -1,0 +1,8 @@
+name = "mi-tweaks-1.8.19-1.21.1"
+filename = "mi-tweaks-1.8.19-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7279/21/mi-tweaks-1.8.19-1.21.1.jar"
+hash-format = "sha512"
+hash = "bb74af4ba0d9c893fd5dcccb787b001ab7bb13fe9599a45eb86ece58e45fb2073f5b5242df3e8359c5638980dd026fb8292bd83a97fa8877442ad5fc2a52f6e5"

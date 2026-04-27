@@ -1,0 +1,8 @@
+name = "mekanized_super_computer.png.mcmeta"
+filename = "mekanized_super_computer.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/147bbbc7fa5b7c208c6ae25ada7feb55b3433bcba3ded54afb97f5ad06ea356f.mcmeta"
+hash-format = "sha512"
+hash = "954ad310923e83fe8231131434717da4aaf7d2375304388717523785c076aeac2fa8b95249bcc752e36a941c4530292a383fa3e6ce77862db6716f62859c53aa"

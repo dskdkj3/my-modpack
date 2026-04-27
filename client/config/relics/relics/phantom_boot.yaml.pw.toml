@@ -1,0 +1,8 @@
+name = "phantom_boot"
+filename = "phantom_boot.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/03fc03df62bd29849eb995d62d207dc105c5b29ab73b0ce5f7b6fd2baf03cdaa.yaml"
+hash-format = "sha512"
+hash = "da405d2ba78d6725e39f6107317382fbcff9690e3b9d5a532d1a706ba29f0bff23fe6a663e7787394481940adc7c3235f47928f6b5d8d422e17b3b06ac92bff4"

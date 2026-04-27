@@ -1,0 +1,8 @@
+name = "charginggadgets-server"
+filename = "charginggadgets-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c3cc1e8240f885b5c57915e75fdfa23c951ea6380d049c1479e7095ff5f0d8c6.toml"
+hash-format = "sha512"
+hash = "0f62b6b7b2d10cc49d14edd9d387041f27827f68f68b9f20bea18e23b859850c3a0ea1b60cabb1f57bf05a277489e8830acaadd53017c2c7e877f67bf6999e0b"

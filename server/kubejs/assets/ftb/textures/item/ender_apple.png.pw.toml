@@ -1,0 +1,8 @@
+name = "ender_apple.png"
+filename = "ender_apple.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/83a4558b15d7c41261fdd85de89259dd3e60ce2aecc66084bff8c0884141f3ff.png"
+hash-format = "sha512"
+hash = "f3236b5459bc73695c6861c131382ab6b2ff99cf6d5846f3a21d0f198e08a8c50a328044da0b8bc42f882f8927e0299053a6837c5544b0d8a92d058a96f4045e"

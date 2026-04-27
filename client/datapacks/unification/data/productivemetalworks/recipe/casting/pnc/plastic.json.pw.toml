@@ -1,0 +1,8 @@
+name = "plastic"
+filename = "plastic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba442bf548467a00854ce22e9dc2f3cf5ea3a890ac0ad0d4c01432aa62593c20.json"
+hash-format = "sha512"
+hash = "1c54c61ed7940f24a47aec592b55fb15e05a5e5b4fd70c827a1b8c367536275c558cb49f8f273b5ffac0a323f3087faa9668e7f7e0cf5950e87f574cefab693d"

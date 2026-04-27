@@ -1,0 +1,8 @@
+name = "ftb"
+filename = "ftb.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a830d5c54271a81abf46d00990ae96d37e87a3f1b245ec1c000ac90bf2d2badc.json"
+hash-format = "sha512"
+hash = "9a9936b72a3889af37f32a3430440c7cbfb843e295f477b815ed8598ceb1a295da3d683417251f28c7f609685c52d71198f1a0e2adb300080c91e40f2d075157"

@@ -1,0 +1,8 @@
+name = "ancient_city_ice_box"
+filename = "ancient_city_ice_box.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/9958981918f9c6fdb6f08b075a5485425340d0936df898539037595027f9f57f.json"
+hash-format = "sha512"
+hash = "a31e90e4b9da2420f093492cae93f2949b5e849169e58d49cad1e41a22be80031fb8290c1683a9b595d07fe16bf709ff922cf722988aacf9836e5f021db22572"

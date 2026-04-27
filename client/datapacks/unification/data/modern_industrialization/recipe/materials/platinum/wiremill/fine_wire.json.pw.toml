@@ -1,0 +1,8 @@
+name = "fine_wire"
+filename = "fine_wire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b734799a544b0f4da6ef695027ce012f8e59c5f526c7a49073b1a518202da9b.json"
+hash-format = "sha512"
+hash = "742b2d9ccb2f3adcfef33b2e022b90c789d024d661600ebc7e3000e38639bc975915193d79f8bdaa55e95fd3070d9af09799c2f5b9a46963db1f4053501bc657"

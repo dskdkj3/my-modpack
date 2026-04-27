@@ -1,0 +1,8 @@
+name = "8192b_chemical_storage_disk"
+filename = "8192b_chemical_storage_disk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e52e59698d98fbe9760a658249107e9c86feaa38ced6cec74072b8c1d48fbe31.json"
+hash-format = "sha512"
+hash = "49335761c507d9471b1296b761fc1083de9c5072e68675760959bc5abadb9454be4f8e2dacd70e3a1532a687e89d226b3bfbd9fe10bd47252aca55c01635eb4e"

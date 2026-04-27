@@ -1,0 +1,8 @@
+name = "cookie"
+filename = "cookie.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c3dba517b0ed21fc0e71f85e2acde1881f4817d7b617a643f4c57172b27f2d78.json"
+hash-format = "sha512"
+hash = "17360261fa514acc8e26cb36260dbff7203dbf53fd960e63a6f8afd51e1f46e98cba6cf346ba5a90abaf249585d8ba46371704d721ef67b94ee3d9451d58f261"

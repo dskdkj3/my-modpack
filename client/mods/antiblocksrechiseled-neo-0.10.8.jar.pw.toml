@@ -1,0 +1,8 @@
+name = "antiblocksrechiseled-neo-0.10.8"
+filename = "antiblocksrechiseled-neo-0.10.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7186/145/antiblocksrechiseled-neo-0.10.8.jar"
+hash-format = "sha512"
+hash = "ba969ee07ec87e32d785b77b7940d50e1bddf607ecd888e6f3cd150c35821712ba3563539db05c5e0f0808aafd5d1f72d51540d6693c2d79f39afbe665640815"

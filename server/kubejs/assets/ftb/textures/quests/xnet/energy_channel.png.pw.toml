@@ -1,0 +1,8 @@
+name = "energy_channel.png"
+filename = "energy_channel.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55309ec4e3a1f66643a89b289d80e9e36dd294253215bf3165cc8ec777ab1c97.png"
+hash-format = "sha512"
+hash = "e0cd00d99ddb4055665d42a722a1a0c87b0601b031ca46949eabe6339582bb5850f73dc297f4ad4e8c2b37be220eb7a9aec07848e11b5d3b720f9304495105a0"

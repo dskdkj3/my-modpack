@@ -1,0 +1,8 @@
+name = "ToolBelt-1.21.1-2.2.7"
+filename = "ToolBelt-1.21.1-2.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7166/902/ToolBelt-1.21.1-2.2.7.jar"
+hash-format = "sha512"
+hash = "5cae0fac2ef008d8c121c1696596dbd81a12dca1995e0cc3319ec44a921bfe9f90901819b48cb9b3a6e9e9e798cd21c510c86805da03686975d4bf58222b7840"

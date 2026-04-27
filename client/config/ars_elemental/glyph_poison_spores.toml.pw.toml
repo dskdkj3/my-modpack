@@ -1,0 +1,8 @@
+name = "glyph_poison_spores"
+filename = "glyph_poison_spores.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37296e7b2d763671456507854de5ac6ee86d54dfa0e26608fb27d5e12b1af9c5.toml"
+hash-format = "sha512"
+hash = "38b1e3a76dfedbf3703f107d022b1267f110d57e0dc62786d41f3380cd0e05592b361d41a64a980f746501edec70a5d6861c8d4caa4aafccfd8ee6c1c8913db0"

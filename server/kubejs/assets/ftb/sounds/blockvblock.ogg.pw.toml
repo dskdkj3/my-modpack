@@ -1,0 +1,8 @@
+name = "blockvblock.ogg"
+filename = "blockvblock.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/648166ac99f8e446d0f9f22c62f8457bd6b24e790819f1edf087697efd859202.ogg"
+hash-format = "sha512"
+hash = "eb8d9dec61d9e6b2ff1e5ac8d065a803552c13b4fcbad9b588b19cd471786f3b696fdf57765cfd9ee76e7193535552f99c16368fbf76c710e6175ddee7c9a917"

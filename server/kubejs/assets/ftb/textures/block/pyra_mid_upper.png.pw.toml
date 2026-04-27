@@ -1,0 +1,8 @@
+name = "pyra_mid_upper.png"
+filename = "pyra_mid_upper.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a62f952a66fb21ac93edc3b013255bb8a31343ef23f4a0d642acb1b65b88a33.png"
+hash-format = "sha512"
+hash = "c39bf84baadb3170a73ae218aeaf40736b6ae48ea7e5ddfe4d71cc1dcca2023467a4f79e19dc0e6b406dac1c359a85655c24670a3abbe62b443329264ab3dea9"

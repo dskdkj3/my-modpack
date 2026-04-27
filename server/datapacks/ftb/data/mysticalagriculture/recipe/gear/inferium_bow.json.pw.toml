@@ -1,0 +1,8 @@
+name = "inferium_bow"
+filename = "inferium_bow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6dbc05c19c798e98b4fa07f28cd5a7475d278165bd31b841867df0fa48f50ae5.json"
+hash-format = "sha512"
+hash = "c9729dd7881ca20ca81f5a6a95b08ab51ad2fe234dbb5702fa310c97b4eb666692c71c5ba26e637508b3ca0b7b8609be4a582bea3d0e5a48dd2fd1373cdf62e6"

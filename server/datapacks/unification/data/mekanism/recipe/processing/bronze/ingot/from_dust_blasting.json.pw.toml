@@ -1,0 +1,8 @@
+name = "from_dust_blasting"
+filename = "from_dust_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/039c0f0c8b56cb14a87c9d9466ec8b49ebad106f7f08d5802ae68e7dc5b199ab.json"
+hash-format = "sha512"
+hash = "7275a3156d7fe96ad6feb81be6b4e45d10c3a24277ae50211a1639710bf558ce38d8994a14ef458b159e85f22c2c56d19b64b0492160eb279d2e0227ab25383c"

@@ -1,0 +1,8 @@
+name = "pneumaticcraft-repressurized-8.2.18+mc1.21.1"
+filename = "pneumaticcraft-repressurized-8.2.18+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7755/211/pneumaticcraft-repressurized-8.2.18%2bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "152363dbbdac1fb5e3b98d3de491577f76642dc63d1bb9d87f689c685de817812d5e3c65b25b0c07f3b1b5459d4474a61eebabdf4fe68253d03ac99ea911e6ff"

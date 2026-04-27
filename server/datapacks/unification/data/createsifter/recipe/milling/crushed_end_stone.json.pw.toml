@@ -1,0 +1,8 @@
+name = "crushed_end_stone"
+filename = "crushed_end_stone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a35d5642a8b6fad22f0cd4523c3c34dcc6ceb0d633c940c0e60eac41fcd5c44.json"
+hash-format = "sha512"
+hash = "56faea9a7f869ba9a38e686789b4f1a7a0978590fb78dd1c7fd68daf6454372825b11e9dab04780cadc899283ed73630e81c40ea54d7d14a599b0775a5ddc2c0"

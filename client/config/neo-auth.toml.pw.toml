@@ -1,0 +1,8 @@
+name = "neo-auth"
+filename = "neo-auth.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/490a72cb48380387780c414d5679e80e8c441422cc3712392b982d493d9c084b.toml"
+hash-format = "sha512"
+hash = "5c124248ed8a8b78881714ffcf51eb5bfa4661bff8dcecadffe715ef1ca771b3adcd81e60c124086bc27c76374db4cc59a6cf6fef0810abd88893f0dd9a1756f"

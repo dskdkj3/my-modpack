@@ -1,0 +1,8 @@
+name = "ice_castle.nbt"
+filename = "ice_castle.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/529a761ef786779629761ed0b52005c240310b42e84b7c7aa131de5c2a041839.nbt"
+hash-format = "sha512"
+hash = "0624fa6072301d03e8b88a2792c1e84aa7055f0ddc067022735a1d2d5324ce6fbc68c22e51fbed92981e5b6475d9637cb37691c048853d8de7652cce22fd6937"

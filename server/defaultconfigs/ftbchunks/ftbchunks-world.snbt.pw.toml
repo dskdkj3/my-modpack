@@ -1,0 +1,8 @@
+name = "ftbchunks-world"
+filename = "ftbchunks-world.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc52958a8d1373fff6074b9f2b5830ca3455d89e292a70e0d0bfe40543351f79.snbt"
+hash-format = "sha512"
+hash = "2a0e234539930d1acf11af1c868d63114cb492bb054131572ebc98050ecc728747918464fd1b6bf1d823cdf30425b3490c9e4cb5f04c39d0bb956f4bf4c9d43b"

@@ -1,0 +1,8 @@
+name = "leather_belt"
+filename = "leather_belt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cb5399bc2f4758cdad24fbd12f4664f34270a68e97e71d5ddb3302e6f9fe3e6.json"
+hash-format = "sha512"
+hash = "f29652cf76664c4805b7af84cb0b746866656cf9b19faf17d094b38c6482752970cd29d0d98286ad65b418e823661e541cedd42e0aa874c29cc3967c02f81bbd"

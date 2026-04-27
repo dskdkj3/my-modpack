@@ -1,0 +1,8 @@
+name = "hemp_from_tall_grass"
+filename = "hemp_from_tall_grass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f46086625bb08709f362f191a888dbba376f1c5b34a15b717d31e4b58bf7033.json"
+hash-format = "sha512"
+hash = "ebc797cd97454cc31134eaf7b67f543ba053b57ce566979d83ae5718f3b8cdb9c69cff1928211ad0724c3d3d033c3fcf1c0b226d3cacc5548654663a64dc52dc"

@@ -1,0 +1,8 @@
+name = "large_carts_2"
+filename = "large_carts_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b36cef421a9125952b3e0368da4fbb74ce768e04130de6cb13c2feef5ab1b39.json"
+hash-format = "sha512"
+hash = "66fefa992f6c25d9908f87a0304cb1ec4bc8b7174ab0adf596c570a5bdfe3613e1bd8ae91393ddd1a3a652ad2bc661eca4926679bb12f012e4c377ffe6bb2b63"

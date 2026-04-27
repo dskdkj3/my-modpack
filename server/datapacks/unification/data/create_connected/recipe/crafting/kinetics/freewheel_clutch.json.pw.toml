@@ -1,0 +1,8 @@
+name = "freewheel_clutch"
+filename = "freewheel_clutch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6c311e08e719fcd57a23466a131d335ed2d127bef632af668960476ce371fde.json"
+hash-format = "sha512"
+hash = "e09d5761da867888c8bda09e30d11162af60a3e58fa36e14bd9c7bb8d82f4d9ed4d881220737da6c3c2f1065fcb7b6ebd24a48ce4230a0ce0ff48d8daf4ede4f"

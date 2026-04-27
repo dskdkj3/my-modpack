@@ -1,0 +1,8 @@
+name = "enchantments"
+filename = "enchantments.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/4681d6480c405f5bf7752117e55409a51033f9bf791d9e871f494c5b5d29748d.cfg"
+hash-format = "sha512"
+hash = "9ef571c9387800337063fdc14861b738347a4bdf0fb8c56ee5924b09db9d51f5ea359e1d638d959ec65e9634f4c8cf120625f4db0e20a03da3225b1a860894d4"

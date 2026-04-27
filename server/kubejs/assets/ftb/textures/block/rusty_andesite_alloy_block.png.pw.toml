@@ -1,0 +1,8 @@
+name = "rusty_andesite_alloy_block.png"
+filename = "rusty_andesite_alloy_block.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/855cfb036ccd0d7fadf0cccb869816723083ea2aea9e9167dc01691d549c4c67.png"
+hash-format = "sha512"
+hash = "51555f039db1ee7fbebdcd5a221638b4f92cfea78aacd933cc8196dbaaaba394ea95e6ab30a206e9fa85c6cdb4ba45c28952edb653ea89fd70e0e988912cceea"

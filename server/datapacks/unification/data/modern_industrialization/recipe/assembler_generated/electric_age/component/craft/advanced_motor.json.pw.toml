@@ -1,0 +1,8 @@
+name = "advanced_motor"
+filename = "advanced_motor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48163597f606b6c58277a6624951121fc3164739239cc36b02bbc07a1d780b1e.json"
+hash-format = "sha512"
+hash = "9ef3d023876e834d7816e09cfcdb1e1ca671f511c97c8a5cfd21ff442c55f83c70e24cb4dc9799bd6be3b48076ee79ae657104ab8f1aeb0136f75a235d865aff"

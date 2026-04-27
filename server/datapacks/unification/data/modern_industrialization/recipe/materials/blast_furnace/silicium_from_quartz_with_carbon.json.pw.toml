@@ -1,0 +1,8 @@
+name = "silicium_from_quartz_with_carbon"
+filename = "silicium_from_quartz_with_carbon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7a9353795c6e46ed386bf6947be97782e03414cbe710ffa438f2b3e0e4d3af0.json"
+hash-format = "sha512"
+hash = "5e783fb7d341506844dacec7642fd854b2d82d10f0f182ea5ea494d6c92f256bdba35fbdbf41863b2a5f9e789b17f294c0e50ffeb5fdf9a2bd42cc82222a7697"

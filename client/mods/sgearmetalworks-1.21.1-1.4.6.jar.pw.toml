@@ -1,0 +1,8 @@
+name = "sgearmetalworks-1.21.1-1.4.6"
+filename = "sgearmetalworks-1.21.1-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7270/331/sgearmetalworks-1.21.1-1.4.6.jar"
+hash-format = "sha512"
+hash = "7c0abce65d8eb90b9b3c13eb48f4d6a29790d7d0620633d87cab89c509af0b53f5d9b0c684128168f54c905c426c0c7ada82893998e03d81a67031505b8ac826"

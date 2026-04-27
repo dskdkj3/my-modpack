@@ -1,0 +1,8 @@
+name = "fluxnetworks-server"
+filename = "fluxnetworks-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b30dc61b5008290231070a2bb632012a263c0539d23efc7de51ea18f74582a6.toml"
+hash-format = "sha512"
+hash = "85dc48f558cc7cbc94479d53fd4e2054382aecd63ea33d8b7e67c4489c2f5a06c164254d6bf84cd1477953b8c3a203270b0606f95bb2085e96ef5c596f385b32"

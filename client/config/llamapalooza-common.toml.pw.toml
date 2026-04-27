@@ -1,0 +1,8 @@
+name = "llamapalooza-common"
+filename = "llamapalooza-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69ffeccc8bd5600b0fba2dbdf9b55ebb36a3178a774d35ffc5e07ecbacaa334b.toml"
+hash-format = "sha512"
+hash = "f34ce9ed2d4dc9e5978ed47b048a99abb78d5dcf21394cfbbd320a3058686567f423008b9572ad6530d1a7100630a4a5ad50eec8445603a77c93aa19793cf7a5"

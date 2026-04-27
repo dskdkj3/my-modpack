@@ -1,0 +1,8 @@
+name = "ruby"
+filename = "ruby.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd4d984230fee832e661e533e209b671d52ddc0b0889d542a433f4fd55c1cb7f.json"
+hash-format = "sha512"
+hash = "9d4665b348d7c2ad69dbe33eadd5135cc375ee3750d7290f63cec86e56c1eb9457e9ef6b6371a4c9c8ad631a682a450cbf95fa975d6398c9b7b3198482bef740"

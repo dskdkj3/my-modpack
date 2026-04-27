@@ -1,0 +1,8 @@
+name = "glyph_charm"
+filename = "glyph_charm.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df3e933dccbe854760a44bfbeda25a81991b77a0c2ea48ab60f6ad1b2c2dd6aa.toml"
+hash-format = "sha512"
+hash = "e32259a5a2297aee0260c228c1bf9cc6d802e2dccb27e49675aebd310bb37c03c9ee5321dcec8e88ea5200da3d4ec346f77f2e76c8a84b98f192457e073cba65"

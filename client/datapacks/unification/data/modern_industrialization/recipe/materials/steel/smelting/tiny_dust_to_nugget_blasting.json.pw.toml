@@ -1,0 +1,8 @@
+name = "tiny_dust_to_nugget_blasting"
+filename = "tiny_dust_to_nugget_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/741d54f2afc90b2646151f22348747ddd36088653253c068de93ccd86f968915.json"
+hash-format = "sha512"
+hash = "85f8c750a8280f52c08ecc43fa9169ef1501665657ac8ed9f3ecee732a9cdcd473c36b0ce58669eb4a65ef150b8d3997bc1b851ad2917c0f0f08fee4c28c490f"

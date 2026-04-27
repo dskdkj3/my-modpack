@@ -1,0 +1,8 @@
+name = "glyph_ender_inventory"
+filename = "glyph_ender_inventory.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a9a29f631fa79470893f78509ca50d542a0d0fc860142dfe677daa949d1cc1f.toml"
+hash-format = "sha512"
+hash = "558bb9a1b78c942e50a1d7ff6705f67772b7c0f588ebb9394d43087d3a234b60c000880a009e9781349f6e38a1ebf9f47594d4b6e122981955a1d4f567d0a38a"

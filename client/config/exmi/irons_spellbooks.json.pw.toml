@@ -1,0 +1,8 @@
+name = "irons_spellbooks"
+filename = "irons_spellbooks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/50966502b5a4263f6873cd9f0e3f9e6239aec2626d635de065671571f55b6e76.json"
+hash-format = "sha512"
+hash = "8710d19314a90404d6806aa933068c62025b4632fdf3da3ec92c8603e8965a3fac3cf162040681e9f2b2b68421b58c04563c249dc463d086ddac68030b0249a0"

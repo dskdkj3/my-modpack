@@ -1,0 +1,8 @@
+name = "pipeorgans-server"
+filename = "pipeorgans-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae47612aa900e8cbf651fbe8a9c3d97a7e47519e8ed0d7da8abb78b45b64fb6f.toml"
+hash-format = "sha512"
+hash = "dcd0bd833fcbf5df6e32cd6aa531e107eae9ca4b6a49aa6a56384a08d6639aafe158a1520d5a53864334e457218e6a33d554bf424b34976e0924f433720a2dfd"

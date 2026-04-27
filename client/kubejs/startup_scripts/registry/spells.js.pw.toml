@@ -1,0 +1,8 @@
+name = "spells"
+filename = "spells.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a9e37eeaa708e6372549ed553cec4abbf26614950ea70acea726eac751a3b46.js"
+hash-format = "sha512"
+hash = "f362dcf625063ae72517360ab91c2bdc8279190e7327618ba5d7532bafb16adbc41f1b93ade840abda56448870332cd7f77216ae44dbd367c3eb2a6daf30a927"

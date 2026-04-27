@@ -1,0 +1,8 @@
+name = "glyph_summon_decoy"
+filename = "glyph_summon_decoy"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a2188c03733f52360a385489c703e0050da366b474d4b7233d711009a6b3c66"
+hash-format = "sha512"
+hash = "db5870360c95dd8e285c4c64d4a7fcc7a2853991468f3538b812d52dd2af11b9559fe5b5dcd22ccadaac38a7e91e842ebe7f4ea0eb5bbd50c1ed924fe894ed50"

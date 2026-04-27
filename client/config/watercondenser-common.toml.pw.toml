@@ -1,0 +1,8 @@
+name = "watercondenser-common"
+filename = "watercondenser-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59fec4804c9961cd7fe98fcddbb2ebf873cf87c3cd295c74af504ed178d5dfb0.toml"
+hash-format = "sha512"
+hash = "ffadeedcbcdda3b1cc2d70137e73bfebbd701c53db535b5641dd864f67a0539c642f821c69539f49a126ab81d12d97859c4aec31d07ccf58e5a96d2793e7df59"

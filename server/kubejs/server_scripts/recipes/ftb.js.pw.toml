@@ -1,0 +1,8 @@
+name = "ftb"
+filename = "ftb.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4c72709301afb4acff9d58c9b52332f1481b1e2eaaf7881296c2e8f12ff9dba3.js"
+hash-format = "sha512"
+hash = "872bacfd27e099bdcc7921d61f0cbef511e82db7515b3c0dd667953fab08157c16bf7e05c502a039b8c5d8b2f8b34c284a1b9d9869ac2cfaff759d392596935e"

@@ -1,0 +1,8 @@
+name = "tomeupgrades.png"
+filename = "tomeupgrades.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b3bc50c855cf217337e481b004d8aead47d5e06e006b0cadcaa1f847d3ce49b.png"
+hash-format = "sha512"
+hash = "826174e137319bca075e230760ba4fc1951e9f1ed8b989f6d783823eba7d4cd3a70671c0c2099a9697271f60ca6d8e17c7f812b54d4ca2f8b75ad97423615c49"

@@ -1,0 +1,8 @@
+name = "trashed-server"
+filename = "trashed-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f78aec43a07b984314ca86bcdcd42ccff6e193791fbc69a3729695a7f6a6eddd.toml"
+hash-format = "sha512"
+hash = "1fcc99886327fad3655efdaa71320f2324cef90c44416228c8f7cf06f6893139232f36ab761f324b7b4976e31059960f160455abcefe202229c2a4d4cf5935ba"

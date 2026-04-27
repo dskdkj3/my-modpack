@@ -1,0 +1,8 @@
+name = "lostcities-server"
+filename = "lostcities-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2b3692e808b771a3abcb78e4825dbf1caef101c35154b2827981244d5c56e6a.toml"
+hash-format = "sha512"
+hash = "ed2588d40684b004ca271115c30a02db251c32c18b8207c3794917b2aa221f32d3aba6c4f43abe4193b4b445a673f972e0a47a5d7f6d32631495dbd4a04d8ebc"

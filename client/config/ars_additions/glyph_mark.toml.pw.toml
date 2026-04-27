@@ -1,0 +1,8 @@
+name = "glyph_mark"
+filename = "glyph_mark.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddd17d5d88245382914735e286bcb1bfbf2a850e62bf63cfc59d19a6c6f0a9d6.toml"
+hash-format = "sha512"
+hash = "b0392fc8f3f35149081dafaf922ae1d1d560a71bf15d7128418f0b13a925c31b1ad58525523d3f4b853c0356013377f7bf26afecd3c0326498005e3f0102275f"

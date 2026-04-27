@@ -1,0 +1,8 @@
+name = "end_castle_1.nbt"
+filename = "end_castle_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/5941a17d88ce24e2403827ce24032dd034ebf8e217e47fde2baf8caf2c61ab2b.nbt"
+hash-format = "sha512"
+hash = "ebccf8d7a288c07cef8e663dc66c6829dd72059c10036d04cfaaef5ea9539b7971174477ec9a0cd775bc125c1ed56e285b319dbf3f5c6f41ad483c274968baba"

@@ -1,0 +1,8 @@
+name = "flour_2"
+filename = "flour_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aec7f77c852b78648c75fa1a5452d8f5c1bc4e5ff387c4dbf657115c87187ca6.json"
+hash-format = "sha512"
+hash = "b602735d20ff4c1545b6c982b6fd9984deadd3bfc52c5c4648d22e422672ff20541a13cad1888b7d707bac9c63b4ae683a571c89cd2f3935bb982816e4e34de1"

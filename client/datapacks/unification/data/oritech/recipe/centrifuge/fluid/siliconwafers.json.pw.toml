@@ -1,0 +1,8 @@
+name = "siliconwafers"
+filename = "siliconwafers.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f7e1c10f6b9f424b4c4c84debe7bfbe383950c164a7b994c12ae9363d8a3850.json"
+hash-format = "sha512"
+hash = "cd6cc512444df6d854bc30f72dd3cb385fd68de63f0ba2bc055c7ffe8f239af7284b14f5aa0f1e9cec26b59de3f74ac3d24b5a8522ef77f7d2c98025c23e0718"

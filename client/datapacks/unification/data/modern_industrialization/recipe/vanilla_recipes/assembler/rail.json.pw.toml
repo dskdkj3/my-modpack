@@ -1,0 +1,8 @@
+name = "rail"
+filename = "rail.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/205416dbd443168407de16a8e016cb4edf4f640e2dd30f039094ba3cab07a082.json"
+hash-format = "sha512"
+hash = "c6a0a6e28c027b7b5886190e89838d2d5ddd0e6edbf895da5138e50d70d1c75aaec227bff3f3d8f37d21d00d2ff408e5c5aabdc36075dd0bcd562b238c08eae1"

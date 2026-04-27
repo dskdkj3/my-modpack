@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-server"
+filename = "sophisticatedbackpacks-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66702ae33fd35c0d4fb556dd41965cd7618812e1e3884c0abed4977b65a77e04.toml"
+hash-format = "sha512"
+hash = "5d1f538965424fd39724810aea38e8510df4f6357da800f734a1b8b97e7d558dd14d4439b418ec22272e6ff2aa2a6aa572c6c9dc460c16c4f5e52302746d3652"

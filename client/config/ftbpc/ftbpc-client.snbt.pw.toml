@@ -1,0 +1,8 @@
+name = "ftbpc-client"
+filename = "ftbpc-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0492db7213c25d6279642ac11d8a78e1731e513733ee265ef3769211ec2c6c6.snbt"
+hash-format = "sha512"
+hash = "8043d0432c1ab28dc375665c1a864146f616d3d321d3b92cc1a69accdfcafde6586c737733d31478ee2e72d78bcd46f468174a2b6817083160b8d82dba05259d"

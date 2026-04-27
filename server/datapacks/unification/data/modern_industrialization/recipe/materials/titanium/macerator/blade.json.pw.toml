@@ -1,0 +1,8 @@
+name = "blade"
+filename = "blade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/0332e1a32d1b864f226aecf969e6627e4a627600ad33df2a7a6cee5359da7266.json"
+hash-format = "sha512"
+hash = "f0d26dd0c444e8db50825b3b5c0f04aa3a591be634effb7fe9b479ef36d579a65fa0acf7462ab5f3072ccf4c1490f353ef5bdcc7ddd27aa08c00eef6a4e8c1df"

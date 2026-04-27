@@ -1,0 +1,8 @@
+name = "dead_king"
+filename = "dead_king.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/9349d09a5ea218443c59ed88cbcff49264587772837c34b2f78d0b9f65156763.json"
+hash-format = "sha512"
+hash = "927b7391d201d7b5103d1c64f101969d38b9b2a090a12d95855b3db74117ac1f017a8e7e182ddb38ab81f651d6f288cfc34d1eb1838d4a4554855fa88e648de8"

@@ -1,0 +1,8 @@
+name = "quartz"
+filename = "quartz.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/758bd2cba808d87c9b3c36d0fc3ab624cb1b7e7067f9b0a0d3ff746e2d5928dd.json"
+hash-format = "sha512"
+hash = "0548ea0b63acd3bbf2867d215b2227abfbd77477a215f75b5da191e15c68b1c5fe06cacebf25ba6de3c946fabe70b5f798c95e07d9adcdc8abcc50f3bd6c2394"

@@ -1,0 +1,8 @@
+name = "compressed_iron_ingot"
+filename = "compressed_iron_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/36954ffb3c524ba3dc8d3f463060278e65ccddf638c7025644cdd8e2315831ba.json"
+hash-format = "sha512"
+hash = "a466e21ae67365153f6ba983563e47cfdceef969ed3e4c135859fa5006b87e4e222c47e241ef17afdf4e94d6a213099f1b5b1fca167dc22e5e9e47f30e56dbc3"

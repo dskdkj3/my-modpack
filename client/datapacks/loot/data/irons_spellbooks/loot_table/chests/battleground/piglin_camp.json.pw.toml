@@ -1,0 +1,8 @@
+name = "piglin_camp"
+filename = "piglin_camp.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d153e2bc1e47df2ceb8a341a6e7c454d1fb92070c0a35046ce1f8ca9197b0d55.json"
+hash-format = "sha512"
+hash = "96307c9924bd53d6964245d1f003643a5f0fcb82e9ae06f47beef32966cd766533d811fece526dc3f9fdf286c617f3121a918d52fa5958ab052dcb9d9cfc580b"

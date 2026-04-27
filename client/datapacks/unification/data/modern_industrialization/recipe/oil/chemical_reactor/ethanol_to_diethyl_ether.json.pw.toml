@@ -1,0 +1,8 @@
+name = "ethanol_to_diethyl_ether"
+filename = "ethanol_to_diethyl_ether.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/dad704634a658d3a8ed60d38049e35aa6e5417573b3794f26488d4f356852a35.json"
+hash-format = "sha512"
+hash = "0e8111717a40a2e5ed93dbf98e9c2674e2ee271506dd832441aceee5a7d1a30022a792ff23c3a664a13387de8be080cf8b410cb1ec4126ebc3af2ab8cd75d207"

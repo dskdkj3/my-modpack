@@ -1,0 +1,8 @@
+name = "space_dissector"
+filename = "space_dissector.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d278591b55c3ae04bab06994dbaaf146faeddae80c20603f7b2733e728d47604.yaml"
+hash-format = "sha512"
+hash = "91b407f6f7239ff5928632324f9d9e039a744b53e9c547d60e414ef3288d042bc0da28cf8f0942c9c77852c1d064ffd5ef2c15a759a1199229ed52f7c215d07b"

@@ -1,0 +1,8 @@
+name = "pyramid_base.png.mcmeta"
+filename = "pyramid_base.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3adc8b4f4528f2912d8071216985345ae3406407cf0338efc4b99dbf61699fe2.mcmeta"
+hash-format = "sha512"
+hash = "59ff39998d5d4accbb29f64075866858ee0679740d65b1ba6dd13bf783459bd36aa745b52b4d2d9fbeb79060593e83003cfbd681a1c540da188cec54b081041d"

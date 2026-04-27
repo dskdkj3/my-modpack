@@ -1,0 +1,8 @@
+name = "skies2_accessability.png"
+filename = "skies2_accessability.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/0736be18e2663e16822250e66fbbe1e9d751c59de67e136bf42e0bebc9013a39.png"
+hash-format = "sha512"
+hash = "6b8cd09211f7318ed7a7fdcd7f745e2b06554cdac45048b52ac24652b7f4c5b05d292cce5787fe96a2ae55fe41f7c32dd69ab73b78947315ac0384e0da1af0db"

@@ -1,0 +1,8 @@
+name = "storage"
+filename = "storage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5e81d9d295487a870a79f801c5749b4f07daecfbecc8c2bf82a97da3043b1a0.json"
+hash-format = "sha512"
+hash = "fe5265685a37c041350cc75555d9dd63c3f0beef34e45cb76a15f2d981c3790f269bcd7e031ac4982a7ff6171a2c5906fe8179cb3147e7a7768b83618ea866fe"

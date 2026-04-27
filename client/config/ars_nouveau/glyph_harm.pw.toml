@@ -1,0 +1,8 @@
+name = "glyph_harm"
+filename = "glyph_harm"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/898a71998f63df8d573f84213392c2a04e54f421a946211b675429be83e1c93b"
+hash-format = "sha512"
+hash = "29e10c9bf184fe3d821b9eaaf0dd915b95998ca4929c68cf3159339f225fbff236295c2dc900721e0f25457a0680c70af9238cf60365b6b0ad7d8a8024eebf61"

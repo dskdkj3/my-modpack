@@ -1,0 +1,8 @@
+name = "wood"
+filename = "wood.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be1c3668ad2a336a606556f5ad5b407faf66172f392f64c812092369ed87ac81.json"
+hash-format = "sha512"
+hash = "ce84a6b086df3603396ac7819cac02d25435897b27f468fee68620e1701bcda76cc53071206f5195a1114a9521ed9253637fa290738e83aff2284ecd18cae591"

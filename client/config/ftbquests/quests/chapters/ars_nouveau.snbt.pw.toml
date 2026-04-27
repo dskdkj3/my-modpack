@@ -1,0 +1,8 @@
+name = "ars_nouveau"
+filename = "ars_nouveau.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/57461ab048d353a6f94cde65bbed01014a4e8f2b90e022270fee192a24b576a6.snbt"
+hash-format = "sha512"
+hash = "241846be731800fb8c13a466b76788f86c27a52549050d31b292e8b0794509e6a9fc5eadb94905ed83c711a8d1a06b10046d51169f237de9aaa473d9f57b584e"

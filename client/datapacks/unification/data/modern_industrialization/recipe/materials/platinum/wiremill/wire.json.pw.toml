@@ -1,0 +1,8 @@
+name = "wire"
+filename = "wire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/89e1583db75794965e228aec43035cc6dbcad495ca1db066dd8db9156524ee7c.json"
+hash-format = "sha512"
+hash = "df43b53d96184748da0ca166c97db3ef11012c1c0fe8748a1813a8fa5fb8f1fa22a1f355469d281a9aa740416334e46d42d16930e69b8526c0ead0a1e50944ba"

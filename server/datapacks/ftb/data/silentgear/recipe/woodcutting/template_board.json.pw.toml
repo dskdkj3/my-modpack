@@ -1,0 +1,8 @@
+name = "template_board"
+filename = "template_board.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d86c2343fc0e819e90b7329b06ab06d737961a52c837898a58b6d1cb992fbd93.json"
+hash-format = "sha512"
+hash = "b886567c3f99967ec9781e58447a00772d200e1fc458ea0789fc162f60581cd381b95ece46d4b6f3ef74e69fee5d9506b97ab1c75ec4a7714610476bd814c496"

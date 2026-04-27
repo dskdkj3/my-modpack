@@ -1,0 +1,8 @@
+name = "peridot"
+filename = "peridot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84c5864acc0c4b30f656fec49baaa472579564c9dda4ae081a9f51bf7e45917e.json"
+hash-format = "sha512"
+hash = "ae1c7d7b6c8f4e2900d1cd502d9d77cd2600f80ce0669fab94ff8f4901fa2709d95f4fa22c7ccf012800ba32683476699527565300c3104143d9ab229b692440"

@@ -1,0 +1,8 @@
+name = "signtastic-client"
+filename = "signtastic-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d8413316884e20087e5021da96e3e8f8eeebb7bf7718949985d2f89fd877733.toml"
+hash-format = "sha512"
+hash = "a0da8056ffaf45f5152ea4401b3ddb59c0af95430d642947ed1394a3eab635a5183d6041b45546c79ef9c08344024ba706b9e6da5b02debcd0382de5cdc76167"

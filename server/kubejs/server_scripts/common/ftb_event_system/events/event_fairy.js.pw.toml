@@ -1,0 +1,8 @@
+name = "event_fairy"
+filename = "event_fairy.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65d0b8e232f19a25d6ad5114364e1456f7387d69f73e87bd0039a073d3eee753.js"
+hash-format = "sha512"
+hash = "13f3cc27514d0197248256fb59fedc53dd0cd299069b21337d1377eb2a6b3c69b542d81a774da7384556e9657c77f5bd30a60bffadb7ac5282f5f8f50d1de3ba"

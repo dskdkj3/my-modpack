@@ -1,0 +1,8 @@
+name = "toolbelt-common"
+filename = "toolbelt-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a466c2214d7c40945df6fe58f32b4a7a0d147599877748b14af2be82d60abc9.toml"
+hash-format = "sha512"
+hash = "cc9469a6275de3102ce1acc79b69b3c1980354ac485a23da9486d894270b2434a6e6476c9146f28d9b6e4a5ab29a75f1ecf7e5725d135cf02ff64e7bff2ff03e"

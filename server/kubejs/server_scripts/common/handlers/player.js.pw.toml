@@ -1,0 +1,8 @@
+name = "player"
+filename = "player.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/adcdb789eb26c0a3f21cc07790ff2cc7304185b67a4ece952e8e5fa04958eeae.js"
+hash-format = "sha512"
+hash = "9d35369d0514072ef187fa0aafcaddb93d5240da5a7c13afa0f651b32ba17af10640a3e2f4c240ee4421ae8bde06814dd7377cd21434964a0c759246cf635055"

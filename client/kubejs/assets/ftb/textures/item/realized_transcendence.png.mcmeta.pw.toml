@@ -1,0 +1,8 @@
+name = "realized_transcendence.png.mcmeta"
+filename = "realized_transcendence.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/6981cd2c4b5fa51893276dbd1d1c6586593ca5b84c6b157430fe494e0381d5a8.mcmeta"
+hash-format = "sha512"
+hash = "bb420b03608c80b5c3469c938a697258cd0d3e3a445c4a909ab253a7e8f5c8a96b9e609438b41e178ec44fac8b35e9728968a18344fb5189ccf24419b3605fe1"

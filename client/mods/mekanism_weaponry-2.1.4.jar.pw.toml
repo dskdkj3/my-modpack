@@ -1,0 +1,8 @@
+name = "mekanism_weaponry-2.1.4"
+filename = "mekanism_weaponry-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7124/299/mekanism_weaponry-2.1.4.jar"
+hash-format = "sha512"
+hash = "bd2351b6fecd58ff2ba09be9be12a4211067dc4ee8966288b9ea4bdfcc556af13b90e9c3fd6cf6f072e0fb81e52dcacc8395aca02d59514ec065411d9e06e65c"

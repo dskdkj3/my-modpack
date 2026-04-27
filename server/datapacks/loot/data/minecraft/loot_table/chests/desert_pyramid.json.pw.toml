@@ -1,0 +1,8 @@
+name = "desert_pyramid"
+filename = "desert_pyramid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c72e2f5564c3dc584a76d12f0d4017ec0cc7e8ca41ad3eab4172c6343616dfc2.json"
+hash-format = "sha512"
+hash = "72d1ad4c18bb2f836b4cf719b43b69a4ce5a6d589e3425b255c6b9f394f467ac8ad4817fa9b8e99447f759b8fda20bca4e56e9078f74700af02be130b7345dd1"

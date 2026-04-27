@@ -1,0 +1,8 @@
+name = "fuel_rod_double"
+filename = "fuel_rod_double.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f1d5cec641b53efa44af4db0df440aaab4436793d4989a8648156ac5032410b.json"
+hash-format = "sha512"
+hash = "9a7fcc44eaa0c4ef1fb515299defc63f47216d54306ffb0290c6c983fcc2b07734ceda0b8bac1a6cccd20c482a1ae2e6d2d4ec2ecb0bc80bfe2b59c863285211"

@@ -1,0 +1,8 @@
+name = "house_processor"
+filename = "house_processor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec9b22772319d43aac88c8d744b929cdd361e90f3090a70dc52ad5b51b4d6e42.json"
+hash-format = "sha512"
+hash = "27a3b4b4984a4dbf32d64f9241629f0dd3afee833fb4b484c6a54ad6be6f35402d9a2f49d1cb2b7b537065fa37d9560c4e3f75db956ee8fd078de8dd4c4ffcf9"

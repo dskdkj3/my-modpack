@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_steel_boots"
+filename = "nugget_steel_recycle_steel_boots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7af7ad98d8cfb3b33cad98e4a990f3c749306801212e77d2c9bdf322124874b4.json"
+hash-format = "sha512"
+hash = "61a4d664044b7b1aff73ecf80e4ab512371a0a2a61e546ceb41f1dd050d1fc4cd1352530f327adc05e3de19b251b55fffa9b836c61f3d93d4723de7ab0fcd031"

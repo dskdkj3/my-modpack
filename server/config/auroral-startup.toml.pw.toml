@@ -1,0 +1,8 @@
+name = "auroral-startup"
+filename = "auroral-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8dca7b42fe4f68ea7463de8a6627834a6f623b1015d32101681027192021dc82.toml"
+hash-format = "sha512"
+hash = "37dd51b24c78523292370692a4f5ed47fa618e0dd25f8c39f50ea2ee4d89febbb28f514ed92219b95a7bb8ad99ac103e340d70ece6f28e119046670d8a755b2a"

@@ -1,0 +1,8 @@
+name = "just_dire_things"
+filename = "just_dire_things.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/3062b3308ff76ca1f26a67398e8415900342c445f7ee6b01c355199631c71e03.snbt"
+hash-format = "sha512"
+hash = "5676311a0b7f3939d3cedc63f581df61cda575cff6424ef9462a4aa4a08e5e402b56196aa777318599f84ba381ed65851aa4004d90b988edb47e09b5b02846dc"

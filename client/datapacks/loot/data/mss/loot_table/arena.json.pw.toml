@@ -1,0 +1,8 @@
+name = "arena"
+filename = "arena.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4927376f01347a63971b934cc1ed7252e55374128773e40e5ba8c78abb3533c.json"
+hash-format = "sha512"
+hash = "650c3f7dff25ca98454f3e077f27c6723dd5503727470854a8077398dab30fa47770058f071369efee4192f297c9e40ca9d321d2bbf30754079ab2aff3c802e5"

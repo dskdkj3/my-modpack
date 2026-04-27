@@ -1,0 +1,8 @@
+name = "swampwood_shadows"
+filename = "swampwood_shadows.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5be8de14cbc7d97a39feb9d342d79ce20adb94a8937bb0775c1930b94124cac.json"
+hash-format = "sha512"
+hash = "b4df91c50e244da8ce0159436bd08ec0cd4a25da05f91bb9dbd7fae68847fb58982d6864dbfebf129e442de74b5359b9c67d45f2214fd15509966b372424ef84"

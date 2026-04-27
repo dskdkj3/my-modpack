@@ -1,0 +1,8 @@
+name = "ingot_to_rod_with_tool"
+filename = "ingot_to_rod_with_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c0b24788ee2bd2a336fcdc57dea6dffe5ad6231a916cfcdadd05e358528f99e.json"
+hash-format = "sha512"
+hash = "1110ad82533f38b34488b0301a58f63eabc2e32654cf2b0af44f19b0a57e9a4023a799dda0f5dcbca06d5532ea202f10718a0d10956115f3efb3dcd21f103e6d"

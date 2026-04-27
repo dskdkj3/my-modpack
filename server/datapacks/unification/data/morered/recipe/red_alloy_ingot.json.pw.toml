@@ -1,0 +1,8 @@
+name = "red_alloy_ingot"
+filename = "red_alloy_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/623731fbe4f090b95bb98285e375216fd5099745abb610bafbcdcdfe72bdcb26.json"
+hash-format = "sha512"
+hash = "fb73560c173937fc4106bf6156c956653adc8889b793885c7be6ecc744c5fd6b9c2d5f493b20442011af3ed723f54db2c0d4ea09d68fbcad424b8a58b07ee77d"

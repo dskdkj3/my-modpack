@@ -1,0 +1,8 @@
+name = "printed_silicon_from_ingot"
+filename = "printed_silicon_from_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66978eba2260d148183c4e7b893bd19df8dc1bc3ab0cfb0167f9c2a2c3bb376a.json"
+hash-format = "sha512"
+hash = "d4326bf86aa64e96b6f5157a6f5b3c0ed7ac8f5c87d27e976d27a918f21571eb3f02ad3038c28a400acd0cc86b49896be6cb6811b02b05696bff12669d3a9b69"

@@ -1,0 +1,8 @@
+name = "lubricant"
+filename = "lubricant.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c462b6ae02e04b3fc6a39906b21d8ca0336b6c3f100d1179805ef600114f397.json"
+hash-format = "sha512"
+hash = "7b0137f81048441626976b7415a3f829668934754609d22c681d913335857842b980fcff96cedabeb2f06b645441fe3e7e9887fd441566e9d3534cae73ed3a65"

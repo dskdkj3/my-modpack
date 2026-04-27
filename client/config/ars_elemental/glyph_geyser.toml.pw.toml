@@ -1,0 +1,8 @@
+name = "glyph_geyser"
+filename = "glyph_geyser.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad9a7285cf8bac751020bc0aaaa931ca304de03c5e71d8d8381cc35ecba8515c.toml"
+hash-format = "sha512"
+hash = "5d5abb3b8e4e20d1feec122e96e5950c08cdf74659ced9e4b71763f96b16e7b0ca901e8ad2438e553c42ecd8d1081313059af2f59700836ae2d1ebe746c65389"

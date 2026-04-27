@@ -1,0 +1,8 @@
+name = "drippy_loading_overlay_layout"
+filename = "drippy_loading_overlay_layout.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c0f2bf4980f6eb9fe24c3a169400f28c6207b581d0c747dede4adf9a6e4067c.txt"
+hash-format = "sha512"
+hash = "745ce569334057b901225b423732e31d10d0637cec70553acc2ed78958eedac1b0e6899bdbe762c7d6b6b72e478e2205f49eb3e758df7e34a73a2040f2370e9d"

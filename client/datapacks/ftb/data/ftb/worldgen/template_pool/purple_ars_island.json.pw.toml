@@ -1,0 +1,8 @@
+name = "purple_ars_island"
+filename = "purple_ars_island.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a4aba81d9c2a612b643abaa36754b93348777b9a87290db30d29efe5aad1a98.json"
+hash-format = "sha512"
+hash = "33c81e4a34d03a3016121dae301130b3d3950a9899dbc924274aba802a4efe7db24e52ccddcbdbb790f75c88a8ccea026dfc18868c72e9e98525eb8278d2a4a9"

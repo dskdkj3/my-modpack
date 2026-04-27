@@ -1,0 +1,8 @@
+name = "minimal.nbt"
+filename = "minimal.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b2160882cb3976fb73af92673adda98a42d0845593e8f62634f662374f5d2ba.nbt"
+hash-format = "sha512"
+hash = "75b9c1d337b1a5ebf048ef86d2409d3a0beadbb9e35fec9655b4732dd07fdd40f1ef8f5a3df860f2a45b4abe8c4acb5052ab225d72d52a8cecd1b65e8c3f40df"

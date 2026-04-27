@@ -1,0 +1,8 @@
+name = "ftbstuff"
+filename = "ftbstuff.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4102254cb2668373356d9d90c338f56b7295371d6aa7c8e52e1459e50732457.snbt"
+hash-format = "sha512"
+hash = "ed8dde50a69e677f88f26913621ff42c2a7bd8da1db979606e20c64b0445fca7e4d509306836d9c1edcecf54e4fe98720d278c99352dc6211ff39b3d1e7d08b4"

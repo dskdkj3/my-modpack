@@ -1,0 +1,8 @@
+name = "index.md"
+filename = "index.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/152f46bc3e1e7414582ac18ac7a30595dcf71ad379e435b5ea6bc6606e3a7229.md"
+hash-format = "sha512"
+hash = "018935f6f5aa0958de309dd4e160e7b418e9fc9682c230fa7d386e3dd6375969faecc33d08886e901a73a8bdff2b59060134bffaba74d1e0ece30b78b14f7c06"

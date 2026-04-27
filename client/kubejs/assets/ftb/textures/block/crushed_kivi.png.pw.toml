@@ -1,0 +1,8 @@
+name = "crushed_kivi.png"
+filename = "crushed_kivi.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aec462470b0b76f02dd0b00edd81a14228bec4af0bec9a9db9b13c2e101a5082.png"
+hash-format = "sha512"
+hash = "1595308bc429e640b90cc76bfb9e3276170ed5e85c2a4d7bdf8d650a5d2592e864d33a123177c55f18ae062bfcca454f598a2be0a0c0347d49141a814b6dc084"

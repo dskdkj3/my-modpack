@@ -1,0 +1,8 @@
+name = "pop-21.1.3"
+filename = "pop-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7219/399/pop-21.1.3.jar"
+hash-format = "sha512"
+hash = "e486eb1da1fbeffbcfa529e3a6420dd8f66cb2a9f1e7804ae24c38434e885ca121e415c3ea97efe5c6153fc2bea40697355f667c27b995d3222344a22f9e1bb1"

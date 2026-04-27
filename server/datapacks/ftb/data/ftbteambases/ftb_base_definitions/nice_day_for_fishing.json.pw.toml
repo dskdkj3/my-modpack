@@ -1,0 +1,8 @@
+name = "nice_day_for_fishing"
+filename = "nice_day_for_fishing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47bd7d93a31ea70303ad35d97e3b593a80772288d165c2c8e9149f4f9e18b981.json"
+hash-format = "sha512"
+hash = "d89b0365efeb4a3706a10bb6a47195af564d686ddf1cab17649bd52d9ff2dc23f5d7d3213b26f4ddee82768fc4ae9e083bb635f9645bd0f6af13983838c4df62"

@@ -1,0 +1,8 @@
+name = "crushed_dust_to_dust_with_tool"
+filename = "crushed_dust_to_dust_with_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6578d2d437f85039d5770efc8ae50ddb632fb62296d74944f431a41a282e501.json"
+hash-format = "sha512"
+hash = "07df1b9202280c2f70e11fc514afed4e894a26e1596ce711b9e3b4cfc45311af09d350cf4111f4a2eb8b4ca4ed1603c560e836682d09970259a6d1af5cb40da9"

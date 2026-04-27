@@ -1,0 +1,8 @@
+name = "bauxite_nether_ore"
+filename = "bauxite_nether_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1833213e824b300b7b9f2e4bcf62e0bee676e860dcbd19a84af6727c7991aa7.json"
+hash-format = "sha512"
+hash = "55b8bd2840f50af3520ba68839a674a753fdcedb6ec0a42c102ca33afbea1dc74d28a1ffc045f7ee9bb7aa31bfdb8496f1921aa4061060f098aaf54127fd2107"

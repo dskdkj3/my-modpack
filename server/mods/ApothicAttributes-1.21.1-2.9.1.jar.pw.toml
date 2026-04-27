@@ -1,0 +1,8 @@
+name = "ApothicAttributes-1.21.1-2.9.1"
+filename = "ApothicAttributes-1.21.1-2.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7445/79/ApothicAttributes-1.21.1-2.9.1.jar"
+hash-format = "sha512"
+hash = "ed6f589effc5740b8335cb600d75c53bc12da9e0fc08780a63ddb273ecd78cd4f6095e7502bd88eb5831a9ba50655d48e30b3b5897454efef327d6b4aceec910"

@@ -1,0 +1,8 @@
+name = "skill_reset_magic.png"
+filename = "skill_reset_magic.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8fdedabcfe1809968793c24d3be364804384b220d7be771381c02d220b9bdd8c.png"
+hash-format = "sha512"
+hash = "d840df6773f9b2558ba964ce8177ec7deda55ad8c35c0a8f516b1ee19c9574bd2648709a62910864175c23935134a1cf9053af4f9e60ac163e50d849db00b294"

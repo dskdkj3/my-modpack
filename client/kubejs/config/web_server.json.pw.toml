@@ -1,0 +1,8 @@
+name = "web_server"
+filename = "web_server.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e0e3e28df2ab9f124bcfa0ee0b4a873855a1405ba5959de8c8001c282c10276.json"
+hash-format = "sha512"
+hash = "3cdd903406870b28bb41dc7983a0280708e706a493108d7ec1c65b5e7d70e8409e88208379349ed3ab0be0e6c02a4724f42938964f15f11918ede1a4c01b5c4c"

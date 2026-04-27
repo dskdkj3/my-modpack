@@ -1,0 +1,8 @@
+name = "burning_arena"
+filename = "burning_arena.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb3c124b9f6a3f4ba749690cba1caf7a1fe65849a99d8dc60b2d9bf9f65d00ef.json"
+hash-format = "sha512"
+hash = "b5787253a3fffdef272ad617769566d9df4bdd446869acdfdc6a4600c2844b33f4e24016c8a7b26803523cc911708c7d66df0f0b00935b0a5984204f926a1ae8"

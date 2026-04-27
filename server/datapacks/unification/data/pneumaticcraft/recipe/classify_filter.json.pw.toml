@@ -1,0 +1,8 @@
+name = "classify_filter"
+filename = "classify_filter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59f993482cc33a8baf95625f408a8adf5bc9e8ffdae4d157cfd5d4bb36cb000c.json"
+hash-format = "sha512"
+hash = "add06707865d4576fddb62ca0437280e42e07082de69b2c5b6604718f68c2633636a537bd1c89e04514798449fa0a21720ccbaf94822e9c2f903844befa09a53"

@@ -1,0 +1,8 @@
+name = "configurable_tank"
+filename = "configurable_tank.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e4479b49993813e5000bfbcfd32bdd38a88ae28d939ac4c200dc8f5fff6e248a.json"
+hash-format = "sha512"
+hash = "5321329e0626dea09c569edbea7de637e10cdd8a740ac715929389261aa90f0f336c139ed17d7beafcccbf7d493b991fa7f61f83cd0cfe41508a777c4c4817e1"

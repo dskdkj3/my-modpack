@@ -1,0 +1,8 @@
+name = "r.0.0.mca"
+filename = "r.0.0.mca"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/565354bf59676d4dc5a5761b381c4874fbd195f32414185dc969c501e711f2a8.mca"
+hash-format = "sha512"
+hash = "42e4876869517a85eb013e6be516833d60c19f38028b1a5f6b10a833f23623778d7110e355837878483c611126f54d797d91988b66b6ec45330156f2ab06aa7c"

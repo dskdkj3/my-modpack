@@ -1,0 +1,8 @@
+name = "glyph_invisibility"
+filename = "glyph_invisibility"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c3feee5d05797a974caf593f2343c8736750a7c6884b53f1e87579bd04cb6e0b"
+hash-format = "sha512"
+hash = "a62df9f320c69edbdf09de503c64c0b118d3d0a960bb152e531acba7aded3ba483c3b3b2ea5b829b51e67f6bd6ac75c3859518528a840e9b52b562855c5758a8"

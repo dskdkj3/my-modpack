@@ -1,0 +1,8 @@
+name = "obsidian_from_lava"
+filename = "obsidian_from_lava.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/723257a84dbdc93fd3a38012dd273536a574b329592727137bfaf256a09f89b4.json"
+hash-format = "sha512"
+hash = "dfe3238f52a4fec43b25676f5c64a26fde2300d18a925d3f3612a86bb704340ed6501b333e2db28887fbc8f88b95a35f8a86028e5ffd1ac9bccdb18f933feee2"

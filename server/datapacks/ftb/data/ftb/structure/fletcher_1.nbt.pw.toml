@@ -1,0 +1,8 @@
+name = "fletcher_1.nbt"
+filename = "fletcher_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c088d5d971364ef68e5f503f2a65c61fe3a42527cf0a26fb63adc368380c202.nbt"
+hash-format = "sha512"
+hash = "3034d2e06638f88b4253accde2706587f1c2bf2fca1050f19b18577f2a3929dd0c80621147bde3e104f04dcec56885597a30431419b824ad8a089b424cab4b62"

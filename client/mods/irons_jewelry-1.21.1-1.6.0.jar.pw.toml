@@ -1,0 +1,8 @@
+name = "irons_jewelry-1.21.1-1.6.0"
+filename = "irons_jewelry-1.21.1-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7358/426/irons_jewelry-1.21.1-1.6.0.jar"
+hash-format = "sha512"
+hash = "2435f74cb5235673070674be827782b78667ae66c5ed428467dcc092e6462cb11e96e90bd04d2b35cf3976204450a6e36953068e18ac2b93131033f2b4dcbbba"

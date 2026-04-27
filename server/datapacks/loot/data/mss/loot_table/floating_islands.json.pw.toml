@@ -1,0 +1,8 @@
+name = "floating_islands"
+filename = "floating_islands.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9a8010d0ec84206d1828d1bb6158f89bbcf31f842936ca00d0110c33397c821.json"
+hash-format = "sha512"
+hash = "189e5307d1f4e67704624157ecd0463d0377977047fbb878afa7c518c0d4553586c5be305231d18dbcedde645bf3278c3fa3ae80c87fa2131b20deb661871857"

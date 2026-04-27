@@ -1,0 +1,8 @@
+name = "crystalized_menril_chunk"
+filename = "crystalized_menril_chunk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1afad55615279f9aebc017d6208dd37c5e7aaeee045b6e5c7c77886c3c143e1a.json"
+hash-format = "sha512"
+hash = "39c7af1cd92d8aeb0e91e018003c0224525f0e83dec22fa016b71be97bdd8103a3b31d9ed83027ef3986bcd43300b1254945d0754e5d75abbf59e221e6acbcf9"

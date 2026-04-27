@@ -1,0 +1,8 @@
+name = "ProgrammingPuzzleBlacklist"
+filename = "ProgrammingPuzzleBlacklist.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6b2a7a81f01f41a0ec96abd9460e7c39895d5411cd1c7bc0f0022f03bc268aa.cfg"
+hash-format = "sha512"
+hash = "3a066e4076c3e230afe3f45357268b559cbe8ebce049b7c063d142e26a113bd3b572a1ef751dca086672642eb04559b49f941898656a3498a0bfcb6d31ea4d07"

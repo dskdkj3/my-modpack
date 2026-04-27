@@ -1,0 +1,8 @@
+name = "nuke"
+filename = "nuke.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59a4e4bb6f48b9d5d1e65bf1c9e72461b8baa70d35dfb025b9b42e9de2d8867a.json"
+hash-format = "sha512"
+hash = "d5f07b1c3d25aa6822a6aa9731a88bfca10b924b484bedffa3655c2a2b5ffa439b7e3c454f67ceca857c64618a858acb6a91af4f471b314aca6f09f17d545fe8"

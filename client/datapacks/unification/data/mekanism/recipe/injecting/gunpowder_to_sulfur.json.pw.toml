@@ -1,0 +1,8 @@
+name = "gunpowder_to_sulfur"
+filename = "gunpowder_to_sulfur.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45fb1f0ee90cec0a9392eee265be18292972472fba2c201fdcd2e613e279f2c6.json"
+hash-format = "sha512"
+hash = "dd5e94f8a9b566fa8fff695aacac0ba68e322e4c96ee8b3c7e322ee37c7a6d2ae93c5b0261c16baf51f85c13422ec8889bf14d9fc320e23e27c2dff9c01fe3ac"

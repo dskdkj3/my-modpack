@@ -1,0 +1,8 @@
+name = "nether_castle_spine"
+filename = "nether_castle_spine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/6328355b3604917ad5e26fc8625b4458609f25e5bbefdcbbd5697eddd31dcb41.json"
+hash-format = "sha512"
+hash = "04d55246d42b96136a48b5f7083fa8dc6a203dcf0b9c6d47476021a6e3d346e3be4b6366b69d8fe5db5f4cbd53f9b166bd486dfa1d94ceebba6f8b300606d12d"

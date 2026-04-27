@@ -1,0 +1,8 @@
+name = "ftb-ranks-neoforge-2101.1.3"
+filename = "ftb-ranks-neoforge-2101.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6431/744/ftb-ranks-neoforge-2101.1.3.jar"
+hash-format = "sha512"
+hash = "ad781aeba59504cc89bc34f4044ed7cf11a0d1859def34a3f5a31a624a22c97e0fc8c87ffdac8c5b981be4d416af1f5186062f05b375d29e9996e6b7571fb387"

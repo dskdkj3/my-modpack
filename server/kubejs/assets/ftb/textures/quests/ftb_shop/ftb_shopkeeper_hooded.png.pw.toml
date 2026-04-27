@@ -1,0 +1,8 @@
+name = "ftb_shopkeeper_hooded.png"
+filename = "ftb_shopkeeper_hooded.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e14a9ce7fb11c368d780c23d94e307cb16ff2cbf2b831c218df8e5b1a469d8c1.png"
+hash-format = "sha512"
+hash = "7f357a3a9e434e0539175767bbd6a8a4c2962d6c8f47bbe672c7fe9ce98c97b1b9ee421f6a0501c0306b8c1391117dd766047e52145834b21f83a24f99b65536"

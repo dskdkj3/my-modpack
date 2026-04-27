@@ -1,0 +1,8 @@
+name = "incomplete_elemental_arcanite.png"
+filename = "incomplete_elemental_arcanite.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/70d6a570225d2153f7c29891395cda3c3b0f8ec4df2a19fd79ec07f0e96795d8.png"
+hash-format = "sha512"
+hash = "0514ec08a4ddec86d036d70d5d6bc409a7b1d583495ad4035b4039d7ad7601484ce19fd31881a86d087bc4e5a426dcd412cba356d6a35c705088d9df7780a12a"

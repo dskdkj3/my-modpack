@@ -1,0 +1,8 @@
+name = "toolupgrade_revolver_electro"
+filename = "toolupgrade_revolver_electro.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16284ea4293dd3c0d9eb87e4709b8975d5c51ce3c63665b9012d0915d0139a18.json"
+hash-format = "sha512"
+hash = "aabe489166e53eb548990e753e1534fc9897badb5a7e753db42d6050587377c38ba0a41f1901ac258af5010b278d0e8083b34ee6df9c507eab42a561f16c9920"

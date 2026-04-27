@@ -1,0 +1,8 @@
+name = "ender_staff"
+filename = "ender_staff.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/367e919e90b1037e0494a958aa00970b55f629d0af02e6eb1916b9b5d15f32da.json"
+hash-format = "sha512"
+hash = "c4cb5a39d155748d0365ab8ff807adc33eb373da6deca8d6ea0296a043400740d490fcbd277d6144cc5c53ba43ee9bd68661c47a01c163c3632a0452c2e7b9bd"

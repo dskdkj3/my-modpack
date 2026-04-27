@@ -1,0 +1,8 @@
+name = "desert_wastes"
+filename = "desert_wastes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e56c22fb344375b132a2438201f2550ef9c6e3a985324e6125f19b992998c596.json"
+hash-format = "sha512"
+hash = "52038ec5d1ec5644eea8c59ccf283abf0061a47dba7d66316237f501f4884f2b0aeec787906113a8a65a40db84161d894d1502a19af8079a01abc8135d433214"

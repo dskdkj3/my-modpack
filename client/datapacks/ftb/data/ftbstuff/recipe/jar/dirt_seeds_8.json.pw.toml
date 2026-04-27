@@ -1,0 +1,8 @@
+name = "dirt_seeds_8"
+filename = "dirt_seeds_8.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93ed4ac551dc98b623ab8fddb197160481dfa125623353435ae8d00841f8921c.json"
+hash-format = "sha512"
+hash = "55a044ece6c73d2b4db4983a92482e2ec88e63b1a92a8c6334cdfe8f6204954d057c056d92049e18f9b9eb8f3092b44bac00815ae7d91f48b6f76aea334ea695"

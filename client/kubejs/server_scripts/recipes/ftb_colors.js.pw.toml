@@ -1,0 +1,8 @@
+name = "ftb_colors"
+filename = "ftb_colors.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b75dbbe415b848440c4cafdfa7cc8ce178b830d3a707fcf80890164d4918379d.js"
+hash-format = "sha512"
+hash = "6543c147d58565ab78d0f685e54433ebafa44c6d0fef9784b7c4ae4c830d5fdf6718a25f06bd0026496335ec12eb02e2c84b4dbd14f9ca80b0f0a4cac18973c5"

@@ -1,0 +1,8 @@
+name = "journeymap-server"
+filename = "journeymap-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2e3d146ef2f75b3c3715f543fdfc15a2ba8082683efcd7235e30af824c2caf3.toml"
+hash-format = "sha512"
+hash = "83c951fe7e9ddcd23aa7175ec77278dc606e7f56475f0877391774a73d7f3931901519d23c9bd105033198972020af9b97cc36096588c804053adb9818982fcf"

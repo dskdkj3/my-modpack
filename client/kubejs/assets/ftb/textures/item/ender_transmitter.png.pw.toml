@@ -1,0 +1,8 @@
+name = "ender_transmitter.png"
+filename = "ender_transmitter.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ec474acebbd0afbaee9e0a648312edf5ea1d39f25f7545e699dc74310cc40c2.png"
+hash-format = "sha512"
+hash = "2149ab2306b39bd0ac33d1b640962fd24ccec61143a5d2f88dfaefd961b155861d04c95bdcb0b3f5b61f92420211763ad1091064b8fdb23f97057c99a51c7155"

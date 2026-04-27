@@ -1,0 +1,8 @@
+name = "arcane_cottage"
+filename = "arcane_cottage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3a636b587170f2e9640641f8cfa6764ca438b039336c41335ea52ba4cecb091.json"
+hash-format = "sha512"
+hash = "b6f14dda7fb6ac81f284eb2d6fd39d471108a515a8f89cec054966524d437b8c9f360be5cf9d9c9f5c0ab33b3bb3bea2220dc28c2efadc8d73ef637d8b2a60c2"

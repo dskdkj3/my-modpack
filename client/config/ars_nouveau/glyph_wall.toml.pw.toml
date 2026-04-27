@@ -1,0 +1,8 @@
+name = "glyph_wall"
+filename = "glyph_wall.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/83b6e95055dfc149cd3e67a2af444ecc2ebfa1d9574efb879b13564c819fd568.toml"
+hash-format = "sha512"
+hash = "9807cc6a89d8f9179b39a7e996246c7920814f126cf9fe601c20ae3073537027e87deb5ffa0a9cc07da94faad89c18826f79d30214e774cdc40e511a8d5b494c"

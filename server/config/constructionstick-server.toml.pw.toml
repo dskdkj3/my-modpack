@@ -1,0 +1,8 @@
+name = "constructionstick-server"
+filename = "constructionstick-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dfb3715f582b08c2edf15509af7542b41a40e04525bcd2ce7890be12fdee8573.toml"
+hash-format = "sha512"
+hash = "8a967a8b01a8021b398cfb2e88a9c15d10e9f83c0ce40e21fa67e0644364153fdbd3a18c8dac2e6e45c8d3ae56afdd5e4474f5a82e294bae2791513a21d06670"

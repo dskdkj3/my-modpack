@@ -1,0 +1,8 @@
+name = "honeycomb_beryllium"
+filename = "honeycomb_beryllium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac43ff5f34335c28c65206dfa4fbdaa1ac8abff8f61f74040aa3b7bb195025b0.json"
+hash-format = "sha512"
+hash = "2a6ab4a0ebbd69891dcab6b0efedbc629e7737fcb4bcf020951f1d544770028951451564986e2e03605b8d4ebcc1e199364fa0f5ac817731734b60294de39b5e"

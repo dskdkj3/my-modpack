@@ -1,0 +1,8 @@
+name = "disabled"
+filename = "disabled.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/dbb84dd9a5794a033a5408f410a9615a10be173b1dfb4fe500528279a1c47a24.json"
+hash-format = "sha512"
+hash = "368d6b258022e20322bf99e72a5545c1b787bcb083626f406bf9ce17648b6de1c8a87fdf1b236dd517e35bdd05d117e644108feb92e9ce9aaf081d72ffefe8f7"

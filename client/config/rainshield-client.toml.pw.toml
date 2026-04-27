@@ -1,0 +1,8 @@
+name = "rainshield-client"
+filename = "rainshield-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e8ff329051950a5060a9407ef513f98bcac28810ee9adcf639b115b9bf1e839.toml"
+hash-format = "sha512"
+hash = "37c7c349cb0959510ae87aee3eb27296b0a5515726f9c64d796012b3187b239d0be146eeae3952ee04f033ca078da1faebc4f232bb19b23db03cebc9f8734e54"

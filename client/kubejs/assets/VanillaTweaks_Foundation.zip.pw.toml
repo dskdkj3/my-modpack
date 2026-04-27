@@ -1,0 +1,8 @@
+name = "VanillaTweaks_Foundation"
+filename = "VanillaTweaks_Foundation.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd852c6ddd2c3e46aed4f0085ca3c38a14c80d7c751786e406fb1e3be64a5464.zip"
+hash-format = "sha512"
+hash = "458be0e85d37bf280fb7ed0af823b56406710d7532cc411eda28c1ae167e4efbaeb2bbf69bc800ab6a590d8d9636449d0f7e1514b7ec717c39ca2f9ac43a16cc"

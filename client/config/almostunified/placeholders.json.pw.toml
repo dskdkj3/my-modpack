@@ -1,0 +1,8 @@
+name = "placeholders"
+filename = "placeholders.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/2589f79d1260b50007c7555e6424fcca4058ea60e021416ac3c01dc1281194ac.json"
+hash-format = "sha512"
+hash = "0fb78a753a2e1af38a1e32661b9e988ed24f53c5f49ffc1e76dbfb7c0e594f2affc6abe0f44f9f7c654870647efd293dabcad22fd4877c0947f27f65328d9509"

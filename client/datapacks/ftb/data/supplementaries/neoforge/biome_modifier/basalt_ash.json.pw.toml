@@ -1,0 +1,8 @@
+name = "basalt_ash"
+filename = "basalt_ash.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a38fe255c5b146c811f1579685b1147cbb8deed29a4086d818ef86592b133b9.json"
+hash-format = "sha512"
+hash = "692d921053a67029753135f3f7261b4a929e303a852603e6ae84290d04a2e9b1a18b8eec8b804369c57ea7643abea3166effae68020954bce3a5d4bd80bcbeba"

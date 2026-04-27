@@ -1,0 +1,8 @@
+name = "ultimate_singularity.png.mcmeta"
+filename = "ultimate_singularity.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/021bc8cdb4fe0840ae768506ad3a6e41c26400ae6ff53e5628a01343815b0819.mcmeta"
+hash-format = "sha512"
+hash = "c845a59811e517c46fa084fc17588c5b10b07e466a51bf00819282013388b24339353d6eaf1fffa6f68b55431e54fc07ce3d10da7478b67027a2e2627b59f1ba"

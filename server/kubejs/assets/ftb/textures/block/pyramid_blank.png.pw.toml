@@ -1,0 +1,8 @@
+name = "pyramid_blank.png"
+filename = "pyramid_blank.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cf3eaf398d690e0fd17083707820ad015a34fe63faadf3f262c5c6ae76067f8.png"
+hash-format = "sha512"
+hash = "fc9d1be5f431927b46326e3d4f625ee5b5a83b8cce320d2503ff1f218db0d0ff0f5984bd14f5824dfcabf71e7645e68795be9a5a88af47492297bd746ec9327c"

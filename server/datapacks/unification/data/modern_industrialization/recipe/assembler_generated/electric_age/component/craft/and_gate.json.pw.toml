@@ -1,0 +1,8 @@
+name = "and_gate"
+filename = "and_gate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/962a58464c1f8f22dd6b73e295246eb675222e5493f22cb9f33a62ebb09cd4c0.json"
+hash-format = "sha512"
+hash = "6d20584146d7b4bcfe1b5f7f896112267234adf1252a4d46870bb1c6a3e64788f945fa0a341e833b7b3453d2e973c80a61856c1c0c8d409002b1c44bac92593e"

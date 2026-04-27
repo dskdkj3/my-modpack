@@ -1,0 +1,8 @@
+name = "red_shroombee"
+filename = "red_shroombee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b3181605d5cbf463e01cfe4670030f0a50adc090d1bc105f728702d05f91267b.json"
+hash-format = "sha512"
+hash = "04898caeca5ed5500ce5405fd93c1e2d7fe4592b4362d36c02481782873171ad1459fded83b6a5837fa644564fa41ee5c0851c03887de1f85fa316c3a8933923"

@@ -1,0 +1,8 @@
+name = "glyph_sense_magic"
+filename = "glyph_sense_magic"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aebe92a6600f7701b883f784343e7e8123a708ed0b63be78bdaec5a603fce7cf.toml"
+hash-format = "sha512"
+hash = "5890981589ded239d8daeec6aa1f78394668db0e7f57dfd3e9afc78073085fbe79ba704a55f22298d4fc3f167fe3d4139988544135fe2a708293e0e5e3a4e933"

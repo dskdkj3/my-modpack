@@ -1,0 +1,8 @@
+name = "enderio"
+filename = "enderio.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/deffb7b1e8a311840572cf98a80eead6081cd9fde16492fdb6d06f390e9be6ce.snbt"
+hash-format = "sha512"
+hash = "3da44501dfdefb05797ff76e3c6efb18913af108336bbc3e1f8e0df7884c2cfe62e1c268f9353a94e7851a4adc70d43138b52ff8d49dd21687b0dd80448a41d4"

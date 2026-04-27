@@ -1,0 +1,8 @@
+name = "crude_oil"
+filename = "crude_oil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96c2c1905a04a90437309a9e3671a47177ffb5e2396a45cc01657f34fc7b80d8.json"
+hash-format = "sha512"
+hash = "a2fc8591e88f5466b0d6a3dbf04e795232ce58f1bba3e6ff023ea6677016501af6291b935dccf2f4d649b9206f58abe63df04ea8df109619abd9bf465a8ee08c"

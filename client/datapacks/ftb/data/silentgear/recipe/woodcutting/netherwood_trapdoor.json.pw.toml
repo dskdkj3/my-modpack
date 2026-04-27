@@ -1,0 +1,8 @@
+name = "netherwood_trapdoor"
+filename = "netherwood_trapdoor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf4452de34b2acbd96e14783ac48daa24f3d40f89e7f1556c69fa16c76d3ecee.json"
+hash-format = "sha512"
+hash = "ed7cd24629fb7cf6acd76b4125d9a422975ed1a5021b66b19b7d6fb7be61bd89717be0956157fe34ec3ed58d32fd0c874261b1a4b4247a46edbfcb2a46599736"

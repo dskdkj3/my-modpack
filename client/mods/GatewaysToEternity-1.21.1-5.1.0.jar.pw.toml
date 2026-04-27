@@ -1,0 +1,8 @@
+name = "GatewaysToEternity-1.21.1-5.1.0"
+filename = "GatewaysToEternity-1.21.1-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6926/284/GatewaysToEternity-1.21.1-5.1.0.jar"
+hash-format = "sha512"
+hash = "d36808881eebad83e3d922e0fc77bcd99d40d5997b5b68bdd8a6509e110e6a5a48c38f70826425316487cc87934d5bff947c1dd2eacdcd7bba5d39e03bf288a0"

@@ -1,0 +1,8 @@
+name = "aluminum_drill"
+filename = "aluminum_drill.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22a0d0e73bf7dc54c20d1af60df6daa4e4a5baf58d28fa1a27a0e2310fa8725f.json"
+hash-format = "sha512"
+hash = "52ab43a3a1f323beadf8b10f30dede0b43ccdb69dcd0b9926a1f61b354608d63f53c3aa5b6ad980e6655142a6c9c147062520c95f133d7a004352f6860eb7cd7"

@@ -1,0 +1,8 @@
+name = "hunter_belt"
+filename = "hunter_belt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe98ec7430648a65e7fc9e0a7117ab9e65e5bd1061c664d1e2f6db1de44f4d8f.json"
+hash-format = "sha512"
+hash = "d270cdc753b8bcfdfc2288fe0c1dabde2a03e69ddd068bfe818873e0068959ac42ce3f9477d7ffb0a16b9162618a40d5ba7123e328ec898fe3be1ddca15b12a3"

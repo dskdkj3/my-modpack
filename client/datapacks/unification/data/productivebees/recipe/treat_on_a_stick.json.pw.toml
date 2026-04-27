@@ -1,0 +1,8 @@
+name = "treat_on_a_stick"
+filename = "treat_on_a_stick.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc68788ee0c2f634b750f8978902eb9a4bd168dcd4d81d6610cfaca8adb9b219.json"
+hash-format = "sha512"
+hash = "1fc8b803ae32ce9e43524c2ae7fbf2bb0e63170864f3a94df2ee25f8ae48d49cd1a04b8df4b42b461b0c4fe36e4f22f6571f5dbc9905781598fc5a1522c5b282"

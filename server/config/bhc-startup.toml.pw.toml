@@ -1,0 +1,8 @@
+name = "bhc-startup"
+filename = "bhc-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d575177a77715aae236c3a0f9d89d5d669655b72267af6bf8930698268d329ce.toml"
+hash-format = "sha512"
+hash = "e965ed767ecb10d5dd231549ec2587b2f76c4abf3b6006d5a121277e52a540cd8e8a3e546655ab22f8e8a095b7bfe630f1b6d47e649c563b08b765c760b6dbf7"

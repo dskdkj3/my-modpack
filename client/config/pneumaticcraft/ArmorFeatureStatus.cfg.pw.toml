@@ -1,0 +1,8 @@
+name = "ArmorFeatureStatus"
+filename = "ArmorFeatureStatus.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f1905425368e96c251cd670604bb98a85401161a80842192278aba6f012fdd2.cfg"
+hash-format = "sha512"
+hash = "2a8090aad9a4f4b7a08ef4f07945b5d6412367820349683f78a1c747636262a5e84ed8d7f338c854ffc5c288687d0285653dc116632a2c13795aa0e651a641d6"

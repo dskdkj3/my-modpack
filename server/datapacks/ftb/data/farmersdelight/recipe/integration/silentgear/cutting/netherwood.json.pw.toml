@@ -1,0 +1,8 @@
+name = "netherwood"
+filename = "netherwood.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de79215815f39c2497ddae37b0caf12bd06ed05f5f9d7b356326fa4f150aa11e.json"
+hash-format = "sha512"
+hash = "c65d76068456c47c5273ff22d8f294bb02835d68cce72e466d2a3a592b692f7733a621fe66b8fccab3059e33eb82eb8172c54ba201bbe8e89e13d079f997011e"

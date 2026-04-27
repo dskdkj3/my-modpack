@@ -1,0 +1,8 @@
+name = "skies2_ftbworlds.png"
+filename = "skies2_ftbworlds.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/392762b96bbd187010490d72b2dbe49176777103b7878327b6a0d294ed1b1891.png"
+hash-format = "sha512"
+hash = "9d7ee766b8f8d03e06b983a7f9828c687b5d88e8801f21f11be7ffb7831886d63b03e52820f0b1381cf4cbf8d115a654087e2aa0895e9f01bba63c970689f171"

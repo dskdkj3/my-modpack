@@ -1,0 +1,8 @@
+name = "stevescarts-common"
+filename = "stevescarts-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab38003a6078e7043244a89c39bc9b8e6ba42b990adc53efb8aaae50bed754bb.toml"
+hash-format = "sha512"
+hash = "2e35198e9ea7bffaaed0e76cf6cadb1fe9b3925f187106d55bdf7f238010c76c6e3ff4dc84674c3337d885f8ca7169a6c6ef0eb72d1b9a4a69c963b6abd30e06"

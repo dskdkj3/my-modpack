@@ -1,0 +1,8 @@
+name = "blazing_mesh"
+filename = "blazing_mesh.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/ded9e4bc39b3d7ef9d50fca204837f08ef59e8df7975df09245b19dca3195167.json"
+hash-format = "sha512"
+hash = "d3d7a430a50b691744a788711450f30b4dfb0ac69930353f9a7041293131448f66f5f91f392defb5195fe555b95ebf803a5769f803d60f7c105358a09e876da8"

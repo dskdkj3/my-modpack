@@ -1,0 +1,8 @@
+name = "resources_and_you"
+filename = "resources_and_you.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab6972806868ce01891a458135dafa08ea443c9b48a04e15c198e19b516f08dd.snbt"
+hash-format = "sha512"
+hash = "ce6bb3669f502f9dd9acba1a91d8c8e386b24244fd72497ea51a5da782f38b64b62b12ff43c764f1ab3229249af639cc0a613001dd8c1d71801651c2a13f71c6"

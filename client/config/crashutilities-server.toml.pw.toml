@@ -1,0 +1,8 @@
+name = "crashutilities-server"
+filename = "crashutilities-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/9806bb5b6d86fb1d08ad74595c2f06925adc0fbc66a3f79a5e45f6ddc0bdba6a.toml"
+hash-format = "sha512"
+hash = "5aae1233317c89de708c8a69c70ab30bde716e4200940e5e0d2a704596f25ee458eb205736efaf586e465da6c1e709a7b5b22d1f670b7e079a19d8da97140f1d"

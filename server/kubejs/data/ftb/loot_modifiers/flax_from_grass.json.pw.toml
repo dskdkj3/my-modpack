@@ -1,0 +1,8 @@
+name = "flax_from_grass"
+filename = "flax_from_grass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0afa8b9c45594c0ec35db1719f8fd8b09dc41f8409fbffd95643c1df2c6163ea.json"
+hash-format = "sha512"
+hash = "a60857d171cce79294e346094282870bab5aa0aeb2ad4fa895290a01ff13d84a975bf43f08e151814a334263bda6c445745f786f61b6870c04217041dd2b8bb3"

@@ -1,0 +1,8 @@
+name = "logistics"
+filename = "logistics.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/302c517e160d8bef0ff49eb291ff2f12351ec05c1216859d29ef5fd93ea01047.snbt"
+hash-format = "sha512"
+hash = "ee65624b177bc7dcff49546fa50254d0195be291e45c8326b52b60bb947084d668c93e15cab4a2ab94c65703116d8a6457c985b90493f1d0c892e7bad188150b"

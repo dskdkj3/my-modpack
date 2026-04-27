@@ -1,0 +1,8 @@
+name = "addon_block_capacitor_tier_3"
+filename = "addon_block_capacitor_tier_3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71510811926f739c1c1b6de2e3bbd03f6936ed545306d2bb521217a900c09fe9.json"
+hash-format = "sha512"
+hash = "8ae26ac924e1048920525d0247c6bb40955f2cfb840cdd24963b9f5ce330fc1276e087d88f66e56409f393c686b0699d9c48d80ecd93d0c1a9673f8af0228f15"

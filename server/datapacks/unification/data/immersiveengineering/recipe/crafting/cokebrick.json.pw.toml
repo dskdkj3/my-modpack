@@ -1,0 +1,8 @@
+name = "cokebrick"
+filename = "cokebrick.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c3fd8c1a65a9b8044acbb39f4fffe48c3768c306aaa884706944bc7344cad77.json"
+hash-format = "sha512"
+hash = "5ab328e7da31e553cd91df16dd0e191fc6157647d337a04d685cfa2a377582f24865842108bc45044f04c694772d2f1af476bc7738d9bbf0b2f6d71f8c3b3d8a"

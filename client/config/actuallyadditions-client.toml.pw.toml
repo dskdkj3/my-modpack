@@ -1,0 +1,8 @@
+name = "actuallyadditions-client"
+filename = "actuallyadditions-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca4c7c68632266857efa7ce787fbb1949ff2674f89bf10a0f6085cf38842dc22.toml"
+hash-format = "sha512"
+hash = "7abed6b7bf178dee2c8fc4242018fc80a10a2d861f7f239c8a570e54c3c40a967eb9f617835ebd26029c189994b001a8f3c5154577281af4e972f6d1c759ecd1"

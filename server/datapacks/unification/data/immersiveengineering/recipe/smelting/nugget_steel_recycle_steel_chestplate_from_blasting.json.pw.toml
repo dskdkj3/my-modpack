@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_steel_chestplate_from_blasting"
+filename = "nugget_steel_recycle_steel_chestplate_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08ea8a66fba1299f7a2bc5a1620c916edb9c9d0fed9da786729848c1c9f6f7d4.json"
+hash-format = "sha512"
+hash = "0652d1496ee5cf6abcb0dbf5867652ccfcf8bdf8d0f52339bd1c3e71291ca25cbb3bd6a457a37f306296c968bc5bd6823536d55c00c03e477ddd5a214456cdd0"

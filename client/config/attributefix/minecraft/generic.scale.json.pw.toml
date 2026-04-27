@@ -1,0 +1,8 @@
+name = "generic.scale"
+filename = "generic.scale.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c38062adc77e4b7f631f831473955cfbe13b3b5626389c3b5ec3c03127765b8a.json"
+hash-format = "sha512"
+hash = "9ef78e9cb5ffa810f68a5a01b70cc1a26c9efe05ddd9d17f20705773b68479a8783967820cce5c266799d9d2532dff2688009528f042e87b585bd736fc556dfc"

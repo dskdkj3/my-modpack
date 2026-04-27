@@ -1,0 +1,8 @@
+name = "create"
+filename = "create.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f867d0bd3180018f0e0da03afc1c6b5111d75f20c33a49541d052414f8baf7d.js"
+hash-format = "sha512"
+hash = "352cbcdc7ac077110f281ad0c8d6d69a603de617e65f0ff6bab6f48c09af89ff25c2cc6266cc03804009d1f1dd9e1aea39462f672aa15a55cd4312804419d6c2"

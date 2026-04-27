@@ -1,0 +1,8 @@
+name = "enchanted"
+filename = "enchanted.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d76e6a982403fa1776e125abf34feba34e08f7a21a58ef1eb96904064b0924e1.js"
+hash-format = "sha512"
+hash = "6bd8492cfe77d6cad4c55c9c168af1bb66b8c42002e4c19b1f37b40ddb5eaad37d2a93938b91459f44ffcef7c150a0a9eba6bb32536172e4e01ddeb1a5a85d1d"

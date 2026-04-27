@@ -1,0 +1,8 @@
+name = "event"
+filename = "event.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff2a274dd0443356350042092a4732c58d92d6eb08448f825e80a9a8cba3f418.json"
+hash-format = "sha512"
+hash = "3825857cb8c25e3d3a506b862341eb00548bbedaab5aa75e1dbfa3311de5bc7c6104f0a6a6c72b066066f83e4edb70c4752a97493e75e35c11d72fae5517a295"

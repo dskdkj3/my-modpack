@@ -1,0 +1,8 @@
+name = "apothehostage_situation"
+filename = "apothehostage_situation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/7185c4a50e24bc7708658799307614a0fef1eca1ef586bb36b7fbd34142dc829.json"
+hash-format = "sha512"
+hash = "582b5affc57250c47f105dd0fcaebb2e28c314e4d73d279a310a9641c56c572ecdfbe8c7a9cbb6fe7fd60008a235265f9fc9d67b2cfb761afc5a818a2009db83"

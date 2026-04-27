@@ -1,0 +1,8 @@
+name = "ruby_gem.png"
+filename = "ruby_gem.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af53219e26b848bc68717f2537438d12a2ce821a90b2ff95174e3df4f5a3970f.png"
+hash-format = "sha512"
+hash = "5ec23ea47449ea81de98f93c15d96575e58e4098cb3455ecbdad0637b10ff3897a0398cf66b7d1b493ef7e9051c47adf4e3737fd8562fea98e11a387032127e6"

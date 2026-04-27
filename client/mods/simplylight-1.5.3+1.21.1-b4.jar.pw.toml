@@ -1,0 +1,8 @@
+name = "simplylight-1.5.3+1.21.1-b4"
+filename = "simplylight-1.5.3+1.21.1-b4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6219/29/simplylight-1.5.3%2b1.21.1-b4.jar"
+hash-format = "sha512"
+hash = "52b5f4c76edd388a30f8fe7cf08d9ee4cc5bf4d321c0b671df7a47fd548e9f8285ab9415902240206c1cfd04810424257d03e73eb5ab3a5c5a7d35bde311a081"

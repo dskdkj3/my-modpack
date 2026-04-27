@@ -1,0 +1,8 @@
+name = "inferium_axe"
+filename = "inferium_axe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/614de7c5432efb35802abf892fae8e71e7272c587cc2b0c46cf2cc70e0c3cb74.json"
+hash-format = "sha512"
+hash = "82863a70f4cd89f35f42b53eb0a5ec4bc78cc5d14efb2185fa5da02cd94005ffd4ea2d99fde38a26885ac47a1261713943d757dbbe3f7a55fccb97dcfd68f5a9"

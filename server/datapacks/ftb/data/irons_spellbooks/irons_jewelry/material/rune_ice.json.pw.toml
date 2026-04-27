@@ -1,0 +1,8 @@
+name = "rune_ice"
+filename = "rune_ice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/34/34a7574d66b474e6e6441d98ad824e9290f4f1140e2841a8b7df5ff5d26522bf.json"
+hash-format = "sha512"
+hash = "9d12fb6cb05cf56b80d37bdbed83f4dfd8c8a9cae3cbc50bb7228be81bd897b1e4638ecc52e54fa47d344d87217e5bf30caed7d0a6846c30bf8a41a808b2ba89"

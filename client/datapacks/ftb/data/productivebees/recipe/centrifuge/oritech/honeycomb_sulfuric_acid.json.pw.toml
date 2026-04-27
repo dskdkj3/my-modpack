@@ -1,0 +1,8 @@
+name = "honeycomb_sulfuric_acid"
+filename = "honeycomb_sulfuric_acid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d26b484d14d8b74f9f37945ee4912054af4255c4fb099a014a1739543b5aed9d.json"
+hash-format = "sha512"
+hash = "158492a0cb2743d614ed932cc5e25638082d4210aa9fa664ea096e86223ffc862a80e9fb8a20d31f557181103acf7402ebe260891f4a33fea3c43f0f4c533493"

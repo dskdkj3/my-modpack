@@ -1,0 +1,8 @@
+name = "ichunutil-client"
+filename = "ichunutil-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5457b7a6db39a088468a619ef9edad979ef2a354831feb7456bc6788b9224af1.toml"
+hash-format = "sha512"
+hash = "72ae5f3275b14646d724da92f57cd6ec858679cb846d27e4be0ff1846b829f51fda4860f6d80d531acd5a6f0be248f3ee78bff4aeba2caa506ccf500c91e6316"

@@ -1,0 +1,8 @@
+name = "modern_industrialization"
+filename = "modern_industrialization.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/0414456f542fe8d95641f45106eecccd69eecdc68143ed1904ad483f4142d64c.snbt"
+hash-format = "sha512"
+hash = "e7879dcfef3d1a76b73056bbe938dc3a8498de7f95556714c71e1dbf2a3a8c08d6f5293199924a79e8f4aa520656a08ffefe9dcfe1bb8c0d6a8ddf195951caeb"

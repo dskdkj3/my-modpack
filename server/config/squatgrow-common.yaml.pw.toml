@@ -1,0 +1,8 @@
+name = "squatgrow-common"
+filename = "squatgrow-common.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/2936fc595b6df06fd2b3ce253c075e3c19cd9d40412a1628f796b981a2aebf0a.yaml"
+hash-format = "sha512"
+hash = "376b204aee16ff33c0ef3423dc437ad12f10d3499116f4c3b439e45ba065920ea9b877f272c3e01dfdcce2e7349bd80763325cfc1f27f69dd2106bd85dfb74bb"

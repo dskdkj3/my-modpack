@@ -1,0 +1,8 @@
+name = "vanillabackport"
+filename = "vanillabackport.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/12a99133d1578cdfe06786487382fa81adbfabe8eb23a3cd31264fae5876b0fe.js"
+hash-format = "sha512"
+hash = "8ac368f4341ad2af71fdbdc5fae7da5aa40bfe56ed2d40d2f17b55158283f09d4492bdf2d7c5d918b8e93cb40653e3279f47dad22c4a0ecd001a4380aeea208b"

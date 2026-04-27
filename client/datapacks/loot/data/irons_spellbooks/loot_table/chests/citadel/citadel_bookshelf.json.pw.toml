@@ -1,0 +1,8 @@
+name = "citadel_bookshelf"
+filename = "citadel_bookshelf.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aeff0ea95dbc926d3998313b8f11e4fd524c23081821d5086a5b7c5f96afd710.json"
+hash-format = "sha512"
+hash = "d334f0814b61cb0767937511f9741d10978d05a513aa93e3ea7820d6655a6a66571cbf06cbc57b8eda1ec532eb66b5f9ba851d340c4d9ae2373aceab6a202f29"

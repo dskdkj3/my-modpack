@@ -1,0 +1,8 @@
+name = "aztec"
+filename = "aztec.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5cb9f6042760b6117f490e876c2cd18e5a97d5af5a6d7fb9a11614021f76a4b4.json"
+hash-format = "sha512"
+hash = "c2929296a1b179dfdab7df2191735050779d69434b6e3912924afa34ad3ffde7e730debbfe98441cd95880a04ff0cb1f82aa1f0d1b22ee108caf592e2f49af7c"

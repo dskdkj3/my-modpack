@@ -1,0 +1,8 @@
+name = "events_main"
+filename = "events_main.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/88ce67d7ebd3b6103b8e90a4a49530796352053f5c92eda7201da842acbf4e6a.js"
+hash-format = "sha512"
+hash = "4c395b1edb045b3e7890a4a7fdb9f976eb55cc99bd1d43420d55ff5e51867e52b8f1af954be2f270c83e401ff1c4d8fb7525d42819af8f2bd5800f20db694e06"

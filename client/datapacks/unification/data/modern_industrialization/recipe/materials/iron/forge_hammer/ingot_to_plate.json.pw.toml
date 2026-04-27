@@ -1,0 +1,8 @@
+name = "ingot_to_plate"
+filename = "ingot_to_plate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c4e7b847a9c47cb35fedb426dbd7df1c39f7af87fe3ca750a790f9538f67d754.json"
+hash-format = "sha512"
+hash = "5d5cda660769c8ac5171c7e48a4428103bca1080074610329da9c039f66b144241c129245f434f31d58528e4d09bc74d47aea7daa9121b2c7b334a5bc9d15169"

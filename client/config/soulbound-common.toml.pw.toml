@@ -1,0 +1,8 @@
+name = "soulbound-common"
+filename = "soulbound-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7fe4581c1f385b44ff3037bee792f83c12a8fa068318485e3ed4b92c72194df.toml"
+hash-format = "sha512"
+hash = "da0f038caf0b0f3d2b13d1e9afd6e3952c7ff0e8fcf8dc10c44c5b0bc493057ae309ff1e305d78bf515e72bb1a534db3919c382def1f836a3538ab48157516fd"

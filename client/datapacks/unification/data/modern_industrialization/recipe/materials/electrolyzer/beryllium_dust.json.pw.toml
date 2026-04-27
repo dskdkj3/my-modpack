@@ -1,0 +1,8 @@
+name = "beryllium_dust"
+filename = "beryllium_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/56f56a505283039356eb0059edf8397d4222e2675b4ef4ccf4c62edea7499e06.json"
+hash-format = "sha512"
+hash = "bd2a43905e093141835a4e130d606e0a817cc452f283e104f156060d196023f5dc616e62073ebf0ba146eb6a9036098648ead76b736661918e189a498fe74cd2"

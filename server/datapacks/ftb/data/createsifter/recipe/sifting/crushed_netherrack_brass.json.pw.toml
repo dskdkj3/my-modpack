@@ -1,0 +1,8 @@
+name = "crushed_netherrack_brass"
+filename = "crushed_netherrack_brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da1e0d79780d8d1f8642fd5bc6c4f83d68da7cf192a6c691885f9c127c533dfa.json"
+hash-format = "sha512"
+hash = "e13d55fa9ea40f49cb151bd8bcb93a202f13e10b1b479fff848c4862ad160a441ef5177496c8ea26e462ca60d7163aee8f9bdb9c332be765eaf00a261ee309df"

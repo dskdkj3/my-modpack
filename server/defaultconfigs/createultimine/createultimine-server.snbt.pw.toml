@@ -1,0 +1,8 @@
+name = "createultimine-server"
+filename = "createultimine-server.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/827a87451d2b2c369da8f3c2e78af1cd0a61e2f8d7a03f48d4f8d114354bc2a5.snbt"
+hash-format = "sha512"
+hash = "6b0c77ac1cd8222885cb51041e4b53c8c14e7cd27012956af555bf4c99f3b6722716120ad7c126c0be8d43073df87af432ea105a6b4c936e9dd5cda9b086ed2b"

@@ -1,0 +1,8 @@
+name = "platform-client"
+filename = "platform-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39731372d8422590e596fa58a71eb1440c611720b1f66e3de42b0a32ef2ddc46.toml"
+hash-format = "sha512"
+hash = "5bf46e166119a35ef9f597e89f1da6980454445b5fded51fc213f39d9e328c9eda8fc71baf797daee65d7e25d5886d5bd14d96c87e1763781588bd41471f10a3"

@@ -1,0 +1,8 @@
+name = "glyph_touch"
+filename = "glyph_touch"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/06da038b7a56ef989497d0705ae2a0c43cedd5af165645e4f4be7ddb538447c0"
+hash-format = "sha512"
+hash = "004292af28f2062563cc165fddc14c609095c8463feed08b57edd7f1323cadeca68abf71b72277bffed42ded23ce826e5265ece995bbbc6dc7c473e93e8d0cf9"

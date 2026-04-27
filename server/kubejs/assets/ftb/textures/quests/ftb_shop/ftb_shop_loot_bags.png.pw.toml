@@ -1,0 +1,8 @@
+name = "ftb_shop_loot_bags.png"
+filename = "ftb_shop_loot_bags.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9bd00042e7e1513d94c39f9b8a04bd73f6a0e19fc8fd81d22990968ffd75e67.png"
+hash-format = "sha512"
+hash = "1628478387becdeb65cc82c1eda4f5014361ae9855e0eac19dec38bead5bafec407f3cac145724b2f32414496c75b5e8f5462e5df008f96bd633514ca3f62350"

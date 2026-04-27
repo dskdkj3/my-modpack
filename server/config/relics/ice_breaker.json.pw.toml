@@ -1,0 +1,8 @@
+name = "ice_breaker"
+filename = "ice_breaker.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cc400b4db88a0372eefdbb334b4d1583d093f5ca042fa4731a8d90ed3ef8c87.json"
+hash-format = "sha512"
+hash = "dc047d96420c43f1cab53e0c2aa22abe5f68bb8f113a5fcdad144b65f58b911164e8b0e8795edaf7e38a4b42cf841d1e3f19364b125221a48a10be2bb285dbd6"

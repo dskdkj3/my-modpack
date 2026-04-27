@@ -1,0 +1,8 @@
+name = "salt_superheated"
+filename = "salt_superheated.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee612bb0bcebf384d49f9f6bc6cc7276684f4b9f732a1bbdff8f1a47de1cb8bb.json"
+hash-format = "sha512"
+hash = "b38be3cb5e36a061c9ad1b08f1c74115fd1771cf745ad0e015f349879e4a1801f37324fe5761c74eeeb5c2157ac8d13bf6c45a13a7b4926a3fe4c2dd4a9d98d1"

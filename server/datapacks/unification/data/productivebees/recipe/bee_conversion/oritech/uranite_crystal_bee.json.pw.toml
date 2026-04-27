@@ -1,0 +1,8 @@
+name = "uranite_crystal_bee"
+filename = "uranite_crystal_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/843e6097cae336d885e3b903733fb0601726f0f74994cf4e7f35c0fe36daf145.json"
+hash-format = "sha512"
+hash = "c79f8dbcc77dfc7694923e48f67c73897629d270abcc8eda3a73e703e34021801fd7a6d900cedb65e69366c3f28cda5e38e921d82af06ecc4cb77bb6e552ec50"

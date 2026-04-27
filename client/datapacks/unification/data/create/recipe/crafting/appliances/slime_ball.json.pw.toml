@@ -1,0 +1,8 @@
+name = "slime_ball"
+filename = "slime_ball.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97639d4ee77c21731131d8a431c5186bd45bfb9e62718a65aedaecf6b7b705d8.json"
+hash-format = "sha512"
+hash = "3795d8f480d3cd1863b65e7338128586d7489391b088292e957a2834dcd49621847d9587ba37486281b2b2815e44a85a8c89ded7a32fff6e5c299ea7f0084f5f"

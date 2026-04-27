@@ -1,0 +1,8 @@
+name = "xp_synthesiser-server"
+filename = "xp_synthesiser-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59c87022a9136b4d627511bb16d96a6136377bb24d7ba199d2d93c6492848e78.toml"
+hash-format = "sha512"
+hash = "8b49d0f01c53a40ebc0325721270f4e55d19f5fcb4b76c9e5ef6792f9747ed7a407c46c0150e1ffe7609fc661f47247a5e9f919510599f6b2a73436213ad2bfb"

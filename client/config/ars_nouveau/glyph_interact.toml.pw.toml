@@ -1,0 +1,8 @@
+name = "glyph_interact"
+filename = "glyph_interact.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9b59c687a3215cdc9347c662abacda21dad48c04912d347e3a2010d882ea170.toml"
+hash-format = "sha512"
+hash = "7b7c829b57f9251fc55b2947f15fb6b785c13c6500b90e4ef03cb145b3741c53e9b0446155e4f575505d653c07c364e289d006e75eed8591fc100a77b98743f4"

@@ -1,0 +1,8 @@
+name = "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library"
+filename = "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6737/240/ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar"
+hash-format = "sha512"
+hash = "4da264d203d786efb638a6ecab0cb4f974436a72c84c0a9cdb2cb0eec5757dac294c1435deae048d44741098e6aaedb4def508a47d2bd4d010a3441921119806"

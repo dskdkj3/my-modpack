@@ -1,0 +1,8 @@
+name = "integrated_dynamics_logo.png"
+filename = "integrated_dynamics_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31994a617d62eb100922d4c910a967376167ce5e510c9718613c5fa2402f8230.png"
+hash-format = "sha512"
+hash = "ada537fd413cf92c8d45b400b307878a5c86c99058e76212468ba89b41bfd7f036033198a1cc383927ee552407d6331433f24ada256bd217a6b7a558423463ba"

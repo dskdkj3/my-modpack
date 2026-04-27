@@ -1,0 +1,8 @@
+name = "milky_comb_to_block"
+filename = "milky_comb_to_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a01737229b0312994f1c6b7d32a3857de8b7c0fb19d9b1fb208f827648bb36d3.json"
+hash-format = "sha512"
+hash = "341ec765e167dc93185381cdd5c414df5e3450472b95b0a114394f6ed7af9f9afe0992ab5bc4347c3d2525abddc8e5f234fc4d75159e16ac889ae6a7e81b44ce"

@@ -1,0 +1,8 @@
+name = "nugget_from_smelting"
+filename = "nugget_from_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/afb2af1feed0d3558cc044fcfb21cb26388f038820b061977434c785da90d038.json"
+hash-format = "sha512"
+hash = "a4fbe030eb2f47738ae56d83c66a627e9942443b4e7ec63ddd58eef74b12d987a81bb27b7f2e0263b34e828f844c84f350ca57d8eb2eb112b0681ef24394205e"

@@ -1,0 +1,8 @@
+name = "polished_end_stone_stairs_from_stonecutting"
+filename = "polished_end_stone_stairs_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a28bcac9ed719552bd1f094a69771432093f2f7ece9fc88c20d049b7e5a68201.json"
+hash-format = "sha512"
+hash = "29863aa987f5f1a9be2a78d7212b54b1f0bf8878f26b2c54ddb18243b2a98364a8166ae6438942a01c755cc627dfb5008b63b447b9b6b35d59823ab48ec9fc60"

@@ -1,0 +1,8 @@
+name = "dripstone_caves.png"
+filename = "dripstone_caves.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f58575fbf5489c78c093c1eb8cfef80007e60751d995c44cfcff69cf72413af.png"
+hash-format = "sha512"
+hash = "34b3626d3a554b6362a79c4697e4b45bb623aa35187b3c6bb155083bf041a000563f1b0bb0ba3c346f676d6f141b5ed85efcdd15d56878f69aaddcd0c0edeac4"

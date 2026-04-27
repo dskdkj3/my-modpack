@@ -1,0 +1,8 @@
+name = "glyph_launch"
+filename = "glyph_launch"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/3827551a5afd178776b44efaa94653ec93147bf337fca6866e214b8828877117"
+hash-format = "sha512"
+hash = "8c50897c2d7fefe95ae67b884a78b6586df500a80fcc6268b6987d1f81e26ae09cdcfab71ff720ec07acee9a166014a9e26dccf5276404599ceb8c0de3af66d8"

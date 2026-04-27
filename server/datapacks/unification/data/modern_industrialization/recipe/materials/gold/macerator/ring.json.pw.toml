@@ -1,0 +1,8 @@
+name = "ring"
+filename = "ring.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a81bf6a3d1cf6c69e043ae4a6862c479052fef0b4afbe44e44079d6331befa14.json"
+hash-format = "sha512"
+hash = "d9fdae2df28526827b8e5e6de9b051703dff5fda1ec1a8a712f031bbb4bed25287a8ba7ca86677e9d502cf2246ece64061b4a43aee4150850b90dede590a3384"

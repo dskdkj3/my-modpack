@@ -1,0 +1,8 @@
+name = "monocle-0.2.3.ms"
+filename = "monocle-0.2.3.ms.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7657/778/monocle-0.2.3.ms.jar"
+hash-format = "sha512"
+hash = "fb0559650a14cf183ffcfefd9d1563e8f4e1489a0bdbf1a620c06102af7d2989e040db5d3456f63d427b84c606b605dfaf19bd07c845fa7af928cf34acdf92a6"

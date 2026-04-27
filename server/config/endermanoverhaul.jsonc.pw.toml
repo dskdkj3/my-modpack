@@ -1,0 +1,8 @@
+name = "endermanoverhaul.jsonc"
+filename = "endermanoverhaul.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2abc38bf872e4007f6dfc7724058f52c8852dc9342a8be22db52bdae51827f59.jsonc"
+hash-format = "sha512"
+hash = "699891aedb7d0ddac5e7307d5293ccfcf434154e5cb350f1853b898f6c862ca3beecaee518970dfdd6d04fb9cc4f181e9d144dfe77e3d68131d4b9a87472bccc"

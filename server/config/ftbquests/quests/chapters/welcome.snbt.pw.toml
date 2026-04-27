@@ -1,0 +1,8 @@
+name = "welcome"
+filename = "welcome.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66d3e28719ab6b09831782cd81c695c67a9b6960ff2ac539c6d5d04ec3e8c16a.snbt"
+hash-format = "sha512"
+hash = "e7118e9914d7bd78633dfa881d863f0706903e0e9be3e38f50da05ee595c8d156dc7c75599aca035d50cdd9325c2abeb24f439cac4ecee6f8b7def5033375267"

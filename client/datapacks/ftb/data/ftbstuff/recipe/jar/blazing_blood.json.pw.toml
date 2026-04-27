@@ -1,0 +1,8 @@
+name = "blazing_blood"
+filename = "blazing_blood.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3fc9642e96d9ca83222cda8ac433ba32c299f0d5573719b0cf45c217e1480a08.json"
+hash-format = "sha512"
+hash = "791524f7ab48019bbedddd04d2add93d9f0e865623d998cf5dbea03726cb5cd6cf61568b60805db1375717eed3077525d1a415d15a4e57389d82f811e846b758"

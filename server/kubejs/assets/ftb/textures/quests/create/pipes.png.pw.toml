@@ -1,0 +1,8 @@
+name = "pipes.png"
+filename = "pipes.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/34/340a9128e0ef9a9d9dbad296fc06f982b9f1c81ae953b1f85c0060875b7a418e.png"
+hash-format = "sha512"
+hash = "42b1fea7fbddb3d2b5eb14225254eb1a516e37daf9e02da3947b21f6a3dc49e2acf34c673aeed73c73f2a97dc3a63b943e8e72a9624890955f959868564ea4ad"

@@ -1,0 +1,8 @@
+name = "generic.thrown_potion_distance"
+filename = "generic.thrown_potion_distance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cb1a3a6162b1d1b8fd6082afcd9d274b8068a43a4d19b6d963490ba0ccc3da25.json"
+hash-format = "sha512"
+hash = "8c2c50356d1600d39deadf4e3d30156f042086a515482096e5654f782c34901ff30aa87674f40733384348a68d1d30e52caaab836e58e90cbcf11dce82ee98cc"

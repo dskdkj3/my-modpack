@@ -1,0 +1,8 @@
+name = "ender_transmitter.png.mcmeta"
+filename = "ender_transmitter.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d0124f3271ece843f94258a36f7becd2b09368f05da28ad43356237664a1334.mcmeta"
+hash-format = "sha512"
+hash = "eba9e32c101064da35cc3178aa580e2e0d23d91c7648eb2e6c426a7bc415b7d15231d75ecaa6115f157347432b25b1250ae2a8cefeae405b1596ee5ce8c591f8"

@@ -1,0 +1,8 @@
+name = "siliconwashbad"
+filename = "siliconwashbad.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78df00c7585b2a2013049e70cf932b82f59b8b7bf6984645a4e17da0b5b2ae87.json"
+hash-format = "sha512"
+hash = "b991dd339b433f836e97cfccf574dd852bbceb958bcc6c57f825eb076997ca99375feb4332d9ccdccc0a2f8af5dc32f6fb720cbefb585c0fdc060308c3f4abc0"

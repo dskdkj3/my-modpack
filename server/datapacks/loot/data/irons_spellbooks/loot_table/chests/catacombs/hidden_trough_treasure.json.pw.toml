@@ -1,0 +1,8 @@
+name = "hidden_trough_treasure"
+filename = "hidden_trough_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/34/345d8d416513e3b7fe703c58ae07da60d751dbd80c15f1c889d93ec48220062d.json"
+hash-format = "sha512"
+hash = "4866616b33bf9a182e147bb30b4e312ffd96e8ff5f22eeae7d67eaf95257b39b06f7e9e1e55e0c552129738a57cca9e3d589792a5f5c35ce8b7c66b9007539e5"

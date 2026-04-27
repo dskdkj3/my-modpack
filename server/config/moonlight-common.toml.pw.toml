@@ -1,0 +1,8 @@
+name = "moonlight-common"
+filename = "moonlight-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8cb19f4cbae2309d13bb7aec1b81419901209097183bf6bf36679a246c2ca61e.toml"
+hash-format = "sha512"
+hash = "1eaf41f5c015fb026841162749c8984b4b6a893ee84e11f8b6564ac21b7bce5f59226fa772e89e67964f3222908d681b4dff728356a9a726e15827ec1fc583f6"

@@ -1,0 +1,8 @@
+name = "digital_miner"
+filename = "digital_miner.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14fd5389b8474eea364dde44e3917258597aa5a6b2799f678b9967dc328d5cd8.json"
+hash-format = "sha512"
+hash = "6a129f355a16abc55b65c13362875949fc23fda8ae106502b829bc0171774095e47c6be10721ff16e0a59200c571aecb3c50af09e5f058d3890c7b446ee6f171"

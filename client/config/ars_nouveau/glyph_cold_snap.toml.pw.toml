@@ -1,0 +1,8 @@
+name = "glyph_cold_snap"
+filename = "glyph_cold_snap.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba103a84f74507db9382c056053e2b7286aba24017c00089a3751a86a0909e7c.toml"
+hash-format = "sha512"
+hash = "762cce694065ead53ffe1576789cfc71c2f297998acb49ea607274a0eb916776097bfe40091162b8a2bf6770d722ac9a42e4c99ee4c0255a83cff08b4047d082"

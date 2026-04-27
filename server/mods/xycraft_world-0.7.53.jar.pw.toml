@@ -1,0 +1,8 @@
+name = "xycraft_world-0.7.53"
+filename = "xycraft_world-0.7.53.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6872/532/xycraft_world-0.7.53.jar"
+hash-format = "sha512"
+hash = "1cc6d20e2e7570d78783ed17cbed1b3168d85a5f52cfa2f348ab2f75956a504c48a1e6a3db7e0c5180d2ac06ed7ec73253163bcb7cb720484a50db85459a0b72"

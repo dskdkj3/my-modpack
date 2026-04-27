@@ -1,0 +1,8 @@
+name = "ethereal_essence.png.mcmeta"
+filename = "ethereal_essence.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8104d72c0a07e96afc0c53f381ef4255ba72827ef25cb19e4119ad8c38c04ea.mcmeta"
+hash-format = "sha512"
+hash = "b56c09cfc2255580af354730e4df700d85824d0a03352c259f3e18ec33ffb6aaf49b6acc64bb8879d46e20f3faf72cb4cf882be1d96a9319cb619db60a54000f"

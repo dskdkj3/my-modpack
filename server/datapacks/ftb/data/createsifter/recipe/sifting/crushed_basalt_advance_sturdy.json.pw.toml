@@ -1,0 +1,8 @@
+name = "crushed_basalt_advance_sturdy"
+filename = "crushed_basalt_advance_sturdy.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65de3c19ba059eec2fe5ed0b9b3c72afbf2887991541ffb7354b7d164544987d.json"
+hash-format = "sha512"
+hash = "e6667bd668d26176e9c043c7e90621194b33ec5fe2f1ce0647c80ebc6cacaab845e936e387693204cdfdfd256d71eabb29238a6ef94bd884e8a922abd806634f"

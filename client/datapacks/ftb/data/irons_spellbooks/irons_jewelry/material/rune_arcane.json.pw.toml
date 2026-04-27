@@ -1,0 +1,8 @@
+name = "rune_arcane"
+filename = "rune_arcane.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aea71194b912d9a9abec49e921474b325ae2c019959ae6218be462be543b0f25.json"
+hash-format = "sha512"
+hash = "d6afc8435e1401a86886a5477266784627b32b8030a1f6b17bc3cb0e2b4089d10ca20fb262320036c966bfe2ada23f1417191e387f020d28c4a34214dd70f351"

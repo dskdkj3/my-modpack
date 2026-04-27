@@ -1,0 +1,8 @@
+name = "monazite_bee"
+filename = "monazite_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/efe4ad37d5b3bbf2ce26d06df836c4ca11199ffad385f70bea8026fc09b35fa0.json"
+hash-format = "sha512"
+hash = "c95ba27d87f60fc41e9c03578ba9f26cf6075c3c740d3736193f67b50630e6cfefe4b8851f0cf8d265d0be10b5de8adc5f1148e03a89310f5c1923f43e8cf522"

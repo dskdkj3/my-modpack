@@ -1,0 +1,8 @@
+name = "common"
+filename = "common.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0b0b77dd630ed1d6b509c976a0159af25a466842a0794803cf328505af8160d3.json"
+hash-format = "sha512"
+hash = "a3770db0c7e8a67f9de1345d1a4b06633735123232a3d85be6c12d3e92efc38ac686568dae598a6f28f27aec61aa574ba34b1ff8ee8824f7f6d711c24326939a"

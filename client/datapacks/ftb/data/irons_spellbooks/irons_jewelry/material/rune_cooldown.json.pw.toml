@@ -1,0 +1,8 @@
+name = "rune_cooldown"
+filename = "rune_cooldown.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/631ef559ec58bf703ca641ecec0608f7916e6a5ec9bcfa6edfd4f31417e1571b.json"
+hash-format = "sha512"
+hash = "daf927c9d5408335243058d48ab3c00cc2ea6e2c37814ec762506de229dc89c0a7761a439f3b539a4e3788a6340753260a7ab6c46d1a01a145cc608687568c70"

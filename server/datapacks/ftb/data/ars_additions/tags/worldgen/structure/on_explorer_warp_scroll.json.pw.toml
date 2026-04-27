@@ -1,0 +1,8 @@
+name = "on_explorer_warp_scroll"
+filename = "on_explorer_warp_scroll.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9b520295e7b0747dc87e9a460cb11f138db6cde563d2bc10945005cfedf1bd9.json"
+hash-format = "sha512"
+hash = "7003a2651dd81d167e8d620e023384e5ba49198b6c75cdb51d89baa8e56fc2516e59d509b0f44c7c7afed9cc06a64390eeaeac30840ab312637d5fab1cc59d88"

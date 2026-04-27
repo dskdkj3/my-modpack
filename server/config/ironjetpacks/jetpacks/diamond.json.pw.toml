@@ -1,0 +1,8 @@
+name = "diamond"
+filename = "diamond.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cfe90746890f53f713f34f8c878a88fe4711cad209debb8107b724a52df4f2de.json"
+hash-format = "sha512"
+hash = "b9dc0e80e29fbc89294ea758575ae631efad0f08b4e5feb143944d41c82c12c0c5de8a1d4b05d46ef42833a6fe9acb29ef77be6fe93f88e23d75adbf718ac2db"

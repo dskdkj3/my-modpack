@@ -1,0 +1,8 @@
+name = "easy-villagers-neoforge-1.21.1-1.1.41"
+filename = "easy-villagers-neoforge-1.21.1-1.1.41.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7457/833/easy-villagers-neoforge-1.21.1-1.1.41.jar"
+hash-format = "sha512"
+hash = "34886dae432e0d0db47ca35983ed6dfc017bc3abe21fa166eb6f7ed82696b6af5c8badaa04252a3e19c7c69ba2f353645441dfe0ff835842f30d3fcf20415709"

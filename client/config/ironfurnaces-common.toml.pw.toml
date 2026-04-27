@@ -1,0 +1,8 @@
+name = "ironfurnaces-common"
+filename = "ironfurnaces-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e75f139572bfa30be54273b99b8590dfb6d46a8b2e271392cbb9cd068a600bc1.toml"
+hash-format = "sha512"
+hash = "4b66b0a314647fddacc154bdffbc6a11b47a84c6823bb4de19517035b8d5c4e95d3c1a866720288b45b937cb1f23adbaa402379421870ae61c6ae71a9220fab5"

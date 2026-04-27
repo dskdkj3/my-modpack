@@ -1,0 +1,8 @@
+name = "end_stone_pillar_from_stonecutting"
+filename = "end_stone_pillar_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66c143a2a8e83c5b463818cae577c0961d17cc01b90fdf19e949a794f07ca824.json"
+hash-format = "sha512"
+hash = "a8778177a6d936a703fd3101e231a4ac1ab19adf785e920f52bb62ed6eb67057ca54b3cfdba964096808184a08d52e9ccd8a1ce5c8c6fdbde5e9a1a393bf9e7f"

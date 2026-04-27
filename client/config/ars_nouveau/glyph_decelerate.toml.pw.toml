@@ -1,0 +1,8 @@
+name = "glyph_decelerate"
+filename = "glyph_decelerate.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c302552aa69bcc3f7c48415b2b31ec2370432ed98189aca131d9639916f419ea.toml"
+hash-format = "sha512"
+hash = "2087ab0b6d6467465cfe4323b8e08ce87e5600bdf00ab3472d34472f6052aa4cce78c4533cee415c658f51bb883f199d7ac86f654563bfbad7f5a6020a51d736"

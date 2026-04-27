@@ -1,0 +1,8 @@
+name = "tesla_winding"
+filename = "tesla_winding.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/881c895061c0d47387e3a2ab7162851ab92468f5c1153c514bddc4e666d3d4d8.json"
+hash-format = "sha512"
+hash = "dadab060393c2d0722049d6e03d1918e04fab339ed15764daca918bdad7a1e16fab84a3b9b0d89f9d16be5a9cb159566a65b74e63a468c7a8544cc79adb766ef"

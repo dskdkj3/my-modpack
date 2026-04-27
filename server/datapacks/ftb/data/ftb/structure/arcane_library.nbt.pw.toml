@@ -1,0 +1,8 @@
+name = "arcane_library.nbt"
+filename = "arcane_library.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c42fd9f2b2627c98df8701b7a011dc7f054a866494d7513e0ee8ed86b0c9b85f.nbt"
+hash-format = "sha512"
+hash = "a2e6e86a6f9287f92aeb2e0f9abe901afe4d62226e825bfdb0657e24c8d9f98de29c8cad0c5fbf5a06c344eea81da5ac947b839b70aab6c5dacdc3dd6c630d38"

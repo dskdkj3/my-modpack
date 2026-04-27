@@ -1,0 +1,8 @@
+name = "immersiveengineering-startup"
+filename = "immersiveengineering-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/207d9f51f37f47c29b5b4360cc9baa7d605e6789ec864c26973157ef4da5dbff.toml"
+hash-format = "sha512"
+hash = "025b5faa09bbafedbce64bc5d33bbe26c6a20e31d36b07619085e7430f4039d3cc45be0b9b8e987d7263b981b5c595d02d98457fccada47b36c1445f87b4151b"

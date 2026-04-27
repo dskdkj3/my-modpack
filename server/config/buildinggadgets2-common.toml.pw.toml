@@ -1,0 +1,8 @@
+name = "buildinggadgets2-common"
+filename = "buildinggadgets2-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/540ac89b772945c50065d36b5e599063c1b9c2cbb31b9b705321b68299e32a59.toml"
+hash-format = "sha512"
+hash = "1c96f7d7215b53b2f94c9b4e49a06b5aa02f59ceacaa6be7cde9aed807a5665f864372962fd94ca811de738d5764a2a0e03924cdff6976b4083240bb9d6a63f3"

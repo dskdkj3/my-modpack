@@ -1,0 +1,8 @@
+name = "sophisticatedstorage-client"
+filename = "sophisticatedstorage-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a3177baf8217b5efa953f608c2e4609d39ee6640e7c3dfb0e152b1483e33f48.toml"
+hash-format = "sha512"
+hash = "d7150842eb58597360306bab47c7e200d5beb110a6af7e055871dbdb9ef2d9b7245551511e96da3e9f2c9118e0f0ce9a135db99f0bc92c169eafc398f9dbd672"

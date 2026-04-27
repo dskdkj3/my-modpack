@@ -1,0 +1,8 @@
+name = "skies2_mods_zh_cn.png"
+filename = "skies2_mods_zh_cn.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa76aec831a56b310aa3ad6d79955b73c05e16feec5c81cfd562f217019f9f3d.png"
+hash-format = "sha512"
+hash = "8ed0cd579f0de2ad8ad6de1f2786e98949f852845025131040ad1d669421606f9f9b13fa4d62dc8ef75dd3c1a8545033897082ec7710a1de90718bf9f2081f79"

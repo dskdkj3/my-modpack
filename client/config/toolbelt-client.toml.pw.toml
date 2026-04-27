@@ -1,0 +1,8 @@
+name = "toolbelt-client"
+filename = "toolbelt-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95290d68e9e0543d53f7a2288fdda18af2398927e048a7ca38a20373abcaa822.toml"
+hash-format = "sha512"
+hash = "4ab11bd7225e0ac72c8b763d56090a670c89937121eea57188141a70f20ae02a74d028a0ab85d0180766a7d9d5aaca0980a6ca186d7100774d126617690337ed"

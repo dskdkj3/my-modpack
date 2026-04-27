@@ -1,0 +1,8 @@
+name = "electricblastfurnace.png"
+filename = "electricblastfurnace.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef516d009fd46cf6123a27158bfa95d4a14e46fc83437675d9546ecfdd2848a3.png"
+hash-format = "sha512"
+hash = "4f04493aca4f7a4048e18eb5fc61febf32e0428a6992e931798b266c31083233de637583def49fc12e50a72e4f881f87ceffe2c864c9ed35107e6ea42b4183ec"

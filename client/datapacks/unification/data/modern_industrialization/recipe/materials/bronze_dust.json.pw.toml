@@ -1,0 +1,8 @@
+name = "bronze_dust"
+filename = "bronze_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9df5a1c008d4c51395e80f1cced7602a253e298f29c168b0d60ffa4f8a9431a2.json"
+hash-format = "sha512"
+hash = "deea724255d16962ecd9511d446a9ef5409fdde5223c60802a74154911d5d03265d32c71526ccbc2eb51a2539afacb2e929519459e697d6a6967fadcee177320"

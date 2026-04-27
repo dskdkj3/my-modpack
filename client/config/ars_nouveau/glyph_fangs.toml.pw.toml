@@ -1,0 +1,8 @@
+name = "glyph_fangs"
+filename = "glyph_fangs.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a84834cc5efa305e7c713bb74bcbf93f3801a3d6dce387d34bef766656134beb.toml"
+hash-format = "sha512"
+hash = "81dfb59b7ba110bbb62d0a5db5ab2b8f9ee321c20cb9746eb076480def91fb5cf855aa4e10690c34a530cc6f1f7b6936b27a1a1d056a5ac3572a2608d9d6c93b"

@@ -1,0 +1,8 @@
+name = "glyph_linger"
+filename = "glyph_linger.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a80fb456af8c34c00441a40f461174c1e0e5e6db87e78a93f4e81f53226e26d1.toml"
+hash-format = "sha512"
+hash = "a1ee4a510b423fa488d60b8beb0d78650e03e35f6fef134a1cf6d4b407a776caa681bd79f8f61e6fb9c8cbafff3264bbaefecd2721beaf97d2351c39059122b4"

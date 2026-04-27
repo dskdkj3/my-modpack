@@ -1,0 +1,8 @@
+name = "datura_seed_from_tall_grass"
+filename = "datura_seed_from_tall_grass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/040eb66442eda0d34f31dc15a9e320abb987d7f2fca81ab1f65c7cdca90cbce9.json"
+hash-format = "sha512"
+hash = "25cd6e0dc9ccc1088156b472f6089352e5e0a8f83b1066f752f95dab74bc7913f6e743317f531b818ec1ee087c21f1baae45e23c954775b8e3bd1a8be5cf60e5"

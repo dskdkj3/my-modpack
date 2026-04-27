@@ -1,0 +1,8 @@
+name = "he_uranium_fuel_rod"
+filename = "he_uranium_fuel_rod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6ca977f7c991f142d209325bbde67049ef8ff649378e2a618fd36998e43a5cf.json"
+hash-format = "sha512"
+hash = "7975a57618f7a4f9759146cfee5c855ecdfdd9aa429ab4274e5da3f138bcf2d15d0c244e24a4fa7496a0adc0f58890b455157525f305c9c5084f015985191f91"

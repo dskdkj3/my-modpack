@@ -1,0 +1,8 @@
+name = "from_nuggets"
+filename = "from_nuggets.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46034f73589b5e9aaffbb6daea66266921a1e689eefd3f42e9ad6ec7e35ea948.json"
+hash-format = "sha512"
+hash = "49176332c8e960d2db5aa58ba86b9b398816265f87df881e11a118d8722959b4fc0935dd4c155c0c18ffc05d8e9d5a8caf1f1ccfbb429627b3c5e1edd1b22d80"

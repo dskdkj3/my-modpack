@@ -1,0 +1,8 @@
+name = "ae2wtlib"
+filename = "ae2wtlib.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85b2055a3c175ad8a0b94e7ac2c67a74f1abe86591c34037e3e8d3c526809373.toml"
+hash-format = "sha512"
+hash = "78ff73c72472a03a0ab30fe0394d0e9805a9932244080fd3d2f95438e0688bc167b3baa8aa13b94bb8813535889ebdb52c852f3e6f3ccc3bee6bffc696f7f5ac"

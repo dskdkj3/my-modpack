@@ -1,0 +1,8 @@
+name = "storage_steel_to_slab"
+filename = "storage_steel_to_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e50ebe589d7aa16a57e78c9eae36ffc9ef6bcd0a2769d4cdba292b7a5eae693.json"
+hash-format = "sha512"
+hash = "c00ccfd40ccf7a309fae8f0670a9da90e2011a981a230dc08021b4e631fcefc586c6daa8fd9d8dc90a793075d939e66392b8ab18fa1e8d5f679196f27edc3a1a"

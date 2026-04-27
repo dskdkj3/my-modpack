@@ -1,0 +1,8 @@
+name = "amphibian_boot"
+filename = "amphibian_boot.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c669378d1c20226a03964956656d39fd345e4b871fc30ca73d5a616d439cb2a3.yaml"
+hash-format = "sha512"
+hash = "3abc3cd6aa06171cf96b17021613f37f2261a34057b1b78ca605bc25932b180c6888b84b90cff60cfb965f8b7419e4d6ec68430c5d4c52e530ddaed5d29ef934"

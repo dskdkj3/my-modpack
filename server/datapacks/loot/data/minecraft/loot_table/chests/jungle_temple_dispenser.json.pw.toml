@@ -1,0 +1,8 @@
+name = "jungle_temple_dispenser"
+filename = "jungle_temple_dispenser.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/ccb48563a4b980d6c3b9d1e6c9794b009e36ec82c27f4444fb18ca1435091e0b.json"
+hash-format = "sha512"
+hash = "0073f80ccc1f763153c76dcf6fb37c607297634478c27ce824f2916ba212920016fda7b14d15ada9d0e02f173b7076f7b066199c23c77a7be0b72fb442b92c27"

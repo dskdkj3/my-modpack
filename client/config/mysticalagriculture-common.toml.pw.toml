@@ -1,0 +1,8 @@
+name = "mysticalagriculture-common"
+filename = "mysticalagriculture-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e7ae4eda701735a4cb9c59e3f05984a5fc62a10b109ff455ac6bdddccc2756f.toml"
+hash-format = "sha512"
+hash = "737b3d05dd6971e47fa5e519240a199523edee0799ddaf3be13b38fc313d9e5c3f2a5cb5bfaa1b7a3d1d864821166d3e66db00b83f923fc4967d2289ba208654"

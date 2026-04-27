@@ -1,0 +1,8 @@
+name = "steel_anvil_asbl"
+filename = "steel_anvil_asbl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7cf3bf1fb8f37aac90048a7104e52b070ebb27aa9e1a00df1bb083efe488a8e.json"
+hash-format = "sha512"
+hash = "40bd465d9e74088edc056e3164461bb93c9064db1954879f0025fea7d344d316ef2c07da2513f8089ce9f12c1c68e7b20b68f4dc5fed05fe4547f51796dee445"

@@ -1,0 +1,8 @@
+name = "ruby_dust"
+filename = "ruby_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d00cbdae4ff34649990d72ec20431a149c0a94a256be4e9e9d4065e6b7873f01.json"
+hash-format = "sha512"
+hash = "64e834d78eee3dbd362a5497b5888c67d9cb251a0c7e8e166e7676ab4a3038408e0641046d0020debe47d2269381118e8360ce4c7135e6529f5a29e82df91cfc"

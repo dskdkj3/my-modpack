@@ -1,0 +1,8 @@
+name = "geneticsresequenced.png"
+filename = "geneticsresequenced.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31190c416b9d07ad1a00decc7cdc4f0ca99415c0f82f943da8fb0995e10e31f9.png"
+hash-format = "sha512"
+hash = "3df69ad0538489e632d096692557b2b1e31b745b8b574178d8c7f3967e61f40ddcb771073874643649f816a35385ec22c2b3645e4428fbf79311f4744f89af7f"

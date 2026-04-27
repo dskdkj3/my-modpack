@@ -1,0 +1,8 @@
+name = "village_fletcher"
+filename = "village_fletcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/23d45565bd109e146cbdfb47b62505bc0f02dd530b2b687b5ec26118ad947b8a.json"
+hash-format = "sha512"
+hash = "0c62d965285a94206b64f8ed77dece19dc9bc86b2116558796486a18df58b302de4b8652378da78e46d1e5724bb8dd7d113e3e6dfa239e0454dba6f763032c4a"

@@ -1,0 +1,8 @@
+name = "chiseled_stone_brick_pillar_from_stonecutting"
+filename = "chiseled_stone_brick_pillar_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a6e462e101c5163d16855a50968e6cec223ad42acd4d33d69df623066133b47.json"
+hash-format = "sha512"
+hash = "8b6236ea13f7b3736767b55e1c4289041b0d39dc0bd923e3562b0df71688a6e93e8a83d5ba49620fffa8f8d64e83013f67c3d061d60e4a1cf301f2f3e5ee0b83"

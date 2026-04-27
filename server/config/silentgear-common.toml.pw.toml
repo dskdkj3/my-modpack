@@ -1,0 +1,8 @@
+name = "silentgear-common"
+filename = "silentgear-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e537a1d019a7578f6022124501de98feb54573614138527ad4970bdd022870b.toml"
+hash-format = "sha512"
+hash = "45c3ed52ac73e378f07b3be3460134ea4e8c4e30d79dfc8712870857b8004b2969ddb2031f96f9df91b2a86406d3ae2901382efe4b79aaf9926ae10f91f2216e"

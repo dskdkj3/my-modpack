@@ -1,0 +1,8 @@
+name = "burning_arena.nbt"
+filename = "burning_arena.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cdf970224f16ad3f34c06e23004f41ea757c169802ea2e8ec9b9e2b6b3cf409b.nbt"
+hash-format = "sha512"
+hash = "7502763de5f4bac0fc1efb2ad6667f1c4c04622ab69e95189dc03fab050575be9fd5f6456e73ef48d335aa0955fff718010acec76402f07c0a82ce239c1e2e07"

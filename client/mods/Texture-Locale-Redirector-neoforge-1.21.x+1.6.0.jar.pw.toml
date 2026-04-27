@@ -1,0 +1,8 @@
+name = "Texture-Locale-Redirector-neoforge-1.21.x+1.6.0"
+filename = "Texture-Locale-Redirector-neoforge-1.21.x+1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7406/350/Texture-Locale-Redirector-neoforge-1.21.x%2b1.6.0.jar"
+hash-format = "sha512"
+hash = "b86215ade7da90998a881dba233be07864b795bdf7756870442026d5a338fbafb9df42e0699abd08741fed033a7e1a2085bcbafb9ac91b0c707b0a40dfe99b8d"

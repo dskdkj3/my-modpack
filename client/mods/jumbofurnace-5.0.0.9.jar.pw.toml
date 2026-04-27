@@ -1,0 +1,8 @@
+name = "jumbofurnace-5.0.0.9"
+filename = "jumbofurnace-5.0.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7477/280/jumbofurnace-5.0.0.9.jar"
+hash-format = "sha512"
+hash = "e1b4581d9a818070da94f9617ff33762382b4486ddb124edadd45eae34335ca5c493e7a2f8b1da77892bf31294eb7da027816a94e36cd6254559acd3c7f79cec"

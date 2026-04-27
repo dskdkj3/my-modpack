@@ -1,0 +1,8 @@
+name = "ars_tower"
+filename = "ars_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/5065a180a860685d51cf80347bd6fbdb494f3935a9578c7e1503063502c7c60d.json"
+hash-format = "sha512"
+hash = "c53113f655a1136833e259690db09bf0df3c5967eac350e1a4da7e6002e10d29640d0a48286b8cf385a587d710a3293c96e4c4d8fee8384774bd774262246b8b"

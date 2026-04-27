@@ -1,0 +1,8 @@
+name = "rftoolsbuilder-client"
+filename = "rftoolsbuilder-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33eaf7476c4b37200a19e4f83adaaacaff328edabfc4a16beaa12a8a41ddee02.toml"
+hash-format = "sha512"
+hash = "8d308b45b66ed1a3412408ea7883257384e821284d8e3185bd77821729ca2acfed3d349420e4eca89a2cbbd284817370bd1331b3e8251a385843d9144d661542"

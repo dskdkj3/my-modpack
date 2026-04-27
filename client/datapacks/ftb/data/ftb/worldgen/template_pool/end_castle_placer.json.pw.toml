@@ -1,0 +1,8 @@
+name = "end_castle_placer"
+filename = "end_castle_placer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b8bdbd21d96b60ded02da74bcf94cf51778ae77d6b3c0485643c553df145cc8.json"
+hash-format = "sha512"
+hash = "f07ea9847fdd6d46d405866e0963cefe64120e74ca06f4f02e4b1d4461c7260820ed36bef27d6ec057dea9603dadc781253880c7d82aeb6059ec89b3c168cc17"

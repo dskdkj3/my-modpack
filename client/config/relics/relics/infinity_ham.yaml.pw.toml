@@ -1,0 +1,8 @@
+name = "infinity_ham"
+filename = "infinity_ham.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d29ecf57448b87f7bfd1787acd6130650eccb0d03a01d2bb629d346e88d1a33c.yaml"
+hash-format = "sha512"
+hash = "9b358b5a10f49082ee00aa2512ebba39960e496a458897819af8b15f81dffda6ac36e2daccb68586fb82db91eec2d1d2e233b0dcef420f1e9c0d7e9ac54ab477"

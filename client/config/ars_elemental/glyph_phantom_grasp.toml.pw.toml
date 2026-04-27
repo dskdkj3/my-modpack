@@ -1,0 +1,8 @@
+name = "glyph_phantom_grasp"
+filename = "glyph_phantom_grasp.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53584e5d7a06e091d04b33b826022dae91578d93aa110e2a35b07cca3874f6d5.toml"
+hash-format = "sha512"
+hash = "d89bbb32d8b21c1cba58dca21bbc7d5a6fa8062164ccfa66274e785e60798dbf5d96aa29d9617d10aa068bae6627a9c8321cd15bbce9d93a784e7afce1ecdc90"

@@ -1,0 +1,8 @@
+name = "village_savanna_house"
+filename = "village_savanna_house.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e7e4b461e46567fca9183cdbc497092cfad36b42ca965fdbb5451263272726f.json"
+hash-format = "sha512"
+hash = "6445a2f7984c5d22fbdc2bcd773290bb1cc11a4417aa251b142ffd5077390d101f383b2997c6557ce5e5e5440b9ca4ed1b52bf3db40bf65cf325cd49e7d042d9"

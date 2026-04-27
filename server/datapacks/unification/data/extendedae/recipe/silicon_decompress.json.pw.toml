@@ -1,0 +1,8 @@
+name = "silicon_decompress"
+filename = "silicon_decompress.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22aaea22ce74d3ff1f3430d03ff948fcb42300b227ecdc7da1fa3574c8e820ef.json"
+hash-format = "sha512"
+hash = "f3e164a75f7b0a48a3bf3086fada2382e27f08bcfaa0251f9821ef73ef179e1dc1bdf8e74e6b66ff1012d957ad7c08181fee71b78b3689bf4a02e2513b90b982"

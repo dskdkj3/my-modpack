@@ -1,0 +1,8 @@
+name = "generic.armor"
+filename = "generic.armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/8014dfff756a1817f29b6543f6624e68c0cca525d5f753721feca3b1598be45a.json"
+hash-format = "sha512"
+hash = "b126f50924d3b31d3457e66d403d1dff831765fa8b409f34b3c11136233cf66cfbf14e6eb1c20d20e1cad1e711d15e95485e4a3e0e2e67828a856ff20051c586"

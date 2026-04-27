@@ -1,0 +1,8 @@
+name = "ars_additions-1.21.1-21.3.0"
+filename = "ars_additions-1.21.1-21.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7646/325/ars_additions-1.21.1-21.3.0.jar"
+hash-format = "sha512"
+hash = "3f06e6e838c6a5bb14cb1f475f393c0ceeb7b78a7faf9f73df008adae69f68410382cde4511d2b73c0e99dd38732ba1e5d192aac941bb26f2ab771f8bbdbcc43"

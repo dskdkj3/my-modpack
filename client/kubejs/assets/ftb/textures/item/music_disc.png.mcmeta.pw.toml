@@ -1,0 +1,8 @@
+name = "music_disc.png.mcmeta"
+filename = "music_disc.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e16b306110622413902715de21a1f4c7e5bb3eca837ee8930e866aa804eaf1b.mcmeta"
+hash-format = "sha512"
+hash = "31c09ac40c65fe412e976ddb0794cd5fbc091bb7871c23febfd2f225a696b60f150142c999b57ba6dadb8f64572d5a16330f13f5c5d9eaddbd34520f2e082e56"

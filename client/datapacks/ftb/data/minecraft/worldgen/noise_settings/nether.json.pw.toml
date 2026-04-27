@@ -1,0 +1,8 @@
+name = "nether"
+filename = "nether.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bcebb8de88327b9599fe429dbf0bd1b34aed33e55915183080801bf2a8b9728d.json"
+hash-format = "sha512"
+hash = "9c1110585f9a3b78876dd97b64c3d36f585348febf61276437847496e6e18dd236807c81794a49e309b27fe15108feba156ddb0c4e1c7c0b11665eb1429732ec"

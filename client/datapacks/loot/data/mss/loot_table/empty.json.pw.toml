@@ -1,0 +1,8 @@
+name = "empty"
+filename = "empty.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38e13061c8a452741c527f4ce6b27a272aed7480cd2b0164ad6ff6c9bb0a59cc.json"
+hash-format = "sha512"
+hash = "1c558259c1e7e295f8d7c09f6d9781fadae9fb66fe025826a8c67264f01228d1f996040c64e185c4c28fe811a8b8190f83363875a95f30ace984e46855d89cbd"

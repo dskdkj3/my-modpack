@@ -1,0 +1,8 @@
+name = "magmator_fuel"
+filename = "magmator_fuel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/64701e4cc24832eb77e345db8e81e59cc4acc6408101131badf37fbddec8d546.json"
+hash-format = "sha512"
+hash = "bb537983be734486db4824d15bf138d18d5e451b972abe1e31109bd3704e5a619dcd8c6b0a8f1d42a50e3cf6d617807644cdcb497d4c8415318ce2f319475aac"

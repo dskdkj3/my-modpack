@@ -1,0 +1,8 @@
+name = "Hexerei-common"
+filename = "Hexerei-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5443fc93368e8f6fe739114563238b46c9ae1e428a16b8060efe2db1357f0f5b.toml"
+hash-format = "sha512"
+hash = "548522f9486555674711cb61e4d8784db0fdcaff9b85dc6770122b01754d99c35553e2d8207f9a71a67c8c365f0997f8ec099ccdf172d591a5ee505bb2339bbf"

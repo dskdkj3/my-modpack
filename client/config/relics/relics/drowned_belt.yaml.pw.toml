@@ -1,0 +1,8 @@
+name = "drowned_belt"
+filename = "drowned_belt.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f96c8dbffb365f29aa28adff7f97fa9b02eaad8b11409f5b1a30550d7b93af70.yaml"
+hash-format = "sha512"
+hash = "618e9c4fd94f131f9a9c6227a7adca9821994a2e641275a98513ffa63d4b873da2d12d1b15da2d357bb2fb0764c96809136c33a203c99292965b7375a33f4a7f"

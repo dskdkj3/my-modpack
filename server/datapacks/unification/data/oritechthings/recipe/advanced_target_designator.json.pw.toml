@@ -1,0 +1,8 @@
+name = "advanced_target_designator"
+filename = "advanced_target_designator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa2d8020099634249b1a22e7981c7aa74572b25dd14c05aedb701f0b263bc835.json"
+hash-format = "sha512"
+hash = "2adb4b8e3a48d2408e4c55809da79d8f92ca84d1dd7b8cbec7a8320848397f6ee4580d05bf44c824fd5f2e6b448300893f67bc68d4281fe8067780b62ed45d79"

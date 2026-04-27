@@ -1,0 +1,8 @@
+name = "deep_amber"
+filename = "deep_amber.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b9421ceefe2c03d0dc2bb0f4e2def37554a7645051f2617ea567f078b8d4f3e.json"
+hash-format = "sha512"
+hash = "c76492559eeec7c165104038b30394dacbcf0748ed8f59ab1898c820488394b605c6bd8e7a4eb336854e8214556bea38f304154b943e9c010e5443d32bc07b02"

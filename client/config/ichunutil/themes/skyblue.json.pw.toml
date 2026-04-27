@@ -1,0 +1,8 @@
+name = "skyblue"
+filename = "skyblue.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/328cf1b45e795f866d6a1d3817705d2550b57f1afe5ea41dc98e82397cdb90a6.json"
+hash-format = "sha512"
+hash = "5f8a9e0d4858713513dc90b9a5b3e5f172e5457a548e9c8fc73e9ad4034a8cc8880d392692771dcec521186d50982d68a2e8eafdd401f8ce7e2fae84d03cc6f8"

@@ -1,0 +1,8 @@
+name = "cyclopscore-common"
+filename = "cyclopscore-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c730e46a3d780bd608f1e49de4a2426c9526257a1a89bebccb4b27d33dcd9597.toml"
+hash-format = "sha512"
+hash = "680cc35b865c771aa5ed70f6fdf8358d93fe193618d86da5db373e8e0e2f13a55806d4ff313ca589d34c77481369c19e1443324ee31294337d16d42432b508f5"

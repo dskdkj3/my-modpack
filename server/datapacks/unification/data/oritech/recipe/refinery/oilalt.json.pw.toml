@@ -1,0 +1,8 @@
+name = "oilalt"
+filename = "oilalt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/865ac8c13fcabeb07a2b5299376d79f75af8d99a61c909796e4f319bfe964033.json"
+hash-format = "sha512"
+hash = "9c257a269987554789ec1077d1687870ecb9b7d005467aa9a47efcd7168924dc197d4df5e4e6ef18fe1823bbf6ada6250366d1e5525d6e724b5f42c6821bff92"

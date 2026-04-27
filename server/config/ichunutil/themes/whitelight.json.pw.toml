@@ -1,0 +1,8 @@
+name = "whitelight"
+filename = "whitelight.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/4972b0752b74126ea7c5a6d2f741869a1c980db94feb319b8615cec183d09304.json"
+hash-format = "sha512"
+hash = "02ae098c2953e47fa499a0eb4f8bfdebaf19670c753a27f20bb49b6fee5f32d5186ffd43f38f2185f12610394738aef1cbae93d8500da372112043e477b68058"

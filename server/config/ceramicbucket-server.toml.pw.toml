@@ -1,0 +1,8 @@
+name = "ceramicbucket-server"
+filename = "ceramicbucket-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff9d7f0e8f2774cb838865159413be15d036bc1da191947d4ba47f376a152a8d.toml"
+hash-format = "sha512"
+hash = "80c53387c6a99ba376bf9462b1fe5938da3db382a6266a16d451f9f8703f6b3b76b3f4cb945d143c52298d64a83f01e34fdbf42cf894911a14c06bc014dfc905"

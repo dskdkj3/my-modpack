@@ -1,0 +1,8 @@
+name = "advancedbeehivesim.png"
+filename = "advancedbeehivesim.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1f247bc6ba9870f777198eeb8b55789be70613296c478c7a7fad1be5bd8dc48b.png"
+hash-format = "sha512"
+hash = "fc8d83536b29c51676a0151a1ecaf54c18433538c5720730b442d5c2ddc8405b3e246697bdb1b3650c1daeb86573c2d58f595121a01dc964b9c54f6417e1585f"

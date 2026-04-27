@@ -1,0 +1,8 @@
+name = "railgun"
+filename = "railgun.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/776f9c73f6e266fa76845cbc6afde55ade90a2766ca7ebecf25423472a7a22ef.json"
+hash-format = "sha512"
+hash = "0d3c59144ac2449353605dd0404ec09f8860bc579b746a01c2b4ffaed2bd934c7d8746619bd9000c7a7f2fbfd037a94e9d6dcc34434e52cc13a9428b14cccc4e"

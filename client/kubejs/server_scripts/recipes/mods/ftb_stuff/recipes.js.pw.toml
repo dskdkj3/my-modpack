@@ -1,0 +1,8 @@
+name = "recipes"
+filename = "recipes.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f14d6fd9eb3c92c37e4485adb312a8c77614c46b363df4b9a07af5fe788eeb1.js"
+hash-format = "sha512"
+hash = "b81fcd6a4288bd118a3f9bb6f23f4dfd9e471e9ec88093fdb7ff0518597529aba77cc4b74b487a51b1a27708d03c4e812487c4027125ebf100758c00ce2a6c22"

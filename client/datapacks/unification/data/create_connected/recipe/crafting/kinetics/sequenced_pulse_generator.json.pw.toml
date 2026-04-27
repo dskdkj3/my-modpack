@@ -1,0 +1,8 @@
+name = "sequenced_pulse_generator"
+filename = "sequenced_pulse_generator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/563d87c843c851dbae51604d29222656f55116b33403bc3312c0ed5a8e8089e3.json"
+hash-format = "sha512"
+hash = "a46294244c2787960d30d234332230cc7e6b01f94e4cc72c1eb53f1edb0f5a311448e013e2a434b05214830c990527a0ca46ebdd1d124a2f827913f57230ba09"

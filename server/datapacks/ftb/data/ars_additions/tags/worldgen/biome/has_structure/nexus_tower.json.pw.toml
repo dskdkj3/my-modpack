@@ -1,0 +1,8 @@
+name = "nexus_tower"
+filename = "nexus_tower.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ef7d1ae7f34df3468ad5183d09192c5b80dc64cbf70962162209debd9cbe9a4.json"
+hash-format = "sha512"
+hash = "ed262dbf3826e93af0f5bcbf0d9a7b8f0a9ddef43034c6a38e72e5b969190de56f9880546f6bca1296a3cd1cb23c8fd6ac3742c03cc04bc57add3e9d523994c8"

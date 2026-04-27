@@ -1,0 +1,8 @@
+name = "from_crystal"
+filename = "from_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da466481d46ed593cb6c0ec49ee7b37d440608f9b509b4dc061eb31eea39df9d.json"
+hash-format = "sha512"
+hash = "9b24c625188cd7f788e7272791c704e117f95b1d1a993b94c9a456d25801e02969f38cb2bfbd4773b3154fb28926cda745cb2cf50d7c5b3700960d4f1cbb0926"

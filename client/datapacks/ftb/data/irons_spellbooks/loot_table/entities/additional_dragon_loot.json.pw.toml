@@ -1,0 +1,8 @@
+name = "additional_dragon_loot"
+filename = "additional_dragon_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dfe4fb1600efd2b619115be3d1147aa18f0f01d20a7174bdc617a5897a8acb4c.json"
+hash-format = "sha512"
+hash = "2c70c27cae71da334a64cfb331dc84ce577b7d9194b5ab490fc10b0e706c15512a9189ca2aa38fbcd3d9c35f573f396a7b4537fd4e4234421a628ea7bb57cb4f"

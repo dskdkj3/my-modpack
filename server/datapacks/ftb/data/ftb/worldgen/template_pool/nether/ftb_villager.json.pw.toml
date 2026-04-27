@@ -1,0 +1,8 @@
+name = "ftb_villager"
+filename = "ftb_villager.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b64621ef03afb01258819815f9fd3631e19d7a6a0c3c33395802f1e6cb1017ca.json"
+hash-format = "sha512"
+hash = "aeaf92f5bef98dc22a171c487fbb9068a8ed8c46ce6563f835cad12f4b1eeef6032997c2f1e2126617b58b6d1c1820eeb0f719b59aa0349e5ecebe141c0f5512"

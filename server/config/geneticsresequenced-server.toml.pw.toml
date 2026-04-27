@@ -1,0 +1,8 @@
+name = "geneticsresequenced-server"
+filename = "geneticsresequenced-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/faf5389ba5a7dd499c39078bc248d145714420f162b12e05e2bc83558addba23.toml"
+hash-format = "sha512"
+hash = "ccebdc41d0b8beb2783fd7a801a3be278c4a888e366d08f55fda229d340dcd70b09c3376eefce99a489019d978e115e9cf5cfa689e683aa284a313b3f93e82f2"

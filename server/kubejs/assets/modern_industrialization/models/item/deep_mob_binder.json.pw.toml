@@ -1,0 +1,8 @@
+name = "deep_mob_binder"
+filename = "deep_mob_binder.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5cf3e0c9fd522c824d656ccff094fddbf23b15469e9002a5fb306a2d55997b8.json"
+hash-format = "sha512"
+hash = "514b2e20b51476de669b3248bbc923a7bd6c93f4f832dc3d80cbfc2634694301c7bb2b9488ca01d72d27c0f755d792472cd5e2bcdfdd3fd0b0629cce33545b66"

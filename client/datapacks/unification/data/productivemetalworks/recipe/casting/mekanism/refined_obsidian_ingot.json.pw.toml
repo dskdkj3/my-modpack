@@ -1,0 +1,8 @@
+name = "refined_obsidian_ingot"
+filename = "refined_obsidian_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/23a1d7ec13986f527cdb6b9c870ac47d9c0a8ec4e0e3c0dfb3f213506adc213f.json"
+hash-format = "sha512"
+hash = "f97bcd06dd0cd90387cfe5f4706d4f431486a28ceff9ef76f81db9584991e0e2783d06953cf9ad8cb90a092d4e3b180cc583c0a0ba6e44532a4abececc9a0d35"

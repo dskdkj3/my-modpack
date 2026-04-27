@@ -1,0 +1,8 @@
+name = "xycraft_override-0.7.53"
+filename = "xycraft_override-0.7.53.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6872/531/xycraft_override-0.7.53.jar"
+hash-format = "sha512"
+hash = "d9c35925cfc6f7f35405512a41d7de8e3f90be55dd8a23d1624015b9790a9c397846ded7d5e9f03a5a14d6c01199bec0d0cb86315008824f9d74b8675b0774c6"

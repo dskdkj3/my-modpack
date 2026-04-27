@@ -1,0 +1,8 @@
+name = "refinedstorage_quartz_arsenal-common"
+filename = "refinedstorage_quartz_arsenal-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a59c8c5b93e83a2eca36e9c835c6ff943e2d5c0450ec6f5b3e437c2e1b2811a.toml"
+hash-format = "sha512"
+hash = "43b1e038298c7e11d95a95bf0fa09673fe4f7d94a8ef8f9893d8a4f357891210fcaf92cc4e759a24ddbe662e825e5495e71a745c7a132432e8a4edfcf08b19ae"

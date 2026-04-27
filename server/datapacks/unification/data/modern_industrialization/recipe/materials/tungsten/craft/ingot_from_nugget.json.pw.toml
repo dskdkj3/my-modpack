@@ -1,0 +1,8 @@
+name = "ingot_from_nugget"
+filename = "ingot_from_nugget.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6af7725e60bb5faf2d075f534881ea9fee02f387c91f07d8af728c6548e688d3.json"
+hash-format = "sha512"
+hash = "4ab1deaea7ca31397d65c3df9f036e74bc7e7e75a3a02d83e1a626d721d58e984698d067f4cc269386e239c42007e3562315607852045aaef7440ac1591ce44e"

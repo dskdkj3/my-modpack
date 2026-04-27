@@ -1,0 +1,8 @@
+name = "blazing_mesh.png"
+filename = "blazing_mesh.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a28a401a977ad9029c595537341cae26c5df559fa310f049081ccdff86968d9b.png"
+hash-format = "sha512"
+hash = "b21bf819a1dc1f9c2a38a7ae3a4d4c9823a6701269ad8b24c2ffb5ad6b5445fad293080aa5ccf452f4accdb1438c19b07083976f9668c09b8355e0d2f99d770f"

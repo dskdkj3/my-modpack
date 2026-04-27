@@ -1,0 +1,8 @@
+name = "refined_obsidian"
+filename = "refined_obsidian.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/1342aad4f94951c7f8020bcbbe3d39190f3e1c88e5e43b9fc1e147bb83baf9ba.json"
+hash-format = "sha512"
+hash = "65c01adee131d339b2d8a6aca1b3230ad8d756d2e3ceb8bd9fd4b0b46aebb6e5aaa1f67a41dacfe0da95d4c12960eb3b06f86b24190f25200e13a4005cd0a2ae"

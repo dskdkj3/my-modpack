@@ -1,0 +1,8 @@
+name = "ethereal_essence.png"
+filename = "ethereal_essence.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/3120186dc7989833bd724a086ca672bb3c38c427921637dd2c5454127fccc65e.png"
+hash-format = "sha512"
+hash = "1bbf11e195b40f1b8c6d16759ff56aaf262effcc0193317aa9a7632cf25a501ea46da7d395f4a47545f68eca488bb493690c7ce307b7e38a0b3759b430a324d8"

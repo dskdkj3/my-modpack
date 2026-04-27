@@ -1,0 +1,8 @@
+name = "commands"
+filename = "commands.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38e0ef3c46045f8b29dcda894dafa3cbfa675a3e901cd15082d4dbceb312324e.js"
+hash-format = "sha512"
+hash = "5b8676479bb72e01d03beaac67ad807e2e8c93c9a9ac63923232dc8dc24daf4e9b9f99a72cf667105c22aad8d8a31e26773a6ea89ef95ae6d57200a230686644"

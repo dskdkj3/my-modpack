@@ -1,0 +1,8 @@
+name = "productivemetalworks-common"
+filename = "productivemetalworks-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f1654b5e4cce1246bfe8972184e690bcdca2fadf23ada201834c0ab7a386c45b.toml"
+hash-format = "sha512"
+hash = "6717f35dede2a5ae62a125a3b6d5aaba387a3f367f941a16018343f12e0764d1d8464d2e5335b20bae8d1b30de0b5fb37106c8f8210dfcc5b97b9c0b50fb87c5"

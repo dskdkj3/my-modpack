@@ -1,0 +1,8 @@
+name = "modification"
+filename = "modification.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67ac50657af1602408aaf06051215c4434c6c8fa816b4d23f512034b645d4b89.js"
+hash-format = "sha512"
+hash = "3300f6de5f086b321f8b34bd540efdc958a89c27951de52d261337804e50c9d962acc6fd6c41d272b3ea825a092ef04db772e55daa8781b6ec4b49bfff9f733b"

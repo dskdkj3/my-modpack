@@ -1,0 +1,8 @@
+name = "fluorite_stone_ore"
+filename = "fluorite_stone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/660b9d048168e96dc633d11ea1db852a262fd7aa20f8daaf924f324ee8e1613a.json"
+hash-format = "sha512"
+hash = "49a0b82326c51efcc729c1dbe1cc247786015a00fb0ab60885458bb1bd0d5350aff6dd71e87b99df73adf84cff44a3dc78b22086e0cf2a848a9941b0efe80f2f"

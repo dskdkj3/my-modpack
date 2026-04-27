@@ -1,0 +1,8 @@
+name = "enderdrives-neoforge-1.21.1-1.4.4"
+filename = "enderdrives-neoforge-1.21.1-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7033/446/enderdrives-neoforge-1.21.1-1.4.4.jar"
+hash-format = "sha512"
+hash = "e39df998c74823003126503afb1c9eeeb8c464128b57fefee4050fb0133e9834cddf8ed0f41cc0fcb6d2de63292eb6f85e303415f87afc178f194e2384fde415"

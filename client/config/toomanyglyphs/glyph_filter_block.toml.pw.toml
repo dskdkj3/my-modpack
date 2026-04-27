@@ -1,0 +1,8 @@
+name = "glyph_filter_block"
+filename = "glyph_filter_block.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a22140e4c1afa4dc6f3ad27fceb5d668489fe055dcb716e93dfb0dacfe58299f.toml"
+hash-format = "sha512"
+hash = "77b3bd9a7d9dea19834cd05b3deb0b2467486f68294e50dc06c8a959848a774798ef15b7351e412d5efde01d1bf43ef921a3972528b0665d8de2c474bb6808a9"

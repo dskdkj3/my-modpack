@@ -1,0 +1,8 @@
+name = "pipez"
+filename = "pipez.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/0030b6e7c82d1b70a072c65db658c82e2ff6a9a2fb6bf458befa6cb39b73ac31.js"
+hash-format = "sha512"
+hash = "1475646bcc72c3bf1c103b6fbbebdb304365a551c678899e85123656bcd4d3afe5a123aa6f9bdc87a26a9c5c7a5e55a7a7ee9073ef0cb3360eec3b27ee5e5949"

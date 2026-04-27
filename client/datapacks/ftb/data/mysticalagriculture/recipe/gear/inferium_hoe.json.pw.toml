@@ -1,0 +1,8 @@
+name = "inferium_hoe"
+filename = "inferium_hoe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f128f4fbb2c7eb65833d8b4d8ec3fa80616020e61640f7478d3d9c256c06111a.json"
+hash-format = "sha512"
+hash = "cd64283bf40bb29aba798bffff2cfab97e3d7788af2f859e744df75fea18333688a6b7bfa676ed40cb0e2e666ef9ee80d118e84e695090f7fab65926b3dff1b5"

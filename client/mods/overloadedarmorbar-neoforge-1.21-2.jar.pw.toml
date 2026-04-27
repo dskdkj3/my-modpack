@@ -1,0 +1,8 @@
+name = "overloadedarmorbar-neoforge-1.21-2"
+filename = "overloadedarmorbar-neoforge-1.21-2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5537/850/overloadedarmorbar-neoforge-1.21-2.jar"
+hash-format = "sha512"
+hash = "c68b66a2043354b7563509d9da6992b85d287cfeee0bf84c296d4af3d349dad053c481a95d49a80cae1e6ad566c95bdd1b4c063cbc1fee989ff781d75e0a8f57"

@@ -1,0 +1,8 @@
+name = "additional_blaze_loot"
+filename = "additional_blaze_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32216c37b7af04adeccf83b8bfd985ecff40a903b026f7eb59ccdc3ad2380bd6.json"
+hash-format = "sha512"
+hash = "9b440bbd37fe5d41291bc87295d4dc663fc4ef6b273a3a73ce1b3383ecb7cc48671115fa59ce4b1bbbdf329107e6484a6ce95bf1e2097b324aca1b927beb0a69"

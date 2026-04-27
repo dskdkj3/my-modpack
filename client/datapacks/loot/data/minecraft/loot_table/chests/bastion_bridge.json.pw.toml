@@ -1,0 +1,8 @@
+name = "bastion_bridge"
+filename = "bastion_bridge.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55326a800559218ecc6c26bdfaa6e1713dbf1737490f22dc54a50b49824ed3bc.json"
+hash-format = "sha512"
+hash = "6895d6f3345095caa07b90804cdb366bc6e3b29a001d0274fd82bd09db402fd31e2b2ffe6fd41c553d8802d41bd24274b8b1849a32b76cc6c06e064a4a8603d7"

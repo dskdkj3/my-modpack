@@ -1,0 +1,8 @@
+name = "rune_blood"
+filename = "rune_blood.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/7387f77d2ac23200e185015b56125d9860b4aa421112f8cdd81c07a0e0352bf5.json"
+hash-format = "sha512"
+hash = "43b40e93abf1478f1bfbb01a920f4c942684e8ab10452ced4a29d4b8e56e02cfd9af137549b92ea18a7865dd61a3fd5824703333adcb6df6665e72470299b95b"

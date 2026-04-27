@@ -1,0 +1,8 @@
+name = "largesteamboiler.png"
+filename = "largesteamboiler.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f8e79c9417cc37409714f074880575e1d028e1b3f9636e4d1a6cfa4ce0aa1d61.png"
+hash-format = "sha512"
+hash = "d066f34a35fc1cbe768705cbb146977763ae39809acf3313db37645850bafb3c6a7057b781bdb0565b752c612aa0f64e7234f2a5a0def8d8fd60edbf8f59c4d3"

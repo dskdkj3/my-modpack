@@ -1,0 +1,8 @@
+name = "birch_tall"
+filename = "birch_tall.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/db776c5e541fe5290ec3a8bfdc5060425e38caddf95749a25c5cb68d708e64d2.json"
+hash-format = "sha512"
+hash = "a554ff6c6603e4c5e580ab54e7ec47dc6c2edebe233e3767c7b3a408035280ca0f59d64be123429040c0a8130b7567b86e4bffa929fcc065a60ea31068b8dcb8"

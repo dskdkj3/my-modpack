@@ -1,0 +1,8 @@
+name = "compact"
+filename = "compact.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5aa6e16a552ebcfd93babeb0374d8433e530d89807fb4ee5a831f8d09929b8d5.json"
+hash-format = "sha512"
+hash = "994a6cf0337524b2315f71ec792c43acb40ed1739d11d4104efbdd6006104ce5418232c7f5e65f182027c6bf0e8fe7585df29b6a8cf759c088d3bacc0f3b0680"

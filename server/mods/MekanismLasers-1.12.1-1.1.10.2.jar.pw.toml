@@ -1,0 +1,8 @@
+name = "MekanismLasers-1.12.1-1.1.10.2"
+filename = "MekanismLasers-1.12.1-1.1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6516/131/MekanismLasers-1.12.1-1.1.10.2.jar"
+hash-format = "sha512"
+hash = "4b6bb395a4c43a579180945ebd74425799feaeeb24d5884fab41831cbc5285d115ec16186b9916c039cc79c2eb6f21b0d85a2b14d64ed6b838b7460589545826"

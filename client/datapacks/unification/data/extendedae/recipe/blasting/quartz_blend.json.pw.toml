@@ -1,0 +1,8 @@
+name = "quartz_blend"
+filename = "quartz_blend.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72152680c5c3f3ec016b30b7f137fb5ab7fb0dd4bed8a1757235b024e52d903f.json"
+hash-format = "sha512"
+hash = "7cd6f2944932133c2b0575bbe1899ed8ba348b65ba7de0f045d52a85a44881b2898b89c3ad18d7aa2f5dea73f6795392053f20fae89be8abd0d3ea575b775535"

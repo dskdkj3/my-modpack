@@ -1,0 +1,8 @@
+name = "createenchantablemachinery-common"
+filename = "createenchantablemachinery-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73d9f7d466beb9fea22e0fd152b04cc597f8e6078fafecb9d9fe680ab2439c4a.toml"
+hash-format = "sha512"
+hash = "a4abbfad7f48eb8b08832dafd080a268f4905f7353d140f4962e389a74bdae7412c0d6cd86ede570293fd102df686ec0b8afa51587984020537be107cc457fb0"

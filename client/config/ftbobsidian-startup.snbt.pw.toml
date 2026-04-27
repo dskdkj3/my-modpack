@@ -1,0 +1,8 @@
+name = "ftbobsidian-startup"
+filename = "ftbobsidian-startup.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5503797141ea9f2e4a860ba2f81962a46340f2a9bbe3d2d9b23057b2efa0e53.snbt"
+hash-format = "sha512"
+hash = "3e1c6dd41b5ed259b8bcb700dd63b5c5aeb4710eaa08f51a52a812993f8e19bb33608586760b09107ddf2cee213da7b7a2a102bf89ed288a1b781de7f5e96105"

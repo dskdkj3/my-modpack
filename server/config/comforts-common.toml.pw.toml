@@ -1,0 +1,8 @@
+name = "comforts-common"
+filename = "comforts-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e9d85f52558425784a27541a737eace40fa65d56f4b746c20a40bedca441c47.toml"
+hash-format = "sha512"
+hash = "d94583943daa93a3b267e60334c7f27cbefd6dcf1c56ecccfed51532e9fed08507824b81df3355e51afa26365f42b09117c152fca28103dd3ae31b07b0eff01a"

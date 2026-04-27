@@ -1,0 +1,8 @@
+name = "refined_storage_2"
+filename = "refined_storage_2.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e0795ecb5586c2c28096c1708b54e17a89c66b51816bbe1cffb1aa0f93158a4.snbt"
+hash-format = "sha512"
+hash = "b0065a45dcda13dafcda94ad078038669f7d4fa8f3b9ff92e63b34ca7a55b96975974293b954f9bf3bd3bebbbf6769078920193fef1e50fdd9b873d901d7de6d"

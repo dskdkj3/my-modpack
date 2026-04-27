@@ -1,0 +1,8 @@
+name = "refined_storage_logo.png"
+filename = "refined_storage_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d2e8c7aa0f7ab2a37dfc8a58f69cd7aca8fdc4b51f1346db096605214f55bcf.png"
+hash-format = "sha512"
+hash = "01530a1d8e857015919b683942c84176ceba253b84d0204d5d40789781d524dc3476c65fcd9a819630886a0e1a91c4d5be377e67465362f4f78834643ec87ec5"

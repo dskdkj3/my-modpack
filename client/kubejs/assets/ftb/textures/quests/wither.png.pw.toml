@@ -1,0 +1,8 @@
+name = "wither.png"
+filename = "wither.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa9383aea61b2e284edfe6e465a4bd5dcbd0c9ede3ac1b8a3b6dd0c8df7e105f.png"
+hash-format = "sha512"
+hash = "afde028365b634557a2a25e45e474409ad09940483b3e6754b2c32e43afe3cb5f68fab4a64da8433691f2f2e497010b01aaa8476de75ca62870f6219344b0a1e"

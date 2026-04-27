@@ -1,0 +1,8 @@
+name = "iron_with_diamond"
+filename = "iron_with_diamond.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/88a66c70923fd2ecd153292d735bca071eff66d75079ebd200ef39c97b38675d.json"
+hash-format = "sha512"
+hash = "3215c330c4572cfb300021d4440e19f55d9c7f0206c90a068af4cc636e342ec72aa12c5ecb6419e23628f9f725880ca1386b7f62b49c4d2030963a272138bf82"

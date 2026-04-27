@@ -1,0 +1,8 @@
+name = "tree_fertilizer"
+filename = "tree_fertilizer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/785066c5ec94e55a4ae529332292c042f119f02d28919991fc90fd5a37571a78.json"
+hash-format = "sha512"
+hash = "766b636e0bb2b60ba2d61996e8bb5f6c514b1aef2a532fb3d20426a58239095263756c058e5f933f50ba7e8641d25c2b6370a26ba43df6cafc4bbcf8eeafe5af"

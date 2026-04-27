@@ -1,0 +1,8 @@
+name = "flax_seeds"
+filename = "flax_seeds.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a40bd21cd2ed3c08f08a4013a8fddd72f9e913bf25cdcab621d53a31a0d044c.json"
+hash-format = "sha512"
+hash = "27a990b07ecf4804dfb3800be59ab40bf5b9bcd6f93992f5d161ad214ba43846b80a795354946a3b9f4095bc9b16ff7e8d697e21f9cc20a415b227eb96eb6287"

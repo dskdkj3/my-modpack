@@ -1,0 +1,8 @@
+name = "compressed_iron_block"
+filename = "compressed_iron_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75d387789f98c632994a30712e5e9fb270d73475ae4d85c1295e4961334a0164.json"
+hash-format = "sha512"
+hash = "0fea5a6f1aeddef381be9fc1653c8a2ba5216a0d376290e5664d610005a7c1052fbd8c799bf5ee2d58d670ede6dc64b9eae2784611442d2435ce20505d335ebc"

@@ -1,0 +1,8 @@
+name = "immersiveengineering-client"
+filename = "immersiveengineering-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e960cfdd11cc30cac59d171b06e6e0922ef3199ab79f5f63589ee644f2802049.toml"
+hash-format = "sha512"
+hash = "1329c1a718d3b82dd318f1fa029ffa2f352b725079c6748f7ef73f70bf2ca921427c27f4183039dd901ae93c86b800c0f657de51961b9c3c430f183abe042b2b"

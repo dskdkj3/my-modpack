@@ -1,0 +1,8 @@
+name = "steamworks.png"
+filename = "steamworks.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc2243fe4ad460ab6ff0ee0f0d525091608605488580a83cebf3995203d6cd5f.png"
+hash-format = "sha512"
+hash = "58729d2b61ab65aaabd194f23b2ed1981bf4cf8771d35fec6174dcba3950a379cf10157ef402a8c7879a4b50aa930b9ad461b696544bfdb5d693a32a7848c5da"

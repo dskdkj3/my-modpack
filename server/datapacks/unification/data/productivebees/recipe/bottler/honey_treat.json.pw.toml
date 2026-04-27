@@ -1,0 +1,8 @@
+name = "honey_treat"
+filename = "honey_treat.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/29528f85b300fe67b95cd9c116af1d04f7447af3a27f7eace1a1c4589ab32128.json"
+hash-format = "sha512"
+hash = "d748451846932481c093be299ed1658ffdf0ba49fe08a780b581e10809aa5f6ff3e959006ad0c41373ee6d066e7fb9007c6e8ff899833ba71e7bc32fd6bda081"

@@ -1,0 +1,8 @@
+name = "integratedtunnels-common"
+filename = "integratedtunnels-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/840df7115755fa383c8a46231c52e676345e3f167f3ebb8c443478fe3c440329.toml"
+hash-format = "sha512"
+hash = "764d24b1a7fa3294055c2c912d153ef1aaa83c55c9c2d67577af58bc32872f50528f9263fe41dc83e30457a4f43cc41e9e6b0d67f181d4ee63dc066e2de84dbe"

@@ -1,0 +1,8 @@
+name = "creeperoverhaul.jsonc"
+filename = "creeperoverhaul.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb9677b5b7ae4b50e41cdd0af32ea4f4061f9343cd802a85f7c69f85905d756f.jsonc"
+hash-format = "sha512"
+hash = "0251fb163e12f5d5ed46de0d19d09d04a8e46ce99f5dd00c7fb15dcf5d17937d3127316506ca078ed6a5c510ad82eb017dbc358a0d4e7a5c04464e13a0c089b6"

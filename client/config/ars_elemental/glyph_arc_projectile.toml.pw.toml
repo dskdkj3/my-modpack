@@ -1,0 +1,8 @@
+name = "glyph_arc_projectile"
+filename = "glyph_arc_projectile.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/2692a011921ebc438da654d913cf0eed14a4178bfe3d64dea6cb15c980263880.toml"
+hash-format = "sha512"
+hash = "9e88c0421466d5d61ce08cd7ccb0bf42d8db01c2905379249d5747ecbe165d808145388392f316ded7043bcb8b88276e49375eab0eca4e5d6cb704d79d88e1b4"

@@ -1,0 +1,8 @@
+name = "dirt_string_waterlogged"
+filename = "dirt_string_waterlogged.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ffd48e82939ca18d4a9b20965dd63f55748b4b7d7e40a1bab4e9045b0999fc45.json"
+hash-format = "sha512"
+hash = "ae3c0140953a8272e05540eb9fc88a18def93b6fd159789ab79d87711f7c293651409a5ce14159f73fea549523e733c0bfbbe9fdd94bebdb89d7b34eeb9f77cb"

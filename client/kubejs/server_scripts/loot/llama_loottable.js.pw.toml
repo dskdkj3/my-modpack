@@ -1,0 +1,8 @@
+name = "llama_loottable"
+filename = "llama_loottable.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f8ca4b4ec95ed2b4a9e352ba9f7f3e43f452de7cec27de7f2853df7390ad6fc9.js"
+hash-format = "sha512"
+hash = "601f9ed877e292ea2570ea75896cf2cdf234346e0eedadac9a1f0bb476ff71d3d4c3ce3fd46afff774ec70f7e085a079a15eb8e390700517e05e69c00bea5b4f"

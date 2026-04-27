@@ -1,0 +1,8 @@
+name = "frosted_prison_treasure"
+filename = "frosted_prison_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c263b4c42631b98ba13ed513f62fa97a00d38c9022952209b31cdafb30bfce2.json"
+hash-format = "sha512"
+hash = "2086487bc91595e55cdd3701ad9ffd4ecb170b51f060b5a8410b0b4862a98739a658efa898f350e05758774f89a2249d06b1bd7c35e3da06a688fddc838c6be8"

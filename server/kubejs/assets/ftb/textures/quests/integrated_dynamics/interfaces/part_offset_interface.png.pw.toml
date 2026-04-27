@@ -1,0 +1,8 @@
+name = "part_offset_interface.png"
+filename = "part_offset_interface.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebbf5d80d26033318feffa88d11b560a64afda63b1627a7d57b2493b94f64b6d.png"
+hash-format = "sha512"
+hash = "fdd4113b9dc37f2e56ce5d97022bbc849f27da4a1ef7a6467ae01806ab21ea271eae5b9f60e35cc966cab72f65f246085a4d334032d1bddd00cbdb40f69c3d19"

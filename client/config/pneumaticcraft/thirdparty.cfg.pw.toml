@@ -1,0 +1,8 @@
+name = "thirdparty"
+filename = "thirdparty.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8b81f768bc930efdf4deaf2890303244622d7040f5699516d2f39cba4a87a951.cfg"
+hash-format = "sha512"
+hash = "719864f98eefec059b0b9ef4c0cdc6e6de3b6584d3e8dc482b47f1bb60c9e209b5c0da7d33cd4a437e071266f5742f88d65a67df8de15e255bfc6f83f689d80f"

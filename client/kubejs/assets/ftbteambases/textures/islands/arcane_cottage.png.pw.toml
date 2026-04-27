@@ -1,0 +1,8 @@
+name = "arcane_cottage.png"
+filename = "arcane_cottage.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/288a4b80d45f63d5abfef81a6fac971218ad053db91d174488d2cb4849a79d82.png"
+hash-format = "sha512"
+hash = "63cd1749390c35664f3667a5d334022221f98cb2dd941f0628ff454a65d03990d2d2cd2be9926653a28298b490944610b062a4a4a5aed1e546113332727e6dff"

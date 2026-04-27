@@ -1,0 +1,8 @@
+name = "supercritical_mass.png"
+filename = "supercritical_mass.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92c19f679d5d4e850209d6c2b422319c6e6af3171d95a9703b896a23ede7ef49.png"
+hash-format = "sha512"
+hash = "73e26720667aa179db980264e01fd0023e114d20e464602e4ac2b0aff9b286100babb90d5bf3de6506b34b43b4f69494b10cf77ae0bd9806ec4a886fcbe07fdb"

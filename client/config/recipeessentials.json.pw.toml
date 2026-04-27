@@ -1,0 +1,8 @@
+name = "recipeessentials"
+filename = "recipeessentials.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a0c758b1dbb2bd4f63aa61b8a8b77a50f80e9dcd2f6c211b96d70707e88e54e.json"
+hash-format = "sha512"
+hash = "2a7611730a42a6dbdc517afeffbf5c5283a9b1397337a36cedea6c13c997cb2c95f86143bd4ca40d585ec7f4f57aec0736bce6889c3b9f21416ac9383bd048ad"

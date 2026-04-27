@@ -1,0 +1,8 @@
+name = "ethanol_to_butadiene"
+filename = "ethanol_to_butadiene.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/033a40f80b8a62b3fb6bbf3a0f531dae160cfa693c60e918e77228988a96b6fb.json"
+hash-format = "sha512"
+hash = "5932b5de935af74686780158417e804dd51d2f1d538ae39f6fe0504ad24382da0cc674e8e87b55370fbd5e596a18f62c748ae4c4bf317cec470c8514bf843ce2"

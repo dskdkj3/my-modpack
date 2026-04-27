@@ -1,0 +1,8 @@
+name = "large_heat_exchanger"
+filename = "large_heat_exchanger.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/7357903ad86c504097dc14106fd8752b860e2c297137dde1e8761443dafc71a3.json"
+hash-format = "sha512"
+hash = "426595a519c92ee872fef9db8c75532627cc4e0a030241ae64544f00f8fea7fdc3d39590cc946146226432852017520a02df88dd09ec90c2d076e95482f1644b"

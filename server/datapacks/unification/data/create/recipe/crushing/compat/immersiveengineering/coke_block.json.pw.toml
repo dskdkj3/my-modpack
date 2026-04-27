@@ -1,0 +1,8 @@
+name = "coke_block"
+filename = "coke_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba1714574a02138156e38bd5435422f24e1ad9c99d388f0a4b94128ded3dce4c.json"
+hash-format = "sha512"
+hash = "c932cf914d6233b6985a17bc13bee21057203fb2f772957e6a64a5417958a6232bc300738f92cab647e4de1309c519a88906d0bb7b90222b76d44b299a6c7273"

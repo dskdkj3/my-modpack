@@ -1,0 +1,8 @@
+name = "fargostalismans-1.21.1-2.3.1"
+filename = "fargostalismans-1.21.1-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6745/673/fargostalismans-1.21.1-2.3.1.jar"
+hash-format = "sha512"
+hash = "c754b839d9d413c84517cb2265291d3a47614ba01b2733675f43bb8a8b0b2cf62b24186dd2a9e5d0d39786ce3b470db20c34d8ba073a48e36220c6fc13ad502e"

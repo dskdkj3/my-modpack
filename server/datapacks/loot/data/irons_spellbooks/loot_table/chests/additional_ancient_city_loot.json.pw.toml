@@ -1,0 +1,8 @@
+name = "additional_ancient_city_loot"
+filename = "additional_ancient_city_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1c1fcead5b529a7d67cc8b06d7b572707ebd651a17ce8f3c23b327f4c9d2155.json"
+hash-format = "sha512"
+hash = "9b8f491ae91c58c60d43818834e536dcffa1fb1af93097067c2bbd5565a20a73d7f526b234beaa85cf984d54150e22e2e68f6944f26644b092958944637af2e3"

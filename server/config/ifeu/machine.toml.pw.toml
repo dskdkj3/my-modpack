@@ -1,0 +1,8 @@
+name = "machine"
+filename = "machine.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/3124e88340bbeb2cab377b1d09c9de9e16faf5d1d5a34c49f79119b2a05d0983.toml"
+hash-format = "sha512"
+hash = "d96886ff97550af3462df3b704f7288c396a825f1778ae3bb16948e8ed6f13adfe303e5767ff2496d6972cd14ee440a016039a1028aa5fca7cdc6fcb24742c09"

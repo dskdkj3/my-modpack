@@ -1,0 +1,8 @@
+name = "mechanical_placer.nbt"
+filename = "mechanical_placer.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8ad7347f04e776f963019f2eced1890b115196872ee80ef2397b7ce3c3f4645b.nbt"
+hash-format = "sha512"
+hash = "0211657ef43fe0ffe4e3571171e62f22a935f0ee6053b5b803103e9e9d99983e83d4b00961d5ab81f2fea65b3e13356f4078544b4aa0f3aed626fd82276e574e"
