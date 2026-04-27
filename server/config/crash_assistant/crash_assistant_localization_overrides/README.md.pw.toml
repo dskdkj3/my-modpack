@@ -1,8 +1,0 @@
-name = "README.md"
-filename = "README.md"
-side = "both"
-
-[download]
-url = "https://files.feed-the-beast.com/blob/5b/5ba72bcb41798356ab16bc7fdd3074b81bf46613d90dd48245f835f5ced8121c.md"
-hash-format = "sha512"
-hash = "f5f98f93f10ba11649c77c3eae696d91d37df6aae4d73f1ac6a88e2185a366aaa4f2934a56faa8390226c23fa7cae7ab5082db8242015df1e27fedcfa37e6649"

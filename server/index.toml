@@ -2486,21 +2486,6 @@ hash = "91a02819718c6aabd1d7b13da638eebf4ae35425d55f0eba20f2283066617657"
 metafile = true
 
 [[files]]
-file = "config/crash_assistant/config.toml.pw.toml"
-hash = "638492ba3e45cb2938311cf41d7de5e011c68cc9f2db8631aa5a10a673ff4569"
-metafile = true
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/README.md.pw.toml"
-hash = "e27efb4f8bf131417a40d126d336021a84b1dcb19370b97428b8086948a8dec7"
-metafile = true
-
-[[files]]
-file = "config/crash_assistant/modlist.json.pw.toml"
-hash = "1d78fd50aa2a2e03320f1fa9ea14e136c1730b60dbe3d985c3f55df4aa951856"
-metafile = true
-
-[[files]]
 file = "config/crashutilities-server.toml.pw.toml"
 hash = "827dd353a1d221975a29785bdc6acc1559fc2846e5f71c05f20f37a103f339b5"
 metafile = true
@@ -19408,11 +19393,6 @@ metafile = true
 [[files]]
 file = "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar.pw.toml"
 hash = "6d1a6a0728d468e4b1171652cb52caf80a91b489b59de67f387c95ed358ec477"
-metafile = true
-
-[[files]]
-file = "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.3.jar.pw.toml"
-hash = "42b14ba1cf7613be32b5063eb91d23fe267ea50e99b67e3af205d53de0167d28"
 metafile = true
 
 [[files]]
