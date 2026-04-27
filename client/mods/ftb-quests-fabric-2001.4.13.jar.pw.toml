@@ -1,0 +1,8 @@
+name = "FTB Quests"
+filename = "ftb-quests-fabric-2001.4.13.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6431/736/ftb-quests-fabric-2001.4.13.jar"
+hash-format = "sha512"
+hash = "3600678f883e2ae00c60bd1144a6e869916adb38c75a0da3cb46487be3e9651cc590309a8297cb3c56f04f9221ce04fd82fbb3501a3e30e8c5a651c42d6f0a62"

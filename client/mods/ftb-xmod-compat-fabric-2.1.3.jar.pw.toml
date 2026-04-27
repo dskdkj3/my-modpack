@@ -1,0 +1,8 @@
+name = "FTB XMod Compat"
+filename = "ftb-xmod-compat-fabric-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6402/485/ftb-xmod-compat-fabric-2.1.3.jar"
+hash-format = "sha512"
+hash = "2e99ce5d32c4ada845001c39a71b4b018e1e9e096ddbd5c017c4f4bd89c716f2ce23970100569d2c63eb5f10e311c66bbefeb420e3c11b79556b34abb11b2766"

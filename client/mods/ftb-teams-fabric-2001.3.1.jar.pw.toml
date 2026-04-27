@@ -1,0 +1,8 @@
+name = "FTB Teams"
+filename = "ftb-teams-fabric-2001.3.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar"
+hash-format = "sha512"
+hash = "d36cff3670b6943e5c9a74b419126852a01bb360bb00fac8cef24deb825b51a5422ca639d3077ad11b6701f1163d10877e45999b934a5781d6c9904a2a7c5c74"
