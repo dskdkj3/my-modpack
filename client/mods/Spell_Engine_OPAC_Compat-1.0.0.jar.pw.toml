@@ -1,0 +1,8 @@
+name = "Spell_Engine_OPAC_Compat-1.0.0"
+filename = "Spell_Engine_OPAC_Compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HQVXAnZf/versions/SsgmPFRu/Spell_Engine_OPAC_Compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "fcd24592ab66fd36a5485c3023ba35ce30eb4d4602bfbb7dd1a74c1cf81035ae5b31507967d58a686d046b094622df10e810e6a3f4770903219fd857c2661854"

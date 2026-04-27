@@ -1,0 +1,8 @@
+name = "Ashen_Better_End_Support_1.1"
+filename = "Ashen_Better_End_Support_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ur1ZuVtB/versions/nW18MYXm/Ashen_Better_End_Support_1.1.zip"
+hash-format = "sha512"
+hash = "68ad0d3bb60bcf15152f4770ace6b7151de769d9da82b714c087eeabeb627cbabf282dfca3bf5367fd2a70ff3f084505e64c2610220325cc666510c289e9a78f"

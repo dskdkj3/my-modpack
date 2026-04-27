@@ -1,0 +1,8 @@
+name = "HTP-Betterfortresses-TranslationPack-v1.0.0"
+filename = "HTP-Betterfortresses-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBY2pe6W/versions/pTkXf9z7/HTP-Betterfortresses-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "d774e77b97d19f065054d614a1659ec9e4c1c3f02f2e499d0fbbdde009e81fd397be46f7ed2d76a8ade5b123956c81104c3241d69acf1a5f092853da523b9b9f"

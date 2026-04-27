@@ -1,0 +1,8 @@
+name = "spell_enchants_for_all_1.1"
+filename = "spell_enchants_for_all_1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FKNSGsFd/versions/pSbmJUmP/spell_enchants_for_all_1.1.zip"
+hash-format = "sha512"
+hash = "640eba243f86c6eb1531591b595cecad96286d5a9452628317644b67499a40ab52b226a06a42585f73181dc526e453cb27dfa978e08a05a25b4312d9ede03a2a"

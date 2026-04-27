@@ -1,0 +1,8 @@
+name = "Vinery-PT-BR-v1"
+filename = "Vinery-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QaStitHg/versions/EKuX3FgU/Vinery-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "1eb527a9996084186b2042009d41a5cb9e6b38b98ef93df92de2f5d89da4e536cc1bf3d200e4dbf3bbf0d21f313780545f2775f08c41bbb011be1d9625c3cb0b"

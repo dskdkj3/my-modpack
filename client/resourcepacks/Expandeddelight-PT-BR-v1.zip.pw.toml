@@ -1,0 +1,8 @@
+name = "Expandeddelight-PT-BR-v1"
+filename = "Expandeddelight-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l4uDl3mR/versions/S7GF2NpO/Expandeddelight-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "f6794593d93ff0b96cd94d7afd272958e7f49bf3bd16bfd877f251f2d177fa9fcc4867d26e4f351955399299a7b1b28de3703ca1f02aff6ce636f9f1d7a13f97"

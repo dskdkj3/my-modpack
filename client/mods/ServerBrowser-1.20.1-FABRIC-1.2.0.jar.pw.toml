@@ -1,0 +1,8 @@
+name = "ServerBrowser-1.20.1-FABRIC-1.2.0"
+filename = "ServerBrowser-1.20.1-FABRIC-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/REH0O240/versions/CjrE27Ip/ServerBrowser-1.20.1-FABRIC-1.2.0.jar"
+hash-format = "sha512"
+hash = "3fa8378c141061e52eaea4307330bfa2c5e1520b47c1a41413d12650c89d7c373e3073b50bb8e46bc21010081dca50c6dd9102df418e6ed65721c7f0cac02678"

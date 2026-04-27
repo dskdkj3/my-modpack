@@ -1,0 +1,8 @@
+name = "mousetweaks-x-accessories-fix-1.1.0"
+filename = "mousetweaks-x-accessories-fix-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bFBJU91s/versions/vIdy7Xpu/mousetweaks-x-accessories-fix-1.1.0.jar"
+hash-format = "sha512"
+hash = "bbb8a9e121412e7727156d9c4487a27dfafc4b2641ce00d25408d08eeacde41ab1087b3b35df5bcc0cc5a9b16b7aa67b227182f2574309d1e915bd6799626d30"

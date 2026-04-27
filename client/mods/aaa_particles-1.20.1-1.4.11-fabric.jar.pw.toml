@@ -1,0 +1,8 @@
+name = "aaa_particles-1.20.1-1.4.11-fabric"
+filename = "aaa_particles-1.20.1-1.4.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/8LsA5nMY/aaa_particles-1.20.1-1.4.11-fabric.jar"
+hash-format = "sha512"
+hash = "e148218d3b576df56e7b3c02a44634567674ed9bb82a55c0d55a38fbf29f9087ca3ee5ec94dd668c42bc0b28a8dae9c13c9d8e4d69d1a35f944cec154d6877ae"

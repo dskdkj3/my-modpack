@@ -1,0 +1,8 @@
+name = "HTP-Mcdw-TranslationPack-v1.0.0"
+filename = "HTP-Mcdw-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBf2hpDQ/versions/W2S03CIZ/HTP-Mcdw-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "8de0436e7f4057beae7691c3a4959a6f55b0019f1da67a9680507e8760fc904d3c5f400c117bffe42dd17b3c32314a45b20f3563cc388bac49c190c66a477c73"

@@ -1,0 +1,8 @@
+name = "HTP-Thaumon-TranslationPack-v1.0.0"
+filename = "HTP-Thaumon-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/F6zl5lF8/versions/WZMnytA4/HTP-Thaumon-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "78eddfe515184956bfb28baa86df1eb55c5baba24ded42dea9971f5036d71a2ec6d8d416fe57304d27dcf630d5dfdbd8ed74663ea381662ec6e2e646f9d19a2d"

@@ -1,0 +1,8 @@
+name = "rpg_series_loot_table_tweaks_1.20.1_1.0"
+filename = "rpg_series_loot_table_tweaks_1.20.1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHnkD7jC/versions/Bb0Pk1n2/rpg_series_loot_table_tweaks_1.20.1_1.0.zip"
+hash-format = "sha512"
+hash = "65ddbe9334c32385de287e5f64fd983670f0c90a01e60280875d1ca530a8e29f33f49d06f2d666fa53ec4512dff5deb151397ea3bfcce00662457903bcde3c55"

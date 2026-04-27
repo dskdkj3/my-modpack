@@ -1,0 +1,8 @@
+name = "HTP-Archers_expansion-TranslationPack-v1.0.0"
+filename = "HTP-Archers_expansion-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hFbSMpp7/versions/95s7X8n0/HTP-Archers_expansion-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "d9714227956282ce5ad9aefb3f2b28e8aa7976c95331ab29980cba6cea26d89429d0edabf4f27b333bdf5d2ebac1f8b23370bda1b020179d8c746d1ae27c68de"

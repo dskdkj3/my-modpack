@@ -1,0 +1,8 @@
+name = "HTP-Icarus-TranslationPack-v1.0.0"
+filename = "HTP-Icarus-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Gc8VoVk/versions/WpjUdljn/HTP-Icarus-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "378b64379203a8b836632096d4bda1ee42a5dabd06d30097407268c6315ffcf0b2acaf468db2ee33e6f4d5ca331be3683f954d96eff44219ba0f51431c61087a"

@@ -1,0 +1,8 @@
+name = "onlyExcavators-balancing-1.20.1-1.0.0"
+filename = "onlyExcavators-balancing-1.20.1-1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C9s5awwW/versions/nYyvplbP/onlyExcavators-balancing-1.20.1-1.0.0.zip"
+hash-format = "sha512"
+hash = "e5976d8013a76b5ca42434339093e707f0e8d9d73e37582b163ed600c52c95d9a0abbfca92fe637f7e9c49501114a7d55cc32568c624654306785d307650bb59"

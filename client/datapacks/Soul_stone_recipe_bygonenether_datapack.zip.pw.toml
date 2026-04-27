@@ -1,0 +1,8 @@
+name = "Soul_stone_recipe_bygonenether_datapack"
+filename = "Soul_stone_recipe_bygonenether_datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sLNjRsFF/versions/eUXbp62C/Soul_stone_recipe_bygonenether_datapack.zip"
+hash-format = "sha512"
+hash = "eb4cad85c46ef55791775733c1c2a223f656f46ce727fb3868416b276237d6217a063656657019a450fc775277b57f135a88525bf2a1f494de014f2940fee45c"

@@ -1,0 +1,8 @@
+name = "BuildGuide-1.20-0.4.8"
+filename = "BuildGuide-1.20-0.4.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XwBDibES/versions/2twOaUqc/BuildGuide-1.20-0.4.8.jar"
+hash-format = "sha512"
+hash = "1353769425138cbff2f8d2ad42dbbe3a7338307718a069f30429e1bfe94e64e7dac4247675184c5ab9eb1d375158a1d53397ebbcc19ce300c573a17cacc0e379"

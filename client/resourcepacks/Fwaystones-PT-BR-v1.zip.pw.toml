@@ -1,0 +1,8 @@
+name = "Fwaystones-PT-BR-v1"
+filename = "Fwaystones-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JMOso179/versions/llUWp9pW/Fwaystones-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "d7fc636e8d933629a0db9f74d47a784151bd5e243283828d5d927b246bd94b0170fc2ca580ad5b835ca5933c581a6284972b1cc0cb35b201ecd8e56351ce5bef"

@@ -1,0 +1,8 @@
+name = "Ends_delight-PT-BR-v1"
+filename = "Ends_delight-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tWoWOrgw/versions/X14pWowf/Ends_delight-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "af35ed260293252f8b4e5eff356a144fd9ceecea4ca248033513e9a1344b6767c4f495710a228d421956f9b510d77e3683fcd70a08bc2402a89608bdccd31b2d"

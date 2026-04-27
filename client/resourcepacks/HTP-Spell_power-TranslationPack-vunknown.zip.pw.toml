@@ -1,0 +1,8 @@
+name = "HTP-Spell_power-TranslationPack-vunknown"
+filename = "HTP-Spell_power-TranslationPack-vunknown.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mEoXNmGB/versions/KmYh4EFv/HTP-Spell_power-TranslationPack-vunknown.zip"
+hash-format = "sha512"
+hash = "4458ddfb32f0f601f8ef9b07f83b250c4d3509727555e1aade2c8e4916e19c2faf74244f0674c4a7abfbc1d607ee4a3167cfabc35ca69f5f3b971731ed309cd5"

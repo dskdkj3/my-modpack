@@ -1,0 +1,8 @@
+name = "quiver_recipe_supplementaries-1.20.1_1.0"
+filename = "quiver_recipe_supplementaries-1.20.1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYx5D7nV/versions/4X7eYaP5/quiver_recipe_supplementaries-1.20.1_1.0.zip"
+hash-format = "sha512"
+hash = "6d3e5fc928bc519f52ce15a7b3dd0b20d5bf549e8ae7b0a35ad766fd0b458a1331a6f0c3e83b764ee53b43a5c1529753c481d1a36f82a6d71a935da75cf3998b"

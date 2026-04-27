@@ -1,0 +1,8 @@
+name = "archers_expansion_spell_tweaks_1.20.1_1.2.0"
+filename = "archers_expansion_spell_tweaks_1.20.1_1.2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0OyXto2/versions/yyC5jXit/archers_expansion_spell_tweaks_1.20.1_1.2.0.zip"
+hash-format = "sha512"
+hash = "c9fa8ad5271fecee1915a94d92fe211767dc5a29ada268395a3a7dc83edba461f41cbca3e2534b25e00c1021b29e155d9f359a5e00bb84e7381ad15112ecdbcf"

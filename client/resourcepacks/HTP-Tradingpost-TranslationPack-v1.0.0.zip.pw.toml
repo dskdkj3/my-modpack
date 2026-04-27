@@ -1,0 +1,8 @@
+name = "HTP-Tradingpost-TranslationPack-v1.0.0"
+filename = "HTP-Tradingpost-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/avWY5vuw/versions/DK0YLHdf/HTP-Tradingpost-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "f4375e1193b39820145b3a9bfab999116b806e972929181ec2fa0eb01f4e1124a3a4fa7ebae71e5c2912b440ae8e9a4332accf37e35d4120c9704f4dbb63b313"

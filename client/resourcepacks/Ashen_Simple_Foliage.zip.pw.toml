@@ -1,0 +1,8 @@
+name = "Ashen_Simple_Foliage"
+filename = "Ashen_Simple_Foliage.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mddj0vpG/versions/nOaHlTzr/Ashen_Simple_Foliage.zip"
+hash-format = "sha512"
+hash = "25db056ac1b236ae6714f09ac5fa30e91fbefba53f8f89fec41190ebb89f34681b2255b7137f761df8ac868ce20866e6dea3aeab3a1d3f80dbb95464f5a95f28"

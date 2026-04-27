@@ -1,0 +1,8 @@
+name = "HTP-Eldritch_end-TranslationPack-v1.0.0"
+filename = "HTP-Eldritch_end-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ycg48pvk/versions/pk6xqPk2/HTP-Eldritch_end-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "51d13787c40012f6328a51d6badbef40c5de972da7d00d2890c065473df5243ca9f38fdd59107de24e8af1c70995dee9e62af5b8ce133d5d110a72984ddecd6d"

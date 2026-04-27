@@ -1,0 +1,8 @@
+name = "HTP-Betterendisland-TranslationPack-v1.0.0"
+filename = "HTP-Betterendisland-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WKUNVKG7/versions/QsFbcCst/HTP-Betterendisland-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "bc7c576de3e64d3b03488b19af4a1e2288d3e0c4c113ecd16b2f92cec5c65d646d54b2df54417ae749143b203fb79fdc5e6e101b6b371ed749a52729e0493ddf"

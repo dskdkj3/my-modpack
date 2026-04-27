@@ -1,0 +1,8 @@
+name = "HTP-Alloy_forgery-TranslationPack-v1.0.0"
+filename = "HTP-Alloy_forgery-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/91jle0XM/versions/BOodGOJG/HTP-Alloy_forgery-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "dd0819f4569c75795ce2ad1476238856c4a6bb2a22a96eac53f6b804d5d8b5eafcfa52287b4cd6c6899f7c65de59a122c7812f918460f593baf4e950adfdf7e8"

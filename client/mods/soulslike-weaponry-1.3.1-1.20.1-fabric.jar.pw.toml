@@ -1,0 +1,8 @@
+name = "soulslike-weaponry-1.3.1-1.20.1-fabric"
+filename = "soulslike-weaponry-1.3.1-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oX6SohLj/versions/tEdCsSoG/soulslike-weaponry-1.3.1-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "3a7faa9824a46b1e6a425d3097f4d1523e2008da762fe6e5565584f415d992c3765a5d4200a6eb362ef4871d011349ee2e240205900775090ef1eb3b31264a25"

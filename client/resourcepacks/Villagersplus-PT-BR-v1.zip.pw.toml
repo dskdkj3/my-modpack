@@ -1,0 +1,8 @@
+name = "Villagersplus-PT-BR-v1"
+filename = "Villagersplus-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fDpwxBu3/versions/yCQnq65t/Villagersplus-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "bf665204441d73527780e862a7cc044113171c87ed2b441fc670b9d36102aa48160721b0e7906cdbae7085c7f6c0bece48a46337d72fa2b7f112524b72934144"

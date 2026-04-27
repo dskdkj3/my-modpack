@@ -1,0 +1,8 @@
+name = "Ashen_Regions_Unexplored_Support_1.0"
+filename = "Ashen_Regions_Unexplored_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bw7Oyi0i/versions/AFG6kvzk/Ashen_Regions_Unexplored_Support_1.0.zip"
+hash-format = "sha512"
+hash = "74e689bd2bb307a1c847230a2766de28dbfedf8e551bd9d871dcac3ac57db6553d4d01da185e9f9c8ff8da054d7cc947f08e6ede0295ca57ef5aa833183c1b1b"

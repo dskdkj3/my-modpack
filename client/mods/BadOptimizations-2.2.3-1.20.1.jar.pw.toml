@@ -1,0 +1,8 @@
+name = "BadOptimizations-2.2.3-1.20.1"
+filename = "BadOptimizations-2.2.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/6Js5HJ5e/BadOptimizations-2.2.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "74020601544eacc77804981173957bdd839a0a4688e237483f5ce80a299a14b893abe11a23f60c44162ea8a4f9f3ac2952d0aade9875f87b4b1ef3ef8a254754"

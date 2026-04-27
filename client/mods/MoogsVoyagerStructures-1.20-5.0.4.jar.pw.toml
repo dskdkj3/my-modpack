@@ -1,0 +1,8 @@
+name = "MoogsVoyagerStructures-1.20-5.0.4"
+filename = "MoogsVoyagerStructures-1.20-5.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/GRPrSi9S/MoogsVoyagerStructures-1.20-5.0.4.jar"
+hash-format = "sha512"
+hash = "1383511c7ca46af3811160c4905c871a4c993bf10f9b9c6a72c4fa65203aaa681f87e0aada81eb09b45775636dccfa37e22c76cbf2c982633025db4d47ea5af2"

@@ -1,0 +1,8 @@
+name = "Handcrafted-PT-BR-v1"
+filename = "Handcrafted-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z1YxhJSN/versions/BqE9clxj/Handcrafted-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "b3730cf68c006be76cfa13f7f89d922196453d9a3a43a02d13a0cec4ebea4a180867d2770c7f7c1ce4460e2d65d1f1cb8072f063681f7d12dfc2cbbfe7a1f225"

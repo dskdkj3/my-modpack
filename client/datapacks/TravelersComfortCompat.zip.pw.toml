@@ -1,0 +1,8 @@
+name = "TravelersComfortCompat"
+filename = "TravelersComfortCompat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MQ9dMBNj/versions/105UhFg2/TravelersComfortCompat.zip"
+hash-format = "sha512"
+hash = "5a2a5cb19d1fed8061d61b2e15ddd104c215896b7a74e52573261e508a022d0a6e3c43af3330e42ba7e2b1d62a7fd097dad15948184cabc107611ffa4121fca8"

@@ -1,0 +1,8 @@
+name = "Oxidized-PT-BR-v1"
+filename = "Oxidized-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fh1aHTZG/versions/8Pt8fyJy/Oxidized-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "fb9a51febdff198c37033e73f24eb55591a34a9d76f61bbc546e730d2e40c4790420ddc9b3bd4cb193114467b1e6f482f8639c4e590b7c9bce8e9fe423b46c29"

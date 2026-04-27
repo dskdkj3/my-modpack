@@ -1,0 +1,8 @@
+name = "alms_recipe_additions-1.20.1_1.6.3"
+filename = "alms_recipe_additions-1.20.1_1.6.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OO8szeJ/versions/iDoHHVFV/alms_recipe_additions-1.20.1_1.6.3.zip"
+hash-format = "sha512"
+hash = "730b4aaa5793196da4dbe0de8c1e0ad8d6583a61283faaab3a3a5c6cefb8d3fd4d36ecde49b7c014622e8e541e101a49ca837e8ac5d1366262f44365bdd3e5b3"

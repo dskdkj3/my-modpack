@@ -1,0 +1,8 @@
+name = "HTP-Minecells-TranslationPack-v1.0.0"
+filename = "HTP-Minecells-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/66pREOkb/versions/wPr9o5Ar/HTP-Minecells-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "13b8654736abc0c7bb19c2359820b095ec15b52ffbc49f2eb30cfab3b8101e00755c738a5a72040471a25111c233378a3eee0175e66788bfe7c739c080eb20d2"

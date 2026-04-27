@@ -1,0 +1,8 @@
+name = "HTP-Accessories-TranslationPack-v1.0.0"
+filename = "HTP-Accessories-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UlSCqtop/versions/XhKNzSDV/HTP-Accessories-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "d5a46e88fd8ea012fd2ed82b8eddee10a4cc44262c3dfaf617e0d394d599c062c0ad42008d8180ae0f865cf6bfd2c0ef3b75ccc3b4a78c35ffbe923bb52cc35f"

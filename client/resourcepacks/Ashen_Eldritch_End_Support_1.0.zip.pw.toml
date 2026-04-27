@@ -1,0 +1,8 @@
+name = "Ashen_Eldritch_End_Support_1.0"
+filename = "Ashen_Eldritch_End_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cWBm5y89/versions/Ml59S6bx/Ashen_Eldritch_End_Support_1.0.zip"
+hash-format = "sha512"
+hash = "3e16cc21f4e71248a4894772016a823aa71a54810d4744f23f4413ec0e9e86e912424a8154895ddbe864d6fd6338acec73ecde8281e951bf7c7970411807a408"

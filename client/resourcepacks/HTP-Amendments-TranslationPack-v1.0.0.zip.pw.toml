@@ -1,0 +1,8 @@
+name = "HTP-Amendments-TranslationPack-v1.0.0"
+filename = "HTP-Amendments-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BThI9XVo/versions/lXwbuI19/HTP-Amendments-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "0bebf42c4c4534ea0e9858102361fd3493f330ec10ffe0d78ae8000a622a850b52b1c216472b914b52fb03db50c4ed10968641deb27abad0bd59c42a638a7f27"

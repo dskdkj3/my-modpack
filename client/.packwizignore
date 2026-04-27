@@ -1,0 +1,9 @@
+.git/
+.packwizignore
+README.md
+docs/
+scripts/
+*.tmp
+*.log
+packwiz-installer-bootstrap.jar
+packwiz-installer.jar

@@ -1,0 +1,8 @@
+name = "Snifferplus-PT-BR-v1"
+filename = "Snifferplus-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ELggiYJ3/versions/MUfEap4I/Snifferplus-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "c4cc3386e2e238c61087cf5f8e542a2339b10c6e2c0bd903b48f6eeed2b9819e5c8e227e5426a2d00d8eb298b88ddd01bfde0ac4980bd2918a2307a07ee297d9"

@@ -1,0 +1,8 @@
+name = "Frosty-Deathchill"
+filename = "Frosty-Deathchill.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zMki5qeL/versions/AARwoXsy/Frosty-Deathchill.zip"
+hash-format = "sha512"
+hash = "34660b63b28adee563e55f438490c32fb8dbfe494aa640362d5519fe14c9580324eff98550dcb31d56cd61659923e1c3d2cfe33102ffda6773d84c127a40cbd5"

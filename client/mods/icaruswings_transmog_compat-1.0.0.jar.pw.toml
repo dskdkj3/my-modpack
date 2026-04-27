@@ -1,0 +1,8 @@
+name = "icaruswings_transmog_compat-1.0.0"
+filename = "icaruswings_transmog_compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zMdf1n8V/versions/kNpSQj90/icaruswings_transmog_compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "eaf28e1a7cf8f5aaa27280c41180dd08b809a3ad5ce34a8e48d51ed6782222b004abf10b2bf02ac90b5c31e7144a46edfcb238348b5b9a5f48d6bd7f5ccf3bdc"

@@ -1,0 +1,8 @@
+name = "Ashen_16x"
+filename = "Ashen_16x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LSmohupN/versions/fvs9cQMj/Ashen_16x.zip"
+hash-format = "sha512"
+hash = "25e038aa387fc718486c03735effbbb3706fc101a6ec3143b3a5553affa0a345edf6599ed531ffecbed5aad936128158932d61592f79ac3b047733e3b5faff68"

@@ -1,0 +1,8 @@
+name = "Brewery-PT-BR-v1"
+filename = "Brewery-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ2zpXDe/versions/7czmNvIL/Brewery-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "4ca43d63d4c9cb66b3006bd0fe3a75d389409310cca8172a382cdc830aac44ccd6b4e09f27a6e5c86abbb6429ae22171d152ef9ad8c2645dbba469e4af256b47"

@@ -1,0 +1,8 @@
+name = "Promenade-PT-BR-v1"
+filename = "Promenade-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5bnxcMDa/versions/pNoQGL9T/Promenade-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "83cee6db23595370b699957f1c9dd94a895452acc1402f4d9f99ed158b0d0c8c94a14f4ef6425d270b2cf98a3ea86b25bb70c8e7f6f5b08a4f998c203de33754"

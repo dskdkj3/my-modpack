@@ -1,0 +1,8 @@
+name = "simplyswords_all_the_death_strike-1.20.1_1.0.0"
+filename = "simplyswords_all_the_death_strike-1.20.1_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rwGfM44i/versions/K6TNeu4A/simplyswords_all_the_death_strike-1.20.1_1.0.0.zip"
+hash-format = "sha512"
+hash = "6c2260b03a736d9a97243f26fc0f55cceb3d323c999c7c835f12a6d55662271f5786c5b2fc2bda567c63440e0b8610f47d59f689f4d2bf63ee2cefa8515b219c"

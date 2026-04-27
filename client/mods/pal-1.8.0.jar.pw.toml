@@ -1,0 +1,8 @@
+name = "pal-1.8.0"
+filename = "pal-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DHQA06r4/versions/rznTfjQf/pal-1.8.0.jar"
+hash-format = "sha512"
+hash = "5b1c75e0da60571b42dd0546cd2087f6c7bd88cbf70a0c0feee36aee1bd9e19033cfc254c17be6a536624f29bc63c600b4cf01284ddca49d9de983a2efe2cbfe"

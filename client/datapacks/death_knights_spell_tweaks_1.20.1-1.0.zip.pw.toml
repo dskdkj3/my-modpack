@@ -1,0 +1,8 @@
+name = "death_knights_spell_tweaks_1.20.1-1.0"
+filename = "death_knights_spell_tweaks_1.20.1-1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EwzciLmm/versions/OduJIxpX/death_knights_spell_tweaks_1.20.1-1.0.zip"
+hash-format = "sha512"
+hash = "0969b62577afaa704254014b465d833b1c78d1c3ce15971788ae249383b98de473c0ecac35dec261434c3417a472bb196a3c6ff4a58be0493e7f7309f5fafeea"

@@ -1,0 +1,8 @@
+name = "Megacells-PT-BR-v1"
+filename = "Megacells-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a4zv90HS/versions/F6b5U9wp/Megacells-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "eb76165dd2555edafbb1e6738ad138488a200f66da47da237356231e7e465713ff8096788b7e108d870a0f023fd44a058819ce648f4b67190332b8f2656b925b"

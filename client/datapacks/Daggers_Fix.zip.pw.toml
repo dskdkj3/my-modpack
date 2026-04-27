@@ -1,0 +1,8 @@
+name = "Daggers_Fix"
+filename = "Daggers_Fix.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xdyTyVL5/versions/USNxnSwr/Daggers_Fix.zip"
+hash-format = "sha512"
+hash = "b8fc1401daa13594193d29d1f79723e869ed7e4c167b0a185354a7f6676a1fe7eed6e9ab2e3f84782f98ad1f07a2b2bf5b51103c576468265c5df433bf7364d9"

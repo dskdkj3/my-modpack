@@ -1,0 +1,8 @@
+name = "Ashen_Simple_Glass"
+filename = "Ashen_Simple_Glass.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZeRQIPEB/versions/fWAwQA7M/Ashen_Simple_Glass.zip"
+hash-format = "sha512"
+hash = "b868db6d1bb4c8953dc3f6e5c44b5c0180986f9009452855e645d851fc9b87827aba27e936fc75ad9ca74bc17f8234709dabc7a1ce8afb72643708fc73ef7ca5"

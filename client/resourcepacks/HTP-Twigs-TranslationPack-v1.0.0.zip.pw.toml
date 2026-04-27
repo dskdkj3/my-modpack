@@ -1,0 +1,8 @@
+name = "HTP-Twigs-TranslationPack-v1.0.0"
+filename = "HTP-Twigs-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FqJvCsOH/versions/eIU7ij6m/HTP-Twigs-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "3a6f91a2cdd9f3ae108b0d680f00088b8f83031f196ab36d6a256e1155c5ed587de425041b02573a294e3ec398d97d32dca1a019277f72e4d23efa095669b5c5"

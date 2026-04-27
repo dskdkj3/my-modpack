@@ -1,0 +1,8 @@
+name = "more_rpg_classes-1.2.18-1.20.1"
+filename = "more_rpg_classes-1.2.18-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/X9kJHcNI/more_rpg_classes-1.2.18-1.20.1.jar"
+hash-format = "sha512"
+hash = "11962fc8fde944b595f1c80575f598e386341a8d16d15989383e8f737330f1d485c2d038e6e548e26a29efcaa4e7246b8b99090ce46fccbfddbe6cfba511d185"

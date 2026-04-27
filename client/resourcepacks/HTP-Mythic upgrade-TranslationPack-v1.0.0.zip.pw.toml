@@ -1,0 +1,8 @@
+name = "HTP-Mythic upgrade-TranslationPack-v1.0.0"
+filename = "HTP-Mythic upgrade-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wHlOGEQN/versions/hjRTVPjh/HTP-Mythic%20upgrade-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "86f9651a27ba83128e2be2641783be3a12afe737b0781ba1c6e4698950efedb0b2db9b9ae138f9ece9a2e7d187d5c8b96edd4f7eb012fc3cbbcb55ff537c2e0c"

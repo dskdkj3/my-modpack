@@ -1,0 +1,8 @@
+name = "TradingPost-v8.0.2-1.20.1-Fabric"
+filename = "TradingPost-v8.0.2-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/Xc6BwCFB/TradingPost-v8.0.2-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "38775803037e1abcae121629cdecbac475cea18c99f3c37c181918e9bb59c4086941d9ae33fc53c489f049873aaa99df75a4f7734366c4ec317f0755aad2ef87"

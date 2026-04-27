@@ -1,0 +1,8 @@
+name = "puffish_attributes-0.7.7-1.20-fabric"
+filename = "puffish_attributes-0.7.7-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/a89o4JUD/puffish_attributes-0.7.7-1.20-fabric.jar"
+hash-format = "sha512"
+hash = "1d90e965bc80983db432fcfb04cb350fb98b8fda0b90ae76c50e645ef284ed8351c6cf4f11d91cf3a8f5ebdab1057c4cde8ad80249ea88f41685651cdd025ce0"

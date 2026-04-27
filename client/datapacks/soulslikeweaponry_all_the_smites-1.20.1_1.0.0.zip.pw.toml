@@ -1,0 +1,8 @@
+name = "soulslikeweaponry_all_the_smites-1.20.1_1.0.0"
+filename = "soulslikeweaponry_all_the_smites-1.20.1_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EtJPWDwR/versions/cVxnwP5k/soulslikeweaponry_all_the_smites-1.20.1_1.0.0.zip"
+hash-format = "sha512"
+hash = "604d2b3ff548b151ff8825d85df0c4a8c659d7f29bc5056c3240b2a607343d2211944ba6267c90c8bcd7e39a06c346f50e90901a33993a80431a552f25cf003f"

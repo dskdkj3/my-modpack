@@ -1,0 +1,8 @@
+name = "HTP-Mcda-TranslationPack-v1.0.0"
+filename = "HTP-Mcda-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wp1eCPRb/versions/RvVm0I9b/HTP-Mcda-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "c89c269eac09f7c7bbe95fc25673d7dbff0ca7ddf74a8ac8b81f0149c3502082522059d46a71ca8bdb891f8106d9a4cfc97496180520f2c5c9d11bb6c40d5bc8"

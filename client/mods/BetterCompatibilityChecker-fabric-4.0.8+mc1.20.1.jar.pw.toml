@@ -1,0 +1,8 @@
+name = "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1"
+filename = "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/1Z83Pw2p/BetterCompatibilityChecker-fabric-4.0.8%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "cb7b88003058961bd9ce1dea33c13ead005bde668b09e92f4ca4242a77924fb63cd64d00d8ad740df1151e5831b8092665dea379dc55582c27e54e3e78adaa98"

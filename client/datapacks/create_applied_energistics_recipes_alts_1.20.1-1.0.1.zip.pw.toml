@@ -1,0 +1,8 @@
+name = "create_applied_energistics_recipes_alts_1.20.1-1.0.1"
+filename = "create_applied_energistics_recipes_alts_1.20.1-1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6whQ8BR6/versions/MdbffYfH/create_applied_energistics_recipes_alts_1.20.1-1.0.1.zip"
+hash-format = "sha512"
+hash = "22f82caa17f91c035d1b8be23b590cf796879e1d0e7dcb3c9cf606ffaa284aad459bc37526e40bfdfd96ff9e05073cae3f3f86d4c9c79a5d82635ebbb3ee84da"

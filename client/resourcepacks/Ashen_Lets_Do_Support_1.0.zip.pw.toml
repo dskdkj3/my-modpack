@@ -1,0 +1,8 @@
+name = "Ashen_Lets_Do_Support_1.0"
+filename = "Ashen_Lets_Do_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LxWe8vLh/versions/Ab2CIzJJ/Ashen_Lets_Do_Support_1.0.zip"
+hash-format = "sha512"
+hash = "02c61891d33f52d3b306a39509bb938fa41d1f3df260f5bf94f01411058ee1fffe8fb4c09fac75aedaec9c1a96625c01801b9bd79392edb2eef29828168c144a"

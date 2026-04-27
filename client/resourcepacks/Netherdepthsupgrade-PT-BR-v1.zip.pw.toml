@@ -1,0 +1,8 @@
+name = "Netherdepthsupgrade-PT-BR-v1"
+filename = "Netherdepthsupgrade-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9LKERwqS/versions/v2KkxnhE/Netherdepthsupgrade-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "064c50d4dd64709c8e6c9190f4fdbc2217ccbe5f91d65577eb760ea5bd81f8fc5da6c660857c9f96908d719985fc7c8c88b4d3fc1b8c5b4ba0913a7f4f0b92f3"

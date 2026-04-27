@@ -1,0 +1,8 @@
+name = "Betterarcheology-PT-BR-v1"
+filename = "Betterarcheology-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hhv0HVoN/versions/SEATAUZx/Betterarcheology-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "dd1384b9a82302383632dc396b6c813a1a03441d78da6dd8487e157e5d42d5c27fa3487ca956f275cc8062e4e4a784ccfd5e0bf4c8ae6b8c50a71449118307d9"

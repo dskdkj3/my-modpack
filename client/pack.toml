@@ -1,0 +1,13 @@
+name = "Prominence II Hasturian Era + Distant Horizons (client)"
+author = "LunaPixel Studios + dskdkj3"
+version = "3.9.26+dh3.0.2-b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4d1399f79978cbdcfe68bee08c3ed3d04429b072da6f4c69cd4fbbb1f91ce483"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"

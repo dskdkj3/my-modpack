@@ -1,0 +1,8 @@
+name = "Ashen_Advanced_Netherite_Support_1.0"
+filename = "Ashen_Advanced_Netherite_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MnivJnH2/versions/DHd7izzX/Ashen_Advanced_Netherite_Support_1.0.zip"
+hash-format = "sha512"
+hash = "d130056f3fd8f3d1fb1fcd700fc95c2eb95e73791a20da05b0b07c7425a186d02a88ebccaaef47630371666c59dbe5d5af4b0fdaf26ee07b38b2c17c543c958e"

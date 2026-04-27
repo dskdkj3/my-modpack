@@ -1,0 +1,8 @@
+name = "photon_v1.0a"
+filename = "photon_v1.0a.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lLqFfGNs/versions/Dn4cGSpn/photon_v1.0a.zip"
+hash-format = "sha512"
+hash = "f0b259d213dcca3456da610f5f7ef7acdcb9dccfe8710a91634ddfd305640308f6bae2f7772882495d9cacb8e79776612d383eca32e595c13b83fc25bd2f816f"

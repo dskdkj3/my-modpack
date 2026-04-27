@@ -1,0 +1,8 @@
+name = "Appbot-PT-BR-v1"
+filename = "Appbot-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D8HOJ4zh/versions/lSlLs4ui/Appbot-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "352f17a44a0cc69218bf8b1eff3ad2159c70664e45809fdffd23c48fa528c6ed30631c611e0e0c2320d5ccc1afb0adcd84e75cfdd902d7c9293ffcc3e4b2db83"

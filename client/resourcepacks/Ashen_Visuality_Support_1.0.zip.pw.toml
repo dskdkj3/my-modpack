@@ -1,0 +1,8 @@
+name = "Ashen_Visuality_Support_1.0"
+filename = "Ashen_Visuality_Support_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ARf3yR3v/versions/2aPuIMTG/Ashen_Visuality_Support_1.0.zip"
+hash-format = "sha512"
+hash = "d108c27a070b7ab5e7b05cd62d13ff03a6c800ac7304e929ddfdcac7022a3a20ec6601298f52cbc3d569e303e0e41b302c2aa18a12e78e8076540806c1a4af39"

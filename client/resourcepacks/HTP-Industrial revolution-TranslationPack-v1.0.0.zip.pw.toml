@@ -1,0 +1,8 @@
+name = "HTP-Industrial revolution-TranslationPack-v1.0.0"
+filename = "HTP-Industrial revolution-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZaMKNFnm/versions/qnxHKKhT/HTP-Industrial%20revolution-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "12b047d5a5c7b97f6d1e2f7757bad89c4665f674d7146784c98f783f9f4bec4a0808a803a7812304a50a815f1866ae88b2d0e116136a672727ba27b1b91212b4"

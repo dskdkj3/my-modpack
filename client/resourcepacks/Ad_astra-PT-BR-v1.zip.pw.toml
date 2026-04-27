@@ -1,0 +1,8 @@
+name = "Ad_astra-PT-BR-v1"
+filename = "Ad_astra-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDIeoFRm/versions/g6Z0TfZv/Ad_astra-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "494ea299be312cfbf30ec8924ae507c4057145bc8bebcaa43002704ae1c1e47d491137238564a0760209011ed60ea90257f7bcc4585afd5ff6c845b17d947803"

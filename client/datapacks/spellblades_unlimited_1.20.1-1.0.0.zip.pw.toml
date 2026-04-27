@@ -1,0 +1,8 @@
+name = "spellblades_unlimited_1.20.1-1.0.0"
+filename = "spellblades_unlimited_1.20.1-1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xQChK6dl/versions/I3RVKiFT/spellblades_unlimited_1.20.1-1.0.0.zip"
+hash-format = "sha512"
+hash = "e978b86960fc4b2c69c2906e760e540f78fea3a4308382977b419d3d76d82113ca667af06b899c6dcfa21a43cdc284be7cb28ad789fc8bfebbc3be75fc404ab9"

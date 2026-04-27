@@ -1,0 +1,8 @@
+name = "Indrev-PT-BR-v1"
+filename = "Indrev-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1r8ca70/versions/lj7qo8iM/Indrev-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "d17b0b7dd1853c7834a3c0cb258b0223e51c4f64975720e3ce97165230274141b91242ae817282033e3a70b1bd07b0365cf62185ef6b7e36a05573b71f735aed"

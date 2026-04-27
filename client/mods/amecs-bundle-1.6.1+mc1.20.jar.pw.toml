@@ -1,0 +1,8 @@
+name = "amecs-bundle-1.6.1+mc1.20"
+filename = "amecs-bundle-1.6.1+mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/xZ7sIniM/amecs-bundle-1.6.1%2Bmc1.20.jar"
+hash-format = "sha512"
+hash = "fa21758df1187a2ef4f243b1f92bb080826744bb356ea1e3a8dafae8487cc7042135753488afdf630d25facefcb215f49064fe85fa158a90cd351cc848a302ba"

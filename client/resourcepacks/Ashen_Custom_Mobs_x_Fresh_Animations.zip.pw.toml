@@ -1,0 +1,8 @@
+name = "Ashen_Custom_Mobs_x_Fresh_Animations"
+filename = "Ashen_Custom_Mobs_x_Fresh_Animations.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rpaqVyiI/versions/zaN2hl9z/Ashen_Custom_Mobs_x_Fresh_Animations.zip"
+hash-format = "sha512"
+hash = "56f936eb401063153a9f518cd94cbdecb5c36f63bc0628ba351dd882c0539ebefb4fe6f55975b8186b4eaf3a3d29e802c2bb3f31170274402460edd659ac9a00"

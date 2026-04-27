@@ -1,0 +1,8 @@
+name = "HTP-Croptopia-TranslationPack-v1.0.0"
+filename = "HTP-Croptopia-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ld8ObFcf/versions/1WOLNQD0/HTP-Croptopia-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "3fef3102c06cacab9369262ca502076334193eda307741f85d3495c0e830149201b64852078cee606d15587f8b53e9ff8620a9e5830eb89dd82c08d0ad3528bd"

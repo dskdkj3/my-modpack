@@ -1,0 +1,8 @@
+name = "HTP-Deep_aether-TranslationPack-v1.0.0"
+filename = "HTP-Deep_aether-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZwZyGZpA/versions/riqk7w59/HTP-Deep_aether-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "2b0b3f41fac4bebc9765d3803166c40bc45c2eadc2c343d67367abcb4322bcc45754f9be063c955abe621989201cf32db95c38b0ca588d61f00f58faa1385a59"

@@ -1,0 +1,8 @@
+name = "Tiered_Spellbooks"
+filename = "Tiered_Spellbooks.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TlLDtNwS/versions/8ssXPxSu/Tiered_Spellbooks.zip"
+hash-format = "sha512"
+hash = "f26490d0024412991caf5672b04dd135f44ccbc279f2ef7663ec112c87f6b025e72c3b13154655ad6fba18db934b2e776474bb02913edb33debdec19412e81ff"

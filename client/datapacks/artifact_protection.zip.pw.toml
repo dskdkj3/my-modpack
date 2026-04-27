@@ -1,0 +1,8 @@
+name = "artifact_protection"
+filename = "artifact_protection.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lHkO3e9K/versions/pgz3nCGY/artifact_protection.zip"
+hash-format = "sha512"
+hash = "37113a1905a1387e4ae57caa9333fe83bcfeb55248923dc0bc6046c4b41e25181e928a07987d13d1d657d19c41658a92abe46ebc035c89f216ce81c5558dae50"

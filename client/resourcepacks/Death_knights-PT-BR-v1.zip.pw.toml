@@ -1,0 +1,8 @@
+name = "Death_knights-PT-BR-v1"
+filename = "Death_knights-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XZFdSQKE/versions/K2H3ANbY/Death_knights-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "ec27bc6862c787eaf4ec79ef7c23807a545d8266a33adeb296a4b3b4e97b52a26c3503e6913426f6f0773c4578cb208e8d696f23abfce1be2f7136ea42fad345"

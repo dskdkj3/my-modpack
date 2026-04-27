@@ -1,0 +1,8 @@
+name = "paladins_all_the_smites-1.20.1_1.0"
+filename = "paladins_all_the_smites-1.20.1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/upC4bJJu/versions/35guV4kO/paladins_all_the_smites-1.20.1_1.0.zip"
+hash-format = "sha512"
+hash = "ebcf07ec8e9c7987a13330b3e29c38dd26ca1f5050f4284944a835463cc5dc9521e136e2a8897e0e5335376f0dcd8726b051aa92654d6c941e47ebd979f8fa24"

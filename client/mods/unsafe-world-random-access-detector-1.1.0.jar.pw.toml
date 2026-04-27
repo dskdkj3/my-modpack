@@ -1,0 +1,8 @@
+name = "unsafe-world-random-access-detector-1.1.0"
+filename = "unsafe-world-random-access-detector-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MsGuTgPJ/versions/8QhgubMQ/unsafe-world-random-access-detector-1.1.0.jar"
+hash-format = "sha512"
+hash = "135a2975a8a09b2d5becafe5fe89772f72fc492426dc5058b6c555c684fe374a1564ee96175d4620b5e6122b64ccf9d076d90c38295af803411b27b209cbbb6d"

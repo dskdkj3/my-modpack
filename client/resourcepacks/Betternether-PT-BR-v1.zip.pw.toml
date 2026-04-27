@@ -1,0 +1,8 @@
+name = "Betternether-PT-BR-v1"
+filename = "Betternether-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1fQWJ2J/versions/HQ05TP8Q/Betternether-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "561c3745719fb12dde8d1b00204b5def898a3c463f8d421b2b2f6f95cd7aa7374e6d1c82b16989785c8bf2fdfa6d64fcc69b702d2ee3feb1dd07716c67b0947e"

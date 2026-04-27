@@ -1,0 +1,8 @@
+name = "end_food_for_everyone-1.20.1_1.0.0"
+filename = "end_food_for_everyone-1.20.1_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Qe6JYaQ/versions/GIyQ4VCj/end_food_for_everyone-1.20.1_1.0.0.zip"
+hash-format = "sha512"
+hash = "0a2c5787436baa55041e5c2abffdd18d9bc647b795df8dd059f5cb83803dfb9ea7fa4485a7f61a701508093d128e87a65305bed790060876dbab104e4c07f378"

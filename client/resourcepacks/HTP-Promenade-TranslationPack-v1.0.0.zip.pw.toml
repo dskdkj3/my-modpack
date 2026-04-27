@@ -1,0 +1,8 @@
+name = "HTP-Promenade-TranslationPack-v1.0.0"
+filename = "HTP-Promenade-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B7EQ5sPU/versions/MfA0imT1/HTP-Promenade-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "0803d716e1a1b052c8a4722fff18d028dbb535dbd757940dd239aa1bac6719761d4ac69b6e23051c76b9e11e1bdebbccd3a567f65e95187998533b0849a1c4bf"

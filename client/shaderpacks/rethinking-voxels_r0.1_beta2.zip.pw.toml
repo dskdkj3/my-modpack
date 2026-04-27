@@ -1,0 +1,8 @@
+name = "rethinking-voxels_r0.1_beta2"
+filename = "rethinking-voxels_r0.1_beta2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/kxINFUyA/rethinking-voxels_r0.1_beta2.zip"
+hash-format = "sha512"
+hash = "773acd817d19336c287c8a1eab6b06f42437b617b3f9ecf833f979fa5ea69cf6968454208e1b30474a2e4a591f186685ebb7c48b6b67db6c684b4193cd88ff45"

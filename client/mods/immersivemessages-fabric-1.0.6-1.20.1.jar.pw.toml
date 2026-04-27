@@ -1,0 +1,8 @@
+name = "immersivemessages-fabric-1.0.6-1.20.1"
+filename = "immersivemessages-fabric-1.0.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xvrmbjn/versions/zaRwzQzL/immersivemessages-fabric-1.0.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "ebb3e7c2ef8ddf473fabb23829a44e2099c66d4d634653c22eb2462b5f301d7addec3351ab6c71f9099f67c29ff65460d6e3cb9732049cdb2ae36039f6cf8f9c"

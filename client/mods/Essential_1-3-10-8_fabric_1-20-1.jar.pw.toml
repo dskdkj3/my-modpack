@@ -1,0 +1,8 @@
+name = "Essential_1-3-10-8_fabric_1-20-1"
+filename = "Essential_1-3-10-8_fabric_1-20-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/nXRm7xfP/Essential_1-3-10-8_fabric_1-20-1.jar"
+hash-format = "sha512"
+hash = "aff0d0fed7ba182b7f63fef0a7cd89c67625735ffd274cff88b62227ee31533e3f77ccd9e4700a8509809cf8e6e8fc106c2a06135d6a3b275f6c6de54359a751"

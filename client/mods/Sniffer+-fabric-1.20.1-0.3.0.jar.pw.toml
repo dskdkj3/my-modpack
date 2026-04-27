@@ -1,0 +1,8 @@
+name = "Sniffer+-fabric-1.20.1-0.3.0"
+filename = "Sniffer+-fabric-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVgHoKxg/versions/pJlIaMGq/Sniffer%2B-fabric-1.20.1-0.3.0.jar"
+hash-format = "sha512"
+hash = "a638a3db7ed9a400ef7b68ddfec6cb9886ca0ed8b5f2161eac157f95b073b2174b8c9fd66938d293217255400616a270f5bd969f80e6eb0c7e0a5b3cfd725562"

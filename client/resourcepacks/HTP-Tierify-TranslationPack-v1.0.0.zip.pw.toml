@@ -1,0 +1,8 @@
+name = "HTP-Tierify-TranslationPack-v1.0.0"
+filename = "HTP-Tierify-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/leeLBFjP/versions/x2oRtzUp/HTP-Tierify-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "7e4988bf164f17331c3ef0931cf11e2d59bcb4e73439be552b01b2e72bebb91bf0b6fa1c9a6a0cdda2635fb0230473bbfbb82126cf0d51cb7915029888b115f1"

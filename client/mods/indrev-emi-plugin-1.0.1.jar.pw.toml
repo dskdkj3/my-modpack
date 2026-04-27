@@ -1,0 +1,8 @@
+name = "indrev-emi-plugin-1.0.1"
+filename = "indrev-emi-plugin-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tk1E0xil/versions/ilNp6yqj/indrev-emi-plugin-1.0.1.jar"
+hash-format = "sha512"
+hash = "0072e79f8ba1d351dbc58b410f5c72d359426c38026f4f4f7d5e314d8841604a028e9044bb00fef9e4d72680d64696413f812046a024e9e38ced91694fc98a45"

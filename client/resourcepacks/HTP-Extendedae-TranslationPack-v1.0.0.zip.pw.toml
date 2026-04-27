@@ -1,0 +1,8 @@
+name = "HTP-Extendedae-TranslationPack-v1.0.0"
+filename = "HTP-Extendedae-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IIdvkT4S/versions/p7u57GSs/HTP-Extendedae-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "edec2b156f8f1cc4e1df9b04eda54c8272f5b903ff387bdc2fd7f9f6485877129432ead7d06e597cad42b195aaec47fcdbb67666caca25c2bd93c3522dad8985"

@@ -1,0 +1,8 @@
+name = "simplyswords_all_the_smites-1.20.1_1.0"
+filename = "simplyswords_all_the_smites-1.20.1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HMA5ao8U/versions/5qJ4xxzu/simplyswords_all_the_smites-1.20.1_1.0.zip"
+hash-format = "sha512"
+hash = "03e513e97c6bf5670532c996e1288ba2d60dc3e0f61e5ccfedfffc0e8cce71fbda89a58af3830b5c0c8d7fc36b09598f48f4bc7aa6a85b849be8c65708a4453b"

@@ -1,0 +1,8 @@
+name = "loadmyresources_fabric_1.0.4-1_MC_1.20"
+filename = "loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TqCKvqjC/versions/vO7R2WNi/loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
+hash-format = "sha512"
+hash = "41f4157cfc13708dec15a09b09fe4d58809f54fd714b8cde3c1200d26135b2abe3057985a28e70fd925c2d3132782953c60c342cc6844163fe1fea506d7631b5"

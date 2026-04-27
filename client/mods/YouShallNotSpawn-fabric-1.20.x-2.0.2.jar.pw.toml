@@ -1,0 +1,8 @@
+name = "YouShallNotSpawn-fabric-1.20.x-2.0.2"
+filename = "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/2CpnF7bC/YouShallNotSpawn-fabric-1.20.x-2.0.2.jar"
+hash-format = "sha512"
+hash = "a409e0040396da04a8ca2831dfe78dda05519ea8fc4d3ac7e076d04a2996e46d225ee1501cd7e5d10faf978a9a9eb2a92e12835f324825e30b2032735b8e8e48"

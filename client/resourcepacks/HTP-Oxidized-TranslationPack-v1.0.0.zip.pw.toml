@@ -1,0 +1,8 @@
+name = "HTP-Oxidized-TranslationPack-v1.0.0"
+filename = "HTP-Oxidized-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T47axCaB/versions/eWaQRr2L/HTP-Oxidized-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "f2284efa6eae63d06a16c8f19edf9a3754b0108900f01016b97f1a8fc0539edf4bb50cc33f6d16a0aa28cd6f60e8dbd2e030e763f3f52333aa88455476f128a5"

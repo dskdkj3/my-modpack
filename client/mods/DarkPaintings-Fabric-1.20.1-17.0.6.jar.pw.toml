@@ -1,0 +1,8 @@
+name = "DarkPaintings-Fabric-1.20.1-17.0.6"
+filename = "DarkPaintings-Fabric-1.20.1-17.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/LzKVkhMv/DarkPaintings-Fabric-1.20.1-17.0.6.jar"
+hash-format = "sha512"
+hash = "0b24aa0e9579306907863955028b0746e582f7ad322c0e7815a499efa001cdd6bd2d6344452022369092b7e4914f70d0f7a38896c9f62b56d509549679d0ac6a"

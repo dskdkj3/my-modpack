@@ -1,0 +1,8 @@
+name = "HTP-Megacells-TranslationPack-v1.0.0"
+filename = "HTP-Megacells-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vIMJ9yGd/versions/FHLZWF7j/HTP-Megacells-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "e0041936402850ab2090399072ba7c16290b8af4e0d7edd7617fa91ac7ebf349f677bd39c2b32530623232acd20069e48b257060025344dbbd798798f68126b9"

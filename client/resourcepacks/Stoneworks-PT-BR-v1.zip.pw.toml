@@ -1,0 +1,8 @@
+name = "Stoneworks-PT-BR-v1"
+filename = "Stoneworks-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eHcTj0K3/versions/oW2NOyyr/Stoneworks-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "2ee395aa6407f1d344a8903a76f06b815b6d313293bbc27e3f938f0d0f685175599bdea24e9b71c38504f9c3c1e6baf39a0a98afe1a1095c7dae102de9a91b68"

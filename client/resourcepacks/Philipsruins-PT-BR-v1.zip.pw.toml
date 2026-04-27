@@ -1,0 +1,8 @@
+name = "Philipsruins-PT-BR-v1"
+filename = "Philipsruins-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ErKC4bKz/versions/vpXWykd3/Philipsruins-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "7652d49a39e6811abbd89b7d278b427b84e01996e1e893235ec7e0c26affb285d40fe1f57fe3612a9785a5483d7729a515b6e33b571ca51537751a05f3526347"

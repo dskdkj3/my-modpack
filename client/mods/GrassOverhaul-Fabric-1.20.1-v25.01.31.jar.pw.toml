@@ -1,0 +1,8 @@
+name = "GrassOverhaul-Fabric-1.20.1-v25.01.31"
+filename = "GrassOverhaul-Fabric-1.20.1-v25.01.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/t2NIt8Pe/GrassOverhaul-Fabric-1.20.1-v25.01.31.jar"
+hash-format = "sha512"
+hash = "636bd91f7ae582f3c6bf607e591c63f7663a287d22dc8d47c3ce89a8f40cb09d00d500acff32fae2aeb3945e876c5130269939511007a118673c79b0dc472d66"

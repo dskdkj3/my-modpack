@@ -1,0 +1,8 @@
+name = "Mythicmounts-PT-BR-v1"
+filename = "Mythicmounts-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Khcd7PUK/versions/9Qq6ldmX/Mythicmounts-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "748c6fb9fbfdd43c1a7d288b96ef62efd4bdf93b0160c2c41b3050e2be846710bb24bb3ae1331c673703b46fad1d8237fadf4352d9392f4a65d72b1ce3f5bcfb"

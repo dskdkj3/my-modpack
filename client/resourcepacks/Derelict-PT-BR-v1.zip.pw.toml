@@ -1,0 +1,8 @@
+name = "Derelict-PT-BR-v1"
+filename = "Derelict-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvRN9Ccb/versions/g5SuKKsk/Derelict-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "c96840642c844783806b2087fb77305e473ad64957d9a08ce6c6923702410a2200b5a9043cbf13870c7d6373bcdac0f24bbc32c184dd0ce75f9d71b2a0ad30bb"

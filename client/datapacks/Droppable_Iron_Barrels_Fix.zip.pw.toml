@@ -1,0 +1,8 @@
+name = "Droppable_Iron_Barrels_Fix"
+filename = "Droppable_Iron_Barrels_Fix.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XWegyg4H/versions/yXEqayFU/Droppable_Iron_Barrels_Fix.zip"
+hash-format = "sha512"
+hash = "dc3cd10d2df0978b16b1af172fcab9c358ab00bec2bbe4c02cd528c331fe9c64cd68219ddc36ce156640147b6336f1951d40f9313685e8125052fac6e64a10e4"

@@ -1,0 +1,8 @@
+name = "Mcdw-PT-BR-v1"
+filename = "Mcdw-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mf4LTdOp/versions/G6lBkVKD/Mcdw-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "ae1034b9d71e175ec9a9da9dda89745540fa079f0fece5cd83888992b29f5e802785905f4f6176c53ddb62d46c77feded85e15d4f34b490def112034c7e47525"

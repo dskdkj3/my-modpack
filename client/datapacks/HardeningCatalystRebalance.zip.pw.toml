@@ -1,0 +1,8 @@
+name = "HardeningCatalystRebalance"
+filename = "HardeningCatalystRebalance.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RRiqFGuV/versions/mswr3Ws1/HardeningCatalystRebalance.zip"
+hash-format = "sha512"
+hash = "72df5a99c50c674837bb857ec96df0a529ed2059742d2112d03bdf8d03a69c0666e6d49c0dfbc82bb9c043bfeee2463e2d41b25da0f264a36809ba321bb7ccb1"

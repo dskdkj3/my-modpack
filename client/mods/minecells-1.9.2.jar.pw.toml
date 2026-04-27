@@ -1,0 +1,8 @@
+name = "minecells-1.9.2"
+filename = "minecells-1.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Qdvz1OV/versions/f2UHw9ST/minecells-1.9.2.jar"
+hash-format = "sha512"
+hash = "6a1fed281b6d922db2bc8540a6fc02f1c5ecd0da5875cefa8cd269770cb2832f91028cbdecf86eef2c5f3ffb5dc44dd61ba21e416f098bee4364d1c640227ec7"

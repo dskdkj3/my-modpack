@@ -1,0 +1,8 @@
+name = "ExtendedAE-1.20-1.0.2-fabric"
+filename = "ExtendedAE-1.20-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JiOqfoFM/versions/Wmmw6SrO/ExtendedAE-1.20-1.0.2-fabric.jar"
+hash-format = "sha512"
+hash = "89c415a25d4b59e9df3241cdf03f4283ec86cebf39c8cc425e462e45342ebb0bb69737015621a801a3925d2b2e3338ea4f6a56c3dc47a08fa1ba78f8fba4123c"

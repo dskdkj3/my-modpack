@@ -1,0 +1,8 @@
+name = "HTP-Aether_redux-TranslationPack-v1.0.0"
+filename = "HTP-Aether_redux-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vSkjVF7G/versions/3ql6Rvmh/HTP-Aether_redux-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "08aea5e95f3dfea3cbd60dcd1a9b0d7de81dfd4d0decf4587b3fa50461d28936bdf06f4b24eeafd607968f98bfa01d2e6054cedb95d7e7efb54c2a3afbda7b8e"

@@ -1,0 +1,8 @@
+name = "Mythicupgrades-PT-BR-v1"
+filename = "Mythicupgrades-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCR38Jcy/versions/4CrpD2uM/Mythicupgrades-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "056282b5a285a90361939235822015e98e347145c64c8b9e617657a1c41d5a6794d604a1bfea35e50c9585a9bca57d4b1308e716b69d8ca206b589f71a68e700"

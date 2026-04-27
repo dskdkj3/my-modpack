@@ -1,0 +1,8 @@
+name = "Betterend-PT-BR-v1"
+filename = "Betterend-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oPuxRWfR/versions/ublhpLzz/Betterend-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "4474a5bd74198bf12c02b3746bef9f4ee099e7b85e8681b482f14b566ed53b925182fd636f986b5d6550c8dc1359a87e3eebff205b80239613b382ceb967f361"

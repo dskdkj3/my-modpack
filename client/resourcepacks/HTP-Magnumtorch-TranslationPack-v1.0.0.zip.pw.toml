@@ -1,0 +1,8 @@
+name = "HTP-Magnumtorch-TranslationPack-v1.0.0"
+filename = "HTP-Magnumtorch-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pGtnhHLW/versions/rXzXFCBI/HTP-Magnumtorch-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "78cabd3d4136f28d9d76daf9a22f821e0ec094d9f9b1cc932cf77a3783c85fc24972db58a550d99297cc9e988653c4faf9d8aff3d8641f6b24c46b120a40db89"

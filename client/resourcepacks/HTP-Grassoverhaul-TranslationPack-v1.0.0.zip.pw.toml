@@ -1,0 +1,8 @@
+name = "HTP-Grassoverhaul-TranslationPack-v1.0.0"
+filename = "HTP-Grassoverhaul-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IyuSNy0h/versions/HAP3rA6K/HTP-Grassoverhaul-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "d88bc1cabd6cf76c2a3ea0868857cd8911c11ef7c9b5ca5d1553131d0388a715b1face863ef56462fc514ad19ca09cecd5e8352a0698ef6f477285b6595559f2"

@@ -1,0 +1,8 @@
+name = "HTP-Zenith_attributes-TranslationPack-v1.0.0"
+filename = "HTP-Zenith_attributes-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kg7D7P2k/versions/hFesZshm/HTP-Zenith_attributes-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "f2678a4e5bf8238e83cf955610a4f0ee9d0e6e1f1a11ebaf236a7624b3448d19086f4926ff8738c34c9f91fdf482fdbb7a767ebd6096a29aea771be417469b1b"

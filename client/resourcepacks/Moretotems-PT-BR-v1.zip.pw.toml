@@ -1,0 +1,8 @@
+name = "Moretotems-PT-BR-v1"
+filename = "Moretotems-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CyrcGmoc/versions/jcQH8kSj/Moretotems-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "ff7cb4eb43eddefecb6d79970476441e36418ff7f677c66ca7252e2080584a4b0db41a1840406948ba6dd7200f9a637fd951d65ea44eac7e0a5a727c4cf55dff"

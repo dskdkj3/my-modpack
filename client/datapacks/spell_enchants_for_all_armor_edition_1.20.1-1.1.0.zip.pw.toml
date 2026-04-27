@@ -1,0 +1,8 @@
+name = "spell_enchants_for_all_armor_edition_1.20.1-1.1.0"
+filename = "spell_enchants_for_all_armor_edition_1.20.1-1.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w3xOFTxv/versions/HEh0yECQ/spell_enchants_for_all_armor_edition_1.20.1-1.1.0.zip"
+hash-format = "sha512"
+hash = "5d240e2fa4536c0d8b64c356ad0fc31f66a5303d7bb2db0fcb99b993745d6c97d554b916edbfba30a6aaf19cacc676d92c9f9eec0661b5001711b6ad12e47f0a"

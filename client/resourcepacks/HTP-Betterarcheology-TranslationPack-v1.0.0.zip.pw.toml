@@ -1,0 +1,8 @@
+name = "HTP-Betterarcheology-TranslationPack-v1.0.0"
+filename = "HTP-Betterarcheology-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gUPVFYEV/versions/fWT95jjf/HTP-Betterarcheology-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "c782276cc50df05eddb1ae692054124d2f65b1d40c3962e2d5ddab3d855c88fa6909840047a32731b52beae1caed360f94c76b0f0c35108d276362c6634612e7"

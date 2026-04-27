@@ -1,0 +1,8 @@
+name = "MythicUpgrades_x_Advanced_Netherite"
+filename = "MythicUpgrades_x_Advanced_Netherite.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dsw6Y8uq/versions/QoZQybxV/MythicUpgrades_x_Advanced_Netherite.zip"
+hash-format = "sha512"
+hash = "f0d6b5cccaaa38973f6f8229553475dd2c33161773cd539f109daafe2931b604944165a30ef9269f7d72f9c33337fe374133f1dbb00659e9a68263daaf561083"

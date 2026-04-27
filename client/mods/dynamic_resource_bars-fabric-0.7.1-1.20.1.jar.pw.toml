@@ -1,0 +1,8 @@
+name = "dynamic_resource_bars-fabric-0.7.1-1.20.1"
+filename = "dynamic_resource_bars-fabric-0.7.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PntTdyYi/versions/sjwwkjex/dynamic_resource_bars-fabric-0.7.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "73ad426470638998d557306b093d91b61151557aa1dd41df4f55373f1a5d3a4f9f7ffdbdb61e7e7037c06291cb4b7bfe36ec8efd3a55e5aa7bc7ea8f4e0017a5"

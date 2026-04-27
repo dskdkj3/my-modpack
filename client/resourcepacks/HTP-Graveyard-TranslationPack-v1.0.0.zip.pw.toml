@@ -1,0 +1,8 @@
+name = "HTP-Graveyard-TranslationPack-v1.0.0"
+filename = "HTP-Graveyard-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y85bOzUI/versions/bSp1AXRN/HTP-Graveyard-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "5484e1fb438b1ce82d3e3ffd67b57755bec248fb88a2357a811d9c41fe796bb4f24a79cd1e4eb828bd9a3f9029a0d4c7805595bedf6c4ca34851818b4d076f65"

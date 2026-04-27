@@ -1,0 +1,8 @@
+name = "§cMine_Cells§6_3D_Weapons§8_1.0.1"
+filename = "§cMine_Cells§6_3D_Weapons§8_1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dp3twuO6/versions/8c7ZovEr/%C2%A7cMine_Cells%C2%A76_3D_Weapons%C2%A78_1.0.1.zip"
+hash-format = "sha512"
+hash = "450607e2744ff1f656346ab157be5b9bbee00e0b3933b248417e8b1f568700edda2b7f81db8340e89991625dbbd280057684744de3eb1143f7f31a02c2af34db"

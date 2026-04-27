@@ -1,0 +1,8 @@
+name = "HTP-Things-TranslationPack-v1.0.0"
+filename = "HTP-Things-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kwfjfn3m/versions/e9wLGA1A/HTP-Things-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "1cbc7a05fb258ba5b851bf4b363e1f74bf6fbd9f53788680e6698aee0e8f1e9cfa9dceaf7134aa5249a4b1e43571ec08b41bb942d8eca54e45021f7d107c0949"

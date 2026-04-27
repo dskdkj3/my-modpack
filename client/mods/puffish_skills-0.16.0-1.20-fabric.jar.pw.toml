@@ -1,0 +1,8 @@
+name = "puffish_skills-0.16.0-1.20-fabric"
+filename = "puffish_skills-0.16.0-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/7orfZYLU/puffish_skills-0.16.0-1.20-fabric.jar"
+hash-format = "sha512"
+hash = "e3d208bedcff6b63072993fd79087f1fa0e9706a782f4666cb70a2dd946fc538bd4a8eb70d974f3de4da3463b852cc0e5c9f8119d7e603fa5c6fe58f3179b183"

@@ -1,0 +1,8 @@
+name = "ReBalance-FABRIC-1.2.0"
+filename = "ReBalance-FABRIC-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZQipe0a/versions/3tK7PkkM/ReBalance-FABRIC-1.2.0.jar"
+hash-format = "sha512"
+hash = "204cb33ee05a02330de56d4c83123d21a791dcd9810aac9097129cb2d6484c90b5fe0154dd1e78a0b46848929025dc15c4ab8ffbeb156de3bdae8ae49ecbdf2a"

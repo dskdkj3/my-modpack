@@ -1,0 +1,8 @@
+name = "HTP-Winterly-TranslationPack-v1.0.0"
+filename = "HTP-Winterly-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gw2ZB6gB/versions/bTPLKAkK/HTP-Winterly-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "22e4e67186d0deedc118e223ad6ef52dbc41e9e15cb330e5323bb522d4f9d8c6a9cb0c1a26b3f52a7ec4ffa58b3d753c40d32a51bc2b42b2ea4f2b304ae33636"

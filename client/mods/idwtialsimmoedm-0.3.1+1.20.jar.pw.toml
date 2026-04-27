@@ -1,0 +1,8 @@
+name = "idwtialsimmoedm-0.3.1+1.20"
+filename = "idwtialsimmoedm-0.3.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ad89WlWh/versions/mt6ldABY/idwtialsimmoedm-0.3.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "64f6ab5b4baffd170e3c26d39c75ea0fd03a5769ce4ccaf5c118ab9b8ab94271997added219d0f9ed12bb55134b1bd930fccaff6b20782c4b6fc975423823124"

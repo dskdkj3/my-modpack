@@ -1,0 +1,8 @@
+name = "zenith-1.2.5-1.20.1"
+filename = "zenith-1.2.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLZe11Uj/versions/XlYPrAwx/zenith-1.2.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "b11c662a6d7070a2e0577889aabc16ccc135e85aecd216104e620f7c7f59bc5e3dab4120d71811c1c7668075ab7ad5348aabc4246bd656d1f1a615240b90cc1f"

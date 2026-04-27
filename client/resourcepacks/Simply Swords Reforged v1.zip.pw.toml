@@ -1,0 +1,8 @@
+name = "Simply Swords Reforged v1"
+filename = "Simply Swords Reforged v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/abPebRRB/versions/Ykvp4dCv/Simply%20Swords%20Reforged%20v1.zip"
+hash-format = "sha512"
+hash = "0e0560149cb0b02cb1f0ebd19ef9595b54cf2d3fabe2b017ac18d42583cf9b7d6cfe6d02d590219cb78fd39c5ec964bacc40a7891d9135e6dbed207effa60e8b"

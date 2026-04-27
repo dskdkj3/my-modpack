@@ -1,0 +1,8 @@
+name = "mavm-1.2.6-mc1.20.1"
+filename = "mavm-1.2.6-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zitu8weW/versions/Io4Kzgcn/mavm-1.2.6-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "c5ec1f240aeebf64f696fbe80637dc7ba217350eabab5010347053be00fb2819e8ddbd045678babeb540a42565d63a893262104859f93cf38e288ca0743ecb2d"

@@ -1,0 +1,8 @@
+name = "Ashen_Mod_Compatibility"
+filename = "Ashen_Mod_Compatibility.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7XvzQkN/versions/i1wOdqoH/Ashen_Mod_Compatibility.zip"
+hash-format = "sha512"
+hash = "fcc3b385347b5c6795417269b6220c3d9bd63a84217d8c7dcd170d85065883f19884a84259271f30c5478739968f57fe9d14f595684fe8c208d3f1ced589a091"

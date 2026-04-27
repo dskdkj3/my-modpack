@@ -1,0 +1,8 @@
+name = "Prominence-Custom-Lootr"
+filename = "Prominence-Custom-Lootr.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J0bGM0Lw/versions/N8OygPDq/Prominence-Custom-Lootr.zip"
+hash-format = "sha512"
+hash = "0f11f3f814f4ceef388b4d9b1f967354553bc5fed020f47d960491cd33899c273dd75a423ba0f7f03afc1a1463b4fe2466cf70cca87a1aabf7f7683f5534101b"

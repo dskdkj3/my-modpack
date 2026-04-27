@@ -1,0 +1,8 @@
+name = "Wizards-PT-BR-v1"
+filename = "Wizards-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tQpw9bjN/versions/aigEIcuL/Wizards-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "b86c85bbe8a442f502059364e4bf2ad7a758e2777d194d706986c1a3fbfbcbb1646904617497d4d7e6eca3dd6ff5c7da52b7765711234ea6a9c34209130bfaf7"

@@ -1,0 +1,8 @@
+name = "RunicGrimoireDisabler"
+filename = "RunicGrimoireDisabler.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wfi30LiS/versions/fRnj0V2l/RunicGrimoireDisabler.zip"
+hash-format = "sha512"
+hash = "f2e8d351515beab923935a4046044c3b370a1ff2770e06bc6d63819edeb22f934bd32c98b1dab34315c3502e5993ed9394b0c0328f63319276bf0ec9b435601b"

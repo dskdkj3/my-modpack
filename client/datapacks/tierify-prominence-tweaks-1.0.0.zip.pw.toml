@@ -1,0 +1,8 @@
+name = "tierify-prominence-tweaks-1.0.0"
+filename = "tierify-prominence-tweaks-1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wHWRlaT7/versions/Xb5srpqe/tierify-prominence-tweaks-1.0.0.zip"
+hash-format = "sha512"
+hash = "e6b08b75160c58442eee95e24cd3556b0ff74b884e1a503b1c0440ec0b4eec3608667866c435dcbbb02229166d404a5d0947c505a0d8a724c453331a21e2bfe7"

@@ -1,0 +1,8 @@
+name = "Runelic-Fabric-1.20.1-18.0.4"
+filename = "Runelic-Fabric-1.20.1-18.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P4Xi5huA/versions/sSftHJss/Runelic-Fabric-1.20.1-18.0.4.jar"
+hash-format = "sha512"
+hash = "f5fe31ccd1f59717e24e0cd72896c934d0e09a3a7f7d2423ffe9a2c38dccb1efcffbcbe632d9b14c565e211e0d6982c84de21baf37322ca6648520f9c483e820"

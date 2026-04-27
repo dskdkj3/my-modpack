@@ -1,0 +1,8 @@
+name = "HTP-Windchimes-TranslationPack-v1.0.0"
+filename = "HTP-Windchimes-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zd8k78Da/versions/CZfepbCk/HTP-Windchimes-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "0590e15e3d5fb64e1f161c4a0c7d03894b55ce30bc626019db037fb562e4c0e5c763d7eef59e401f69bbd532d607afe0f8d121dfbe463eba34a97afc776cab5d"

@@ -1,0 +1,8 @@
+name = "Deeperdarker-PT-BR-v1"
+filename = "Deeperdarker-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cbazxx8l/versions/tWe2jp92/Deeperdarker-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "33c7646bbba6cc17483edf59e3ae99eba292fe143559c442fe84e4bb9fa1c8f743d2bd36a5b2e1db6d14fe44c0cb314185c314e5b5cbcd3761152ea1909a7fdd"

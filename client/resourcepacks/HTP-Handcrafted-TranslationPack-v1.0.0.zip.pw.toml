@@ -1,0 +1,8 @@
+name = "HTP-Handcrafted-TranslationPack-v1.0.0"
+filename = "HTP-Handcrafted-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q99xAqhl/versions/JmfsAl6j/HTP-Handcrafted-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "c54df2f088d9fba5af98d30a7280dad00e7a97edef78a0328b1e2ffd6cee3b37dcddd8a392badea8a1fe6163791e5ee168ca5fb1c63df4a1c274322bcd115fba"

@@ -1,0 +1,8 @@
+name = "mcdw_all_the_smites-1.20.1_1.0"
+filename = "mcdw_all_the_smites-1.20.1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aWXygxuL/versions/fgY1A6jP/mcdw_all_the_smites-1.20.1_1.0.zip"
+hash-format = "sha512"
+hash = "5600d58e51c291f3dd0ec7ea2a3d6a90bc5243e7a9b0d4c55365b88ba54ecc0968b8138c7a80dd3a4366a4ecd24a60b4344c35999506bb21daf3feeccf1e96ec"

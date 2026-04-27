@@ -1,0 +1,8 @@
+name = "PigPen-Fabric-1.20.1-15.0.3"
+filename = "PigPen-Fabric-1.20.1-15.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2xZPITh8/versions/7m3Md5J2/PigPen-Fabric-1.20.1-15.0.3.jar"
+hash-format = "sha512"
+hash = "9620454afa61ed36d93bf13b8f5e6c7e4eb13de56a1bb447df12c6a698f60bfa64f8dd40a2ecc7b37a346f5e5fbe39c224eb732af0d9b50c6017044b17bce098"

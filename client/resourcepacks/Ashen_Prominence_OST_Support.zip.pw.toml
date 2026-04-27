@@ -1,0 +1,8 @@
+name = "Ashen_Prominence_OST_Support"
+filename = "Ashen_Prominence_OST_Support.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VsX5R47V/versions/BObU8dN0/Ashen_Prominence_OST_Support.zip"
+hash-format = "sha512"
+hash = "6e89dab4196ca7d1c9e4e1dceea425e7bed742ac6db136a288a6e351fbee66b786e24c84c7d045e4ce53e10c9a976ff79c9d39178a63446a37ac7ddfd4f42ec8"

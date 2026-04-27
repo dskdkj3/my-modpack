@@ -1,0 +1,8 @@
+name = "HTP-Invoke-TranslationPack-vunknown"
+filename = "HTP-Invoke-TranslationPack-vunknown.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KTpX4dHT/versions/DfUnvBHC/HTP-Invoke-TranslationPack-vunknown.zip"
+hash-format = "sha512"
+hash = "44bf6545aee66a412f5dac2184ff377abd690b16a690100a97862dd92558af4f077628305d9bc8ceb77e8d15bba0431b25ef689d5d78eef08ac5bdabbd43dcde"

@@ -1,0 +1,8 @@
+name = "HTP-More_rpg_classes-TranslationPack-v1.0.0"
+filename = "HTP-More_rpg_classes-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vf1JmUQw/versions/ZFZE5u6M/HTP-More_rpg_classes-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "832407b6cd407dc7a0e7b8e5a3840d74df89738deb558be244bbda77cbf34fd2b32bb2efb75397c7cf6264b16799d736f74984240520b90a3f6279843146fe39"

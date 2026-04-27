@@ -1,0 +1,8 @@
+name = "HTP-Spellblade and such-TranslationPack-v1.0.0"
+filename = "HTP-Spellblade and such-TranslationPack-v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vQc67TBa/versions/2tSzvyHS/HTP-Spellblade%20and%20such-TranslationPack-v1.0.0.zip"
+hash-format = "sha512"
+hash = "8e75c927b085369009f2c906e3e913b3b3804909031b314807903f3ad7bbdf59268d09d34eaaba54c220e051a830779d3e8a092e172d264e39f1da5e17603591"

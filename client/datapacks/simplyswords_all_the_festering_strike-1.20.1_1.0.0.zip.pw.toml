@@ -1,0 +1,8 @@
+name = "simplyswords_all_the_festering_strike-1.20.1_1.0.0"
+filename = "simplyswords_all_the_festering_strike-1.20.1_1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7geFttOM/versions/qCHJ5yBf/simplyswords_all_the_festering_strike-1.20.1_1.0.0.zip"
+hash-format = "sha512"
+hash = "5ab8475ab1174cda4a728b8d301e77b23213d9f4bdc19d8ed5416355ff56f9f9f637fd328b0a2547c9b3df7b61f6ed5d8383d4034da9ef765844fd6fa76f4b73"

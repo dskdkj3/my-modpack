@@ -1,0 +1,8 @@
+name = "riverredux-0.3.1"
+filename = "riverredux-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dhhdnacC/versions/QDhJW5Y8/riverredux-0.3.1.jar"
+hash-format = "sha512"
+hash = "2b2d1ff38ed4fd72a8a063b506896221d0af318ba690567d50de1e4b33b8ad2e6f14ad902746193b6881d07dd5f3f14148e20828ffda6e57d276d147c2c25ba2"

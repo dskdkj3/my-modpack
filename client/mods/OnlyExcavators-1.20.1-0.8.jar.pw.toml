@@ -1,0 +1,8 @@
+name = "OnlyExcavators-1.20.1-0.8"
+filename = "OnlyExcavators-1.20.1-0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xkayuCFC/versions/MdKHS9zG/OnlyExcavators-1.20.1-0.8.jar"
+hash-format = "sha512"
+hash = "de88357b0b1104236030d9e9a6321917bd10366cdb274e85a43841136d559cc49a291faeb01ad3fd351ee0de7b701bd88e13c9b911cbccf353928905c7f116af"

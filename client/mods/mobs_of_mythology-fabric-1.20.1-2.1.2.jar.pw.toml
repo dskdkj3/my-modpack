@@ -1,0 +1,8 @@
+name = "mobs_of_mythology-fabric-1.20.1-2.1.2"
+filename = "mobs_of_mythology-fabric-1.20.1-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/KGcX3jv3/mobs_of_mythology-fabric-1.20.1-2.1.2.jar"
+hash-format = "sha512"
+hash = "944784038a24c7bc796c3f8b7c4c0fcac3c95efabcecbc2e3616615bbd949585354022216edc96084091c2305cf213417fcf342a17d77481bd5990a86926150e"

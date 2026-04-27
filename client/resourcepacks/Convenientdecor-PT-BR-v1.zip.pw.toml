@@ -1,0 +1,8 @@
+name = "Convenientdecor-PT-BR-v1"
+filename = "Convenientdecor-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZhhKu5nT/versions/MILSn0Py/Convenientdecor-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "c41a10a6f9fe59ffe8f471b7cb1dbc3e5627f712065825668012c85faf3a81284a6ecf982d1b8649624d19ea9cd39f0511b4eb6147a288a4b92e03563fef60c8"

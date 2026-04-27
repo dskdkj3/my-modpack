@@ -1,0 +1,8 @@
+name = "MCDA_x_RPG_Series"
+filename = "MCDA_x_RPG_Series.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iI48bQii/versions/80RIv7qm/MCDA_x_RPG_Series.zip"
+hash-format = "sha512"
+hash = "e22d3683b54e0144fa84b2cf13884af69cd0e5501dac21b9765535cab11fcd55f8d4b791987ee6528d548f51428940941f593f1b417d75a016d4e217de4e17be"

@@ -1,0 +1,8 @@
+name = "derelict-1.1.1"
+filename = "derelict-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOY0uIwP/versions/EGejxoq2/derelict-1.1.1.jar"
+hash-format = "sha512"
+hash = "ee29299dbad8970dcc8830903c23213e1800be1300b6df8be15cf8608f0a791d9280c657e8078edcba314a7f5bba8b249227c6ad70bf7fafd9f6880c742d0ef9"

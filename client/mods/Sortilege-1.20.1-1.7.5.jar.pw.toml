@@ -1,0 +1,8 @@
+name = "Sortilege-1.20.1-1.7.5"
+filename = "Sortilege-1.20.1-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GyVUSbid/versions/gHlkI9Fg/Sortilege-1.20.1-1.7.5.jar"
+hash-format = "sha512"
+hash = "f9733059ad10cfc09eb6451fe7ec995af89094d42bf1a8619ca15251ede19370d6eab5107c4405e88adcf157198142ce3df7649af090e78ff77381a8d90a2f1b"

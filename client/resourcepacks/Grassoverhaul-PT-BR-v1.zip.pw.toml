@@ -1,0 +1,8 @@
+name = "Grassoverhaul-PT-BR-v1"
+filename = "Grassoverhaul-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MlMKRXkF/versions/ObfzP7dF/Grassoverhaul-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "f94000ad1bcedc5ebbdf6b81a3f6b05b1ad1fd3417f28467472dd21a0d07bc57837dcd3c7666bf66306318cac23224b649c6cf22b3f5183c32d87bb7f59b518f"

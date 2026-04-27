@@ -1,0 +1,8 @@
+name = "artifacts_loot_table_tweaks_1.20.1_1.0.1"
+filename = "artifacts_loot_table_tweaks_1.20.1_1.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cAsbyZ0Z/versions/pcXD1fZr/artifacts_loot_table_tweaks_1.20.1_1.0.1.zip"
+hash-format = "sha512"
+hash = "ea1261e2fdfe6e7b5f7ecf85c19e3ed8bfa65b534237728ced2d85b22cce4064beeb55d1b86d6ec3a1deeb6c1109e7d00b4ae986f38f6915645c56ebade80c99"

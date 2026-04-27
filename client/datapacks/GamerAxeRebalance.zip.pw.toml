@@ -1,0 +1,8 @@
+name = "GamerAxeRebalance"
+filename = "GamerAxeRebalance.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zBS0rEJM/versions/x3hwRJ4i/GamerAxeRebalance.zip"
+hash-format = "sha512"
+hash = "f4e59853f45d3c35a01ad3210dd448004ecae33deee337a57a297d57101a7cd52fa9d1980335e11fad5d511dc3aeace4981a642075884bafb58716799fa915eb"

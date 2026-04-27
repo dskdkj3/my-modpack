@@ -1,0 +1,8 @@
+name = "Spellbladenext-PT-BR-v1"
+filename = "Spellbladenext-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sMJRdGt5/versions/8smWOoDz/Spellbladenext-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "ec480c425460a6f9026c56f82f577b0f971bebb750798d98745fef18f2cde2394c051f7cd8bbb2fb32089098fb657ba2edbdae5ce67d66814bfcee1a59266471"

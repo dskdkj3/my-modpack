@@ -1,0 +1,8 @@
+name = "Create_new_age-PT-BR-v1"
+filename = "Create_new_age-PT-BR-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J1hTO48G/versions/jVEXRWt7/Create_new_age-PT-BR-v1.zip"
+hash-format = "sha512"
+hash = "48731ab60a392b9b6292028984bef01eefc09b14467c152e4f9bf5b15712a24eef9fb0fbeb92ee585c7a09f0c6ab999bf6c28d48e0a8c958050b6198ce55be70"

@@ -1,0 +1,8 @@
+name = "Prominent-UI-1.20.1"
+filename = "Prominent-UI-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A57yBY4O/versions/1dL1EavJ/Prominent-UI-1.20.1.zip"
+hash-format = "sha512"
+hash = "da35a030a4843264c0ad7dacb1233b7aa8659a2e112338c63eec13a8c3181f6b48a3b14ee2b8d0812115df4d2b4bc3b7401f45d85ec6dff18532cd1fe2e7891e"

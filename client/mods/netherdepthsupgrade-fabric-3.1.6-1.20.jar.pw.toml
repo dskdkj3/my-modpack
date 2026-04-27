@@ -1,0 +1,8 @@
+name = "netherdepthsupgrade-fabric-3.1.6-1.20"
+filename = "netherdepthsupgrade-fabric-3.1.6-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vI1QKJro/versions/CdgX1NKy/netherdepthsupgrade-fabric-3.1.6-1.20.jar"
+hash-format = "sha512"
+hash = "ef650eaaedcc41d362d84fccedfcc43a6ba723d4ec8dcb74ce64b57a13518238e17adb0ded15df47b8c68f5f4b1704b80541c0009dc36ab7eb2b829aa42774a1"

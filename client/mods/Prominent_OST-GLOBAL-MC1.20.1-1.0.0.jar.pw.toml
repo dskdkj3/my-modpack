@@ -1,0 +1,8 @@
+name = "Prominent_OST-GLOBAL-MC1.20.1-1.0.0"
+filename = "Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J9S0jXBm/versions/dxBTwEBg/Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "23800a3023a6ad1ef9a6f32bc87a5b5aa34e3b0b35a9ff35a9e09aac833ba06b24f343176b802f311aaf227ea488b0a07b80b88254d0215d2497868b85822668"
