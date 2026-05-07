@@ -2174,7 +2174,7 @@ hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1b90f599df2dd1fb5a5d3099d67ae77eb048b741fa5232c50838baba06c239c9"
+hash = "bf90a7067ef3a4494ef6b3a68d7477d2355023374e126b862ca882ec476cde07"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -5059,7 +5059,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-3.0.2-b-1.20.1-fabric-forge.jar.pw.toml"
-hash = "c79415b27b9437257836f0cd4fba5c10f9413b400afc84eb0c228386287cefbe"
+hash = "7b26ce61ba0abe0e471784b0d3854544ef669348c979e3695023685ac5b4c68b"
 metafile = true
 
 [[files]]
