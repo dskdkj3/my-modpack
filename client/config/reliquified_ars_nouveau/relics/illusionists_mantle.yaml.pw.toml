@@ -1,0 +1,8 @@
+name = "illusionists_mantle.yaml"
+filename = "illusionists_mantle.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc9188b01235756e4c9ce36758b9f51fe95bb5baaab480c6fd21eee6b68b3034.yaml"
+hash-format = "sha256"
+hash = "f54411640a74d94b8ba57625361d7d2e2dab634f0b9a1bdd499ca9de527be090"

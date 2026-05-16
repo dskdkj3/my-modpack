@@ -1,0 +1,8 @@
+name = "iesnium_ingot.md"
+filename = "iesnium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92805cd51ebdce81b19e3a552b4deb0912600af8049816fa29e4001ea547ba46.md"
+hash-format = "sha256"
+hash = "fefccc6583cea29755cb4266751ae6e0c4336ce5087930e3d23e1be1b2ccb0cf"

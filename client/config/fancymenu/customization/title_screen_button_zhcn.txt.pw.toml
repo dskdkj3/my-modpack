@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/fancymenu/customization/title_screen_button_zhcn.txt"
+filename = "title_screen_button_zhcn.txt"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/fancymenu/customization/title_screen_button_zhcn.txt"
+hash-format = "sha256"
+hash = "ffd47efb86a3d259b9aca0df7eceb2b3a91833e98cb69ec7154d793dd04539bf"

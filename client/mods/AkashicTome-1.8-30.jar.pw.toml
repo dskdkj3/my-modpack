@@ -1,0 +1,8 @@
+name = "AkashicTome-1.8-30.jar"
+filename = "AkashicTome-1.8-30.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7773/841/AkashicTome-1.8-30.jar"
+hash-format = "sha256"
+hash = "c60f58fba975fe22681d69bd06dc93818e53a67830d9118167979852206f6ca8"

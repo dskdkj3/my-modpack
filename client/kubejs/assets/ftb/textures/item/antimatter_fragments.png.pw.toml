@@ -1,0 +1,8 @@
+name = "antimatter_fragments.png"
+filename = "antimatter_fragments.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d560b56963acfc13af339750ba25228f56be18d702ff2da796c259b0a2b8b1c.png"
+hash-format = "sha256"
+hash = "e9b739b868018a596456ad47fae917337398df732aa2cb17a9be5badf3f00b6d"

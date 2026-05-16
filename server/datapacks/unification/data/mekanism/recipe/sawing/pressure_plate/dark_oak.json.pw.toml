@@ -1,0 +1,8 @@
+name = "dark_oak.json"
+filename = "dark_oak.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fe0450995f7dfc85359d0ae4341cad5c39114a58359f92e3386361e2adeccee.json"
+hash-format = "sha256"
+hash = "062f26709a9d35fc76359a75da78710d162323506141e9d1662889a2de09470c"

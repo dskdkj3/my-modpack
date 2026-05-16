@@ -1,0 +1,8 @@
+name = "ibicf-neo-7.0.1+mc1.21.1.jar"
+filename = "ibicf-neo-7.0.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6863/979/ibicf-neo-7.0.1%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "cc01a74088e056bedf3e89010f2ea5488408b769c9c75c36e56f980cad856c96"

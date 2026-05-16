@@ -1,0 +1,8 @@
+name = "create.md"
+filename = "create.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/818143b2e4ad9add49fa9a22b538325880737c11aaf16027383d18092dbcc55e.md"
+hash-format = "sha256"
+hash = "ed03d8044c5d180c5286a8d0b66bfa6038d1ebb73f3a4f76c8912e53938c7b7e"

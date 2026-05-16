@@ -1,0 +1,8 @@
+name = "uraninite_singularity.json"
+filename = "uraninite_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef767381f82bfa424fc75072bad1a68af378013cbc8be1b0a45db99b1dd24f0d.json"
+hash-format = "sha256"
+hash = "8f396e7e014a465cfacbd17d15db31c104515e5927295c54d7c9c2904340bef2"

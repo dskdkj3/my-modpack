@@ -1,0 +1,8 @@
+name = "chisel_modern.js"
+filename = "chisel_modern.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3bc5fde2a405d04cf21a51dcc21c43fe5e0ae335f94e5d9a239c58639573c7ea.js"
+hash-format = "sha256"
+hash = "5566edfd344991c1b1cecd5ec61158209af7c11b974d304998c3a25fd0cb9781"

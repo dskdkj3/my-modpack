@@ -1,0 +1,8 @@
+name = "ftbessentials-server.snbt"
+filename = "ftbessentials-server.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/1729afad27eae86d5beb2ddbb5254eccf035359190d3a987707a1df53cb2d090.snbt"
+hash-format = "sha256"
+hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"

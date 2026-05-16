@@ -1,0 +1,8 @@
+name = "conjuration.json"
+filename = "conjuration.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7ea75b27f39352c28282b386de0062669b40878ec33ac03bd1785933cab74efe.json"
+hash-format = "sha256"
+hash = "0c681ceb5eeaf1eeec8d0ca942e0cc663684e607f2c9ad312cd3b660a59ae50b"

@@ -1,0 +1,8 @@
+name = "diamond_digging_tool.json"
+filename = "diamond_digging_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26b70324bb455a2c5178f736145eb0f7ad94c87e6add70f8c15a78fc0d3af321.json"
+hash-format = "sha256"
+hash = "146b2c318acb01da99ecd6fd837566ee683441ef3d8becd9257dc5285442181d"

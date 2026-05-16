@@ -1,0 +1,8 @@
+name = "draconium.json"
+filename = "draconium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd726798b4b27c4f9fb5feda23e01e21a667f0d81af48774aad74caaa66d0676.json"
+hash-format = "sha256"
+hash = "99b96e140d95e923234ef81b9411e4933230bb072bf08069ea38e151efd3673b"

@@ -1,0 +1,8 @@
+name = "blazegold.png"
+filename = "blazegold.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/9934ae0c845256b1026da08484f2f918d249f0a8ee5e5fac4eb61163668965c9.png"
+hash-format = "sha256"
+hash = "f604970c965f33ca6be12a1ff8b1e255162f1d77e1e5860d9969ae68417cc5b4"

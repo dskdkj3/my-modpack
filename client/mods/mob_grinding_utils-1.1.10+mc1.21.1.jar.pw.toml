@@ -1,0 +1,8 @@
+name = "mob_grinding_utils-1.1.10+mc1.21.1.jar"
+filename = "mob_grinding_utils-1.1.10+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6804/869/mob_grinding_utils-1.1.10%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "9781e7a5cffc53a9b2879160aef0d39a7e416d7f4b5805240ca03eaff5f4ed06"

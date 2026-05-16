@@ -1,0 +1,8 @@
+name = "healing_spring_new.nbt"
+filename = "healing_spring_new.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67ca656e96bebb5dda3ee11402d3898e8493ab19906479055af2a5f465f43646.nbt"
+hash-format = "sha256"
+hash = "f191684dec4743450fc182bb811d98701e98e0cf929fcbd37d45a7df5a2c2fa1"

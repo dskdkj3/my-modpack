@@ -1,0 +1,8 @@
+name = "mining_chest.json"
+filename = "mining_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8a6c7f9b7ef8a3084ed6b027fa08324fdeaf3826b607e0ecbe1d24595d7560c.json"
+hash-format = "sha256"
+hash = "2e9132e077b9745dcdfbadbcf78788a0db1b6e348f93d0aad31b7792ef5d3d22"

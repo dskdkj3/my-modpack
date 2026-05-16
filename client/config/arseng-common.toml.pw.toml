@@ -1,0 +1,8 @@
+name = "arseng-common.toml"
+filename = "arseng-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/51776eca0f9b704bac4019f7a60bb7a0c4758fb7b503ac43b7ebf589d0cb323c.toml"
+hash-format = "sha256"
+hash = "d2e199338ca8cdd6a345990ba6a3415bb6296dbc7c0aeeab26184f1c017d4a4d"

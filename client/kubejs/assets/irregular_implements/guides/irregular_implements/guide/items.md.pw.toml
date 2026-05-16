@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/irregular_implements/guides/irregular_implements/guide/items.md"
+filename = "items.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/irregular_implements/guides/irregular_implements/guide/items.md"
+hash-format = "sha256"
+hash = "22e1e5a0e6f9a9afa761a46b3ddd4754a244b0b35d6819652a6a7fd31899eafc"

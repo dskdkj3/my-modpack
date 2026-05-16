@@ -1,0 +1,8 @@
+name = "soulcage.png"
+filename = "soulcage.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/2477747c4446cd2602c2f3242310614bff80e4b44a5047bad4eb73fd2568ad3e.png"
+hash-format = "sha256"
+hash = "2a1dbdd58b4b42e00c22578f82d88a69a8c4a29edf7ee8922544dc750e4be003"

@@ -1,0 +1,8 @@
+name = "ars_nouveau-startup.toml"
+filename = "ars_nouveau-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20318012e56e7faa8ed8ee23581bf3b6a3ec91a551ef4ee3c2b93ab42b16ba41.toml"
+hash-format = "sha256"
+hash = "2aa496dd80c233f52444d6431222c3454e75a7ddc0f8233d2f2201d131540f5c"

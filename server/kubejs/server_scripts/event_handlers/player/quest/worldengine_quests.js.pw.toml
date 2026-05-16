@@ -1,0 +1,8 @@
+name = "worldengine_quests.js"
+filename = "worldengine_quests.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93ccbc18f1430548ad5b7a20bfa4b20c933299e32d90ad16aa069fe1a8c43ef1.js"
+hash-format = "sha256"
+hash = "25ad49d4839f32a8ab5d312472d339b3ff54d9f6e20d5cf7551600984a502832"

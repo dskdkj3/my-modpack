@@ -1,0 +1,8 @@
+name = "simplemagnets-common.toml"
+filename = "simplemagnets-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/339fd29fa38759b7425d291d0a3c02a4a954de34c63571bbc3ebecc6471a5d6a.toml"
+hash-format = "sha256"
+hash = "3ab21f243a4c23ec3b5a5caa60e9c817d05ee0b32099469f3b1843509c9c40a8"

@@ -1,0 +1,8 @@
+name = "simple_cryomage.json"
+filename = "simple_cryomage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa3a5515529f205cd0fe858d84ddb016707fafd2b6f17ebbf7d7933b4380407a.json"
+hash-format = "sha256"
+hash = "c188d49725dad3723d8145b12958465e79163f74d1e16bb6a19427e20648321c"

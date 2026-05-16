@@ -1,0 +1,8 @@
+name = "justhammers.json"
+filename = "justhammers.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9ce3f8b340ab9ea4e23bd72ba7708bdb5f47007d43fa56d0d91e9b07470766f5.json"
+hash-format = "sha256"
+hash = "8beb976cccdb18afdf50b327cbfc109aef189a17be5b9989310353d4573edd57"

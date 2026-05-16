@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/creative_goo.md"
+filename = "creative_goo.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/justdynathings/guides/justdynathings/guide/_zh_cn/other/creative_goo.md"
+hash-format = "sha256"
+hash = "03055f80dad1cf96182f4ff1df9aca49a6403320f4a5217ab1b50946ef0192dd"

@@ -1,0 +1,8 @@
+name = "lapis_lazuli.md"
+filename = "lapis_lazuli.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b00a09806fd3ab63479b5f519a7cf75f2c4a91df485d0019fdeef5a2c04e8068.md"
+hash-format = "sha256"
+hash = "4fc42fc62a405806685e430d0cdae9e43b6aa3e8a58b382e71be78ca2422190f"

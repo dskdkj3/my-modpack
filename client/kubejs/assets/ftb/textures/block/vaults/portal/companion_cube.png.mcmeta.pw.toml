@@ -1,0 +1,8 @@
+name = "companion_cube.png.mcmeta"
+filename = "companion_cube.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa870202de2ba3cab41e6ee2cfe4e03b5804aa73cb1c50f23c2d476e72925ff8.mcmeta"
+hash-format = "sha256"
+hash = "5f103524eb89964b31e6c4b700dac1812a6de3b470596df3d81124b7d2b62878"

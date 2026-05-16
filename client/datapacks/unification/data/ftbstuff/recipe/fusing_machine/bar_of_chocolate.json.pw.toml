@@ -1,0 +1,8 @@
+name = "bar_of_chocolate.json"
+filename = "bar_of_chocolate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/50746b1a496b2b74cba2bc4e116e07b37d3da2d530679fd1431ecefcc03aae0d.json"
+hash-format = "sha256"
+hash = "9bfdc516b09578192268f83d67b8eef0567c2705b7a718a8a84b5b80042a2cd9"

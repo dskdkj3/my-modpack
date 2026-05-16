@@ -1,0 +1,8 @@
+name = "generic.json"
+filename = "generic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9e474048837b7a96df99929290df86b9c286e358cf7d3964f7ed87de3597105.json"
+hash-format = "sha256"
+hash = "af806a8ec338290e8ae94b7de1577cef322e7080d2a6475dd819e40027907c7c"

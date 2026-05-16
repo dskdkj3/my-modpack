@@ -1,0 +1,8 @@
+name = "trender.json"
+filename = "trender.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/feba637b30f324b4030c759a18b589e1c28ff960b952c467296b694d04a0cdf2.json"
+hash-format = "sha256"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"

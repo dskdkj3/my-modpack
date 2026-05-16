@@ -1,0 +1,8 @@
+name = "Psi-1.21.1-108.jar"
+filename = "Psi-1.21.1-108.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7664/607/Psi-1.21.1-108.jar"
+hash-format = "sha256"
+hash = "b09095cfad2fe886ca047b0e41ad9fab447fb8bd931df3397abb106293356449"

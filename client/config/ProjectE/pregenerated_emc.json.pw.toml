@@ -1,0 +1,8 @@
+name = "pregenerated_emc.json"
+filename = "pregenerated_emc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96f8339b8c680d00bc69fc621f6f7244afd5f2d3fb104eeb6ccf34d4f0866d92.json"
+hash-format = "sha256"
+hash = "cdf9c1ec4f817c805d0834f07aa0e3b1690b2a464fce907822ecf85567c731cb"

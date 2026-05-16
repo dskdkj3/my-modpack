@@ -1,0 +1,8 @@
+name = "total_psi.json"
+filename = "total_psi.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1d1ecb5c9b88572a886ac84b4fd6f51b8c39f3c5ad94f6dd33f4b51f9640767f.json"
+hash-format = "sha256"
+hash = "8ed60ec671d0277ac453b0492018528812127da2bdfa7ccfdf0991af37efaf65"

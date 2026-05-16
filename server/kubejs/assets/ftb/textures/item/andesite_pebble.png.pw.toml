@@ -1,0 +1,8 @@
+name = "andesite_pebble.png"
+filename = "andesite_pebble.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa3ef5310703d96eb86b905e096082bbf1c2539a70bc733509b14fa9081f6446.png"
+hash-format = "sha256"
+hash = "31e04ece9443143e7f902bdea06ef50d23a67f0755d36c9a593e984e993a85ba"

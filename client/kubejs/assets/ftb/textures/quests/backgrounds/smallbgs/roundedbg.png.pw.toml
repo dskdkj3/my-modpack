@@ -1,0 +1,8 @@
+name = "roundedbg.png"
+filename = "roundedbg.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7f39629997c3436337d580b458ad64096e6fbfbb047ddf6e481e4141cf4da49.png"
+hash-format = "sha256"
+hash = "f84b8b1fd43d82f7e66c48a7aba86afde982687466f864607df8875b0da7549e"

@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: mods/vmtranslationupdate-neoforge-5.1.0+mc1.21.1.jar"
+filename = "vmtranslationupdate-neoforge-5.1.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/mods/vmtranslationupdate-neoforge-5.1.0%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "466ee241edf1190756251a9f96dd80f072be2a95a594e3345c1151987a51f17b"

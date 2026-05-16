@@ -1,0 +1,8 @@
+name = "derenderpatcher-client.toml"
+filename = "derenderpatcher-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02a10b1b9c775522f9801fff2c2692bffe38686e99db4ebc401c686bf47b9422.toml"
+hash-format = "sha256"
+hash = "6b5b22c3266d142e404800a7d50612077a5d1e4183a316fc4ddfeb2b410f9de3"

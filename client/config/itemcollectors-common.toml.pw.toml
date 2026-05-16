@@ -1,0 +1,8 @@
+name = "itemcollectors-common.toml"
+filename = "itemcollectors-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/913a0f1666b9aab07525184122b24f899befd4de71931d7e0e68ec6a57a14987.toml"
+hash-format = "sha256"
+hash = "34971334911ba0a32437fb9f7dc90d728db207a85bf7ea94532fdd765b0a9410"

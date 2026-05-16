@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/logistics__storage.snbt"
+filename = "logistics__storage.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/logistics__storage.snbt"
+hash-format = "sha256"
+hash = "8dc216c9978ac894a144466d9cd025557385545b03425cff99e32ca8a7e6fa3f"

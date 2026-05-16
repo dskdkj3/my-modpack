@@ -1,0 +1,8 @@
+name = "super_experience_block.json"
+filename = "super_experience_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff30f0c94334911105c6b68cfa9601d350121e90634f80cdc6c30f323b7a8a4e.json"
+hash-format = "sha256"
+hash = "dead9d76273d04245963a480120e2d7cbc404d9346a0bc7abc383abe6c4769da"

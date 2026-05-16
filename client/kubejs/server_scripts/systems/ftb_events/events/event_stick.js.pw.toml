@@ -1,0 +1,8 @@
+name = "event_stick.js"
+filename = "event_stick.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc8f7fe5dfa36f55ed0d750efaefe1b296f58388fefa51f85304b3e9ea82d419.js"
+hash-format = "sha256"
+hash = "d523c39e0c3c3c7310d358f66451166e9d76cefd3b535d17ffdcec0177318294"

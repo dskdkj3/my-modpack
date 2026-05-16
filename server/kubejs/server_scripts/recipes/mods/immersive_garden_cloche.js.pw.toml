@@ -1,0 +1,8 @@
+name = "immersive_garden_cloche.js"
+filename = "immersive_garden_cloche.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e978563c032cf731e9e5cd5440d9337f450fe8340381e9ba2f0b4522f570e98f.js"
+hash-format = "sha256"
+hash = "7edc5191892a418315e9175dec2089a4ac17ecc80915fe39de9d29253574d1fc"

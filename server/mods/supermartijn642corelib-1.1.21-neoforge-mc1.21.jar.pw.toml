@@ -1,0 +1,8 @@
+name = "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+filename = "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7783/425/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "d22b6dfea6922cb534adb9f8c5d43e4a3c27c864e512951df801cb1435a4d4d8"

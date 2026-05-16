@@ -1,0 +1,8 @@
+name = "upgrade_golden_pickaxe_to_diamond_pickaxe.json"
+filename = "upgrade_golden_pickaxe_to_diamond_pickaxe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59d1f71777f63a4f25834764799fabadf2e61b2c5f3a0dbe9269ad538f3d3bc7.json"
+hash-format = "sha256"
+hash = "1ba743efe448ee3dcd8aa0f6af70f850553cc12f7caeedc997944f33bc7cd8b0"

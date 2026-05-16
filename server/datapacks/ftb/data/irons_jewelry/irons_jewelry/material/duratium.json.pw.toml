@@ -1,0 +1,8 @@
+name = "duratium.json"
+filename = "duratium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1bdd59af9a404f546dfbb2823cc7891ed32b4e0499dd8cb4019f7ce4f1ce9a3f.json"
+hash-format = "sha256"
+hash = "05b730750d3e3642aa2ada509f3cba22855b1e14b646819a074ca22db24b3d9e"

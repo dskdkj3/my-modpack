@@ -1,0 +1,8 @@
+name = "duratium_singularity.json"
+filename = "duratium_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/6339155f675dd9e755b609c8f433427213e7e82e359234dcadefb78fe728e111.json"
+hash-format = "sha256"
+hash = "7b327d617604655ace6f060070ea145e18e60665c0a7fd6fb22987dacd09d2c6"

@@ -1,0 +1,8 @@
+name = "justdirethings-common.toml"
+filename = "justdirethings-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46a0bce771f057ac643096c84479a3a6eaaaa6099af8bc3c44954888e4fc06a1.toml"
+hash-format = "sha256"
+hash = "f27d28204c952edf39953ec985fd3c14da18c56945ab8aa38817253940985d8d"

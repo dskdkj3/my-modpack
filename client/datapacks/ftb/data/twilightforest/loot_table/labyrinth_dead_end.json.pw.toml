@@ -1,0 +1,8 @@
+name = "labyrinth_dead_end.json"
+filename = "labyrinth_dead_end.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ef1261c5a4a97a8ab73ad6cc9994fee66edbb1abff7566b6b9b0f2dbc963ab0.json"
+hash-format = "sha256"
+hash = "9312dd7ddb7a91ff4e65adfe31f8e55a45a13c96db37679630e962a738e47312"

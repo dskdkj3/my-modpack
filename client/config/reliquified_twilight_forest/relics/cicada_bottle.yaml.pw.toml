@@ -1,0 +1,8 @@
+name = "cicada_bottle.yaml"
+filename = "cicada_bottle.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e585c43f5a0de9107b658ed2e93a00037c66504e315346fe5df72af2c9353ace.yaml"
+hash-format = "sha256"
+hash = "8d9ff4277369d0733eab36556957e18bf816ab44890147c832a984dd71be3630"

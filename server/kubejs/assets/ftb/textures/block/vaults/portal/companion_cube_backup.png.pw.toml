@@ -1,0 +1,8 @@
+name = "companion_cube_backup.png"
+filename = "companion_cube_backup.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/94e632094fc72b5d5a7e49d96aceedb77f703516d14ab639f7ec3830666585fe.png"
+hash-format = "sha256"
+hash = "94c63cd37c6eeae8240c173d6379542de7c1b769dd1f0eab4b09bd51e6306265"

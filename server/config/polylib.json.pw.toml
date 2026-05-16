@@ -1,0 +1,8 @@
+name = "polylib.json"
+filename = "polylib.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02b2595f1a1d462cba6609b22a9880aa3c54847bda2a5baa5fab3eaf4da361a7.json"
+hash-format = "sha256"
+hash = "b3458a87968614175fc965b0e99339d70dc6728308138bebdd970d2679f2c672"

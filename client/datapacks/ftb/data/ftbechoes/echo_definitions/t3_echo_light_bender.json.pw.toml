@@ -1,0 +1,8 @@
+name = "t3_echo_light_bender.json"
+filename = "t3_echo_light_bender.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4ecdc54506236dbaeb3447d98b73af1535a308c16940fa807d7e16bda6b30af8.json"
+hash-format = "sha256"
+hash = "8e6c0f1a156a99ad14706ab4017d508f51318c8f71e21d60154978fbe72845be"

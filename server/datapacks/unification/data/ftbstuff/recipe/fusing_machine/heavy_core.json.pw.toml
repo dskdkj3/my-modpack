@@ -1,0 +1,8 @@
+name = "heavy_core.json"
+filename = "heavy_core.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4b40182553e7f69bc3e7e5508e83713804aeb376a31974c17f3c93d4c94d52fb.json"
+hash-format = "sha256"
+hash = "7ea92dd7bc97462611b8158b764121c7cc37d35c2952c4a883f30635794cdc56"

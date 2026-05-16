@@ -1,0 +1,8 @@
+name = "base_reset_hovered.png"
+filename = "base_reset_hovered.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/518432169d1065a0e4d63db9b46b6453b38fec6a07cb7bd864eeff2ecc30e17d.png"
+hash-format = "sha256"
+hash = "d23719723db023ef417d8fbdd6a7a543971b2fef72b5332284c86692b30c0a12"

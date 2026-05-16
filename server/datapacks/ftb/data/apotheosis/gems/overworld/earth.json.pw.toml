@@ -1,0 +1,8 @@
+name = "earth.json"
+filename = "earth.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b15ca3d89c9db03dbcbeecb3ef8ad9e1e6ae8eacf31316fdf7df534385e71a8.json"
+hash-format = "sha256"
+hash = "640bbb034542e1d9360b732a5eff3941a3353288cc7d960fa6142d29a5ca13fd"

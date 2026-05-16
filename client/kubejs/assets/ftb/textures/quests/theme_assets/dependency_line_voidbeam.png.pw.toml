@@ -1,0 +1,8 @@
+name = "dependency_line_voidbeam.png"
+filename = "dependency_line_voidbeam.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/122e094319af4359a35d015e51b89c545dcb6b49da175fc07eed359fb6eb63d2.png"
+hash-format = "sha256"
+hash = "20e1a1a7d7131c99f17cc5dde97bd8c0a0fc80a0d09c7c287890ec26c3f17f87"

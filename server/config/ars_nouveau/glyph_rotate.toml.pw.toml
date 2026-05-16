@@ -1,0 +1,8 @@
+name = "glyph_rotate.toml"
+filename = "glyph_rotate.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9ab86cf7b99fcdf2faba1f43df40d0750d0ea5dff22a742ca3da07d094d637d3.toml"
+hash-format = "sha256"
+hash = "982ce24677aa780050ee99e66d395418216e62d03236887582369647dc995d53"

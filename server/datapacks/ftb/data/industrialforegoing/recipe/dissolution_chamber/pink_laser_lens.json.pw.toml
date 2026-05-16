@@ -1,0 +1,8 @@
+name = "pink_laser_lens.json"
+filename = "pink_laser_lens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/943d1db309a010da5dcf52b5d51d441f856bbf0898624331f018e8b4269d9d7c.json"
+hash-format = "sha256"
+hash = "7f0a01fd0d1a4de05b540c20793ff6d2a1555774410ee0d575e49531b0defb9b"

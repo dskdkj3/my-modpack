@@ -1,0 +1,8 @@
+name = "athena-neoforge-1.21-4.0.2.jar"
+filename = "athena-neoforge-1.21-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6669/522/athena-neoforge-1.21-4.0.2.jar"
+hash-format = "sha256"
+hash = "81cff69ac23885f64dc9998bb3890e3ab2e21ae16c134936c552d12fbab385d6"

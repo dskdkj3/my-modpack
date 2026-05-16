@@ -1,0 +1,8 @@
+name = "world_engine_paused.json"
+filename = "world_engine_paused.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e59808ac3851332e7e0864b60b72ba9391832a5f521cb4280ff23840155760fd.json"
+hash-format = "sha256"
+hash = "9e44036d2aca6cbf59a1a261f6eb3e410d3344718f8861fbefc774bfb18378ce"

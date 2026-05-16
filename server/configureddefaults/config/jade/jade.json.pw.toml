@@ -1,0 +1,8 @@
+name = "jade.json"
+filename = "jade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8c1c7597caa7009e2c010c9309490935354fb0ded01044766ef353ea197a977.json"
+hash-format = "sha256"
+hash = "18182f6842a13310231c1ce776a14275c908f491d0bf8c45ebff24a392d2e427"

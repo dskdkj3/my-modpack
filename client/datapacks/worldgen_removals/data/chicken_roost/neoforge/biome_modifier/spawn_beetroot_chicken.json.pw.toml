@@ -1,0 +1,8 @@
+name = "spawn_beetroot_chicken.json"
+filename = "spawn_beetroot_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f9c2b5400384786ed7030661d2d790e426070f6dcd9d27ac4563a6d788c4152.json"
+hash-format = "sha256"
+hash = "f248846cf804c958e25751032e6de27c8f1ab3a611dd41195e09923a00601057"

@@ -1,0 +1,8 @@
+name = "superstitious_hat.yaml"
+filename = "superstitious_hat.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/423b84d4bd709cf098a86bc28541fa9f20b703923d33b28011f900b8aa2ab1ea.yaml"
+hash-format = "sha256"
+hash = "a0729c386a1eda34725beca4a601917a9bf52231ffcbb8e908218fdc2c26e6b5"

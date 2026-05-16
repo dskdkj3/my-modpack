@@ -1,0 +1,8 @@
+name = "upgrade_stone_axe_to_iron_axe.json"
+filename = "upgrade_stone_axe_to_iron_axe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e04e74f4f5494954d702d738c3b25769fd8ee588df44a43e7c4b361d0472f9b.json"
+hash-format = "sha256"
+hash = "0b6d6d67c09a131eba86deded11623b594952221513b4f452aa9dddd6d3962b7"

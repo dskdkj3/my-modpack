@@ -1,0 +1,8 @@
+name = "energymeter-common.toml"
+filename = "energymeter-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78e08330c5f0e7acd0305e1cbe6ecb8ddf0934c0c76724fecd68a78854ff8b7e.toml"
+hash-format = "sha256"
+hash = "9fffd0f1bd9e0db5f12d47f69bdf09fe959b3e8f1a108582c26491d1a7078b5f"

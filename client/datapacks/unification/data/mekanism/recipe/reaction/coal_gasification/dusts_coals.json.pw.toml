@@ -1,0 +1,8 @@
+name = "dusts_coals.json"
+filename = "dusts_coals.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09d45e4cf37bb92efecc4f99358d0ebbf354fb188dd4450b5de502af0484288c.json"
+hash-format = "sha256"
+hash = "b5e6146993ab18245b6ad6359650ace06773938f52f6d91a374ed23163a682a7"

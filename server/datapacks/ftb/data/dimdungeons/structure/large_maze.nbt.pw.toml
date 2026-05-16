@@ -1,0 +1,8 @@
+name = "large_maze.nbt"
+filename = "large_maze.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a02ded4c8a4b52816a0f3e262c439b7f96ceccede87a007412347620bdcf615.nbt"
+hash-format = "sha256"
+hash = "97ffdf26bb491e877c2d32463d820d81b5bf4764fe42a6715386a8a88f2dc19b"

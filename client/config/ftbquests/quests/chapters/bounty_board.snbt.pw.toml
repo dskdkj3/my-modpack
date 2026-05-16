@@ -1,0 +1,8 @@
+name = "bounty_board.snbt"
+filename = "bounty_board.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e372e1d4505ec43e9d665447fbdfc50ad0d5bf658138af5982560b1249ddc19.snbt"
+hash-format = "sha256"
+hash = "f190aba5b01dc2803c8d3608627fd047210a5491c68f539b049501267b0e9cc1"

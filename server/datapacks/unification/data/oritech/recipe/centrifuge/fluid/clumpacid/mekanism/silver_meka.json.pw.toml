@@ -1,0 +1,8 @@
+name = "silver_meka.json"
+filename = "silver_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ecab8a4100e91d4312e8b70a85e03c6a96353f7d75f11b412e3d38ebc08bdb1e.json"
+hash-format = "sha256"
+hash = "bdb8048d5942ba65a268866185efd7d3c7864919d6c06f2da5ea1a297ffb2bef"

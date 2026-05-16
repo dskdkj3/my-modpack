@@ -1,0 +1,8 @@
+name = "compostables.json"
+filename = "compostables.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4a4d0430728bd9fb830f159034ce436f5794e0ff9d0dd35e83d33e76443d6a5.json"
+hash-format = "sha256"
+hash = "0021f24b5ad67c9e96131df9d6a82b6e3497abccb8fed7037976dada17185229"

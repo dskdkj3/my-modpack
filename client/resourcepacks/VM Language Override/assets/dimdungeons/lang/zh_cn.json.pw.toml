@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/dimdungeons/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/dimdungeons/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "2cb33beb5e67480cedd6831a7c8daeee57e17c0294a53a73dfabb08b981358d9"

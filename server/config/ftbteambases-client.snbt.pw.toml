@@ -1,0 +1,8 @@
+name = "ftbteambases-client.snbt"
+filename = "ftbteambases-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c379c1ebb8070e964946200f89560fea08ea56c4b52a9d33b5105dc17576870.snbt"
+hash-format = "sha256"
+hash = "4d1e95878f3c87ff2b2b10f521b9c1b76edb15e9abffbeb09b88da04c69e7fda"

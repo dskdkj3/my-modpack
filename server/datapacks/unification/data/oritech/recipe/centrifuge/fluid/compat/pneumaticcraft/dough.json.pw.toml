@@ -1,0 +1,8 @@
+name = "dough.json"
+filename = "dough.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f703aafc53ba9987246bdc4dab3d012b2c76223f94d0aba1817c7e2f72e63d59.json"
+hash-format = "sha256"
+hash = "db942af49bd44bfde7d1393b7eb182bd9724c7825944984305fe25ef1eab644f"

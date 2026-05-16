@@ -1,0 +1,8 @@
+name = "amendments-common.toml"
+filename = "amendments-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/28d0fc668662c62330e70b889ae1918b2f52350852692a58cb5f4efcb0d5254d.toml"
+hash-format = "sha256"
+hash = "3500b63f507483afabfc5452794d0cf16d0f5f1b6143fed03db445ce2b60efbe"

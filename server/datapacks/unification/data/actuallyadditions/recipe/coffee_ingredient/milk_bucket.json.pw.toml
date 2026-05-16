@@ -1,0 +1,8 @@
+name = "milk_bucket.json"
+filename = "milk_bucket.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe65145e21b294816adabba6fa0b4736fd764f4d3c61d7571632410ca69fba58.json"
+hash-format = "sha256"
+hash = "d908fdf04bddee2d484fba6ef308beacc912f412163f2461c6073272d39684f7"

@@ -1,0 +1,8 @@
+name = "duratium_ingot.md"
+filename = "duratium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/701bdc7fd4a0ed7da4160c17b9c36e983c8273e9f66063283c91896ab85b537d.md"
+hash-format = "sha256"
+hash = "465e8af82cd29849b3960ec7090bf8533ff192a3b9bcecd69d841ffd4b3a4516"

@@ -1,0 +1,8 @@
+name = "pistonwall_2.nbt"
+filename = "pistonwall_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c8ab3ae55859ccfdbcbce00a80db951c79950c2a303683e3e9aaebf5ddda52d.nbt"
+hash-format = "sha256"
+hash = "b2a56bc5844bd10059bd1025d7e2112352dfa559ac558facfb5d60175f033137"

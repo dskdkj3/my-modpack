@@ -1,0 +1,8 @@
+name = "cyan_laser_lens.json"
+filename = "cyan_laser_lens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/9695dc6b50e9360c22fbbb27c099ddc7f4bc38f8dd74ffa198ab0289995f048c.json"
+hash-format = "sha256"
+hash = "7893b1f5e9e9b5dea81c97f17a3b82e8a52ca6baacf1e7e85699394241f4b514"

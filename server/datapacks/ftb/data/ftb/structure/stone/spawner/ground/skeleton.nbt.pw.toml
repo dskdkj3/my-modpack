@@ -1,0 +1,8 @@
+name = "skeleton.nbt"
+filename = "skeleton.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cbcc9df513e606a2dc4c274722c7005b4cec4b5202e0e71e596db692ebfa93a2.nbt"
+hash-format = "sha256"
+hash = "e9d5336e665de270822c87ee71788fb32e3f87f688c8c6ee97aa57522dfb111a"

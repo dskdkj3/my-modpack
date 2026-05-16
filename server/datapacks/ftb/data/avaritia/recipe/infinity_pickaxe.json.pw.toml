@@ -1,0 +1,8 @@
+name = "infinity_pickaxe.json"
+filename = "infinity_pickaxe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5de92392a376706d036346154f4026c9efec492d973c2813e6ca4044f7fb23a.json"
+hash-format = "sha256"
+hash = "9a461eab6e4538ef82679735d1519429cedd6d04d367d2d2f2718d10908e8445"

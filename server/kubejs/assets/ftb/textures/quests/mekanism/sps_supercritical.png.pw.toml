@@ -1,0 +1,8 @@
+name = "sps_supercritical.png"
+filename = "sps_supercritical.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38f9232b3020e923a2f92340f0c45d982ac02e38d34c552b2e60256c3d9ae7f3.png"
+hash-format = "sha256"
+hash = "bcf6d2af7c25838ef4b2e5e2e03eb927789f4ea41a30ae13d3ed847e53300971"

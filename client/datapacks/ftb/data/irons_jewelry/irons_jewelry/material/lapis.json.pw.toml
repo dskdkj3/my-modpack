@@ -1,0 +1,8 @@
+name = "lapis.json"
+filename = "lapis.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33aa144c8dbc1f82de71abb9706ab05607519f7e2e3a39ea7857fdeb51c1b38d.json"
+hash-format = "sha256"
+hash = "66da3119e52de7bb7b08daf81cb95f6bc0ca381c531ba736e9d79a3794f8a183"

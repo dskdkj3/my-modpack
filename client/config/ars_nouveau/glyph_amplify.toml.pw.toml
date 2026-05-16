@@ -1,0 +1,8 @@
+name = "glyph_amplify.toml"
+filename = "glyph_amplify.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/480a3c6cf04b5c445da244b49a052f54a783a6d038ec4f11f06127448b9b8169.toml"
+hash-format = "sha256"
+hash = "6d744796480f2d66754efffe376472caea02274b3af8798c90f67d34f6465ec0"

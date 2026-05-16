@@ -1,0 +1,8 @@
+name = "coal_ore.json"
+filename = "coal_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5f9257f92675c46a7b7dfe73758ae8b53c69245f31b72485e0ffe8c0fd7f9cc5.json"
+hash-format = "sha256"
+hash = "765f6e46d7295c3061874458c08e881a015ae43a26cdc45e1e4f7fe3fe128a31"

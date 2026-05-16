@@ -1,0 +1,8 @@
+name = "palis.json"
+filename = "palis.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be947d44d4bf7ad9daff1bf25245c81f067c859cc9305cf6f46d78762c0c0f50.json"
+hash-format = "sha256"
+hash = "55363794b4c245281b04a2b63b7f77588656ce9d92d27aec8f6c80e4b696699c"

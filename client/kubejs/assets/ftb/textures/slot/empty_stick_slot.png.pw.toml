@@ -1,0 +1,8 @@
+name = "empty_stick_slot.png"
+filename = "empty_stick_slot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55644af2389a7bb4d845ae29140e6a109690e7e5002cd10a36ea015cf1368211.png"
+hash-format = "sha256"
+hash = "00016fcea88efc2a21151ef68a6d3c8a7d03e7dc7d40d610632be0f013fb50d1"

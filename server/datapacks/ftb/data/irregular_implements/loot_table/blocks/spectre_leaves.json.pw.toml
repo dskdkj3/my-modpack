@@ -1,0 +1,8 @@
+name = "spectre_leaves.json"
+filename = "spectre_leaves.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b63a83ffde8d56a9d4cbd63ad639a6280352c39f1d8a34ae19375f1e1c61540.json"
+hash-format = "sha256"
+hash = "83a726cd5d4cf0d2e4f1cdb4de39777ef6eb10e42c5232a946b66253be7e009d"

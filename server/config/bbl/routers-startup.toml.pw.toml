@@ -1,0 +1,8 @@
+name = "routers-startup.toml"
+filename = "routers-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/968e2e9ec775e3b6db2eb594ba454a03a689bae5c679a31bfcff1b58c3ac7e83.toml"
+hash-format = "sha256"
+hash = "dc5f5b9a73f858c2df990f55839b1e409721d1d92c01dbb6bc4bbcd9bcfbc890"

@@ -1,0 +1,8 @@
+name = "thorn_pendant.yaml"
+filename = "thorn_pendant.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52204a4ab037fbb5a97fcaf942939df66a91e8641b09e1b2ee87e2aa00154ee5.yaml"
+hash-format = "sha256"
+hash = "cafcfa06a4885ba78894db6af2afc6aeada3fc70503ab152474256996e770424"

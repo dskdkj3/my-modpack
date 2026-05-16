@@ -1,0 +1,8 @@
+name = "bronze_ingot.md"
+filename = "bronze_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c09d8f622556b2e6af12c81fb6246daefe1e6c3ff2c8f2b290748ee1db54ba1.md"
+hash-format = "sha256"
+hash = "4c3b8cd4cf29f8bfb4233c7b30acf94cb70b022b3a03c49ac575a82c15424f24"

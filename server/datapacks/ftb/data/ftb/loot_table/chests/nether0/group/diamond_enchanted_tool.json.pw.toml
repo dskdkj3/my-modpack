@@ -1,0 +1,8 @@
+name = "diamond_enchanted_tool.json"
+filename = "diamond_enchanted_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a831e9c476677feccc41534c8d3c8e970fbb0f6629c08e2014568af92cc55720.json"
+hash-format = "sha256"
+hash = "ebae3ca994d72735a3d94a5fd21776b8b53d941e1563a5f563425698ed098843"

@@ -1,0 +1,8 @@
+name = "engineer.json"
+filename = "engineer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67aac7fbac0bcb99fb33c8f36598bad55430764e245a82dc21ea5ebf6eb852c3.json"
+hash-format = "sha256"
+hash = "723bb6a024f988f8db93c02a00a9a1fa2f29d27f40c1e4021273e5aeee799137"

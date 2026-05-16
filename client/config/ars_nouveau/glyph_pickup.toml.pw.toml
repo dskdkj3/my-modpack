@@ -1,0 +1,8 @@
+name = "glyph_pickup.toml"
+filename = "glyph_pickup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9b59c687a3215cdc9347c662abacda21dad48c04912d347e3a2010d882ea170.toml"
+hash-format = "sha256"
+hash = "6512b369f02e92b6ff2749541497b53c8abd71a4172b38299efa3ce9cd38b6ee"

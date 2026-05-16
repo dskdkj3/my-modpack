@@ -1,0 +1,8 @@
+name = "husk.json"
+filename = "husk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/592e093d26443d8402f29678593ca2d71d4879f413e9c7393ee4135092fff9a2.json"
+hash-format = "sha256"
+hash = "78c57980169e2dcfe40153ff3a878562c21f3d34328557ec355d4229abb6db6f"

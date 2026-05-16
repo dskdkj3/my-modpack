@@ -1,0 +1,8 @@
+name = "optimizations.yml"
+filename = "optimizations.yml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d0504dc75913be5740e9d8c7af3f86e8f9b2ff845db9f02e5d4d6afc69531fc.yml"
+hash-format = "sha256"
+hash = "7a6301d62d60ab18e51ecc1d7e9f9c5fa061a9033804d6bd644c9f35be86964e"

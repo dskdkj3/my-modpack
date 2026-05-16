@@ -1,0 +1,8 @@
+name = "oilalt_pnc.json"
+filename = "oilalt_pnc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/714fe725b69da8e7f29a8f9ec1d877c96f3e9c686a0ac777371ed8a4b8e1f6cf.json"
+hash-format = "sha256"
+hash = "f8c7cc45111ee1df84bb08f220c44cb2de9a9c8eb672b30243c2a87cba460dbc"

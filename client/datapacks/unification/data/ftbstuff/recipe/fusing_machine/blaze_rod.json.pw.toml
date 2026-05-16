@@ -1,0 +1,8 @@
+name = "blaze_rod.json"
+filename = "blaze_rod.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/295d6cea57e95fd523fca3a7c7a90c7ba642ad5644ef79c9fa452f9ff29df52f.json"
+hash-format = "sha256"
+hash = "e8cd01606c6c9cfd3ee48998078a03d697945e92552e3e036b584ed0fede96f2"

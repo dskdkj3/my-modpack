@@ -1,0 +1,8 @@
+name = "sky_bronze.json"
+filename = "sky_bronze.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/8897296c26859ad37ffb051790bad9dee979c3fe1e6349a1333fe88b9773857d.json"
+hash-format = "sha256"
+hash = "3c9fa62810a31dc6872f8620320544bc6fafd074d14ba71fb9b920f72839a5d9"

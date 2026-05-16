@@ -1,0 +1,8 @@
+name = "jei.js"
+filename = "jei.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e42c1336f1265a547d71c97b9bb2cc64eeea0c758421cc65ceca1d9ccec19a33.js"
+hash-format = "sha256"
+hash = "0f3238380c4ca7898042ff40c198f0c209c098564ea15f338ef7581ebc01a543"

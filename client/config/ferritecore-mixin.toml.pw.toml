@@ -1,0 +1,8 @@
+name = "ferritecore-mixin.toml"
+filename = "ferritecore-mixin.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/296f348fec11ed23b92ac6976541954b04508a84bdb02c282c9b77264e4144b8.toml"
+hash-format = "sha256"
+hash = "19fb61e7f13abbaa2a3054976d40ce314f5826f5c8f7fd279417a0244bad45b3"

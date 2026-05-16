@@ -1,0 +1,8 @@
+name = "books_2.nbt"
+filename = "books_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b53633308f5af2a179931baae4fbb3b6a734254b9e8ce008688723047f16ab98.nbt"
+hash-format = "sha256"
+hash = "38ac744751003911dc321116b6d0b9e341e8c19f908bfe088e8d0c87aa019410"

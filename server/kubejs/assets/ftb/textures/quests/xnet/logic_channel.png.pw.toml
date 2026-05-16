@@ -1,0 +1,8 @@
+name = "logic_channel.png"
+filename = "logic_channel.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3ddc7ed5e08f028d39e10adb14163f6403ff33dbf97ad7ff60be981fe6f6b18e.png"
+hash-format = "sha256"
+hash = "3822c472cf5c90be5f5b0cd86d9e6181a1e1d4150720f42dd767b366badce725"

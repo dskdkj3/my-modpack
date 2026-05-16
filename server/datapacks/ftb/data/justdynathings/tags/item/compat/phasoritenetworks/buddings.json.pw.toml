@@ -1,0 +1,8 @@
+name = "buddings.json"
+filename = "buddings.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df761f5e3bf888f5c085d9cadf91289f7402eb3ce53184f8b1a4697216599252.json"
+hash-format = "sha256"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"

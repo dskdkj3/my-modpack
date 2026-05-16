@@ -1,0 +1,8 @@
+name = "pipegoggles-2.0.4.jar"
+filename = "pipegoggles-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7242/600/pipegoggles-2.0.4.jar"
+hash-format = "sha256"
+hash = "59cae5a2d8e8ce6f34f342be7a76428ae9b832a6b9a618fcc92c4d2d16711a1e"

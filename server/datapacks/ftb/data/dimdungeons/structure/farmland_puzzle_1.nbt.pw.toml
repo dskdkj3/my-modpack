@@ -1,0 +1,8 @@
+name = "farmland_puzzle_1.nbt"
+filename = "farmland_puzzle_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/194b4e4846676cdc92a9a76a4365880206775614db72ca9a1b747ec2f5e2f06b.nbt"
+hash-format = "sha256"
+hash = "dd85305aba8099ae524ba8c64c50452d26f5db90ab5338c47628e164e16b6704"

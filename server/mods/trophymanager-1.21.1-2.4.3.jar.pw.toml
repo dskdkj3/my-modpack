@@ -1,0 +1,8 @@
+name = "trophymanager-1.21.1-2.4.3.jar"
+filename = "trophymanager-1.21.1-2.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7758/891/trophymanager-1.21.1-2.4.3.jar"
+hash-format = "sha256"
+hash = "32841791bf9657c35faa6d5f2a631752f23b0866aa6cc66b89e324887752f3f1"

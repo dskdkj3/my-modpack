@@ -1,0 +1,8 @@
+name = "lava_meka.json"
+filename = "lava_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61bace8a12db6f881a0c327246f65871825bf1aed8047b6e9fb54561b04d8b11.json"
+hash-format = "sha256"
+hash = "24adb1c87c56d750fe60f65107f8294c4c7656a778585ec89f11e2380c1c6df3"

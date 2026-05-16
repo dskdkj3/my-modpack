@@ -1,0 +1,8 @@
+name = "spirit_upgrade.nbt"
+filename = "spirit_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/283cbe6b0b462edd4b10cc7ee430aa736eae879ce04425e7b36f08bad8082679.nbt"
+hash-format = "sha256"
+hash = "8807a2c55174f73a2649e6c8eab263d189a03ca4ebebe38bf7f198f75cbc69ed"

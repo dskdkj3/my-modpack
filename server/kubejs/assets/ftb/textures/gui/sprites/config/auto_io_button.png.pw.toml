@@ -1,0 +1,8 @@
+name = "auto_io_button.png"
+filename = "auto_io_button.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/109df137f7bc41518b7440faf772c3eebea9a8939176dbc058d1308c7f52b994.png"
+hash-format = "sha256"
+hash = "5139e7a752eec11d930f6243b748cda56dec0b3e75a8c9efba603f0bb8f8d4d4"

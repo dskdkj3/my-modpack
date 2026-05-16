@@ -1,0 +1,8 @@
+name = "lobby.nbt"
+filename = "lobby.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b66498ab115830daf18732c8ca00beab97d842128ce5c4e107c5e022ef6ed1c.nbt"
+hash-format = "sha256"
+hash = "83fc948a651d52e07497f5aba369c7c4b30a30cb0c490bd85a8cf3b2661fc10a"

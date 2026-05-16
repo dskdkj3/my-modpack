@@ -1,0 +1,8 @@
+name = "sg_economy-1.0.4.jar"
+filename = "sg_economy-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8041/335/sg_economy-1.0.4.jar"
+hash-format = "sha256"
+hash = "bc910439471c20642a869290615c9b062919db0b766e7572de4ca56e1e67c5a2"

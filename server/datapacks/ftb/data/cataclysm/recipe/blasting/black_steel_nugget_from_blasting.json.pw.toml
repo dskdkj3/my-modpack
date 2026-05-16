@@ -1,0 +1,8 @@
+name = "black_steel_nugget_from_blasting.json"
+filename = "black_steel_nugget_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75a019348b5ab0d310a99257548b5f30151aedb66ebea9e5cdc5cc3bfa895171.json"
+hash-format = "sha256"
+hash = "58dca191d2a6f9c187aca5db82cfb2ee538233ecfee8fa737e0e2311deb37577"

@@ -1,0 +1,8 @@
+name = "tooltipoverhaul-neoforge-1.21.1-1.4.4.jar"
+filename = "tooltipoverhaul-neoforge-1.21.1-1.4.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7907/475/tooltipoverhaul-neoforge-1.21.1-1.4.4.jar"
+hash-format = "sha256"
+hash = "7e16b58afcbef29cca066d45542b81ab1b769ff083af24e3aa88dc3825cc22eb"

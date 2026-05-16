@@ -1,0 +1,8 @@
+name = "neutron_activator_idle.json"
+filename = "neutron_activator_idle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c2462bcb1687f68ea8cf50a8adc2a0a2f7411799b4e60fa62f7fdcca48c5db8.json"
+hash-format = "sha256"
+hash = "aa084a31d2d3112274e19a39dde92a577fe5dfe6df46f647380948e1664e3af2"

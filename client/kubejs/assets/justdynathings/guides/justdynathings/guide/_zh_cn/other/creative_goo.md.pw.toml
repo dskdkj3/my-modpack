@@ -1,0 +1,8 @@
+name = "creative_goo.md"
+filename = "creative_goo.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a96ae61f57f3dd3570b9c7fe73036ea4f469e2e0f12be6a0cbea6a0aa4cf8d3b.md"
+hash-format = "sha256"
+hash = "6104fbece1deb38f274eb2638edb5ad8518a1e0738786117c7596ee10ee5c081"

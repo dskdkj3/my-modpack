@@ -1,0 +1,8 @@
+name = "biomass.json"
+filename = "biomass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a65d29b2c96a09b586b77033d2cfc2298e45206ef0e0dbd4432d1cc4dfadf5c.json"
+hash-format = "sha256"
+hash = "f8f953cd4a62f748c05aef742d0dcfc8b3e7e0a5e601979011a8f79f3c76593c"

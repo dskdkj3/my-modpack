@@ -1,0 +1,8 @@
+name = "more_immersive_wires-server.toml"
+filename = "more_immersive_wires-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86c86595675a85813ad79e252e6a0d5e2866a9f3567f3bda16175a9b9f20af3b.toml"
+hash-format = "sha256"
+hash = "6db7f6b6a576b2d878279a97955d4cbb6d2d22ddb8d9339511d1fc7ff28aeb67"

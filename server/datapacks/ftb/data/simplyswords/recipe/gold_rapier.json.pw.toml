@@ -1,0 +1,8 @@
+name = "gold_rapier.json"
+filename = "gold_rapier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec5944bf4a18fa380e9fce6142039ab58886a6cf5a3e87f876d3b765adc078c2.json"
+hash-format = "sha256"
+hash = "a32eb55383a185e0c793596614a8eb31e84ab96679299b8081c94bdcb928fe1c"

@@ -1,0 +1,8 @@
+name = "10.json"
+filename = "10.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81b581b875d66d218b40bf68a50e7aaf250cd0298fda5f9ca5a644728a7f1b5b.json"
+hash-format = "sha256"
+hash = "b07b006fb64208ba2d6908f9cc9fe85f99b2b60363095c027ebe2bd87a07eaad"

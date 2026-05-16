@@ -1,0 +1,8 @@
+name = "rechisel.js"
+filename = "rechisel.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2af0a28af6cccd06ae777d97e977de873aa14a2bb452fba0359e0de80d5b89b8.js"
+hash-format = "sha256"
+hash = "e193a18575c9380745ed119a48e612596fcde46fc3f901de8981300ccb618779"

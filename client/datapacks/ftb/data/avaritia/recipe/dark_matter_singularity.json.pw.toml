@@ -1,0 +1,8 @@
+name = "dark_matter_singularity.json"
+filename = "dark_matter_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/3126f8c38ecb0b379dd832789ff1b1e67ee95daadf5110b67a176a5b9626d1e1.json"
+hash-format = "sha256"
+hash = "92fcabf3385b4bacdae7e8cefb1f38d0cf2e80c098bfff41fbd9b4c6c16078d5"

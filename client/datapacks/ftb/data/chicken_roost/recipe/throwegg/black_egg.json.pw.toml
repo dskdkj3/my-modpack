@@ -1,0 +1,8 @@
+name = "black_egg.json"
+filename = "black_egg.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3c6053bc934e2a2051e3302417294d1f5877944e325a394b7e796f9a38e808d.json"
+hash-format = "sha256"
+hash = "ed14d5d5b24b691f5ce9f5877ca926305c57dc1e9ed67208969e3f73dbce4202"

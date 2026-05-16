@@ -1,0 +1,8 @@
+name = "coke_to_slab.json"
+filename = "coke_to_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a271fe3b464326f05693c0b9b0341a444f053742d6e418bfb527484708ebe006.json"
+hash-format = "sha256"
+hash = "d4bedfb3965dc5c16950b5bad732177b988bea9603c6cd3e55cf812af80cc2ab"

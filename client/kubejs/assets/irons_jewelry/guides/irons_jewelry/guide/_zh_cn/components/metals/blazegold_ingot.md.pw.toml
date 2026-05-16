@@ -1,0 +1,8 @@
+name = "blazegold_ingot.md"
+filename = "blazegold_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2dab650cdfc015a6538a5a81b166d5558a989aa71b66b4a75868e0f5c3a2563.md"
+hash-format = "sha256"
+hash = "fecc63d748469a567141b6e058d903385d29fc3acb1ba58691f39fb6a78b4c21"

@@ -1,0 +1,8 @@
+name = "wild_carrots.json"
+filename = "wild_carrots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f05e9b7422bea9748b2c3fc9eb26e537f30866ddf738d60b5013695f055daa7.json"
+hash-format = "sha256"
+hash = "568aca70019175b95978d256c69252afd40d9d0a886db0072c5d73cd9e3cda88"

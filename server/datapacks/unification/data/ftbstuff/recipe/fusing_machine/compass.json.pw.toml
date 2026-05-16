@@ -1,0 +1,8 @@
+name = "compass.json"
+filename = "compass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1e0c08d1c309e3b30f55161c50b0705c20f12454b5c92abca4d06e0ea910996.json"
+hash-format = "sha256"
+hash = "68e7aa24f30f5fa98bcd5fd9e9d3bad398bd5430fa9053a2346db925f5b69073"

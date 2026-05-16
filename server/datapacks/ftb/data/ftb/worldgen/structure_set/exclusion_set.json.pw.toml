@@ -1,0 +1,8 @@
+name = "exclusion_set.json"
+filename = "exclusion_set.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/747091dde2fc70ed381e513be59775084c30ee0229ce63b28d89bb9703d6ce33.json"
+hash-format = "sha256"
+hash = "6a37565c02faa6013969266dbdcdece1a4d83b32b65cea72b3c74560debc3dcf"

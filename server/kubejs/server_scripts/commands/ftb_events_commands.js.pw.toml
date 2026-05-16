@@ -1,0 +1,8 @@
+name = "ftb_events_commands.js"
+filename = "ftb_events_commands.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38e0ef3c46045f8b29dcda894dafa3cbfa675a3e901cd15082d4dbceb312324e.js"
+hash-format = "sha256"
+hash = "838498657770c8bbd191e5c110eb3f3823d6d900230492d012148180577a57be"

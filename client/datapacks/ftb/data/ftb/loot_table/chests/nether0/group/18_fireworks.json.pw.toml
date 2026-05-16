@@ -1,0 +1,8 @@
+name = "18_fireworks.json"
+filename = "18_fireworks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/58b4e036ef818a23b1ebab0ab7ab5b67ebc64fd732f12433ac5ecf528e6fd626.json"
+hash-format = "sha256"
+hash = "2e7399ffb8b21979dfd9363b6db7a42ed6575c8125a38aa79128e0c5820fa7d7"

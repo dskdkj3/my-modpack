@@ -1,0 +1,8 @@
+name = "north.json"
+filename = "north.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26dc06ed5bb1b51d33a985d9016de0bc803b6b12a9d555ff9766dbe3527f06e4.json"
+hash-format = "sha256"
+hash = "0f406b53218e9e13aafe1e6a12b8ce99551a8e6527f8bb30f3369868a6824d43"

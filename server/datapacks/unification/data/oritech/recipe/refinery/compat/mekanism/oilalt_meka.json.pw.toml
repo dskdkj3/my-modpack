@@ -1,0 +1,8 @@
+name = "oilalt_meka.json"
+filename = "oilalt_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e87c021d132da8c4c3b6bc186c91e626f0f40d6f5645993b4668bb06bc0dde03.json"
+hash-format = "sha256"
+hash = "4ce9776cf9884e32a3552e0ef64f9a2d6810b97d94aa1d51b1756a8ddb989903"

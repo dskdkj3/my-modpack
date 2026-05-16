@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/other_titles_and_logos/occultism_title2.png"
+filename = "occultism_title2.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/other_titles_and_logos/occultism_title2.png"
+hash-format = "sha256"
+hash = "8cf2be413a8650798d0097d624be6d2203b2a9d37126943712921c298885dbae"

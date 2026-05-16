@@ -1,0 +1,8 @@
+name = "dry_leaves.json"
+filename = "dry_leaves.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/04d5edbece2ae3e0d630ffcd99c8c0a3f2dc9333eccad624f9c2cdd8f1d76096.json"
+hash-format = "sha256"
+hash = "556719dbaf9ed550c6e9c8a9763bc7df196971b6e44f6867bb0dd1951dcb130b"

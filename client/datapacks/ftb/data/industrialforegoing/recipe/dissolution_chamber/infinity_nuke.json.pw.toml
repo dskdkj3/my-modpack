@@ -1,0 +1,8 @@
+name = "infinity_nuke.json"
+filename = "infinity_nuke.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/4973ee6d44f6c005d2fc053a694544ea1aa18a163103f304abc6b3e0a12e6522.json"
+hash-format = "sha256"
+hash = "2f517a52861e961441f28b55da3e072e4f3c7bd017192cd3a7d40b97e6e6889e"

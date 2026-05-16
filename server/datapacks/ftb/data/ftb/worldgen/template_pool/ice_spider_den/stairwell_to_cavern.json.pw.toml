@@ -1,0 +1,8 @@
+name = "stairwell_to_cavern.json"
+filename = "stairwell_to_cavern.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40ee3133e65931150d5a5584daec6832eb3a0b79728e2d37c5dc1b088cb43d42.json"
+hash-format = "sha256"
+hash = "c69e6b0c6951499f119c8732b88bce0b4172529d491a5428c345e71441825e48"

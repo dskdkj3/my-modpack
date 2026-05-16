@@ -1,0 +1,8 @@
+name = "fire_boss.json"
+filename = "fire_boss.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76dc0443fa7288e4c2be165f9f222fb6bde4c943bfa0982b0723a12d38de29c3.json"
+hash-format = "sha256"
+hash = "a91d3dd9a91ced9a79e606cca80d83ca17df3d6a87cfba47d0614d2f1bb4749b"

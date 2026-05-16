@@ -1,0 +1,8 @@
+name = "certus_quartz_dust.md"
+filename = "certus_quartz_dust.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec51ddc9d6a33e348d6aabfef0d1a7ea00bc7a4653cf003190e5757dafb73e4d.md"
+hash-format = "sha256"
+hash = "f6253235feff1d779773e8fc2445b14ef48ed22b4b585fbbaf8732b38140b04a"

@@ -1,0 +1,8 @@
+name = "eclipse_alloy.png"
+filename = "eclipse_alloy.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b834579c94e57b13a2c6d0e5eb6ff61abb17542e0b85bb845897e7bd044fa8f.png"
+hash-format = "sha256"
+hash = "17705362455e07f5e03d5d7d00240085194ae9557ed3340a8113d8b98d8a3353"

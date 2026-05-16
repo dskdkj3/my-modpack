@@ -1,0 +1,8 @@
+name = "long_discord.png"
+filename = "long_discord.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47f1a5f23331c687197e03cb79d08ae51a036320e534e22ff967c29176f4bf64.png"
+hash-format = "sha256"
+hash = "bdd7c426045f4ee0a6b0327f3a8d0014a4af1510ee581cbe8281c331d6d17eb4"

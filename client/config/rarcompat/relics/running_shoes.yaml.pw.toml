@@ -1,0 +1,8 @@
+name = "running_shoes.yaml"
+filename = "running_shoes.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5c7255a9c78a46a76e618957eebd3601eac43bb86247175532bffceb56081eb.yaml"
+hash-format = "sha256"
+hash = "6e20ecf8b5d747a867494b623e5a58bbf6fd05737f3bd7ae190625333d979df1"

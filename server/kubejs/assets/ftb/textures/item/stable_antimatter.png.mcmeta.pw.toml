@@ -1,0 +1,8 @@
+name = "stable_antimatter.png.mcmeta"
+filename = "stable_antimatter.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67ae256c2e1b1546a51b88acc548a1112e7738c7c910b4cc5b671016c65ca593.mcmeta"
+hash-format = "sha256"
+hash = "5d99e599614ce51d1e842445f85e79a799745db9507de2dc957b548e0eebfc10"

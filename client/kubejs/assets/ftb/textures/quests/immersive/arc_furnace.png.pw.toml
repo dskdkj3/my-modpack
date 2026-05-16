@@ -1,0 +1,8 @@
+name = "arc_furnace.png"
+filename = "arc_furnace.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1cfaaf6cce5081bdb9fad255d19faf70f1d3209be6cd7361cc04a39dd70ecc4b.png"
+hash-format = "sha256"
+hash = "afcf0b5dc78705869ac41178336f5dc26fef508f2da93004900b25a9dc008067"

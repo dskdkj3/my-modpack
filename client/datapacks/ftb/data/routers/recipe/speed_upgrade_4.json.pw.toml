@@ -1,0 +1,8 @@
+name = "speed_upgrade_4.json"
+filename = "speed_upgrade_4.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a214e34babb659ca4aa8f53bd482a0ca3651b8418c645c8ffea83a01daa63ac4.json"
+hash-format = "sha256"
+hash = "c875a4e1dc0185e9aeeb50b11f682dc4b46a6ac856c30bdbe7a6e0887eabdad7"

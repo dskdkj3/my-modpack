@@ -1,0 +1,8 @@
+name = "fluid_laser_base.json"
+filename = "fluid_laser_base.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/94b223d9588d8a1e675cd4068a3a9afe062aad4be021026a8e543d132db4f766.json"
+hash-format = "sha256"
+hash = "aa5102d51022965db9d4da1ea7199c23458a4a68df6a2bdbb90ba73c60e23c8a"

@@ -1,0 +1,8 @@
+name = "dripthree_1.nbt"
+filename = "dripthree_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac47b20d2a920d879d136f91bf2fa1778dead8d7ef121938e005be8db0d058de.nbt"
+hash-format = "sha256"
+hash = "fb1756314f4e702b2d8ff00baa64dafd4f266463fb50fb957234f4fb38bb7bf0"

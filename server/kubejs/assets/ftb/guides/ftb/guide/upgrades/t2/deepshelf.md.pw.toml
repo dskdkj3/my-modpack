@@ -1,0 +1,8 @@
+name = "deepshelf.md"
+filename = "deepshelf.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1ec6cfbd0b6fa6be93373c44806332e1199a4e423cc40b4e689b97853f71f8de.md"
+hash-format = "sha256"
+hash = "79fb782f186ef653b21c0833d411724339d8efcdf3014214d1d2b767582bfc2a"

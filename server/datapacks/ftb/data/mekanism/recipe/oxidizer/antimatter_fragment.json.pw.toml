@@ -1,0 +1,8 @@
+name = "antimatter_fragment.json"
+filename = "antimatter_fragment.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/4866ce1abba7c8c7d306fa559c228c61f43385021168c4af9d8451b206717dcf.json"
+hash-format = "sha256"
+hash = "f7bbad0307aaf34efebc97de6675de011ab001b9508081f895367900b226888e"

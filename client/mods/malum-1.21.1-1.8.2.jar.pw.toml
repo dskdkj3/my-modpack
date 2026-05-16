@@ -1,0 +1,8 @@
+name = "malum-1.21.1-1.8.2.jar"
+filename = "malum-1.21.1-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7307/339/malum-1.21.1-1.8.2.jar"
+hash-format = "sha256"
+hash = "38f4fa53e8da9e3d67aa5f54f98fd7c83cb342f0463ce5c63a6864229c88efa8"

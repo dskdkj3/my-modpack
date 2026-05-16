@@ -1,0 +1,8 @@
+name = "spellbookmenu.png"
+filename = "spellbookmenu.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c0f56b82ce689bafc10a272565d4093181632b62d0432e5c5ef354ca108de62.png"
+hash-format = "sha256"
+hash = "2f247bf27ea362a33a6f55f4e960a1ea051b742ca8d6ce51778dbe4aebd0ece3"

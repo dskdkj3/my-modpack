@@ -1,1 +1,7 @@
 dist/
+*.jar
+*.mrpack
+*.zip
+.cache/
+__pycache__/
+*.pyc

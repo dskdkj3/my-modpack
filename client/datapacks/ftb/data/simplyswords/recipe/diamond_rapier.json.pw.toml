@@ -1,0 +1,8 @@
+name = "diamond_rapier.json"
+filename = "diamond_rapier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59b2e758a52df36896bcecbcd1397407a627708f93891a7bb5ccc7e818eb398e.json"
+hash-format = "sha256"
+hash = "ba37f7c9437cf84d057863fbf16ee5d3b5572e2d0f26023049534c250743d44f"

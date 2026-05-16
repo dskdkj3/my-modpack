@@ -1,0 +1,8 @@
+name = "ender_chicken.json"
+filename = "ender_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/248bc030b8da4df25b40cbe47f56677c8f50ae8e2feb5fb2d93aef4c559d8413.json"
+hash-format = "sha256"
+hash = "27849782f7879ccae69f99cd75bca402030ed19680e1e43945ef925b5deb4378"

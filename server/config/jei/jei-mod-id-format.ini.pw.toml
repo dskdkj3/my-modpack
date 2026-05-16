@@ -1,0 +1,8 @@
+name = "jei-mod-id-format.ini"
+filename = "jei-mod-id-format.ini"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd179232aa5979564518de8d799ab8b6e31e76e88e6c380fdcad519661fdbd01.ini"
+hash-format = "sha256"
+hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"

@@ -1,0 +1,8 @@
+name = "tier_2.json"
+filename = "tier_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce322bb9b544b3ee119a339cb5e28736d3d5b5ad8bacdb8738d59757708c0387.json"
+hash-format = "sha256"
+hash = "88a7865111d3fbd3c18a16f1e6970a006f98f5f5c6dd6a298406423c88c3bbf0"

@@ -1,0 +1,8 @@
+name = "stage_sync.js"
+filename = "stage_sync.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc0f231113041a954cae656adefa432bcce210966d4dcfb754f16b11fd907960.js"
+hash-format = "sha256"
+hash = "358c86d1ba2e1717d5aff8e2c4740d5f97147282a33a162570821768083c7280"

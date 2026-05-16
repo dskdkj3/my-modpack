@@ -1,0 +1,8 @@
+name = "ae2wtlib-19.5.0.jar"
+filename = "ae2wtlib-19.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8048/692/ae2wtlib-19.5.0.jar"
+hash-format = "sha256"
+hash = "decf9a35c6d08c160a65a30fe623fd9c09ad5f5dd1790052917f19c82441bd16"

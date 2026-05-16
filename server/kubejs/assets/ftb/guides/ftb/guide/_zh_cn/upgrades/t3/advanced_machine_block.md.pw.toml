@@ -1,0 +1,8 @@
+name = "advanced_machine_block.md"
+filename = "advanced_machine_block.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5dc971ae7fe8e2445993c51e0a45275387b5fa36b460cf3a34d9d4dda2ed55af.md"
+hash-format = "sha256"
+hash = "8d391d5132506e7e7d8f54c95cedc728c635a6ab2f48f3cc6e687d4855b25424"

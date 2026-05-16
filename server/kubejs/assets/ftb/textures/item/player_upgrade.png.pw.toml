@@ -1,0 +1,8 @@
+name = "player_upgrade.png"
+filename = "player_upgrade.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edbf482383b899a6a8bb478bfe5ff661faa5880d189cd606e02c11a6b11ae478.png"
+hash-format = "sha256"
+hash = "bf205f3dc22c97744cc15420e720f703670fc7e29a4b5d7a0a09e90ba4355271"

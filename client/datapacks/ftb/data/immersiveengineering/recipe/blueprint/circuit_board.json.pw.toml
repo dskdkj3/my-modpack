@@ -1,0 +1,8 @@
+name = "circuit_board.json"
+filename = "circuit_board.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6d90d00fff80dcbacaf7e75da82b06c7cae704ad638f6e68373fd80f67d3070.json"
+hash-format = "sha256"
+hash = "80d9b6458a2f4bd11e29f26237c15176bead58dcdd0110ee0a96bc7b179ec33c"

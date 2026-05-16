@@ -1,0 +1,8 @@
+name = "inventoryessentials-neoforge-1.21.1-21.1.15.jar"
+filename = "inventoryessentials-neoforge-1.21.1-21.1.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8019/500/inventoryessentials-neoforge-1.21.1-21.1.15.jar"
+hash-format = "sha256"
+hash = "2ff1c0c036851e367072335c3deb8e28510b23fa0785f38bebe9394d083b885e"

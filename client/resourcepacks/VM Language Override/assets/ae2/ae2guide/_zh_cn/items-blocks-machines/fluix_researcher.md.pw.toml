@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_researcher.md"
+filename = "fluix_researcher.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/fluix_researcher.md"
+hash-format = "sha256"
+hash = "7edb3d9a0fc6be9947d4f5bcfc982c29bcc91abb6be8229f95089f39dea41825"

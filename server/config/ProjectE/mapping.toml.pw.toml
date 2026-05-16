@@ -1,0 +1,8 @@
+name = "mapping.toml"
+filename = "mapping.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d007bcfeaf50036310a92e748bd1eee5393a44049f553fb3b917d717d9c955ea.toml"
+hash-format = "sha256"
+hash = "322766d9d2c805d2d28fdc13e90b6892e7fdb9f70ea6cdc3dec9ea60df0f289d"

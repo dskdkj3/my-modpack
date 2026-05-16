@@ -1,0 +1,8 @@
+name = "palis_crystal.md"
+filename = "palis_crystal.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/bae653ac1e1b3a96cbfc32eab0c59f9fb85712298c189f3e76459038e71f3d7d.md"
+hash-format = "sha256"
+hash = "c05bc16d2cea8eeeddc4a0c89169ef23d95f433d47ac7479a660f61238b31d96"

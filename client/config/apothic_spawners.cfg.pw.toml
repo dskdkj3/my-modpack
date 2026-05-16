@@ -1,0 +1,8 @@
+name = "apothic_spawners.cfg"
+filename = "apothic_spawners.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2c14a5dff13487bb0c480ff26d55f06a4677e5bf150d4a0115ac29202705d47.cfg"
+hash-format = "sha256"
+hash = "cf4881fcb29e74ddaa907c0fb378f1d1c37780611b826e0f62fc21baebd67571"

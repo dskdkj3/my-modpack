@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_steel_leggings_from_blasting.json"
+filename = "nugget_steel_recycle_steel_leggings_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e13a86902b29ad6371d7240872ce1cb2bd86f1e7ccb407794153a88527fa198.json"
+hash-format = "sha256"
+hash = "59d08a3e1b05079737822c216c2f6b0761f6025cfda0ae6594f0f0d703a0335c"

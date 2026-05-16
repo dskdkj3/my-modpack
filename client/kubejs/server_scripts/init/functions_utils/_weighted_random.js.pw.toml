@@ -1,0 +1,8 @@
+name = "_weighted_random.js"
+filename = "_weighted_random.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72fbf6e6d375a9803cc56d48d8ddea8eec5970b9528a5fdac57d8ef948486d04.js"
+hash-format = "sha256"
+hash = "48af6409bd10f1bcbd01f11a6ffe51be35ff618479e862c8e2ce3849b1d613ab"

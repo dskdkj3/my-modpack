@@ -1,0 +1,8 @@
+name = "glyph_orbit.toml"
+filename = "glyph_orbit.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c9d3cfa33ce15cecda0798face32f4b84209f7b482da1a554fc757ad8e4e510.toml"
+hash-format = "sha256"
+hash = "cc6826ea137cd8a61acfc9d968eb87309fc6a106a0192078e49171b0c5722442"

@@ -1,0 +1,8 @@
+name = "spectre_energy_injector.json"
+filename = "spectre_energy_injector.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52bf4dd7b9f91834ca8644d326d210dc26cbe817d0ce9698d315b829b8fdcdf7.json"
+hash-format = "sha256"
+hash = "bac165717ea9be59746e6d93dfb7febb3395f59af9f26e7544c5d940e9d493a0"

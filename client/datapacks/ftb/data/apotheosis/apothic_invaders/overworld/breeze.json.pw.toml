@@ -1,0 +1,8 @@
+name = "breeze.json"
+filename = "breeze.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c227b04c9da5ba75fac7ffd98141a03d6d7efa0c64ab783d25c33ac95423bb03.json"
+hash-format = "sha256"
+hash = "3045967d1eea132ce293c72d206ad2f4c20b5d2f6e2bc1ec9c40cf3f1e72626a"

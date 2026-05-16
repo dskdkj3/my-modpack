@@ -1,0 +1,8 @@
+name = "mod_variety.json"
+filename = "mod_variety.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45e1c4ed3bd4cba44d978a7a94a343c02ef75b6a92a8b16245d68327a48b0999.json"
+hash-format = "sha256"
+hash = "adfeabd038a8f28ca4ae1c181d41b6b72d472f0b4104f78af3994d2933d93700"

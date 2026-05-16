@@ -1,0 +1,8 @@
+name = "source_gem.md"
+filename = "source_gem.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/56ce192f02cbd8a816413edd0dcdd560107e39b5a218c857b523377d14c20b9c.md"
+hash-format = "sha256"
+hash = "228b0d9cd5d647b57765e19fb383e4f43fb51f9ed1203280a9e1ecfb7416c9fa"

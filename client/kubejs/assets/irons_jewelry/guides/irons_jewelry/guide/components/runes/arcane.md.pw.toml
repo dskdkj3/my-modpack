@@ -1,0 +1,8 @@
+name = "arcane.md"
+filename = "arcane.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15fde7e1cf22e360e3867f3cf70e58439ff7755e6675d07a64860ff1162568f6.md"
+hash-format = "sha256"
+hash = "f3590a9c047ac9fce2d52912437a565b4cfb99f4b0250d48cf9b10896fa828f9"

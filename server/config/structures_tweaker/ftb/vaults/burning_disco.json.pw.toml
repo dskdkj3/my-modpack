@@ -1,0 +1,8 @@
+name = "burning_disco.json"
+filename = "burning_disco.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/db6112bda3eab1b956bf5801c9fc718f31ab9ecc5031985481c04a5c2ce653b6.json"
+hash-format = "sha256"
+hash = "e219ee9bb36e81d8090cd41b429508f95e27b818b42ca8dd78a60c2b5d22412b"

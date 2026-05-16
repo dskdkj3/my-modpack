@@ -1,0 +1,8 @@
+name = "supreme_machine_frame.json"
+filename = "supreme_machine_frame.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e83c79e95ae2537ca88aa06e2b90d266917988a5e3760dd8faf3a30e1eb19c86.json"
+hash-format = "sha256"
+hash = "043b7a271722d6bc75ee09f8ec868766b3843a65abe8486ad4ff33e070b19f34"

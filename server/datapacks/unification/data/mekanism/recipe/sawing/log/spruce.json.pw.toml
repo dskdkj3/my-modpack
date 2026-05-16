@@ -1,0 +1,8 @@
+name = "spruce.json"
+filename = "spruce.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7eb85335622a4b1c979b80af3793d04dc4ca25d4021042bfff1fc9f6f7aa4cc1.json"
+hash-format = "sha256"
+hash = "3878c39b1d9d600dd6d76f44fdc6f6e541539b231c6a293b3cd2f3395ca5136e"

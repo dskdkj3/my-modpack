@@ -1,0 +1,8 @@
+name = "sb4_title_background.png"
+filename = "sb4_title_background.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/305e5f51a77d6cab11ae71e212c65b77fb3be8d9193d2b770f12c39c7382a0e1.png"
+hash-format = "sha256"
+hash = "65bfcc432e4d8915cab28d876546e06966572453e6d7548b1aeda1f199263b97"

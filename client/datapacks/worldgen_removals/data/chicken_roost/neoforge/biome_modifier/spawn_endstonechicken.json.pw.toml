@@ -1,0 +1,8 @@
+name = "spawn_endstonechicken.json"
+filename = "spawn_endstonechicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/082e251b7f03ef59e7f600d7990121e256ee415d9c6364a390fc0ce11d0cc6bb.json"
+hash-format = "sha256"
+hash = "68b1ad420c8ef597d07e28a6b36947d5f39a1ef1f131ce594e48ddf710e549ca"

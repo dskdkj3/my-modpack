@@ -1,0 +1,8 @@
+name = "oilalt_pnc_meka.json"
+filename = "oilalt_pnc_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/8149fc3678f7b09b5a261391afe32b691f9923e7e723c7acd46745b81ee1a60f.json"
+hash-format = "sha256"
+hash = "ea91f41990bea1889f70ba41c7a3701df8c3e45365123847b40b889bd66bba8b"

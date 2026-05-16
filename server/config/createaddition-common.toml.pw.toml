@@ -1,0 +1,8 @@
+name = "createaddition-common.toml"
+filename = "createaddition-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0fa913117192d617aa64df988089461efb8858d7270d8fbd9da3fef89c52534.toml"
+hash-format = "sha256"
+hash = "1d3fe38e430028739cdaf3cb453aedd18bdfaf650f1df562d05cfe581f8f75e4"

@@ -1,0 +1,8 @@
+name = "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
+filename = "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5770/623/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "5f856c47156915fd13ff42917401e488212bb5e2df25fde41f6ec1b032e383db"

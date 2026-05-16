@@ -1,0 +1,8 @@
+name = "dark_void.md"
+filename = "dark_void.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2dc9f519c7ac539cf1650d6854e74572aaa58cd42b6460ca192d52c3da80de0d.md"
+hash-format = "sha256"
+hash = "98b42f2dcbf1256acfcb62675652e8ce08c7add2ac3a9324f628da338522ab04"

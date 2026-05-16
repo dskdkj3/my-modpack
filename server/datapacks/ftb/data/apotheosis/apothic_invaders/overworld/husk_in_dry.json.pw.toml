@@ -1,0 +1,8 @@
+name = "husk_in_dry.json"
+filename = "husk_in_dry.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb91a46288e84883a7e5d51cb908c6ec55faf1a0008b675eeeccdee0fa443f7b.json"
+hash-format = "sha256"
+hash = "e9961001ea71002029810f6a7915d359a254d9a32afb7d01da76c685b5062062"

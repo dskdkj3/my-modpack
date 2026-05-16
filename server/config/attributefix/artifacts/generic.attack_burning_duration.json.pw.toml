@@ -1,0 +1,8 @@
+name = "generic.attack_burning_duration.json"
+filename = "generic.attack_burning_duration.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6cfcb7de6a6ecaa4606af9cd0caabe88a4e0bcb69373a91b76b7134de80b3dc.json"
+hash-format = "sha256"
+hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"

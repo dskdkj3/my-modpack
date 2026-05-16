@@ -1,0 +1,8 @@
+name = "aqua_walker.yaml"
+filename = "aqua_walker.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7d526760c13349342da90cf83272b65f454ab7c0449d53d7837b9aff6c7d405.yaml"
+hash-format = "sha256"
+hash = "3dc6eeb4ae217bbdeb07216975047ef388947046ee27cb7dee033cbf1e20801e"

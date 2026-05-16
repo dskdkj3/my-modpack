@@ -1,0 +1,8 @@
+name = "cognitive_amalgam_blasting.json"
+filename = "cognitive_amalgam_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6ca23b3d56991503345535d55e6871a8fc7148fb5fa260f995b58917f6952f4a.json"
+hash-format = "sha256"
+hash = "6f6c9b0f1685a7e3a3daf4ad65f0afd4fd608cea61311d6aca9c316f7a7e7741"

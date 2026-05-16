@@ -1,0 +1,8 @@
+name = "pocket_storage.js"
+filename = "pocket_storage.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/023cb7dc1ae52c9114e738e41a3bb91f85b920e53707f122cb6a7a93accb8da1.js"
+hash-format = "sha256"
+hash = "b91991705cc3b528bed2481d00e8a65d86e342ec08e52c75d9b7f6dc2d005a31"

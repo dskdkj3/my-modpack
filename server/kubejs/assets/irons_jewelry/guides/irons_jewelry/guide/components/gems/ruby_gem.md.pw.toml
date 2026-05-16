@@ -1,0 +1,8 @@
+name = "ruby_gem.md"
+filename = "ruby_gem.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b998ebc84955d5c6f0a99d3784f5f59d775a86e6739757e229394c85b073ba15.md"
+hash-format = "sha256"
+hash = "6db8c25ce44a9aca9cf1eea26d64a8e51058efb6258abbaa30874bb4607edacd"

@@ -1,0 +1,8 @@
+name = "betterf3.toml"
+filename = "betterf3.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81cd102239e6121770423d08a6216628d12be05b14239b083a0bb07a53572602.toml"
+hash-format = "sha256"
+hash = "5554d8a205ee461536ba0f1bad6e9c0937e378a2e2696bb78fc055c484c50b4e"

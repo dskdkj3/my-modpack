@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: LICENSE"
+filename = "LICENSE"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/LICENSE"
+hash-format = "sha256"
+hash = "bc75f56160ed31f3f4d94809777f695d6ca21947da583943596f4c5d0fcb4f62"

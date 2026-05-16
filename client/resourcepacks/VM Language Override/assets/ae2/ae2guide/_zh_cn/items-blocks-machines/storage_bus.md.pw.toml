@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/storage_bus.md"
+filename = "storage_bus.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/storage_bus.md"
+hash-format = "sha256"
+hash = "ab6795a0b7784602032ce7c06d862f8059b28a98cc1251b88432d782d4ce5e3b"

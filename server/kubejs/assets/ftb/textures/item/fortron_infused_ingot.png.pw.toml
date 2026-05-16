@@ -1,0 +1,8 @@
+name = "fortron_infused_ingot.png"
+filename = "fortron_infused_ingot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b1e0b5501abef3715e8f616df294f1a5291a9714c9ab9ff7db3f6c88c2fd0d9.png"
+hash-format = "sha256"
+hash = "31b38370b781293db7533d2a1c75b340b0211d19869c929b75564dae7350c9ea"

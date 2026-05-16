@@ -1,0 +1,8 @@
+name = "dark_trapped_chest.json"
+filename = "dark_trapped_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9181225a59276921e9d97da45a983901708abea10d12e94a1a4d425363332381.json"
+hash-format = "sha256"
+hash = "2b6c0dce3ef9c8cf7ac41bb519ac6da0e58730558a8dc9b41d788c9ee021c1e6"

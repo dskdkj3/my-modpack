@@ -1,0 +1,8 @@
+name = "circuit_fabricator.js"
+filename = "circuit_fabricator.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e62b68b3eeefcfb20f39e4a3a0c85e554ee3c0b7d944917787c18fc07dd3f6f.js"
+hash-format = "sha256"
+hash = "17367da1723efd06d3370f26cb5f8383f610064b1f5ba6e7520e18ecde3cb7fb"

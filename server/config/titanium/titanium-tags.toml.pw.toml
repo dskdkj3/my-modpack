@@ -1,0 +1,8 @@
+name = "titanium-tags.toml"
+filename = "titanium-tags.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d117dadc285a4d3af130231422a547197bb25524310c6a603702938f5895a0c.toml"
+hash-format = "sha256"
+hash = "a03cffa3642c3db1f385fa28513bd8fd2b77fc1ea439c8e9371428a7934f7e89"

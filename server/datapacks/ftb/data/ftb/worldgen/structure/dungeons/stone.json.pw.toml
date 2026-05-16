@@ -1,0 +1,8 @@
+name = "stone.json"
+filename = "stone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5aa1e55690cda611cf33e1bf72260c957ed2c82e864c1b2b3c2351a001bcecfa.json"
+hash-format = "sha256"
+hash = "19fa5d104cd11b1f6ec955c28ce0acd0c4c39cebb23eebf79c72a4bad359bdfd"

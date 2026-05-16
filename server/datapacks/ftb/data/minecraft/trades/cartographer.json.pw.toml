@@ -1,0 +1,8 @@
+name = "cartographer.json"
+filename = "cartographer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73ca58c2f0176854956b99d05d47a5e974491b8f00894a59eaea37953d8fbe24.json"
+hash-format = "sha256"
+hash = "596e933ad28468e860cfb9e9f1e6b76a7d080a19ebf836889f19f79b9e153aad"

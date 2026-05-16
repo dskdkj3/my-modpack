@@ -1,0 +1,8 @@
+name = "upgrade_iron_chestplate_to_golden_chestplate.json"
+filename = "upgrade_iron_chestplate_to_golden_chestplate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d4ea2f46a817b669de4d2bdcabe787e6f241d521787757a76e406ebd0e5541c.json"
+hash-format = "sha256"
+hash = "2d11b69852759feff14ed0df4fd1347473a442eef36e4f7b09aff9acb4e094a6"

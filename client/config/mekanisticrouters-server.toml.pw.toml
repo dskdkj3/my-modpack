@@ -1,0 +1,8 @@
+name = "mekanisticrouters-server.toml"
+filename = "mekanisticrouters-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb8ea3c4764e2df9e298e9d2c588b0ac23e6c038622b533537ed9ee9826e53dd.toml"
+hash-format = "sha256"
+hash = "9e1b74aced857202769ad4b2d70dbc1681e3464291dfb58f3a375c5a1b7cae4b"

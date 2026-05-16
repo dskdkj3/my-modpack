@@ -1,0 +1,8 @@
+name = "fission_bros.png"
+filename = "fission_bros.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85a6098f6e117f78f5a7839a19e5a41a515f567d63c22bf2dcbcf6f3b00c0749.png"
+hash-format = "sha256"
+hash = "3f7d35783dfd6ee3ebeb00eee15968ba045b9a5b57fea6b5ada8056ce043ab26"

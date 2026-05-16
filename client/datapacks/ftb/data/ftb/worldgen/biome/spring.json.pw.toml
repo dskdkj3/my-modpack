@@ -1,0 +1,8 @@
+name = "spring.json"
+filename = "spring.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5cf1322553287209b1addc4b54783dbb639eca6a1a7a3e8bca8aa59f8454a9ca.json"
+hash-format = "sha256"
+hash = "ec596abe3f5e0228e56f96e1e451b9978af945062e973408eda09e28276d96ab"

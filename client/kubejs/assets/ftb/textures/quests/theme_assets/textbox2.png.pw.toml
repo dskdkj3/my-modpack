@@ -1,0 +1,8 @@
+name = "textbox2.png"
+filename = "textbox2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c3721434df33dd501fdcf5153f1ae0daac9a75c1351dac278ae53d0f1f0c6f7.png"
+hash-format = "sha256"
+hash = "272634aeb65f26de195b2ae624db4fa852b1191260fd2a532290c378261bb4cf"

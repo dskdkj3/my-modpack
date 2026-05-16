@@ -1,0 +1,8 @@
+name = "nanny-server.toml"
+filename = "nanny-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75738a584facd4faa48e50d5b0d6fad6b32297a942ea66f14b9def8459080d8f.toml"
+hash-format = "sha256"
+hash = "3ea63565796c544cda48b1d0f8208c9c9afc97cb7b750c91cf82ab3b55ca31d9"

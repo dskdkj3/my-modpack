@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/meteorite_compass.md"
+filename = "meteorite_compass.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/meteorite_compass.md"
+hash-format = "sha256"
+hash = "7b60346cc18579cf30143e7867f2d3d2b5a7a3c807de2de667ec822d46253fce"

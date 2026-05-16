@@ -1,0 +1,8 @@
+name = "functionalstorage-common.toml"
+filename = "functionalstorage-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba370f5bbcb1f210fb5aea60393e4dd6ba6d069ad4f1cc1b52e320a2f82a10c1.toml"
+hash-format = "sha256"
+hash = "17d2b12e9fbb5f811850b5a772b6c5e59c352ba8dd87957abdace159656e7771"

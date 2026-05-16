@@ -1,0 +1,8 @@
+name = "soul_ward_capacity.json"
+filename = "soul_ward_capacity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4ea784047e83341f3048102b85dfcc6dafd9f8b566814bc1c0a4f6b724d88726.json"
+hash-format = "sha256"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"

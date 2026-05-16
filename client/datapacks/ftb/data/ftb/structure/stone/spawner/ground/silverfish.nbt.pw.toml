@@ -1,0 +1,8 @@
+name = "silverfish.nbt"
+filename = "silverfish.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/00a475c1b7895a26315119242cfd6ffbcbc2b473ddb3adb9f898afdcb3536c7f.nbt"
+hash-format = "sha256"
+hash = "35fd5b6157555289e784e651f461fb14fc9c0e11223d411c68f116791fc7fcfc"

@@ -1,0 +1,8 @@
+name = "anvil_disenchanting.json"
+filename = "anvil_disenchanting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe214517fe70c081d2abdb7d32f80589b74d2be3fe08e4e971e52e04d9691425.json"
+hash-format = "sha256"
+hash = "03a78efdba88db3cb16a9d1882b61e60f167debcb7068dcad652cbf4be2c179d"

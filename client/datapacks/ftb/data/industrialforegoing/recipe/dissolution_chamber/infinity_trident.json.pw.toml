@@ -1,0 +1,8 @@
+name = "infinity_trident.json"
+filename = "infinity_trident.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cf40ac4839b2187afe476ad93842d9ef19f8cfc6983d919f4deae27fcb251bd7.json"
+hash-format = "sha256"
+hash = "b9ce0972b11221a0d213d5f4082d6dc087071fccac7b4072fdf4e5c20bb462fa"

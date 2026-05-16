@@ -1,0 +1,8 @@
+name = "t2_echo_enchanter.json"
+filename = "t2_echo_enchanter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e664ac2fe5a566eb4bddf0d59ba44724cedc924de3dcf9b4265c9f01652d9b8.json"
+hash-format = "sha256"
+hash = "064f2fc69981df030c2f014e442f137702a78a3580679c933d5104bb03f27083"

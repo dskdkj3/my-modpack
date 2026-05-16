@@ -1,0 +1,8 @@
+name = "generic.hitbox_width.json"
+filename = "generic.hitbox_width.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c38062adc77e4b7f631f831473955cfbe13b3b5626389c3b5ec3c03127765b8a.json"
+hash-format = "sha256"
+hash = "0e28210686e7f216d46ba0fee2508c263c7c39e26fb6d8380404789d3185e73a"

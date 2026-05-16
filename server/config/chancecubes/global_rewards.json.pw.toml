@@ -1,0 +1,8 @@
+name = "global_rewards.json"
+filename = "global_rewards.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/06e8fa557a293b02e95fb7b34e8358edfd5da0f90c5f3a35f5a730ab83819c6f.json"
+hash-format = "sha256"
+hash = "e3ff0527a9d1f9631fe49651bd89bd9f1a60554dba00c134f8b86e6abc85fb49"

@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/vmtranslationupdate.toml"
+filename = "vmtranslationupdate.toml"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/vmtranslationupdate.toml"
+hash-format = "sha256"
+hash = "c7c75eec4b25686e1a61f9e342ca92c6f278a0e5164c9ce9e29c7e6c754b4cc4"

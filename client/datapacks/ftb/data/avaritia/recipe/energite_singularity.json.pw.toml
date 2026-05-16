@@ -1,0 +1,8 @@
+name = "energite_singularity.json"
+filename = "energite_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/0085645caadefaffd417a9c2688190c7acb1f36894e789e584d24b92808d239a.json"
+hash-format = "sha256"
+hash = "a0cc136482e88dd63d8502d74d3bdce52ca82acc7924c8cfffae402df45003d4"

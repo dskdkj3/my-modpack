@@ -1,0 +1,8 @@
+name = "upgrade_stone_sword_to_iron_sword.json"
+filename = "upgrade_stone_sword_to_iron_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b999f39411e7a49157161aea6a48305afa438bebc46e16b4a6ff9776c90b1538.json"
+hash-format = "sha256"
+hash = "3de32e7d944ff482357a7759e21b143a13b2a6428132b724eaef4693821818e8"

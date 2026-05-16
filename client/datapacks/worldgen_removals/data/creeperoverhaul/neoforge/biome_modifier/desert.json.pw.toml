@@ -1,0 +1,8 @@
+name = "desert.json"
+filename = "desert.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37138b06ec35c1f0c1cb1c6ce8979aa24c6ad1adbfe3bb097494e540e57954d1.json"
+hash-format = "sha256"
+hash = "48a3ada9398a6391b8216a1fc9df49f013ad248046faebcf74448cb9e82e8fa7"

@@ -1,0 +1,8 @@
+name = "auxilium_hover.png"
+filename = "auxilium_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81853d2fd55484cd4f451bd502a62c8ff4523df351d44ddac7914fbd252c2201.png"
+hash-format = "sha256"
+hash = "ffb4e785f52672016aa10cfcdceebbef3113744f840578e6bf02665e5ae973f9"

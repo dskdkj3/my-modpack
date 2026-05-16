@@ -1,0 +1,8 @@
+name = "redstone_slot.png"
+filename = "redstone_slot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/2695e5e9b94ba3ffbe78e2e9a63a25970d55f847c7e7d02c190d5ba5fda0ab57.png"
+hash-format = "sha256"
+hash = "9dde51aa12702165c0ef39f3f92f727670a9f43ee4582e209b16fb6fa2a89f67"

@@ -1,0 +1,8 @@
+name = "ancient_battleground_eternal.json"
+filename = "ancient_battleground_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/daa59a88a41abe0b597c938354fbd962c19bd55cc2a085dc83c388e6cbf11ed9.json"
+hash-format = "sha256"
+hash = "369ab9f153e79fb204f89b9ffc4189bd86dfdaaf778bbe5ffbb0a500d03e9bc5"

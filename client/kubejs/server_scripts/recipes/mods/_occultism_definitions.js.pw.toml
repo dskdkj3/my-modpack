@@ -1,0 +1,8 @@
+name = "_occultism_definitions.js"
+filename = "_occultism_definitions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33604c8bc2aff43e4965a644c287c6669b722ffc04269b14936791bec4b28eb7.js"
+hash-format = "sha256"
+hash = "a4ab0a111077cda466e133f8c8b67fee43b6940cd903f4816136a7a8984274be"

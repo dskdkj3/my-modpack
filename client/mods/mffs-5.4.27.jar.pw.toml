@@ -1,0 +1,8 @@
+name = "mffs-5.4.27.jar"
+filename = "mffs-5.4.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7370/783/mffs-5.4.27.jar"
+hash-format = "sha256"
+hash = "7ecdc7f65100771b8fdd18e7b45c2ed757c1477905906d2c5ad03e702762c4f2"

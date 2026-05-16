@@ -1,0 +1,8 @@
+name = "soulcage_enchantable.json"
+filename = "soulcage_enchantable.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09a2c6db2b16effb1e38545ed5fe6c5deec541477dfce2b4e874198e621312a8.json"
+hash-format = "sha256"
+hash = "5c1ff4b94f35157a3045c855934bf5949d4dcba36f6f59280db08032021c547d"

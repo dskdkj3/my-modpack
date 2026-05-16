@@ -1,0 +1,8 @@
+name = "world_engine_fence_plating_side.json"
+filename = "world_engine_fence_plating_side.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1cf7ed048161ca0f258b08bbdc600bd029c585b9c710ee56f1e5a09281c856b9.json"
+hash-format = "sha256"
+hash = "bd21ae1379b575db4869efd53e1ac9d7f4116825c81cc6692d4b726d80a521b3"

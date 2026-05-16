@@ -1,0 +1,8 @@
+name = "event_chickenjockey.js"
+filename = "event_chickenjockey.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95d20470c41fbaa1666ab78d4b017168649d7103a1df3a24f019cfb1650b694f.js"
+hash-format = "sha256"
+hash = "8a21b7cd739dcce40d90a1819466aab8c3190ea096b4daac4c3f02c44c76cfff"

@@ -1,0 +1,8 @@
+name = "event_functions.js"
+filename = "event_functions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69884181003a2e6275701faa7a182f2299a37a3dbd6d6d716ce69a80a613702d.js"
+hash-format = "sha256"
+hash = "b2d049f223fa5ae9e2e89c6d2a4948204d4b450791b7c788dd9c1587956803f3"

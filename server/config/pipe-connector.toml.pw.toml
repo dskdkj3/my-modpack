@@ -1,0 +1,8 @@
+name = "pipe-connector.toml"
+filename = "pipe-connector.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/0595d5c8e107389c2a66e5f022861dd84920ce005aa149f8bcae78a9299f29b9.toml"
+hash-format = "sha256"
+hash = "5692a99c44d707b1b67dac1f8791a04ec70bb2ec10b4ea9565b87b16cd9f267a"

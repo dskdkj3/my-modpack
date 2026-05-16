@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/ae2-mechanics/meteorites.md"
+filename = "meteorites.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/ae2-mechanics/meteorites.md"
+hash-format = "sha256"
+hash = "2805facb93d2560772167e17164d6d219b6ed17e9ab89983a75e0095b3fdd999"

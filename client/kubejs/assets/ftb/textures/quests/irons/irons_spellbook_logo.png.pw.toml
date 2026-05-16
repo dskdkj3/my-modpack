@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/irons/irons_spellbook_logo.png"
+filename = "irons_spellbook_logo.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/irons/irons_spellbook_logo.png"
+hash-format = "sha256"
+hash = "a9483541ed76f71df734410488cdfa042d94bbec7d864ce4ea63d39562fa2135"

@@ -1,0 +1,8 @@
+name = "computercraft-server.toml"
+filename = "computercraft-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5e2f5cd256ddfc9ef636de05932fa3751f771cbf2a76965a30e8e7059274a5a.toml"
+hash-format = "sha256"
+hash = "99bed4915b2e705a2262d2c64607e4ee88dcbcbf150ac58c87880f3c6c79ec41"

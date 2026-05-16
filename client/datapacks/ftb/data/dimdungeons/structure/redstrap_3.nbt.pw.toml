@@ -1,0 +1,8 @@
+name = "redstrap_3.nbt"
+filename = "redstrap_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a9f33b7e706c4373e537b3d83b3bf98891789450fe309f683299a0d5dba2513.nbt"
+hash-format = "sha256"
+hash = "e12fe72cb4853b8d760529f5892c1afcfb64ddd1d852dac472ffdcf032d19082"

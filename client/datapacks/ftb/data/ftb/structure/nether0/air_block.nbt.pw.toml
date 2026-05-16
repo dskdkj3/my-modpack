@@ -1,0 +1,8 @@
+name = "air_block.nbt"
+filename = "air_block.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edb5c9d20d8d1fbc167f53bb04dc2acc66fb7f71e6dbce87ec88a32093a230d8.nbt"
+hash-format = "sha256"
+hash = "f598ca4395b8f45c5523d352c298110868daad00490ad7686c9e684350f88c77"

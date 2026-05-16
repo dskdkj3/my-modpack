@@ -1,0 +1,8 @@
+name = "custommachinery-common.toml"
+filename = "custommachinery-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c19f44a835e5b39a6b04bf2cb93f46fe52e94d41e12aeba4bea043df597e25c8.toml"
+hash-format = "sha256"
+hash = "faf1eb077c42dbf155d7fcf6d6d7f176807a38408df7bdd86bb9a3ba824664b6"

@@ -1,0 +1,8 @@
+name = "twilight.md"
+filename = "twilight.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/8821d87a5316470dc3cfeb9a9830c2db30fa72f0163d8f7d87807b481fc74f14.md"
+hash-format = "sha256"
+hash = "7ab458474b7ef29b29e0e4a97d9d4d37e08cc23d510a7a82334bf11bdb858418"

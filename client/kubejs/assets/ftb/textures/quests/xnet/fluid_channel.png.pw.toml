@@ -1,0 +1,8 @@
+name = "fluid_channel.png"
+filename = "fluid_channel.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c7b3d00653e28233c0127eba042498e25020d200e21fb267d55ece8b45f29ec2.png"
+hash-format = "sha256"
+hash = "1e352131aca7b721f60773a29d6a575e25c474b8e06b02e86414a2b6cf0173cb"

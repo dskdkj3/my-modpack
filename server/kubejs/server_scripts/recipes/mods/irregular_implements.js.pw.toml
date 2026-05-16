@@ -1,0 +1,8 @@
+name = "irregular_implements.js"
+filename = "irregular_implements.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75c489ff07b98f055e3ab1711474b7f1fa9dbb2ddb0b30f9b52c296d6e55186d.js"
+hash-format = "sha256"
+hash = "06b28eff498e31dfb7c8e812850ee89b18e65631d667ec12e4cee71d855d8efc"

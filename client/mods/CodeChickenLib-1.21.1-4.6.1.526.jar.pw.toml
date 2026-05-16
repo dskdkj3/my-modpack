@@ -1,0 +1,8 @@
+name = "CodeChickenLib-1.21.1-4.6.1.526.jar"
+filename = "CodeChickenLib-1.21.1-4.6.1.526.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7281/427/CodeChickenLib-1.21.1-4.6.1.526.jar"
+hash-format = "sha256"
+hash = "e35cb0ca3e3aeb87e1e171242454426d22edf517b06dc38e5c3d5b6d44d6bc04"

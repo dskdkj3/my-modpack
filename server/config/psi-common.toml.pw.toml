@@ -1,0 +1,8 @@
+name = "psi-common.toml"
+filename = "psi-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08f46e9ca2442e4a2c3bd90ea9334aec1880ac62075eeffd309a0f00a0615832.toml"
+hash-format = "sha256"
+hash = "86b6841f8ca1cd89f3f22c1760f629670d46a5981bcca52f0dc1126e304d1018"

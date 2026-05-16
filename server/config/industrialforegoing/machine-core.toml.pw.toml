@@ -1,0 +1,8 @@
+name = "machine-core.toml"
+filename = "machine-core.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc8a0419a11524de58347ed79910e6afefe9cb9f7f498499e21c36bdbde19fe7.toml"
+hash-format = "sha256"
+hash = "46253d6757c201847b3e8cbba8cf94b7fde363bd977513715656560b8d949fa7"

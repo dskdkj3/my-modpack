@@ -1,0 +1,8 @@
+name = "event_questingram.js"
+filename = "event_questingram.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b755245b36b6e0d760d23d5a2bcba93b698e62d0a0e984afde8bff9dff5ff15d.js"
+hash-format = "sha256"
+hash = "e50d3601ced2dd69f4c8a03e1885a7b6dda8c117e178cd9b706c66fc3a92585d"

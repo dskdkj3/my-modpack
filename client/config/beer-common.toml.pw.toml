@@ -1,0 +1,8 @@
+name = "beer-common.toml"
+filename = "beer-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84662a81b53f0e272ba676e92bc76c6f9b4972ec3b6df2295b577ba0d7f0315f.toml"
+hash-format = "sha256"
+hash = "1d316aec2aa3a4c47529de25183327a3ebad9d1a19e8e7b71648afc3168abcb1"

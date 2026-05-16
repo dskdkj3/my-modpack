@@ -1,0 +1,8 @@
+name = "refined_obsidian_ingot.md"
+filename = "refined_obsidian_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6a090284d09d1dc1c5427e21705816a3f9c28fdebfa8970f609414075c2a3fd.md"
+hash-format = "sha256"
+hash = "ecce56539645b38da25bcd9978808ef866ec5aa4e9eecc0641d3b6311c2ebc84"

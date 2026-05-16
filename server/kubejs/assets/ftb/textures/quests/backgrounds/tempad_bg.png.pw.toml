@@ -1,0 +1,8 @@
+name = "tempad_bg.png"
+filename = "tempad_bg.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/1525fb0d97c38bd74e5d670dff7cbdf75fdbb3a5248a80d8316de1c8fa6177ef.png"
+hash-format = "sha256"
+hash = "f01ebc5111b9b042f189eae808e03bbc7bf44869964f43fe329c58b3d9f7821b"

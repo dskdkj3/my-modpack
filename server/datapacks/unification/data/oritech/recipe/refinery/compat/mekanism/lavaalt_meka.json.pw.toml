@@ -1,0 +1,8 @@
+name = "lavaalt_meka.json"
+filename = "lavaalt_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a196c93c98d9b5acb416185027740697f993a7058695ce3d1b1b85d8a02c1927.json"
+hash-format = "sha256"
+hash = "8c7dec9794915a23250ab25aa2611372e54dc7829a01d1bfeb1d163cacb9fbf4"

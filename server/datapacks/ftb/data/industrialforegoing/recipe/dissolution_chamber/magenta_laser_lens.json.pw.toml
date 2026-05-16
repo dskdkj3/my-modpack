@@ -1,0 +1,8 @@
+name = "magenta_laser_lens.json"
+filename = "magenta_laser_lens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17cfa44e9b2cff272eed8415b1170dd197b2c035b63802b6f0ad0a22c7bf4990.json"
+hash-format = "sha256"
+hash = "bd373645bfed72ccfc010a20be73ee8044dd9518329145ceda9b77daa82592e3"

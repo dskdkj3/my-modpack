@@ -1,0 +1,8 @@
+name = "universalgrid-neoforge-1.21.1-0.3.1.jar"
+filename = "universalgrid-neoforge-1.21.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7954/836/universalgrid-neoforge-1.21.1-0.3.1.jar"
+hash-format = "sha256"
+hash = "92f92499b8e0fb2b863145296a866c1d51da57b6099a219cec1c6728db29800a"

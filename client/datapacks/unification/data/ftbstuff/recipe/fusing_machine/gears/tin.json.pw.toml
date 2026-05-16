@@ -1,0 +1,8 @@
+name = "tin.json"
+filename = "tin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6fd622ac8cf80845929b3304864b4fcad965f0aa71b2f4ae519e83d90add717.json"
+hash-format = "sha256"
+hash = "cb73b7d89613e8cf7cd6fdc16b2c039f4e808271f02cafb989be3fa0b9121a57"

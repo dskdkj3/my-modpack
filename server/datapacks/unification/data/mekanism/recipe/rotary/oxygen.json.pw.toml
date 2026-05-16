@@ -1,0 +1,8 @@
+name = "oxygen.json"
+filename = "oxygen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/7122fd112fdd0375c7d9c2883f71fe84fb91f946d855af56cfae227e1f8eb6b5.json"
+hash-format = "sha256"
+hash = "bf95fe009f6fb73cdc4f8af8ef1ab7db67e8cf57244a6be0d34745e5c950b9ae"

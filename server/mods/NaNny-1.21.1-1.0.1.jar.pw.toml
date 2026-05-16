@@ -1,0 +1,8 @@
+name = "NaNny-1.21.1-1.0.1.jar"
+filename = "NaNny-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5728/615/NaNny-1.21.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "e9667ea0a7f43bf79b166dfd741ba35365056befc6663d9f21000216c101fd90"

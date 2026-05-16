@@ -1,0 +1,8 @@
+name = "experienceobelisk-common.toml"
+filename = "experienceobelisk-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9bf5219599f60687873b7346e53630d71717ec7b036a90fd0cef6a7658d0c086.toml"
+hash-format = "sha256"
+hash = "fb16a9527a149b52dbb6bfd1879257f0e19cb96cc9233d490e7a5eeeba238264"

@@ -1,0 +1,8 @@
+name = "Glassential-renewed-1.21.1-3.4.2.jar"
+filename = "Glassential-renewed-1.21.1-3.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8070/984/Glassential-renewed-1.21.1-3.4.2.jar"
+hash-format = "sha256"
+hash = "1d91a0359a3df16847472d4e425a0401011acaae141bcf59365027ab70043c5a"

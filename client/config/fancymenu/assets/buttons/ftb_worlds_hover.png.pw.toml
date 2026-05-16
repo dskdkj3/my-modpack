@@ -1,0 +1,8 @@
+name = "ftb_worlds_hover.png"
+filename = "ftb_worlds_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aef52ff35bdcb06918038fb01bcfa67dfb6f9fd0baab50c6a529dd48fd837b66.png"
+hash-format = "sha256"
+hash = "9a19a16e221b9da3c8a253bc1eb2282f6e1e185339b2e277c165290f59cf46db"

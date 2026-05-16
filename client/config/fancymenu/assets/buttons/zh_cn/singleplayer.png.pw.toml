@@ -1,0 +1,8 @@
+name = "singleplayer.png"
+filename = "singleplayer.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46fc68db3e108af58bc3d782e73329d386b254081d5ba2a58261eb8091e1f6ad.png"
+hash-format = "sha256"
+hash = "8b74d164be209cc88ed92093d5db701aef867265877d8bc05c2d8c7daafaedec"

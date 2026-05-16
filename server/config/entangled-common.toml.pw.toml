@@ -1,0 +1,8 @@
+name = "entangled-common.toml"
+filename = "entangled-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41f8b0b491ff4c7c138617041eaa2847cc118575500d57c5044a927cf1836991.toml"
+hash-format = "sha256"
+hash = "740cd59cf92dbff7eb0927b79981c28ad04ec5449bf1744a9c0edae313618140"

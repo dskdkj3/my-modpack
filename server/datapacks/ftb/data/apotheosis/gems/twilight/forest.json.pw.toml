@@ -1,0 +1,8 @@
+name = "forest.json"
+filename = "forest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e58681d094f12a00e1f878b94340402123b9f50d6404a2d8a1a42076a610e595.json"
+hash-format = "sha256"
+hash = "5bedf70de892bfda2cae58919b7e3aa856dbc7365be35ad8aa96fe4b8de10e02"

@@ -1,0 +1,8 @@
+name = "irons_apothic-2.2.0.jar"
+filename = "irons_apothic-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8048/938/irons_apothic-2.2.0.jar"
+hash-format = "sha256"
+hash = "4b2f1c714cd960d71c9fbdddd71684b4da8a8026f5711a2d78d68e7f633e5f3b"

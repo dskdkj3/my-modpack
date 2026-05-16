@@ -1,0 +1,8 @@
+name = "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
+filename = "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5850/587/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
+hash-format = "sha256"
+hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"

@@ -1,0 +1,8 @@
+name = "infinity.json"
+filename = "infinity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a4ce38bd5a6bf985fdfdd6d5f8311f4d387d3dacd1927bffc3962d8658025cf.json"
+hash-format = "sha256"
+hash = "fb2a89220b155bc77c2dc8ad11bdd10e09e57f73c4822e497556843cf96bb39b"

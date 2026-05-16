@@ -1,0 +1,8 @@
+name = "upgrade_chainmail_helmet_to_iron_helmet.json"
+filename = "upgrade_chainmail_helmet_to_iron_helmet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b970e3eb5ded34b4c4e6fe0b95d9704683b0060738948d942480386136181842.json"
+hash-format = "sha256"
+hash = "b6f176b9cc71e179d73271eb316972fc4897bce36c1cfe648c64661af23514df"

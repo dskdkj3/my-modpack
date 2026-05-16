@@ -1,0 +1,8 @@
+name = "glyph_dampen.toml"
+filename = "glyph_dampen.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73037d4eaa365386cf5371b251e3449a82381c974a2956cf918b6bc6c905a764.toml"
+hash-format = "sha256"
+hash = "526371ec6a6012cc7671ec633d6a686a173082ad74ce55a0ba45945297db15e3"

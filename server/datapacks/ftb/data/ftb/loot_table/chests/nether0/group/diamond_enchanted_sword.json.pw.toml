@@ -1,0 +1,8 @@
+name = "diamond_enchanted_sword.json"
+filename = "diamond_enchanted_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca973eaa558ea89442e04c93c497d0384b43c413b435a9033ef5adbf6460f2e5.json"
+hash-format = "sha256"
+hash = "e17002beca5a35e481668c50c0563c4f773631fb72d8e22ae6fcea01e9184b03"

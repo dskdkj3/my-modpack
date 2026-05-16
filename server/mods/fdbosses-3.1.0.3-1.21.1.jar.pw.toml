@@ -1,0 +1,8 @@
+name = "fdbosses-3.1.0.3-1.21.1.jar"
+filename = "fdbosses-3.1.0.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7653/113/fdbosses-3.1.0.3-1.21.1.jar"
+hash-format = "sha256"
+hash = "0073f1305ddefad8eda287c6a3c4281b22d7b44dbd598400f876545eba00ea73"

@@ -1,0 +1,8 @@
+name = "upgrade_chainmail_leggings_to_iron_leggings.json"
+filename = "upgrade_chainmail_leggings_to_iron_leggings.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc72d7c29ff637be4bd79b00102b9185bc6a88aa388c4d846d07e35918aafaa8.json"
+hash-format = "sha256"
+hash = "24a9710af36d1c43520f3bbd773f6a6f5fedb36184681061c76f81421175c82e"

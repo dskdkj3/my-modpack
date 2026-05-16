@@ -1,0 +1,8 @@
+name = "structure-expansion-neoforge-88.0.1.jar"
+filename = "structure-expansion-neoforge-88.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6753/853/structure-expansion-neoforge-88.0.1.jar"
+hash-format = "sha256"
+hash = "b42e0cb391f7ce6506c77854ea589d44539c7fbdf4289ab1ac9a3fe7a29f915f"

@@ -1,0 +1,8 @@
+name = "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
+filename = "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8049/672/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
+hash-format = "sha256"
+hash = "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90"

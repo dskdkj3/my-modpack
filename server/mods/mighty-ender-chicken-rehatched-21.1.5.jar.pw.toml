@@ -1,0 +1,8 @@
+name = "mighty-ender-chicken-rehatched-21.1.5.jar"
+filename = "mighty-ender-chicken-rehatched-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7221/222/mighty-ender-chicken-rehatched-21.1.5.jar"
+hash-format = "sha256"
+hash = "146574f1eb5212f32c14c3220d0e0ab57d770e55ce4303c17dc9eadee6d859ab"

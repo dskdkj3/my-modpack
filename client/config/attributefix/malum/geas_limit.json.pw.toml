@@ -1,0 +1,8 @@
+name = "geas_limit.json"
+filename = "geas_limit.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/297ce32dc157d3e2ba5cd47d4a5d36e6ccd288728717b9d60dd7a18e9ee488ef.json"
+hash-format = "sha256"
+hash = "47aa0b4848f029f0abf1824185964a53590a4a885e24dc1ad798e28245ea524e"

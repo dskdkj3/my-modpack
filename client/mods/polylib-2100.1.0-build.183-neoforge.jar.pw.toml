@@ -1,0 +1,8 @@
+name = "polylib-2100.1.0-build.183-neoforge.jar"
+filename = "polylib-2100.1.0-build.183-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7140/477/polylib-2100.1.0-build.183-neoforge.jar"
+hash-format = "sha256"
+hash = "6861974b2300c899627374470b81cf4922378cd042363c383c36d758fb3808cb"

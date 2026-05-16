@@ -1,0 +1,8 @@
+name = "bronze.json"
+filename = "bronze.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b391d53be1c2ee13bbc82591a0416c1b152f36bf992e16dba392d60f2962d1f8.json"
+hash-format = "sha256"
+hash = "fa1396f2d985740e3f5366537068ed7c97fdeb32482d986b6e6cdfdb4d76f695"

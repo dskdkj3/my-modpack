@@ -1,0 +1,8 @@
+name = "ftbechoes-server.snbt"
+filename = "ftbechoes-server.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0dadba7509660b903f32bacc1a2bc7f0bb593cdd3203f4cbe8a94363ff91bc5.snbt"
+hash-format = "sha256"
+hash = "5d260a70b47c0c718eba562ec1b99bd5525dbe2cd0d5889864f7a4890d79f0e8"

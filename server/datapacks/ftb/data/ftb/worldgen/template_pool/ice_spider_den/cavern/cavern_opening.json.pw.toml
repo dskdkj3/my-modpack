@@ -1,0 +1,8 @@
+name = "cavern_opening.json"
+filename = "cavern_opening.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fae731b68e7d54ce5f56f9a9d402ca5f0df536b048a44a173c104c8dd0e16d5b.json"
+hash-format = "sha256"
+hash = "076e9e6de4218a18c8ddd6d74466b2d280680b4f3680e2c28f408263604fdaea"

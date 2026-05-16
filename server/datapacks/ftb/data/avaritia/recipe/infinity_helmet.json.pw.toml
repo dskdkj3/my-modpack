@@ -1,0 +1,8 @@
+name = "infinity_helmet.json"
+filename = "infinity_helmet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8be977d541258110a00ac5a1d5be0f9b534a0469e77d9016fc087b949b703411.json"
+hash-format = "sha256"
+hash = "b752a0274569a7c48d3b34eda34c2ae88c46e8ee569168c34deea89246d60fd4"

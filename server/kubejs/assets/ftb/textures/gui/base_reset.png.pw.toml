@@ -1,0 +1,8 @@
+name = "base_reset.png"
+filename = "base_reset.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e69ab3637b9e302ff2b04a7ef68a3d49263e297477a4a60a55e92b63b5e6252.png"
+hash-format = "sha256"
+hash = "983407cf5d2bda30a94001137718e64c4433a25c94649d688581c35de5ae2a44"

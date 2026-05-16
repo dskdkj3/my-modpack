@@ -1,0 +1,8 @@
+name = "steam_pressurizer_top.png"
+filename = "steam_pressurizer_top.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31d9394bbd68e156aa54186c6ff92bef20fc15c5e582fa19b28e7988ad56c349.png"
+hash-format = "sha256"
+hash = "787bc617b469ae6c6b14a79968bf1fd810e04e22720ae032db94995563bfe274"

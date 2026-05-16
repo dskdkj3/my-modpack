@@ -1,0 +1,8 @@
+name = "high_roller.json"
+filename = "high_roller.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ada260202aed62b9ab07f17090f62f0b4dde73cb2cd2a9b07eb1c104d9c9d007.json"
+hash-format = "sha256"
+hash = "ef767c9166026f01a713eb1ea37d709e1df1b789d244f79971971eb1086f7b16"

@@ -1,0 +1,8 @@
+name = "maze_slime.json"
+filename = "maze_slime.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f35bd92297d92cd5d4f659cbb259322152f94cc6d7e793d0004e141b29cd9dec.json"
+hash-format = "sha256"
+hash = "c71ec91d9a031d0d6649ee4e9d6790cbcbe7023c975590d63cb4a4ea11da4131"

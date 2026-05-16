@@ -1,0 +1,8 @@
+name = "Pretty X Smart Pipez Mekanism.zip"
+filename = "Pretty X Smart Pipez Mekanism.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b52776eca9399098b0be3fa3913d893a27cbfdbcf7d1c7553e970ef8efee8324.zip"
+hash-format = "sha256"
+hash = "7ddcc81242e4d7bc733b78f93898d9d79e814b55e593d9786790694cfc725b13"

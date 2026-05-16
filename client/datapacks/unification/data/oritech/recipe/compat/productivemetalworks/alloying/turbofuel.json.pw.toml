@@ -1,0 +1,8 @@
+name = "turbofuel.json"
+filename = "turbofuel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6eb9938d846fc968b10383fbe295374b30e5344429bbea27b2253edb4648be82.json"
+hash-format = "sha256"
+hash = "0cdde83e1a400cbb0583b034f13ffc16c9cf04fe0fdc707a3bf63747a746e97a"

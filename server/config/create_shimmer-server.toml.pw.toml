@@ -1,0 +1,8 @@
+name = "create_shimmer-server.toml"
+filename = "create_shimmer-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69dc44aae9f87d8d76370f78b3d3393e24e3894d9354985bf20e66c49c96b16a.toml"
+hash-format = "sha256"
+hash = "8e2c0c473027aa261677b43c37eb125e5be55d0ced0a7025533be7f91bc6c52e"

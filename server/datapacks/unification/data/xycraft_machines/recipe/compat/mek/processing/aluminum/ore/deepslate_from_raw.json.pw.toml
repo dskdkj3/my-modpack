@@ -1,0 +1,8 @@
+name = "deepslate_from_raw.json"
+filename = "deepslate_from_raw.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9ffbae13c7386ec209d076d65fba8be5e595c9e0f400165941005498ed409ccb.json"
+hash-format = "sha256"
+hash = "65b8e8703dff5410231ea8402d59d220ea3db753378eaad6c7284e02f9686c01"

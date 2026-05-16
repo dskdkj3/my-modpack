@@ -1,0 +1,8 @@
+name = "pressurizer.js"
+filename = "pressurizer.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c062e61318561633ab66fc1af426f4796fbe1b55f4a3f544ea9108c93ae06755.js"
+hash-format = "sha256"
+hash = "0d490769093be44fe37df5d1159c7f023c62b50517a91e525ea59879e743e418"

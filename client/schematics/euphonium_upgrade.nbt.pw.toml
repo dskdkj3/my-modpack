@@ -1,0 +1,8 @@
+name = "euphonium_upgrade.nbt"
+filename = "euphonium_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25046548718ae7445bcd1795affc5a33a48804ef83b81cd5e5441c3d1206ea3a.nbt"
+hash-format = "sha256"
+hash = "e79c555473602a821d1721f7c9d47c513a5ca1cd912bffd192b57cd5c92a3c2b"

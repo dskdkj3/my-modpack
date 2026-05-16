@@ -1,0 +1,8 @@
+name = "netherite_scrap.json"
+filename = "netherite_scrap.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/6932fa200d9ac9f2fd4790c8620295622ee80b594bdd62afd868d1f6fb4184fa.json"
+hash-format = "sha256"
+hash = "90b36baf22e8a0ed0fd7a55e775ba8f41ce9a44ad58909bd1637b16fc770c705"

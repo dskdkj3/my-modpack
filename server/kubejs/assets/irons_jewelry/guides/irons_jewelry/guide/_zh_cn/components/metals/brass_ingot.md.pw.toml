@@ -1,0 +1,8 @@
+name = "brass_ingot.md"
+filename = "brass_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93d08486380b85b0fa7e62cc2411a22dde7f97d97a97c92c2651f0b3798ff99b.md"
+hash-format = "sha256"
+hash = "256bfbcc07f5a9629e5699f747115667fcbe425db024d81447b986d080b1625b"

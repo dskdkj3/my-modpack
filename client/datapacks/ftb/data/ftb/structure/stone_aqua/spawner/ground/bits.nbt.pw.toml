@@ -1,0 +1,8 @@
+name = "bits.nbt"
+filename = "bits.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ffeeab0b612081243e35ed645f9d1d0e691a6619873f3997338528258428d94a.nbt"
+hash-format = "sha256"
+hash = "71544b4f24895b8bb9f7bf55778c8ddee2e45f29f7add4cbc76cb57c07712754"

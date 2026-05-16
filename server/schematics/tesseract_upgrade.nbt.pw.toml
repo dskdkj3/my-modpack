@@ -1,0 +1,8 @@
+name = "tesseract_upgrade.nbt"
+filename = "tesseract_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/2217930824af1f64bf15898fea56173caf4287556a956d9d6f9402f3645d8b35.nbt"
+hash-format = "sha256"
+hash = "0234b1c63392d8f1de9fd90addbbff1874b8f8215464e52a4db616d6cbd51736"

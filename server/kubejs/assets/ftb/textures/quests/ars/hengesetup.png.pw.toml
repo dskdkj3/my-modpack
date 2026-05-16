@@ -1,0 +1,8 @@
+name = "hengesetup.png"
+filename = "hengesetup.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dfe52b58af9baaf54bd28109e295caba39c5b267a2f6496109d9585a4cafd9db.png"
+hash-format = "sha256"
+hash = "1e3991535f5fdb487cff8264d61d0085f1cecc0583edd7adc98b961d24b9bfb3"

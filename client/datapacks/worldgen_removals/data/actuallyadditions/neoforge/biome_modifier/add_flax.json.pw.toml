@@ -1,0 +1,8 @@
+name = "add_flax.json"
+filename = "add_flax.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/6857a9c9d389dc13f94f437775fc583fbef0fb9a65f41d3f3766962692d55489.json"
+hash-format = "sha256"
+hash = "e713901d6fbd939ffacb9da9188783f54886ea0bcc07bdaf05c403bf50581a0f"

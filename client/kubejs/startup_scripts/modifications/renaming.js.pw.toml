@@ -1,0 +1,8 @@
+name = "renaming.js"
+filename = "renaming.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5688e8f982e6d16121f254f5214fa5bc9d44e7412034edb8f6923d864e75d1d.js"
+hash-format = "sha256"
+hash = "25c3a477cdc9f451f88446a54f847d1151c9caddd01276caadac4d33fe237159"

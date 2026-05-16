@@ -1,0 +1,8 @@
+name = "pipezretriever-0.0.1.jar"
+filename = "pipezretriever-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7336/438/pipezretriever-0.0.1.jar"
+hash-format = "sha256"
+hash = "166b2db56faf8e071c138ba5e375c267a0d5829daafeefd51b6388ec9eb989d4"

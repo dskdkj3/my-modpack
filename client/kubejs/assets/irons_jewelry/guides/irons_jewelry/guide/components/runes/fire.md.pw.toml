@@ -1,0 +1,8 @@
+name = "fire.md"
+filename = "fire.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47febe53048f87991b50e2aafac65a29b46d0298cf2898ed96657f1c7c20e0e7.md"
+hash-format = "sha256"
+hash = "63c42468a1d8dd6f4362a5e50dc0e643a8ca0463ee5763b02bc5097b6959ad73"

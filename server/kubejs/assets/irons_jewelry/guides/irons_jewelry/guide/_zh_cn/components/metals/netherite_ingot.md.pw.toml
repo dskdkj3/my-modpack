@@ -1,0 +1,8 @@
+name = "netherite_ingot.md"
+filename = "netherite_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0d8f790e051ba25135f3660ea53a03a3dea1b1a666153cb4d689425ae4ed4d2.md"
+hash-format = "sha256"
+hash = "90b6559b87a0cdd74fb6f924382c8a1bbd05ea21c71dde2db653066658f26fe3"

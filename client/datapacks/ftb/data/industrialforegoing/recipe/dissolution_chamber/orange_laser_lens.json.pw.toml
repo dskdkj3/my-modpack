@@ -1,0 +1,8 @@
+name = "orange_laser_lens.json"
+filename = "orange_laser_lens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74ec0135fbcd2efea40705919c84610946f0ac263f9e22ef6641962cb1c740ad.json"
+hash-format = "sha256"
+hash = "e2c89a71f2601494c9e8f5e7a247f985f778f8c7666b1d72a755841ab8f34e3e"

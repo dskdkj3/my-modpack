@@ -1,0 +1,8 @@
+name = "light_blue_laser_lens.json"
+filename = "light_blue_laser_lens.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee942d24b628d5fe3917996f03539a0272000a666ea7132a856ac7a7dc0e27a9.json"
+hash-format = "sha256"
+hash = "ac208eb6ed67f4241a5b7f4de16cd533c5925d6dfe2a88f653712b45ee3c1c76"

@@ -1,0 +1,8 @@
+name = "blue_core.png.mcmeta"
+filename = "blue_core.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/706594b7a482c027f77e60dc304a5bd5b7fbe288496f40721423515a4ec901ab.mcmeta"
+hash-format = "sha256"
+hash = "9d4f0fe0cfab8548892a628aa3e3a3b67a5ca1d8c3e43ec47d3e704d4ac9689d"

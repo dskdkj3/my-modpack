@@ -1,0 +1,8 @@
+name = "neutronium_ingot.md"
+filename = "neutronium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/deaecd2ce6448ab49e0dffe1aa946708c4b8d91aff36538ff85f77fac6409af8.md"
+hash-format = "sha256"
+hash = "949b0ea08fb1170d049d06271246afe5dfa0da3424ee160f20661e8313c9c482"

@@ -1,0 +1,8 @@
+name = "butcher.json"
+filename = "butcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0afd6e20b2ea50a93377138253f681c1077c7bc91e9c8b86ce9b02188e1fb145.json"
+hash-format = "sha256"
+hash = "e1d70b3c9b895ac44b2387acb400640c7664e1a553aed8912de0c1dcf268ca1c"

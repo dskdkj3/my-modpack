@@ -1,0 +1,8 @@
+name = "powah.json5"
+filename = "powah.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d49f3dd75520edba714161d807b853828a5450b63656d090e7158c58913c69c3.json5"
+hash-format = "sha256"
+hash = "9822ba573350108e2e228d5046965d570aceb613c16dcc6c6973807720e397d3"

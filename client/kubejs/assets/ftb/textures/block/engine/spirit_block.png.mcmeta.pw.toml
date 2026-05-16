@@ -1,0 +1,8 @@
+name = "spirit_block.png.mcmeta"
+filename = "spirit_block.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/955e8ba6633539a6bd0a905b90cf84f2b4951d981f56139c82455c38e9384541.mcmeta"
+hash-format = "sha256"
+hash = "3ec4be5aa558b9717e13adc1632cef421160e647c1952c70292b88ca0e221d4d"

@@ -1,0 +1,8 @@
+name = "hoglin.json"
+filename = "hoglin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/288850e0731e394b670b7eb8e4b3b28506a72febdec7b735b04c99320b2dc2e7.json"
+hash-format = "sha256"
+hash = "ccca0d69deb748786842fca0928e01389c2da05ec21e8b3f1d79522e34801051"

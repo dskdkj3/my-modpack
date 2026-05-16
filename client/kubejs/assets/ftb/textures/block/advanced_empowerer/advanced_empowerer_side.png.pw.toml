@@ -1,0 +1,8 @@
+name = "advanced_empowerer_side.png"
+filename = "advanced_empowerer_side.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0d5c854c811f3499f526fbf8533b24254f7981d07345a4d91e70b9388518878.png"
+hash-format = "sha256"
+hash = "eaaecf69fb13275ac6c7e7c17d3f65dd6ce6fd9689cec6fadad6ddebe0d6fa7c"

@@ -1,0 +1,8 @@
+name = "ru_ru.json"
+filename = "ru_ru.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6bc4835339cc865b4c6a8d484791a6c15d17dd12146f03782305dfb39268f2a8.json"
+hash-format = "sha256"
+hash = "bb629062055640832a5f58aff45fdd69b0e96112017dcbf923eae76445e0f1ff"

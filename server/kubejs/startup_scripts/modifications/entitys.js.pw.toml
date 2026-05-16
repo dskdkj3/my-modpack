@@ -1,0 +1,8 @@
+name = "entitys.js"
+filename = "entitys.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1f7970a53e78811d08feb22306f1724002c7ba770e7b54ce33ec914acb12d7a.js"
+hash-format = "sha256"
+hash = "2a14cd86e5bfedbc31bdd25d637cf34cd8f0489ae4580a5000557b4180070cb7"

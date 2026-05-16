@@ -1,0 +1,8 @@
+name = "storage_text.png"
+filename = "storage_text.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/241c1c43d4db90f51b6d8b116ac6cfaabb8c945152e9eba4c439a8ed66cc6555.png"
+hash-format = "sha256"
+hash = "6204635a7352a8de3a20340f17e2b5ff7c948ab4bf47fe9377b2d6f7af6ec7b0"

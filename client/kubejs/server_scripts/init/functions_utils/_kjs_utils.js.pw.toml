@@ -1,0 +1,8 @@
+name = "_kjs_utils.js"
+filename = "_kjs_utils.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f00531cf25e07d7664ed281f6a7c1f19824ca311482582d75c8cb7dee0fdceae.js"
+hash-format = "sha256"
+hash = "946f39559df202b8abbc60ab0bf90c193973d124e30ff10759e22cd9ebb87a6d"

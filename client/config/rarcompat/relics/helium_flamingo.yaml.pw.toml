@@ -1,0 +1,8 @@
+name = "helium_flamingo.yaml"
+filename = "helium_flamingo.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/672e2fd7be06bc468eb96b34a805218084ce53b7e7b78e5a72f9e5e24999224b.yaml"
+hash-format = "sha256"
+hash = "8012630fc361e329e3e8d1c15eefb6f377dac5957c730261c08c410cb37840ae"

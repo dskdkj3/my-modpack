@@ -1,0 +1,8 @@
+name = "upgrade_golden_sword_to_diamond_sword.json"
+filename = "upgrade_golden_sword_to_diamond_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b3460b1cc2c8b0911022c4ba7158b50d3ff1003c146dc1316ca621d0e2faa69c.json"
+hash-format = "sha256"
+hash = "d22f797a168139309d17951717ee09ed283a42d2929f2eb2c257345cc22c4a00"

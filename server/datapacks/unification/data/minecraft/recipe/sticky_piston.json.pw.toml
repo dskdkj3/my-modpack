@@ -1,0 +1,8 @@
+name = "sticky_piston.json"
+filename = "sticky_piston.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7cf6ad39320eda413838d3647e9bd2b083d27d6c4a08f6f452f74d8b940d113.json"
+hash-format = "sha256"
+hash = "69f6226151aeb8b70d4e484dce93f78e4256db1c2514bb4ce098e9b0132257ae"

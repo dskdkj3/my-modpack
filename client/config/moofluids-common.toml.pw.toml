@@ -1,0 +1,8 @@
+name = "moofluids-common.toml"
+filename = "moofluids-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce3304b564a4ea8b816adef25b11281e77a50bdbe8066ef5f0f7bd19588b20ff.toml"
+hash-format = "sha256"
+hash = "8ce9755cc959cc8aa50538ab2d7237f3dbca6d7f75a673b5b0ede1c054802538"

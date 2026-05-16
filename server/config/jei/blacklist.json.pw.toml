@@ -1,0 +1,8 @@
+name = "blacklist.json"
+filename = "blacklist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d251df3d43ced337cf2b468eba52123d148d7a63a228c123bc7708f12a31ef8d.json"
+hash-format = "sha256"
+hash = "94aeb2d1f95b0496a43379e486d9aaa8fb6e26b3780f69fda4cfe4d0c3c34747"

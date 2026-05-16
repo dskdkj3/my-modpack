@@ -1,0 +1,8 @@
+name = "crushed_raw_nickel.json"
+filename = "crushed_raw_nickel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0eb8865a4b406ca34603b036e2eddb3ed322f16148999ae06ca8c78f8a05750f.json"
+hash-format = "sha256"
+hash = "da2904f0c42456831718e5fa77de9c8e59bb111f3630e3d4898b67b35aa1438f"

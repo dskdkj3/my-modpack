@@ -1,0 +1,8 @@
+name = "xnet-1.21-7.0.6.jar"
+filename = "xnet-1.21-7.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6563/957/xnet-1.21-7.0.6.jar"
+hash-format = "sha256"
+hash = "13765af3fa48d5edb958f7abfd1a48e54341ecf61de56b3300a15faebc4d904d"

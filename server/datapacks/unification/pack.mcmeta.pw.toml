@@ -1,0 +1,8 @@
+name = "pack.mcmeta"
+filename = "pack.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6da7a5d96b6682a1d947b536107b1a1388a94ba0c3156161e9dd4e5749b32b3d.mcmeta"
+hash-format = "sha256"
+hash = "302d60a68e59daa0b5ba679bd96f45cfc772d113e9da8274b0872f3fafaf162d"

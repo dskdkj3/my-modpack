@@ -1,0 +1,8 @@
+name = "entro_crystal_transformation.json"
+filename = "entro_crystal_transformation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4caa16028e9b75bb722bba9945cc1c9bffe9561ae8b0aea938108d27228d4bd9.json"
+hash-format = "sha256"
+hash = "fb9eb5f9770b024e68a07e8010f21de965a11247e0c0df9316114aec38378589"

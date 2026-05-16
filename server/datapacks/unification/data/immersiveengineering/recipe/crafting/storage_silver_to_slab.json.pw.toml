@@ -1,0 +1,8 @@
+name = "storage_silver_to_slab.json"
+filename = "storage_silver_to_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce6df91591dbe949f7be81a5a3e98603441862aafc6d4325e1a801e1c7678d0b.json"
+hash-format = "sha256"
+hash = "f8ebcde279ff0fd2672a53fcf8735b4a837adf3868457e702118e20917ecd5a9"

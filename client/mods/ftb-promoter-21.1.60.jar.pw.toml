@@ -1,0 +1,8 @@
+name = "ftb-promoter-21.1.60.jar"
+filename = "ftb-promoter-21.1.60.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7028/815/ftb-promoter-21.1.60.jar"
+hash-format = "sha256"
+hash = "07338dad7dc1e340499d6014cc3337e911b0e7e24888c2dba58ba72f281ee0d9"

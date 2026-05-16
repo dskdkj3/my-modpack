@@ -1,0 +1,8 @@
+name = "ibicf.json"
+filename = "ibicf.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5fc2eb12b7f31caecec99111fc7dc2a9e7bed3b86aebacc359920eedca08da3.json"
+hash-format = "sha256"
+hash = "a925471e28fe54087813caf54f8f9145c8959e7703673f25c526598cccd903d1"

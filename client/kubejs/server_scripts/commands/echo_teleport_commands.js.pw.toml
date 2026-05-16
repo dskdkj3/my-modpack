@@ -1,0 +1,8 @@
+name = "echo_teleport_commands.js"
+filename = "echo_teleport_commands.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a3a5302ff97a2afb3cd0f712f9a19018ccc4c28c198c661706d67e11e2e31f4.js"
+hash-format = "sha256"
+hash = "6f57e2b4679ff9647b572b16defad8f28184f3aa32aab9a080f7092f8ff9e698"

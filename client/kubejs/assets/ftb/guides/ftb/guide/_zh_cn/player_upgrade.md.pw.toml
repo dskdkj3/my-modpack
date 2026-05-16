@@ -1,0 +1,8 @@
+name = "player_upgrade.md"
+filename = "player_upgrade.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80639198e99b6306768958d98371c0b652939d83334608f33730d70d822b5db8.md"
+hash-format = "sha256"
+hash = "4564f137b45787e3b5a496f2d444055cc236cd3b6f0bb5f8488dca6ea33a164e"

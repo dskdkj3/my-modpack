@@ -1,0 +1,8 @@
+name = "springy_boot.yaml"
+filename = "springy_boot.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/812bfbe573ee4636610e451554b70fa61c30bde6254fb0d36d0fc316bb74f210.yaml"
+hash-format = "sha256"
+hash = "f0dd29c355204b5ea550b5f730d6d0d8761380a18ab389e23b8272f4abd6aa9d"

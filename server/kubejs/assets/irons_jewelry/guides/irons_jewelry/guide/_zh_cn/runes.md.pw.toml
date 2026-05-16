@@ -1,0 +1,8 @@
+name = "runes.md"
+filename = "runes.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/eeb4f3a7d1d4d9adde56a5e5c8e524e95952a475ab160a9f70b65d53c401e2de.md"
+hash-format = "sha256"
+hash = "47439dda0814828bdfbed83fab565af90c92434214aa37f75376f7e8ff319628"

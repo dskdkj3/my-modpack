@@ -1,0 +1,8 @@
+name = "pulsating_crystal.md"
+filename = "pulsating_crystal.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/826599e27e1565b4e9f82f3d963c22fdee90c62bdc8a24515a82b47ef8b4e667.md"
+hash-format = "sha256"
+hash = "f25b328d1b15cff0cd58701871852b0f514627a328c25a03fca45f28dc1edbbb"

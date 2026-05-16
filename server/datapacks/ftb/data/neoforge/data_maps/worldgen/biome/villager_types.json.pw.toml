@@ -1,0 +1,8 @@
+name = "villager_types.json"
+filename = "villager_types.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a94bdc68b88899a3e176b380a9fbeb4c91eb44f91c790a24d9a5c8bd7d53f098.json"
+hash-format = "sha256"
+hash = "690007f52e53561b028f41832b1477eb5f8f6470f7a751d53b183b36f0ed5547"

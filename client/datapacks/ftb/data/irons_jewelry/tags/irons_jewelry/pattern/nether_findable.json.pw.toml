@@ -1,0 +1,8 @@
+name = "nether_findable.json"
+filename = "nether_findable.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a4fd01b109b4d82d4c4a8bd37c59db8daffb16edeb4c5a0cdb63db6ef06aed52.json"
+hash-format = "sha256"
+hash = "0c615d27d6e7932dab70603593b0d4b2098f06e605c17c7e8549a677ec84ef94"

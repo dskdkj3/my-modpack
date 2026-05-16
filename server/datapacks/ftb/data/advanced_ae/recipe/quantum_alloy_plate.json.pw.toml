@@ -1,0 +1,8 @@
+name = "quantum_alloy_plate.json"
+filename = "quantum_alloy_plate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c8287d9bfe8ff04bac9a299d3f103f66ae784ba1915a329969a6d5bf0888c694.json"
+hash-format = "sha256"
+hash = "5ac6a7bf885e9b38581a464844f3e8d0e45cc4f9b9c8ec5f808af6e8ce57f51a"

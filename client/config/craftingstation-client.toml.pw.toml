@@ -1,0 +1,8 @@
+name = "craftingstation-client.toml"
+filename = "craftingstation-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/54138bc4147bfe191ad269e11be9a87ff235ea91713615bc9a84aed0c437bf4a.toml"
+hash-format = "sha256"
+hash = "ae0a1106483b84a9cf132313b830f64bc89aa08b82fddb41624d82c776f664da"

@@ -1,0 +1,8 @@
+name = "troll_cave.json"
+filename = "troll_cave.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c8bdc36653108cdfafa0fb8b2c10172b01db80192d8f112d16b4c5c257b08c7.json"
+hash-format = "sha256"
+hash = "1e3f9c3d193ba17a00d1d37d66ef02ddd68c92cbb90dae1e7c6650df2ea97041"

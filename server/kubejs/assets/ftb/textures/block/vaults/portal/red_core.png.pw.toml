@@ -1,0 +1,8 @@
+name = "red_core.png"
+filename = "red_core.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40908d43edd1970e2977b39e8aad2f754f7f934660b83c308aee74fd3883b2f6.png"
+hash-format = "sha256"
+hash = "4fee3296d2dcfb27a4ceef0a67de6db3a85a036b8b0fd52b37095e5e5120624b"

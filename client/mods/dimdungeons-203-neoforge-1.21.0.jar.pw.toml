@@ -1,0 +1,8 @@
+name = "dimdungeons-203-neoforge-1.21.0.jar"
+filename = "dimdungeons-203-neoforge-1.21.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6989/249/dimdungeons-203-neoforge-1.21.0.jar"
+hash-format = "sha256"
+hash = "81cdcbfcf450e6fe8b87e44c5dd2df0be5003d574ad78f431fa12ff75622008d"

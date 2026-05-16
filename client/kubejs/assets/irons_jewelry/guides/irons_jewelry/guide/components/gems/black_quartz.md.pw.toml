@@ -1,0 +1,8 @@
+name = "black_quartz.md"
+filename = "black_quartz.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a9ad8bc7a05b1af1deaba36dc0fd82f92c3ee861d7ff8c80268a1a63c6d0fd7.md"
+hash-format = "sha256"
+hash = "0fb4a69acef96d1b7de995d69c96cb40dfc6b8f59c17cd81526ffd3ad769b3ce"

@@ -1,0 +1,8 @@
+name = "bioethanol.json"
+filename = "bioethanol.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ed2455710647cf7f4a4f5ebb4819e718a4e94bf704ca55dc24f246004beeedd.json"
+hash-format = "sha256"
+hash = "d7a7e199d8825316e330e5f5140ef5a04af99ff03fc4bc4c5e09325c937c98ae"

@@ -1,0 +1,8 @@
+name = "the_voice_of_the_echoborne.ogg"
+filename = "the_voice_of_the_echoborne.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/9352c45babd6820e490906994d7bcb30322886fd707a71b891403f17e95778bf.ogg"
+hash-format = "sha256"
+hash = "b142df17aec2efc82b176367a3aded80a7892ee917b731e8b2a2dc788faa71b3"

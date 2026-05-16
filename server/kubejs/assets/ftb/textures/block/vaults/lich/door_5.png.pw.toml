@@ -1,0 +1,8 @@
+name = "door_5.png"
+filename = "door_5.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a199a5b443281f970b6dabd6d0e77395043d493c313f988c5dfb9ca5d53612d.png"
+hash-format = "sha256"
+hash = "55d53286d685830b77769416e4f9a758cabee16840cef1729f578856d353e3f8"

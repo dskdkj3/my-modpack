@@ -1,0 +1,8 @@
+name = "stone.png"
+filename = "stone.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee37464cd69fbc82fba600c69b60645ad42a76fedd2ead16293402cab7d8c984.png"
+hash-format = "sha256"
+hash = "c34df1c9ffb23afffad5f21aa59d030de5c804dcfc0c0848f4fff3f7389f76aa"

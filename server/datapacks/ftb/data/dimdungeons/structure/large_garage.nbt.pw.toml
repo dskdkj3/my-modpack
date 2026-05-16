@@ -1,0 +1,8 @@
+name = "large_garage.nbt"
+filename = "large_garage.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98a8fc9c2ac73295574a0c9014ad3a50cc3b5527816d925bfa056ebc6dfafced.nbt"
+hash-format = "sha256"
+hash = "546ecc36a7da1df96356ec55b88b9bd83eceecabc7ede34783be3581277f37c1"

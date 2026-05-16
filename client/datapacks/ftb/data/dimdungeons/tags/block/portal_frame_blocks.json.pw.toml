@@ -1,0 +1,8 @@
+name = "portal_frame_blocks.json"
+filename = "portal_frame_blocks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c79427c28cb4069a90782a305391ac2ae7bb2c3d320f37af77b23c3aa3a6130a.json"
+hash-format = "sha256"
+hash = "b57398b85afee871cf9dc352dad261ed0b67c598ef7793613587724d7248cad9"

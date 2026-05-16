@@ -1,0 +1,8 @@
+name = "squatgrow-neoforge-21.1.3+mc1.21.1.jar"
+filename = "squatgrow-neoforge-21.1.3+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7935/191/squatgrow-neoforge-21.1.3%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "53231fac1306be5d4b1bb59c66b4606064ca3b6685ebaf612643349a2088a3e0"

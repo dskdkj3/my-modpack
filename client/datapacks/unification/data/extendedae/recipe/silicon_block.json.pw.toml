@@ -1,0 +1,8 @@
+name = "silicon_block.json"
+filename = "silicon_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6e75c221d3009d052329b66f3d054cb45e39343ddee0fc9be507b1d92f594ba.json"
+hash-format = "sha256"
+hash = "3b3b49cd898fa96113d808c81f7c04432224d527ee7635f8e6a760f1cf8dea7d"

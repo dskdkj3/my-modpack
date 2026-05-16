@@ -1,0 +1,8 @@
+name = "neutronium.json"
+filename = "neutronium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e0688198aaa9f611782c74ad4ac997c801350c8913666f0dad17f7df0bc86d71.json"
+hash-format = "sha256"
+hash = "fc9be9dc1a4cc50056e2a998a1f045f6bf9f6e5fd797948b3338f665064a8e4a"

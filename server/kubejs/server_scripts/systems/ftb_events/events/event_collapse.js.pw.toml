@@ -1,0 +1,8 @@
+name = "event_collapse.js"
+filename = "event_collapse.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37914474a9fdbfa3d7158294efa9ab1c7dcce88d56cced7de468a21f9ccf0a53.js"
+hash-format = "sha256"
+hash = "d7d296731e2056c943f6a184ac67de25c029b0d975c53c15b00104419a3b6ae2"

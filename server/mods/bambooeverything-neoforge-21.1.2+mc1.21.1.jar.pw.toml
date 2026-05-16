@@ -1,0 +1,8 @@
+name = "bambooeverything-neoforge-21.1.2+mc1.21.1.jar"
+filename = "bambooeverything-neoforge-21.1.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7170/711/bambooeverything-neoforge-21.1.2%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "8755f8995dd36cba9587f0fd99df2a2be540cc882bbc7f40a9d09383a9913b05"

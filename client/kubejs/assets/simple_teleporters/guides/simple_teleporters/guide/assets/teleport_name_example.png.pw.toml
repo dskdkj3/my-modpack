@@ -1,0 +1,8 @@
+name = "teleport_name_example.png"
+filename = "teleport_name_example.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8dbfdabe24f419ca7203ea3a204b807494a49ca269207617255c30f9b4679555.png"
+hash-format = "sha256"
+hash = "1c3630a49d8d24490ec90148557603f4eee53c314480dbe2ec01b7f47df0bff2"

@@ -1,0 +1,8 @@
+name = "enders_hand.yaml"
+filename = "enders_hand.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92b67e56f752aa2b8004a0f2c75c82e5c947a3c6b8d729f843b7bba643d24569.yaml"
+hash-format = "sha256"
+hash = "a3651a53a4442ec1fa81af0855a21c1bb4e4001e0542d99dd7b535f16df35b88"

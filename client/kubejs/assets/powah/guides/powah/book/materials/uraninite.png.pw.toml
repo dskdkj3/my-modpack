@@ -1,0 +1,8 @@
+name = "uraninite.png"
+filename = "uraninite.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14c8e32c2eab76202420ee1d7fdd7e1ffa8a97d7efea454acb775e4e331171ea.png"
+hash-format = "sha256"
+hash = "b4313f8991a09cfc81340949c0b75d80d2a7b924219748f8c8c55a31a9247a27"

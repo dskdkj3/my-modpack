@@ -1,0 +1,8 @@
+name = "blazing_crystal.json"
+filename = "blazing_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b279697a5367d34bba6b9162d4a0c33e3d71848b31092aba2e2ae181c80f6bef.json"
+hash-format = "sha256"
+hash = "1edd95d8dbcf475d22d0e7fb6837ca955ebfa8e26b6880e6af02b9230bac272f"

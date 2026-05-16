@@ -1,0 +1,8 @@
+name = "no_nether.json"
+filename = "no_nether.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f67884511a628716f6c61ea58985882af3b4847e39efb5d708cfd77110337c17.json"
+hash-format = "sha256"
+hash = "d1c7c0969538129f342c20c4adf3a1fbc71d2a47eebabe488089120cd4e06edf"

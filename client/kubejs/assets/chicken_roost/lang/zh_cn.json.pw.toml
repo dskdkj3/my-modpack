@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/chicken_roost/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/chicken_roost/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "1e4c67c05dad1a995e3a71f57d4c1060800a466511aaea826418835875ac06c8"

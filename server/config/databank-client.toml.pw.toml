@@ -1,0 +1,8 @@
+name = "databank-client.toml"
+filename = "databank-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d1efb5870b20c95c9630731dbf4f6a8f84939df2e6e07905ae8d6dcd51b3e61.toml"
+hash-format = "sha256"
+hash = "f81175924941621df32734377dcf9701d13b0f5b7ef9d86bc5d3b64dc2eaf766"

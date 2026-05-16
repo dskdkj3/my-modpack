@@ -1,0 +1,8 @@
+name = "affix_loot_injection.json"
+filename = "affix_loot_injection.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae841d60cf6c21c4982592063d1dde36b270b9c3eebb2dcf75080db219567664.json"
+hash-format = "sha256"
+hash = "5be90807d4390d57e8d050c24b800f98dee111fbf4bb19596f20c20b590b7575"

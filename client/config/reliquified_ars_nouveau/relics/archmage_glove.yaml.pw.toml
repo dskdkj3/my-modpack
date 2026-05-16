@@ -1,0 +1,8 @@
+name = "archmage_glove.yaml"
+filename = "archmage_glove.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cb234e2f5abbed336db7a53925aaa98055e86130687a56320e9836ef904bfb3.yaml"
+hash-format = "sha256"
+hash = "41e5a6074ae8b59be1668815b780c6b162bb8ac02f42628d6429946d93bf35fe"

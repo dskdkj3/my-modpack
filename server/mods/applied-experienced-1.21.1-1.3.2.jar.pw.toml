@@ -1,0 +1,8 @@
+name = "applied-experienced-1.21.1-1.3.2.jar"
+filename = "applied-experienced-1.21.1-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7705/498/applied-experienced-1.21.1-1.3.2.jar"
+hash-format = "sha256"
+hash = "64070a194a7e8dbc1055112b5f99c0acd2c378960588d85fdb88d4c20aab36b6"

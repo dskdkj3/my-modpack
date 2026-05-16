@@ -1,0 +1,8 @@
+name = "industrialforegoing-souls-machines.toml"
+filename = "industrialforegoing-souls-machines.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17691b4c8ea0cfd5c46fbecea94ac04d0ca54a63ad9d2d3f36764819341b811a.toml"
+hash-format = "sha256"
+hash = "d063761b583b9a2c089ee5bb9ea8144ec864efe79111d40cfc657ad64534ceb3"

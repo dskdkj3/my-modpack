@@ -1,0 +1,8 @@
+name = "mffs-common.toml"
+filename = "mffs-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd89d9ebbea64dadbbf28a4c979ce95fafad8d9169b518f13b8aa3c4059e5f84.toml"
+hash-format = "sha256"
+hash = "8668cf654005d08e353105f47df1f99963358bd6e6ff57356402503ac0b279fd"

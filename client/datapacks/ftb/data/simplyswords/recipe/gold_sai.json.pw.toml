@@ -1,0 +1,8 @@
+name = "gold_sai.json"
+filename = "gold_sai.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b175c574ef3dbae2984061f1b1ed3fe12dd8ca2d780abec55931c33163642c13.json"
+hash-format = "sha256"
+hash = "9dd15409d22a69e9ced5988abc9edb8a06382a9685ee634d42f37c9e7300dce9"

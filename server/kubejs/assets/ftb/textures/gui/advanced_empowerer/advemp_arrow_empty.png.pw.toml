@@ -1,0 +1,8 @@
+name = "advemp_arrow_empty.png"
+filename = "advemp_arrow_empty.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e020fd0799ceabbbb6be8e06aa5bbd8e23c87b18c8f91da1d309aebfaa209652.png"
+hash-format = "sha256"
+hash = "e96ed444568310a080c016b9332327974892bfedb2ed1493cc4b19a5d4342909"

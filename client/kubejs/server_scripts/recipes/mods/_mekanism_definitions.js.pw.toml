@@ -1,0 +1,8 @@
+name = "_mekanism_definitions.js"
+filename = "_mekanism_definitions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/cebeaf2b99404011a42fd79b7ee56077497120fca9bdd19ddd1907ba6b9d53f0.js"
+hash-format = "sha256"
+hash = "59c112b8314b339ea94eebd7d038a1eda8d95ed27aee57c1523f1d9dc0b3f20e"

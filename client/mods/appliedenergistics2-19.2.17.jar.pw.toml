@@ -1,0 +1,8 @@
+name = "appliedenergistics2-19.2.17.jar"
+filename = "appliedenergistics2-19.2.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7027/323/appliedenergistics2-19.2.17.jar"
+hash-format = "sha256"
+hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"

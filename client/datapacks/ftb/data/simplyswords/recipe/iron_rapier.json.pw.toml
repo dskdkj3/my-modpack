@@ -1,0 +1,8 @@
+name = "iron_rapier.json"
+filename = "iron_rapier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe4818f592340a4c4f18f650a652b04671c1642a23061e883f631f947fa64e5b.json"
+hash-format = "sha256"
+hash = "bce4f8ca0bbca9c7a4099181ca3bb45566e56665ef042a491b457bd7ae94f652"

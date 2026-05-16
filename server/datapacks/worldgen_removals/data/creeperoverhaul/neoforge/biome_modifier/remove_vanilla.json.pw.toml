@@ -1,0 +1,8 @@
+name = "remove_vanilla.json"
+filename = "remove_vanilla.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9193ce960099078dea02bb0c25ef3a5a6e62229c476a1ce927e3cf95cc88e715.json"
+hash-format = "sha256"
+hash = "b9eea257e90acb231815e0dd48d05037f0c0a77623a40ee0e7957f611ca0777d"

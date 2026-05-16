@@ -1,0 +1,8 @@
+name = "energy_upgrade.png"
+filename = "energy_upgrade.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/8236938a76a0b6bf992a6ddfc9067c1c3fed8b5c4ec0889274b143d2e96a8d62.png"
+hash-format = "sha256"
+hash = "131d4b76198658dc1dd215dcf99d31dee5d5ca4f363b5cf933c9c5acfd479310"

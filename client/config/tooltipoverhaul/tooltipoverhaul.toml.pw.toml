@@ -1,0 +1,8 @@
+name = "tooltipoverhaul.toml"
+filename = "tooltipoverhaul.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80c2c0182afc6301530d05877e5e3144ad136bfef3a2b6143bd2a14f6c106186.toml"
+hash-format = "sha256"
+hash = "0131c15c7a2d5bae639ce31533384bcf857ac07c4f0a14fbb9671d8fd522029a"

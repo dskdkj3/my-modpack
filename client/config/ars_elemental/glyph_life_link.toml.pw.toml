@@ -1,0 +1,8 @@
+name = "glyph_life_link.toml"
+filename = "glyph_life_link.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff791bff9c944e8f68ddabd0eeb9f653f5f36d99a7fb5e5b832732406a74f384.toml"
+hash-format = "sha256"
+hash = "327ceac3e14d4967da8c1b1edc16f668e185d27166d1e7e35484df64387c5840"

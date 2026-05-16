@@ -1,0 +1,8 @@
+name = "reliquified_lenders_cataclysm-1.21.1-0.1.1.jar"
+filename = "reliquified_lenders_cataclysm-1.21.1-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6882/649/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar"
+hash-format = "sha256"
+hash = "092abc16788a6ebc324ce923098285b1b0a704700c359fdf2d733e6f33535700"

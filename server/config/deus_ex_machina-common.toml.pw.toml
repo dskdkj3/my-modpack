@@ -1,0 +1,8 @@
+name = "deus_ex_machina-common.toml"
+filename = "deus_ex_machina-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/79c70e0bc0c9ce2987f632c8c7be7a372f227677e0363301b2859387b24bd426.toml"
+hash-format = "sha256"
+hash = "0d12708e0352ac2ee79ff9f2ecc688770194a12de152b33fe376421a9b273223"

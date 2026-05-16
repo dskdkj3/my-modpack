@@ -1,0 +1,8 @@
+name = "universalgrid-common.toml"
+filename = "universalgrid-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d31738eb4124f33eb6fc957e0c2c4e1d9c34aa0b74914ec14a1fd5ba7e929639.toml"
+hash-format = "sha256"
+hash = "5fe17f7f5945465c6d662cfeb024e161081b86e5eb5652b4a4395320ef1a49c7"

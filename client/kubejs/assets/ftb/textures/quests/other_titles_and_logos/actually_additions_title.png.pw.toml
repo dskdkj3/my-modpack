@@ -1,0 +1,8 @@
+name = "actually_additions_title.png"
+filename = "actually_additions_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f4fc360a1ce54afa486e8fade5f6c42a303e5a3950355b7e475227588382b10.png"
+hash-format = "sha256"
+hash = "1f7ec6c86e56276c85c3894363f7edb8561b9f0dae29e054b49ac08081ef0282"

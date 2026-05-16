@@ -1,0 +1,8 @@
+name = "endest_pearl.json"
+filename = "endest_pearl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4ec3253e0e24142b2f8986ebf211a6855d7dd1a97dd98b530d119c91a076bda9.json"
+hash-format = "sha256"
+hash = "253bc69f2b7805983146f660954b5169dedfc0522d12b556f2a5f31cb2b7a28d"

@@ -1,0 +1,8 @@
+name = "base_status_errored.png"
+filename = "base_status_errored.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/acbc1eeaec9f4ac288d6705691d0d9f644ab4d7877ef1b7f8d34110282c948e0.png"
+hash-format = "sha256"
+hash = "8c010a209f450e42f37adee3f539ce3af6c1bf31b323de015c98eca43416c4da"

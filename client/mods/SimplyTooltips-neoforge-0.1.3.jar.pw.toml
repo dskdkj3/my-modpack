@@ -1,0 +1,8 @@
+name = "SimplyTooltips-neoforge-0.1.3.jar"
+filename = "SimplyTooltips-neoforge-0.1.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7718/627/SimplyTooltips-neoforge-0.1.3.jar"
+hash-format = "sha256"
+hash = "ea21464cfd363efe2965cdf801b82b37ecda83e93051193f4830783ead723518"

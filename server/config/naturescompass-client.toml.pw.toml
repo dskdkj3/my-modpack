@@ -1,0 +1,8 @@
+name = "naturescompass-client.toml"
+filename = "naturescompass-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f055eac8d6932e51288e41da510db19b0642aee8af33e494fa965caab54040e.toml"
+hash-format = "sha256"
+hash = "52155f5707537443156b47499d98b96dcdbf48ad0ed4ce8cfdf53cef7ffb8a9c"

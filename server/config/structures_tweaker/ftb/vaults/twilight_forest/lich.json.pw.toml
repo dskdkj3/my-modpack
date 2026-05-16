@@ -1,0 +1,8 @@
+name = "lich.json"
+filename = "lich.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f42476ec2fa1cb31ae5d66dfdc1e2a54aa373abe6f78053f442ac37e14aa0d51.json"
+hash-format = "sha256"
+hash = "6b8e6cd69c93ef3c1184c88c1bc5d34934b82e0f85426a4cba9df036d65c82dd"

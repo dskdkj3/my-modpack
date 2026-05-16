@@ -1,0 +1,8 @@
+name = "DraconicEvolution.cfg"
+filename = "DraconicEvolution.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a79a1410e01da305b3d955876194152d27034aae68a9d428871f6eb1fb97e1a5.cfg"
+hash-format = "sha256"
+hash = "aa3a48581779ade3241d29214abfcb8ebf58a22cec43e4fe2c9deee3cb0cde09"

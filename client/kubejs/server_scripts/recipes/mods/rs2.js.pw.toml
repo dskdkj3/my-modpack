@@ -1,0 +1,8 @@
+name = "rs2.js"
+filename = "rs2.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c029a027115ad6e8ec7e625fe7f86f5ad4d522654a4632c25efb9a85316d405.js"
+hash-format = "sha256"
+hash = "e289ea0f57fb47b84dc3e5cb30bc1640f4f95d3017c018fa1becd15548f2d7d4"

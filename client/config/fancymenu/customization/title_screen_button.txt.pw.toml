@@ -1,0 +1,8 @@
+name = "title_screen_button.txt"
+filename = "title_screen_button.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/db86fb496cbe76f2d6001b20e4dda4b83fc5d7f71b1de69d42397ccf280abbf1.txt"
+hash-format = "sha256"
+hash = "cdf2785b95df8c2130adbbe610004273c4cd9f22913d7cda315bc252aa0a975c"

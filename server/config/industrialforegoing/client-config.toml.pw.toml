@@ -1,0 +1,8 @@
+name = "client-config.toml"
+filename = "client-config.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb3c550722cd2c092de8fa2dcc7613d7e3bcc27de620372b66ace4c9e7f0a964.toml"
+hash-format = "sha256"
+hash = "a4e582597ce3b8d8eb9fe18b7268f91c00ca907730b25d31af8356df0d732871"

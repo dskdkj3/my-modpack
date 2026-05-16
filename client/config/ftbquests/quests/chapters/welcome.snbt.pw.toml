@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/welcome.snbt"
+filename = "welcome.snbt"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/welcome.snbt"
+hash-format = "sha256"
+hash = "147ed6d574a6ad24412a316ec0c9ee80bd40cdd6b47ea81a237dfda4429a2cce"

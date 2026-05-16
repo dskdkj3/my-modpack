@@ -1,0 +1,8 @@
+name = "rf_upgrade_2.json"
+filename = "rf_upgrade_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25883bd55be188d89320b822704e0076c2ce56436348a229b3769b97322be41b.json"
+hash-format = "sha256"
+hash = "1af4fc62e8764729505792475f14cbd71c30e36a481d25a83ada5d943ca16e5c"

@@ -1,0 +1,8 @@
+name = "generic.drinking_speed.json"
+filename = "generic.drinking_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d27191eddc3b452f60b84412a07316f74e6192b3177600636b8633a80b8264c6.json"
+hash-format = "sha256"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"

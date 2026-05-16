@@ -1,0 +1,8 @@
+name = "plutonium_dustblock.json"
+filename = "plutonium_dustblock.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d9fd69aed2e8e08c612eeecc41a74c80905d9f6ce35005b5341000f651062a38.json"
+hash-format = "sha256"
+hash = "fae07fd75c4da5e66d2c5a4b50d51eca57747a51c6142d1c29abe42737b2ae21"

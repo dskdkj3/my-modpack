@@ -1,0 +1,8 @@
+name = "striated_ores_overworld.json"
+filename = "striated_ores_overworld.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/6571a0e8a2b21868b1ae7defa85969d8df7f49941194a4de147a01dcd3809f34.json"
+hash-format = "sha256"
+hash = "edc2123ce8b41ee68f01f2d63e79b83f69fdf492b400d174e2041ba696dee676"

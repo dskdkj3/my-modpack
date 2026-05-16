@@ -1,0 +1,8 @@
+name = "create_enchantment_industry.js"
+filename = "create_enchantment_industry.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cf57af6d8a4e7246815a10592566ad59c5d718e010156937cfd4ac9a89e61c3.js"
+hash-format = "sha256"
+hash = "2a1fe850e8afd5083cfac260cc34460055bb45864cac8fdd33a2ae9ef4fb0b9f"

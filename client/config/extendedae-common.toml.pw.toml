@@ -1,0 +1,8 @@
+name = "extendedae-common.toml"
+filename = "extendedae-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe30100e5f00a2c88cefda864cf34ed5fddfc28cce22d5e4f287d5ba7f2370f8.toml"
+hash-format = "sha256"
+hash = "17f6563fb9519ad8e6b43fe9057bd358bc3a91e1765c82e318c265edc0c6b7a9"

@@ -1,0 +1,8 @@
+name = "bonsaitrees4-4.0.9.jar"
+filename = "bonsaitrees4-4.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7094/632/bonsaitrees4-4.0.9.jar"
+hash-format = "sha256"
+hash = "cae8acacff71d3a1f4ce1f1f10b69e2d2807171969a0d4fc70ae8c501cd3b1f9"

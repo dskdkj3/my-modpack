@@ -1,0 +1,8 @@
+name = "uru_metal_bee.json"
+filename = "uru_metal_bee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f685d0c5adbefee41ef63bfd5c475d1e04c8516fa6e69046de1cedb2db3487a9.json"
+hash-format = "sha256"
+hash = "9d0eb53a1c636e50cc7516bd1eab20d1865220c4350fdb95a85c8d5d0dc528fb"

@@ -1,0 +1,8 @@
+name = "sky_dust.md"
+filename = "sky_dust.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/771799c3d857b0fb2045ebcdffc27c7eee2b42d5e23db3b4b53fc496a3287d42.md"
+hash-format = "sha256"
+hash = "83ef5ad07d74b779d9befb8d3270c7e2a0bec9f3eccf9e1a8f2172964953dc44"

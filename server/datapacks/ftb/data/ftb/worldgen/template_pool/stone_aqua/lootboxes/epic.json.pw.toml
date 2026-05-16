@@ -1,0 +1,8 @@
+name = "epic.json"
+filename = "epic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/895e580ec734955fd57fd2312f67345843f12997b85511bca79a7ff72c52f95a.json"
+hash-format = "sha256"
+hash = "150b109c08d9bf7359f81e5c5ec0a52a23ed56d18c5b1d9b968d8d566dd7f903"

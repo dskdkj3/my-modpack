@@ -1,0 +1,8 @@
+name = "create_addition.js"
+filename = "create_addition.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c40b9556bc18fb869c93f8d469b90209999682ceb8d024366427613fb666b29f.js"
+hash-format = "sha256"
+hash = "593f6ab5ab0db4c252d75704bad35a3ecfceedb6a71f807a5e3fb73209939ef9"

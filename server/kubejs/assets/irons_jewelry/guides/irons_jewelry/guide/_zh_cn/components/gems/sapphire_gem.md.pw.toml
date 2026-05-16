@@ -1,0 +1,8 @@
+name = "sapphire_gem.md"
+filename = "sapphire_gem.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b3d16c03f0786911ef1298488e7c287bb884d456043f526a120d72527dbc86e.md"
+hash-format = "sha256"
+hash = "8f42bd214cf3509552862c91b8f3d9239d538a1392b61fdb4c3544d679beec58"

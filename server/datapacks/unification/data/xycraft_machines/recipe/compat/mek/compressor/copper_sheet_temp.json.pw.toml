@@ -1,0 +1,8 @@
+name = "copper_sheet_temp.json"
+filename = "copper_sheet_temp.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d98dc4261739a570dc0d893e62cd4c73c27b565479522d60a4c5dc214f3ea63d.json"
+hash-format = "sha256"
+hash = "414bae838dda8ca35002fd0c5501b2b9a05cdf1d8dedf02c9020c16b9693dbe4"

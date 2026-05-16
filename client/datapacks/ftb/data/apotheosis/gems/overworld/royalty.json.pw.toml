@@ -1,0 +1,8 @@
+name = "royalty.json"
+filename = "royalty.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa319b0e9ce668ee1e0163576eae650c7e672d1746ecce1601d3063c88ecbea1.json"
+hash-format = "sha256"
+hash = "b6131985ea0bd75cff23429df458ae258665629b6693bf4f0441f4d88da42b21"

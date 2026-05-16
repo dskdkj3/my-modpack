@@ -1,0 +1,8 @@
+name = "ars_affinity-server.toml"
+filename = "ars_affinity-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9dfa2d4dafd7968c031b652acaf80aca45562e318189502e9198785803406874.toml"
+hash-format = "sha256"
+hash = "24a2e0c0d7827aa729fdf8659bf59139d40897fb67c234f69f403ec9eb8accbd"

@@ -1,0 +1,8 @@
+name = "cat_morning_gift.json"
+filename = "cat_morning_gift.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/6911704dc32743ae2d3c82c79de65428e721db9964421a2dc57b2a07534f255d.json"
+hash-format = "sha256"
+hash = "55e40573026308beba2726d85c195c60893a80feb24eb2b83bab31c7d15d6d4d"

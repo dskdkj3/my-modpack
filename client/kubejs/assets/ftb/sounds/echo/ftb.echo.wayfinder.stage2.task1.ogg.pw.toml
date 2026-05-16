@@ -1,0 +1,8 @@
+name = "ftb.echo.wayfinder.stage2.task1.ogg"
+filename = "ftb.echo.wayfinder.stage2.task1.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c01f8241883cf0570cddb6e96952943ba6bca7054e8bc82f34aadb9d0becda3e.ogg"
+hash-format = "sha256"
+hash = "6c674a86433899821ac79fd38ec4680eef4282aa8305a749ae1183ad7df11816"

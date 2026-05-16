@@ -1,0 +1,8 @@
+name = "refined_obsidian_nugget.json"
+filename = "refined_obsidian_nugget.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca183afeb182e60698ea90e012fb73da91b6849f5d9fa1e0983788abf14a415a.json"
+hash-format = "sha256"
+hash = "5f2307c713ec38f3d85248b18290c73fd4e648cf99f26bd54038f09f81c632b3"

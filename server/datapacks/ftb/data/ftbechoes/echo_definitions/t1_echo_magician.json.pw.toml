@@ -1,0 +1,8 @@
+name = "t1_echo_magician.json"
+filename = "t1_echo_magician.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/1201abcefb89b81b9730529a34f0138f7175847e811505c1883f3ef6fc68a29f.json"
+hash-format = "sha256"
+hash = "f273d3bb26e7b9dc60d5519c475829c54d919397c95e317d3ba9aa6351b88ff2"

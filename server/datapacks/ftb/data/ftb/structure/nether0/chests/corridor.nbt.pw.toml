@@ -1,0 +1,8 @@
+name = "corridor.nbt"
+filename = "corridor.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/abc71bc538a7bd9203ea3929475664213a862b42a86490790cd1041bd4e8fb6a.nbt"
+hash-format = "sha256"
+hash = "149991842b9a57f7865fa0d9898606928537254680842b52c1cc15f2a15f5c6f"

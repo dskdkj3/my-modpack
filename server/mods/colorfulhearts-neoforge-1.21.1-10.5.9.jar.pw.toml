@@ -1,0 +1,8 @@
+name = "colorfulhearts-neoforge-1.21.1-10.5.9.jar"
+filename = "colorfulhearts-neoforge-1.21.1-10.5.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6830/399/colorfulhearts-neoforge-1.21.1-10.5.9.jar"
+hash-format = "sha256"
+hash = "332a7f3df1274cabeae05e9361c41561c42a670787adc7e4b6795961b4721401"

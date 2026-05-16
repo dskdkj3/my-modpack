@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/gui/circuit_fabricator/base_background.png"
+filename = "base_background.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/gui/circuit_fabricator/base_background.png"
+hash-format = "sha256"
+hash = "e776c1be9d9b73e319bbd980f2bccb91020e97f38f25cedd40ca2793e34fbe53"

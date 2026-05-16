@@ -1,0 +1,8 @@
+name = "craftingstationjei-1.21.1-NeoForge-2.1.1.jar"
+filename = "craftingstationjei-1.21.1-NeoForge-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7932/261/craftingstationjei-1.21.1-NeoForge-2.1.1.jar"
+hash-format = "sha256"
+hash = "178d4fdfe402d10b2d944c34cc51e37a317c295734d0dbd2b96ec2e23ff38ad0"

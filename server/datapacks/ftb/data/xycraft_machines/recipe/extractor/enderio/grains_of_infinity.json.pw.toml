@@ -1,0 +1,8 @@
+name = "grains_of_infinity.json"
+filename = "grains_of_infinity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e15dd93e56d34e781e85ef671f599715d0a093b10cede8390c85bcfb18f55a8.json"
+hash-format = "sha256"
+hash = "8cc8a3bae613a8129b2481b8338b1e760d7b0d3181617f8ba9a395b43386de78"

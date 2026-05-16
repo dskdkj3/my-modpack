@@ -1,0 +1,8 @@
+name = "pinnacle.json"
+filename = "pinnacle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6c8eebbedf8249452cb3684d08680f0256f7de94f5b02c7a604ab556c1fb611.json"
+hash-format = "sha256"
+hash = "15b7f0e0963d82dc54742a37c6f254fec572ab61a47ff1632549e69be1536667"

@@ -1,0 +1,8 @@
+name = "glyph_firework.toml"
+filename = "glyph_firework.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98976384b160879f599f3c469167b17957a43c2bdf1859ca197976e697ec5c5a.toml"
+hash-format = "sha256"
+hash = "a2bea05f322b1102860b50c92d485c4624035d33c082dbb62f524f4eaef79c5e"

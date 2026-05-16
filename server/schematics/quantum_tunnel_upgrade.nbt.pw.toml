@@ -1,0 +1,8 @@
+name = "quantum_tunnel_upgrade.nbt"
+filename = "quantum_tunnel_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9da806ec07ecba5695c0ab45fb7a07e465c5f724bc34f4b2cbbd0c9c487d4dd0.nbt"
+hash-format = "sha256"
+hash = "e17f6e4a0ef97441af399f7404c1220ba5947ec97cb413793ae1a79b96350777"

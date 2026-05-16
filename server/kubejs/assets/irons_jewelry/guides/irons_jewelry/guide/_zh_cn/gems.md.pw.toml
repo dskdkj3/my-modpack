@@ -1,0 +1,8 @@
+name = "gems.md"
+filename = "gems.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/0665fb574cd939a95f6f2c09bf8f6cea1df486a93f737955c4d41dfaa6136b6a.md"
+hash-format = "sha256"
+hash = "9605cba4a72a483cc9ddc03edad90aaf26e23dbd66d7e3e631f1ad3e7c5b2507"

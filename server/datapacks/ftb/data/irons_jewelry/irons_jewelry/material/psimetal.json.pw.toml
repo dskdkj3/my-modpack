@@ -1,0 +1,8 @@
+name = "psimetal.json"
+filename = "psimetal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a9b072969e581c7d4f33d09e9026f6e69de110fbee6d3031b75610cfcdeb32f.json"
+hash-format = "sha256"
+hash = "c5e5dcf726a23fa0b4d643272577a93ab267ad4dc37c45638a0ff1545f50286c"

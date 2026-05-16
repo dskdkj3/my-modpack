@@ -1,0 +1,8 @@
+name = "quartzenrichedcopperchicken.png"
+filename = "quartzenrichedcopperchicken.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff0019ba7fb77083b872dfac3a616d6005b02e17894d4108239b3d799f3cbc19.png"
+hash-format = "sha256"
+hash = "bce0d2f1a6ac48ecbc1ae12d048f58269c410c8caf40ded7a1828afaf621ddd6"

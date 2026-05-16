@@ -1,0 +1,8 @@
+name = "large_ballroom.nbt"
+filename = "large_ballroom.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b5371da1509a0a02db99f6a9af132db1b3cf600fdc55ebfbc1bda54dc4f8a4a.nbt"
+hash-format = "sha256"
+hash = "10f0eece68a4d31373c4a001a7349fc3a58a2d0e1be1a141b64b6499976048fe"

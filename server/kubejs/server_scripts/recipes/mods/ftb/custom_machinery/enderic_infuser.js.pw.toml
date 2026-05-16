@@ -1,0 +1,8 @@
+name = "enderic_infuser.js"
+filename = "enderic_infuser.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe01470161ea49a45d7329e2fca775ad4905485ec092cc32d96450c7bf475b98.js"
+hash-format = "sha256"
+hash = "ffaa84dc0823cd099ab1fd028c22a9436a485a6b4f122b45535799aab696f64e"

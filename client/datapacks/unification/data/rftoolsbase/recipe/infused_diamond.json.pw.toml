@@ -1,0 +1,8 @@
+name = "infused_diamond.json"
+filename = "infused_diamond.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a932779d2740891089d07dd4b487a689820aa58c2386c9d241c3b277737f0e41.json"
+hash-format = "sha256"
+hash = "f4a40de8f26834d744bc6d5c3b63b21b0adaf1f84e9759b0c30b4fb35f77d760"

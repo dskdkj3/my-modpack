@@ -1,0 +1,8 @@
+name = "zombie.json"
+filename = "zombie.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1bc31a63ace66ea73af36708cdc3f51a4a4b758134fa4c1c3f20cb5ebc7851b0.json"
+hash-format = "sha256"
+hash = "501effba8b1fe98aaca5b20190a26e0a75fc755a4b0c6ea8e4ae119d3447a69f"

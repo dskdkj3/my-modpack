@@ -1,0 +1,8 @@
+name = "titanium.toml"
+filename = "titanium.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df9fcbf8c14ca51cd95ee0678c63c0ea350f9adad5edcbbc72549d5a0c3fe99b.toml"
+hash-format = "sha256"
+hash = "da70f3a232fb8a8c8580d04598c3ed2a7c17cf1740e17895ffaea847f4f09b68"

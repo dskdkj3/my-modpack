@@ -1,0 +1,8 @@
+name = "bountytext2.png"
+filename = "bountytext2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a008c7ee8c9b5c00227c17c9a88a3a897f7d74727ce6107caabfa8c87145257.png"
+hash-format = "sha256"
+hash = "d77765bab50c19c1671a7551de1b2b55957805755793b27a5c5f6ac3728b3a26"

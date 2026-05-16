@@ -1,0 +1,8 @@
+name = "add_canola.json"
+filename = "add_canola.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/24e46b4a45a210f845584b7f8be4c3fdccb9551f85b75a228b4ce35c8e32f48e.json"
+hash-format = "sha256"
+hash = "ea64864ce382a7f7de5c9ae47b82664cabc94857a2fab99362bce63318b70f14"

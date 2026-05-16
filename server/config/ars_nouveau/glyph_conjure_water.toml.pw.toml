@@ -1,0 +1,8 @@
+name = "glyph_conjure_water.toml"
+filename = "glyph_conjure_water.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df09df95309b57f26f2149e0bddc25b3cc304e65f0c3b1d47d2b5b4128f800a5.toml"
+hash-format = "sha256"
+hash = "43137435d5ba37db7bf1408ce0986d0f2d1f0580163b9b69e42fe45b92e10c2d"

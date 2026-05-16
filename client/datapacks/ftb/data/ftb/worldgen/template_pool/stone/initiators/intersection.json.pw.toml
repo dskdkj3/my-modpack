@@ -1,0 +1,8 @@
+name = "intersection.json"
+filename = "intersection.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/4777453928e17f5908c95c8137974d871fca5cc4b01ffbd5e1725666281a770b.json"
+hash-format = "sha256"
+hash = "4305a2172145acedc4a1dd22a6a1f67daa7519e6abcf854d0b9f7174b1ce539b"

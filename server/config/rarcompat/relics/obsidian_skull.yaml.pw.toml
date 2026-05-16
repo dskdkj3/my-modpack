@@ -1,0 +1,8 @@
+name = "obsidian_skull.yaml"
+filename = "obsidian_skull.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fa851b0dcfd665a475baa8bf0f8270f57f5367e59509202ea0ed8c5b3b65ca8d.yaml"
+hash-format = "sha256"
+hash = "d9ab46bb5d9b2a537677efbc0c28c85cbacd1819441a8b3b6d625dfee374a77d"

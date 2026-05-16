@@ -1,0 +1,8 @@
+name = "generic.projectile_speed.json"
+filename = "generic.projectile_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78bc0f1b338f52c0ab60ec8494e1c218f19cec224cf9019e8244ad9ee577b9e7.json"
+hash-format = "sha256"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"

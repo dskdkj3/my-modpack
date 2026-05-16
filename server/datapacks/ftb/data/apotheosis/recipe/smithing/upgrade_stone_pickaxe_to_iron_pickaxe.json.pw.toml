@@ -1,0 +1,8 @@
+name = "upgrade_stone_pickaxe_to_iron_pickaxe.json"
+filename = "upgrade_stone_pickaxe_to_iron_pickaxe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd7192a8d051ab2c7eccc7b2f9905359aea917d6c377a5edac669efff7ee4831.json"
+hash-format = "sha256"
+hash = "7ca7bf0c75543a85f412045555403d255468eb9a283c89cbd946fc8bcc6afd27"

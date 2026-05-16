@@ -1,0 +1,8 @@
+name = "chemical_attribute_fuel.json"
+filename = "chemical_attribute_fuel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da9357cbcae3e31d27fe42b4ae201152d6982deed7cc176832610d601f16a0cf.json"
+hash-format = "sha256"
+hash = "9b7f9b58f46453d799b60485f01214763adbcc2afee049d6aead48f346e9ab41"

@@ -1,0 +1,8 @@
+name = "soup.json"
+filename = "soup.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5581ce460b5fccb0ab2cfbeece18385ff21b2d425ab9fe91f475dd446866c61.json"
+hash-format = "sha256"
+hash = "9d34f16a04593322d0f64d62b90e6bc4bf1d3bdd70d1e60707127e09ce428b90"

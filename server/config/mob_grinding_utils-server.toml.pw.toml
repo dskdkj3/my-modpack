@@ -1,0 +1,8 @@
+name = "mob_grinding_utils-server.toml"
+filename = "mob_grinding_utils-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9dd0f25f07c32d4a11f1cc9df914d82cab45d85603fc958634b62b469f59fa17.toml"
+hash-format = "sha256"
+hash = "a3572e2cbe2fa58b81e63d922dc2c9375204dddba0e808d8647c92933298998c"

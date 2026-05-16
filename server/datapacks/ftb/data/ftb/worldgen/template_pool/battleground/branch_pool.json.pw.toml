@@ -1,0 +1,8 @@
+name = "branch_pool.json"
+filename = "branch_pool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/03b7cc3913f30dc91c588a16068e7b7ada233c7994008b957efebabd1da65472.json"
+hash-format = "sha256"
+hash = "b6c29b024a3cc299bc988bc0938c5b7771403430fda23ab589586125ef03a8bb"

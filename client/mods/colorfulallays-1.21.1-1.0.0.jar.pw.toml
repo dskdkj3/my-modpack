@@ -1,0 +1,8 @@
+name = "colorfulallays-1.21.1-1.0.0.jar"
+filename = "colorfulallays-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6897/98/colorfulallays-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "1cd7c667f997483f1c80b77ad974a0dd10a87771e437f84f5600a200c9cccac5"

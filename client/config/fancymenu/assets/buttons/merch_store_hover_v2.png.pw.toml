@@ -1,0 +1,8 @@
+name = "merch_store_hover_v2.png"
+filename = "merch_store_hover_v2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/73e5497094d9bb72cf1f0c2b785462b361fb5ad723796fa9b52cd0b3996f178e.png"
+hash-format = "sha256"
+hash = "d28398fe0070437e002a6e00529643c381f4a5700c0c9306a9086bd01ab3890c"

@@ -1,0 +1,8 @@
+name = "deadend_unused.nbt"
+filename = "deadend_unused.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9da9163684c484dc705285483cffbe7d8e4e558d19124d7e0439fae7e867efe7.nbt"
+hash-format = "sha256"
+hash = "c6c2e09603c5efaaf3f2d5bafaf1615798663a5d94811da60b4d8d1a406c47d9"

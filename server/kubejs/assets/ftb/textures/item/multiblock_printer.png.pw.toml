@@ -1,0 +1,8 @@
+name = "multiblock_printer.png"
+filename = "multiblock_printer.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85f1581e7550a0433e30ccb31fe9e545b01bb349d14a1153f1802ca5d3696d30.png"
+hash-format = "sha256"
+hash = "81cabd2e8d7378ddd761146085d2e5728493897b6978baf4169110bc56ccd163"

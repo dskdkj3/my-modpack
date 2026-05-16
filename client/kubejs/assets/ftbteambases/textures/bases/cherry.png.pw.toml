@@ -1,0 +1,8 @@
+name = "cherry.png"
+filename = "cherry.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc58ccb30c4442de869ba702c05087b0967fe8c1c38067b5b8241abf1bbd7a31.png"
+hash-format = "sha256"
+hash = "77fff51dcd5048ef66519ef477f3849749a55ba3d4a22caf12b69779951c2587"

@@ -1,0 +1,8 @@
+name = "mods_hover.png"
+filename = "mods_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2eb53c32e0839b6c20a6d91efdd9970487513e0fe6261af890ed0a8bfbc73647.png"
+hash-format = "sha256"
+hash = "baf583265a17e45efbc2dc5e50fe6e997d29844e1de39e6e2578250775a278cb"

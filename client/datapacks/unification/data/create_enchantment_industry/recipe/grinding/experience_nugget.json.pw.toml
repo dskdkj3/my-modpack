@@ -1,0 +1,8 @@
+name = "experience_nugget.json"
+filename = "experience_nugget.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/9902a9ce8f493f3ca964b5cb720366ff41aed85dbd1c672f6a5932653c521d4e.json"
+hash-format = "sha256"
+hash = "773a8b747fe44107c52d9e562d1af895c209f779d17d5f193b29c6721e130b52"

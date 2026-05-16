@@ -1,0 +1,8 @@
+name = "theme2_end1.nbt"
+filename = "theme2_end1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cc27a55c96480cd6d514917c73daac513639fea7af8548346b7c01e778b503a.nbt"
+hash-format = "sha256"
+hash = "117bfa9e7077abc256346eee89757d6831e82b23681cc42563484d59e3440a48"

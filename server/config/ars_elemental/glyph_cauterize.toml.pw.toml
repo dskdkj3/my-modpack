@@ -1,0 +1,8 @@
+name = "glyph_cauterize.toml"
+filename = "glyph_cauterize.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f40d41f6308b0b442cfd5433d2292c275f7d6158a0b7c279de57cc24bb9715b5.toml"
+hash-format = "sha256"
+hash = "fc6e70050575d813a79273bfb134ae114d96ff61f6f95a497b768196875677a2"

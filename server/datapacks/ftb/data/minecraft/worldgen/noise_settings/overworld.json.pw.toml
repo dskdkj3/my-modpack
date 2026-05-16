@@ -1,0 +1,8 @@
+name = "overworld.json"
+filename = "overworld.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7ba09256c6e5642ecfe76008c07c9748c39f32dc8aa0008edb35ca282771a549.json"
+hash-format = "sha256"
+hash = "a2e485f54244ae0ed6caf3a9a3bfe588c32cbd47666b9c87c0e5e0baad776269"

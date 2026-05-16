@@ -1,0 +1,8 @@
+name = "energy_acceptor.md"
+filename = "energy_acceptor.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3260ea930b15185f79a3af121472b374f841da25ff5caf724434a910f982c90.md"
+hash-format = "sha256"
+hash = "4edcc30c1a6165164f50de95ed58433fa171c4fcb0bcb70c9efe5d9caf3f947d"

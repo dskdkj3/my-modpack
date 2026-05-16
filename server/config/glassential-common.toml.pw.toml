@@ -1,0 +1,8 @@
+name = "glassential-common.toml"
+filename = "glassential-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/0274823226780bb99e2e766001a9a9680c38ac5b827d83d97acfe33bd00c8399.toml"
+hash-format = "sha256"
+hash = "1a44cd14cd48cbd2453501f19473f085b77cb8f9b046b6f02b37335216a8f8eb"

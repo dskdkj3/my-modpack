@@ -1,0 +1,8 @@
+name = "bauxite_stone_ore.json"
+filename = "bauxite_stone_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/138bbafcef829b69eb819fc77b2a254cfacc435eb92ac0a3fff13eec6de2afa5.json"
+hash-format = "sha256"
+hash = "a51a20c190771d83f2189d5c75df470750c9c707df74dc7614d906908b31317b"

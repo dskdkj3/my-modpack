@@ -1,0 +1,8 @@
+name = "compactmachines-client.toml"
+filename = "compactmachines-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d422d2771cd13338aec84a5812143969cb8e83d09dd3ab8e5289d1a516dcfeb9.toml"
+hash-format = "sha256"
+hash = "5dd7427d6021190fa5701476065b08362949b18400fb1dfcab7b434038b9d955"

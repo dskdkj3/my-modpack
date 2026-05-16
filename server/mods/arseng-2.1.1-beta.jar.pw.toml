@@ -1,0 +1,8 @@
+name = "arseng-2.1.1-beta.jar"
+filename = "arseng-2.1.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6203/425/arseng-2.1.1-beta.jar"
+hash-format = "sha256"
+hash = "9e2b78101f08bf325589cb98ffba9d91171fdd76ba587d54bdef9d5de18080bc"

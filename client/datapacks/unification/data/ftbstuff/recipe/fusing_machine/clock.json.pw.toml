@@ -1,0 +1,8 @@
+name = "clock.json"
+filename = "clock.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5ec4ec8c23ef6590fdf914c3fafa73fe6f2637fb26b9edad6903831c787c49a.json"
+hash-format = "sha256"
+hash = "6bfae9695ef43e1ef9c34317a2d61c08d5208d924ab77b822c253484c0068ce1"

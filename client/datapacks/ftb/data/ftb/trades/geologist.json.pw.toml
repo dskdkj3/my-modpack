@@ -1,0 +1,8 @@
+name = "geologist.json"
+filename = "geologist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/01986c4b49355038df6a48afa1a0750bb37adddc5b0abd170b21cd254ec30592.json"
+hash-format = "sha256"
+hash = "69cee8ab91da145d5f141c56ac48a7b7605262913e428a5759583136a076c690"

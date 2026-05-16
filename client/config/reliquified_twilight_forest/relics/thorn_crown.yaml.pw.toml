@@ -1,0 +1,8 @@
+name = "thorn_crown.yaml"
+filename = "thorn_crown.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4ac9d72d13dcdc44062adacbf2830be0ccbe960fe5415682c1e0bcd1bd2960b4.yaml"
+hash-format = "sha256"
+hash = "200927af761713ed84d4c190271ff83e6ad31f863ce1243998a21f26f2271e1f"

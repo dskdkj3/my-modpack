@@ -1,0 +1,8 @@
+name = "omnitools-1.21.1-1.2.1.jar"
+filename = "omnitools-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7437/224/omnitools-1.21.1-1.2.1.jar"
+hash-format = "sha256"
+hash = "281f2b9544fe7105093164b3f8e829dde365262005459ef43c0fbb08fb9b8788"

@@ -1,0 +1,8 @@
+name = "entrance.json"
+filename = "entrance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b934ebee048667303bc68fd8adb8299060baff33cd1091ee02f57a0c23bee697.json"
+hash-format = "sha256"
+hash = "52c204a78a650a4800574d35f9b81c40b822bee461ef75233a3f096395be3411"

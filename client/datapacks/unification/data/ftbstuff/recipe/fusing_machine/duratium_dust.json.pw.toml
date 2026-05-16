@@ -1,0 +1,8 @@
+name = "duratium_dust.json"
+filename = "duratium_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/16118c7d6743e5564f210445d4a6982da763a649ff0444a587eee080ec9a7df9.json"
+hash-format = "sha256"
+hash = "2b313a5a4dd6cccc42b19337dd6fe47dc587576e7a9e5a8f9bcb04001661676b"

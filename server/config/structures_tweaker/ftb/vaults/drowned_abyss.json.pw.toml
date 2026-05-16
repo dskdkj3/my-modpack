@@ -1,0 +1,8 @@
+name = "drowned_abyss.json"
+filename = "drowned_abyss.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae94caa0860c00de21b9092dec35d9ccc0aae04bfb11deb21763f597be3de3e8.json"
+hash-format = "sha256"
+hash = "e5ec3368c4e0182ab4de974dd91fae23b950d5626b43cf2ad3b23c8eef2def7c"

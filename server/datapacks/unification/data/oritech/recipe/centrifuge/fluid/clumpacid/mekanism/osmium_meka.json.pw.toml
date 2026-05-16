@@ -1,0 +1,8 @@
+name = "osmium_meka.json"
+filename = "osmium_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/eed663aa0243e21f8e3a5e05c323925bdd83e7dcee016be2fc9124717b3bc8f7.json"
+hash-format = "sha256"
+hash = "d2314fe772c502eddd6772ce3a958e581e3dd884045f2c4489f61654524a4f27"

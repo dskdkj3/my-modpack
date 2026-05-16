@@ -1,0 +1,8 @@
+name = "mod_filter.json"
+filename = "mod_filter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a13d1c857d6fb3e79a483e779e3421d9061bc322b07c6ce72ed0f121f12c687b.json"
+hash-format = "sha256"
+hash = "56b6980b12ec051cb5c86e0556022e3c6d6794384da6f80e842b8899602018a3"

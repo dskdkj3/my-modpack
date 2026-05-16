@@ -1,0 +1,8 @@
+name = "entityculling.json"
+filename = "entityculling.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3dcf3be28b18e277949d97c0ce5559daedfae72e53ee8c44f58fccc5628392c4.json"
+hash-format = "sha256"
+hash = "f78e4f1f3877f604688a706f950da47ba8d31aeb4ee5708ed1ad57dba6d42937"

@@ -1,0 +1,8 @@
+name = "malkuth_arena_eternal.json"
+filename = "malkuth_arena_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca9146b8c6633a26cb395e4af7be845306554b905ae1bc92f6a70df6aa22e9d4.json"
+hash-format = "sha256"
+hash = "f36e33241774852fad09253141f08ae387e1dccd1ceabb397406364a4428191c"

@@ -1,0 +1,8 @@
+name = "processing_addon_tier_1.json"
+filename = "processing_addon_tier_1.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85a028ed600b943ac22bd86374f55ad1462b9d3b4c1ff52a012d194096c2637a.json"
+hash-format = "sha256"
+hash = "8422bc79cd76f8886e4beb557781904aeeb08de890c5d2c9e0ac9fffca03fca5"

@@ -1,0 +1,8 @@
+name = "the_basics.md"
+filename = "the_basics.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b14804dc396179bca713cc1cef498bfd30bafb6bc8ab3036eeb099707b6e3284.md"
+hash-format = "sha256"
+hash = "39ab440f511955937f07e3544ef7d84235c1e4b52f7c4c17d09ebd6deb3b4efc"

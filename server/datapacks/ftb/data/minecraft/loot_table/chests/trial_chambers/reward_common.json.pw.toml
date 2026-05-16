@@ -1,0 +1,8 @@
+name = "reward_common.json"
+filename = "reward_common.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c90325edb210c8ee95cfa958079d6f1e05698fae7271f08495571733587b554.json"
+hash-format = "sha256"
+hash = "9067ba2db4c627f756cf966ff1c19c25f9cc5264367618567d0c13e0723269c6"

@@ -1,0 +1,8 @@
+name = "base_dump_hovered.png"
+filename = "base_dump_hovered.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/28dbe20c8d4a62c39a079cdb75e0efbf45446b7dbafba6d86163c73a2fba60de.png"
+hash-format = "sha256"
+hash = "77b1fc0ff0c64e752030359ceca0c096de6b6d05626eef495818c04ce60e912f"

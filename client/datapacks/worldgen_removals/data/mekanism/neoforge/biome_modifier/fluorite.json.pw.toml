@@ -1,0 +1,8 @@
+name = "fluorite.json"
+filename = "fluorite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dff47b6f131a98465536108cfc91d9a4aa2c3d5d94d22da5aef65a344826186f.json"
+hash-format = "sha256"
+hash = "70db231a6fbb5e3c0c24d5b920d0e2e43ec0ba969b9720396478bc1fdf3cb108"

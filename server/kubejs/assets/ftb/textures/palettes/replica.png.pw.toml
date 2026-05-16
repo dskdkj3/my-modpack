@@ -1,0 +1,8 @@
+name = "replica.png"
+filename = "replica.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/892aafcbc2038db0528155cc91a38fa325e6d86b3d22c23623093d38cc1eb09d.png"
+hash-format = "sha256"
+hash = "f95079cef1ef69ae1519b4f49ebe044ce1dfca376b8111c9cfebe1d65e8ba8bd"

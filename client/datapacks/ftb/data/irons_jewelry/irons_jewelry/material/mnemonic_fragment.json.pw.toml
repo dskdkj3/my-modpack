@@ -1,0 +1,8 @@
+name = "mnemonic_fragment.json"
+filename = "mnemonic_fragment.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf3b5739c8527a016f61cae51f069c1c84cf5061b0c1b959b84c49ef103aa21d.json"
+hash-format = "sha256"
+hash = "961916dce1d8a9238f6bc9caab17a125ec7567628c70c3f91b5da4a1b13a5455"

@@ -1,0 +1,8 @@
+name = "colorfulhearts.toml"
+filename = "colorfulhearts.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6ada3df82df3ce51cf236e86f416e16d717dff551c26d9d3e657af37ba9637fc.toml"
+hash-format = "sha256"
+hash = "6ff8724c389a15ab21f9de6db244c2a7b1a0961f61600b774df9124e0b37ec9f"

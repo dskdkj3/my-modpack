@@ -1,0 +1,8 @@
+name = "shock_pendant.yaml"
+filename = "shock_pendant.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc3d8664eebdf15715ee2cc9104f949fd3eec8dcec933cf3556fce41a9cf3e44.yaml"
+hash-format = "sha256"
+hash = "b89f9f28949420031f8441e70b17361d0bb3346a6ef7377a267e96ab599c99a7"

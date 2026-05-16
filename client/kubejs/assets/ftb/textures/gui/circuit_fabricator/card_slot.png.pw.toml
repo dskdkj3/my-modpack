@@ -1,0 +1,8 @@
+name = "card_slot.png"
+filename = "card_slot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/944bb8464381d6eeca71958602faab235e185ba64c0e859a26309bc25a7250dd.png"
+hash-format = "sha256"
+hash = "217f34b5a07e0c83c7def5b76fa2786687849710c46c2a213069083592dc9830"

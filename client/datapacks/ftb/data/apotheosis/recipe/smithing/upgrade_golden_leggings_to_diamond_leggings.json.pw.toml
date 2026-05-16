@@ -1,0 +1,8 @@
+name = "upgrade_golden_leggings_to_diamond_leggings.json"
+filename = "upgrade_golden_leggings_to_diamond_leggings.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2fa55f7883b599643c04ad207506919917f6e006624f6709b236b8c1229d303c.json"
+hash-format = "sha256"
+hash = "0f7c811cdb34269eeb408e84b61edaa3ff051a62c04ffb544ffb6be83e35fb84"

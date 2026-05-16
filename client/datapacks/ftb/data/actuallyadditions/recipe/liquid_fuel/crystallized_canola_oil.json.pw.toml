@@ -1,0 +1,8 @@
+name = "crystallized_canola_oil.json"
+filename = "crystallized_canola_oil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26a9eda9ba0db75a8e90e6d3ab47b12d9e00352430677cd64fbc958186cbd455.json"
+hash-format = "sha256"
+hash = "6e31529d2311c3f5a2d6385467942797268ec39eb26f1b42618ce61b3e165155"

@@ -1,0 +1,8 @@
+name = "tiny.json"
+filename = "tiny.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/23a02c76b6abf9a1769c08b45bb75d95519b52feea15776f522b2aa712d1fe07.json"
+hash-format = "sha256"
+hash = "8d6411022a1fcc7566eac873596bdb72dc21b2e3ff7c6c89af7a6ee25159b971"

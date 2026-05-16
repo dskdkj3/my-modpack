@@ -1,0 +1,8 @@
+name = "stray_in_cold.json"
+filename = "stray_in_cold.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba46ef5d7784cf373893566a89a8fe80482eaa6197d2b101be77c2f43a183e69.json"
+hash-format = "sha256"
+hash = "67536d6f5c7b585934e24fb65e416d5bd4dc6bcf66242d25676eb08b5ff8062b"

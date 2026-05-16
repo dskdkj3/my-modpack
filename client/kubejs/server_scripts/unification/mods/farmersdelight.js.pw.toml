@@ -1,0 +1,8 @@
+name = "farmersdelight.js"
+filename = "farmersdelight.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd8896888b838165049ed3d40c104dfaf0613e6c16e5e39d5a574f01703446e0.js"
+hash-format = "sha256"
+hash = "d4238fa57bc8880ad39087e65b4c7a0ebadb32aaaae9eb61e40f0765a4591c78"

@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/powah/guides/powah/book/_zh_cn/items/lens_of_ender.md"
+filename = "lens_of_ender.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/powah/guides/powah/book/_zh_cn/items/lens_of_ender.md"
+hash-format = "sha256"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

@@ -1,0 +1,8 @@
+name = "pipegoggles-client.toml"
+filename = "pipegoggles-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb6e19bdd9f9fceaa7ca6cbab4273ee46335351241562d8cf8a6f9e4b2161678.toml"
+hash-format = "sha256"
+hash = "87095cf7e69f08dabe6c02a788d723135b2f280c55de1100cd4040daa73484a8"

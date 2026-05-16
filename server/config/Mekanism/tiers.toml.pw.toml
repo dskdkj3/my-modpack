@@ -1,0 +1,8 @@
+name = "tiers.toml"
+filename = "tiers.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/792883312205aaa2937b3afb1e48d0c0ba28b563183e5b2b1615498cb3702754.toml"
+hash-format = "sha256"
+hash = "a62413e8c2db427d7e2db72fc6d16d1ce3285a5a84a4913a9877378319552277"

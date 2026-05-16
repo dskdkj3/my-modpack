@@ -1,0 +1,8 @@
+name = "crystalix-common.toml"
+filename = "crystalix-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c97f7645df337c57d19a29e0710ec2d0bc69ca30b2f1c9a487982b5903d3646.toml"
+hash-format = "sha256"
+hash = "8461b637b619a8eabd19331e46b5033fa837465dcbbcaa87e0c78a0f98ef6f2c"

@@ -1,0 +1,8 @@
+name = "irons_lib-1.21.1-1.0.2.jar"
+filename = "irons_lib-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7907/336/irons_lib-1.21.1-1.0.2.jar"
+hash-format = "sha256"
+hash = "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22"

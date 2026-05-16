@@ -1,0 +1,8 @@
+name = "16.png"
+filename = "16.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/756da7036b99bce7950cd37dc1855857719d66f5590647bee89238f8320c94f8.png"
+hash-format = "sha256"
+hash = "78d44f759a5127ec84d9702a68f54d73f1857c16ba9b8c853b3369751aaad2d1"

@@ -1,0 +1,8 @@
+name = "generator-storage.toml"
+filename = "generator-storage.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f62f0d7f3bdbcfe36dc6c987ec7f89b8667f943d98a75a98c5b8f77ac2def3fa.toml"
+hash-format = "sha256"
+hash = "06fca6360fadb0e6365bd5bc36f55a0e0445b6c6f0ba02f3eee23d0ec24e5aa7"

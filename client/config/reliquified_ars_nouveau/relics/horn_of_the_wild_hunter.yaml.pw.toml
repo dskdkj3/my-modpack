@@ -1,0 +1,8 @@
+name = "horn_of_the_wild_hunter.yaml"
+filename = "horn_of_the_wild_hunter.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa1641aa78beb76d58f1137a678af489320838c069571d169f4154ce8ac1eb51.yaml"
+hash-format = "sha256"
+hash = "831ebc9e4d8baa7d2dd7a04b1928e5a3a7851e5b45164e0a24228c668f406b8a"

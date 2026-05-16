@@ -1,0 +1,8 @@
+name = "jei-debug.ini"
+filename = "jei-debug.ini"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b212171ff84f9b8f4eba0d0ae78e554b10bf7068deee048d6b57b9411eb9111.ini"
+hash-format = "sha256"
+hash = "39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4"

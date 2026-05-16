@@ -1,0 +1,8 @@
+name = "keybindings.txt"
+filename = "keybindings.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4f9df0de74455c9036e570d92033a027cd916897906884794d5ddf5b92a08fa.txt"
+hash-format = "sha256"
+hash = "7be44b6464bcb2037ad627e22911694b7b62f9bf2fd6bd169ded6cde0e512bc2"

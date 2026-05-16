@@ -1,0 +1,8 @@
+name = "clapple.png"
+filename = "clapple.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f94025b4a84917cfa3739692824196729061531cdaffbc23204689d02382aab.png"
+hash-format = "sha256"
+hash = "151e62387142cbdfbee437769da29efdc6d963b723d00582076b49ad9cbd84d5"

@@ -1,0 +1,8 @@
+name = "honeyfall_1.nbt"
+filename = "honeyfall_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2cc88969412715a123bbee4dd8cebb28735a84dee2b1b60b8693bcc96795f925.nbt"
+hash-format = "sha256"
+hash = "e76302f6f4f6b14c12293b7521106ce1e36717fbdbb4252ca6f4ecf61374d1a1"

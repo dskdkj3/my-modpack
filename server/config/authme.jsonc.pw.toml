@@ -1,0 +1,8 @@
+name = "authme.jsonc"
+filename = "authme.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2eacce6b63b46a600283fad05f4ee8aa9b1973dcbef83d200cb9c734c8ec1b2c.jsonc"
+hash-format = "sha256"
+hash = "7be21b7617f2469822bee8c1d8060b89df32e05351c4599dedcb8de8d223d5ba"

@@ -1,0 +1,8 @@
+name = "glyph_rune.toml"
+filename = "glyph_rune.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f221a3e8be144c013ce02aecc5cffaa37dc2607d05d0c274f1f2ee450e885651.toml"
+hash-format = "sha256"
+hash = "2a6cdb9050080e2c86a7d1b67df0921e0c3470694500f561b33cc1bbb00fcca8"

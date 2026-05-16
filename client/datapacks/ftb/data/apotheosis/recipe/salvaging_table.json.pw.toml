@@ -1,0 +1,8 @@
+name = "salvaging_table.json"
+filename = "salvaging_table.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e7391a1c034a233e0ab66918a9f1c612d2c6021c79e3b21583b174e3242e541.json"
+hash-format = "sha256"
+hash = "4c55d29ea3dbe51675537a3e76fbcf7f0df44069e64853b6454c4228f9ceccbc"

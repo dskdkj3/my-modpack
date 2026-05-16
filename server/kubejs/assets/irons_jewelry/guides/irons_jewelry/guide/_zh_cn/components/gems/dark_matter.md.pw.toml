@@ -1,0 +1,8 @@
+name = "dark_matter.md"
+filename = "dark_matter.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/8753617bb459fe280dcbfd218ab0be998b0651a0fe546c9684c79242f6a2e748.md"
+hash-format = "sha256"
+hash = "8b1f3db4e724bf987ce95f3ac467b3b1b6313bccb3e663fca221374fd8a687c6"

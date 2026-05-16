@@ -1,0 +1,8 @@
+name = "umbrella.yaml"
+filename = "umbrella.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a98fef4d6a6932175aa343c4633496ca5759525f4fa55b2dd4b712faaa246b6.yaml"
+hash-format = "sha256"
+hash = "e05a7c48590595013698c758961eec3a02781367293200b6b0dfcadc4047550b"

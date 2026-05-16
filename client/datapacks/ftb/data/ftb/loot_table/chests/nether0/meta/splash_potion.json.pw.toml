@@ -1,0 +1,8 @@
+name = "splash_potion.json"
+filename = "splash_potion.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c63b5692efb6c7f2a9f2e56cc2582a239704ccd078072493585fa0be32a19b76.json"
+hash-format = "sha256"
+hash = "b44b27ddaf54c78da5af32bd2b22e2458ec7a9594d2423ebeb07ad8df9747a7d"

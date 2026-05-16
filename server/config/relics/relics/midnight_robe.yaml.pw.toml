@@ -1,0 +1,8 @@
+name = "midnight_robe.yaml"
+filename = "midnight_robe.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5ed46a7ef236743e3090b7f6590e3a2afc9cd0c4ed10a091709529c38ad2391.yaml"
+hash-format = "sha256"
+hash = "14a98555a4d676fcfa6774ea16ae0ee230fb2a5f8a622a0eb93ea7bfacffaf24"

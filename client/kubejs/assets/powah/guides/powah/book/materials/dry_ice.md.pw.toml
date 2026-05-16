@@ -1,0 +1,8 @@
+name = "dry_ice.md"
+filename = "dry_ice.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/eea9c61b2e57994a1997a2704913977db0e017a9db482ee6d18275d6948273df.md"
+hash-format = "sha256"
+hash = "eb5e5355905a1cf46a18e6dddaa3f38791a4985b5aa3b3d12721deb6fc98e059"

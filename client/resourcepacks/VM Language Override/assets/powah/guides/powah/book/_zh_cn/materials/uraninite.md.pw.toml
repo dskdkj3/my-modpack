@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/powah/guides/powah/book/_zh_cn/materials/uraninite.md"
+filename = "uraninite.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/powah/guides/powah/book/_zh_cn/materials/uraninite.md"
+hash-format = "sha256"
+hash = "becb254ca82e5f621195a71a1208cc2b78ad5090892b7607e92e1853d256e15a"

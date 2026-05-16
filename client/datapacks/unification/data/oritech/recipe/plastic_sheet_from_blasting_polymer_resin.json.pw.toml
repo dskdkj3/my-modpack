@@ -1,0 +1,8 @@
+name = "plastic_sheet_from_blasting_polymer_resin.json"
+filename = "plastic_sheet_from_blasting_polymer_resin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/150cabcd93eefca1473dded711c3a70b0359d9f1f086aaa4574b665d9e7bdad4.json"
+hash-format = "sha256"
+hash = "f4ad10e890fdc789a632231cfdc606c22c04e80255ac6fb19f5746d65184935a"

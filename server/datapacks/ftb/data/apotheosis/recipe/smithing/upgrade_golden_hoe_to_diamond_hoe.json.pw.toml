@@ -1,0 +1,8 @@
+name = "upgrade_golden_hoe_to_diamond_hoe.json"
+filename = "upgrade_golden_hoe_to_diamond_hoe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5fad18c86f4ac31ad7af25a1974014770300b9b7405fc86f74b384b77b19fb4a.json"
+hash-format = "sha256"
+hash = "d620192a44a88a5d82a34be033732483b359e73393421f013b851a300e7e5aa5"

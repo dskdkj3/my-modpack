@@ -1,0 +1,8 @@
+name = "en_nz.snbt"
+filename = "en_nz.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce7e80b70ea7ffe21c0f403531e071fc9809f956b10cace69082263de2a3f9a4.snbt"
+hash-format = "sha256"
+hash = "cef45d6f2f7c046f75236d307c3fabbcec56834faa1d4771194ecc8487fa8de4"

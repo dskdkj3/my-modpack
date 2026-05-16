@@ -1,0 +1,8 @@
+name = "precision_mechanism.json"
+filename = "precision_mechanism.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/bad8fd1d4e17c98ea1ab00ce28f3a8aeea54bc2522dcc3a576c6ff5ac48fddd6.json"
+hash-format = "sha256"
+hash = "114d3dd4a1d6e159a7052180ca1c0cd64af4d3e66464dd767fd80eedb14053f1"

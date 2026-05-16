@@ -1,0 +1,8 @@
+name = "boon_stone_drops.json"
+filename = "boon_stone_drops.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d03cf8b3ad88206b338d7b0e22a2250451e2f7ba44ddb25eb19488b978544d1.json"
+hash-format = "sha256"
+hash = "676505f1f9f3615b24451622f7fd99c7c80324d7b7ddc0c5d4541d84d330aaa4"

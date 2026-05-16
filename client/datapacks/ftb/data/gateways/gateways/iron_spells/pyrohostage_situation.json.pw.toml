@@ -1,0 +1,8 @@
+name = "pyrohostage_situation.json"
+filename = "pyrohostage_situation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75489c08914cf2142d55819aac7d175c4ab69991854c573b72021121afd11a43.json"
+hash-format = "sha256"
+hash = "39c086912361fd7ddddb24891ed08ad446d96b07d09920993e14e99a16ea0265"

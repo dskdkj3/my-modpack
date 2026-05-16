@@ -1,0 +1,8 @@
+name = "void_cloak.yaml"
+filename = "void_cloak.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9dd8f0eaf33ca46d5eb740249676bd952f1998374dc0d9c32f16f381dee281f1.yaml"
+hash-format = "sha256"
+hash = "aded9f6a2e6cdcff8f30600ea051d5ca60e48972b5e5b33c83d94466c17ec5ee"

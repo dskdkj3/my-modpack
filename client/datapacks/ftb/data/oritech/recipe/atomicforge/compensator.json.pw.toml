@@ -1,0 +1,8 @@
+name = "compensator.json"
+filename = "compensator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3dc4c48e99b768c95566fe8c41b953cf935c120f389771a1630eae03a4dd5d18.json"
+hash-format = "sha256"
+hash = "5d321aabd0fcd90ee7fd93be1a07e38766e7fd16b1cb90f8b9789e3f9b227899"

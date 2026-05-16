@@ -1,0 +1,8 @@
+name = "inventorysorter-server.toml"
+filename = "inventorysorter-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/6967c1a488913c75bf15cdc24b21de01977449398eb6b469feb311104d4f9b9c.toml"
+hash-format = "sha256"
+hash = "6872cc5fc57f2e4983a9fd7a5ccefd88dfe3fb219b7c6ce9b171aeb474a2e40e"

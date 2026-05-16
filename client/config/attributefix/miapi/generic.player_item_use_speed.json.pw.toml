@@ -1,0 +1,8 @@
+name = "generic.player_item_use_speed.json"
+filename = "generic.player_item_use_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f8078fa171b65c92eba421df7e09862ede00357f1a8a1b5c864a9d570166a80c.json"
+hash-format = "sha256"
+hash = "908490f0103460106749d35a50a3dff8874f929695082c7703bc5d05ca245cd4"

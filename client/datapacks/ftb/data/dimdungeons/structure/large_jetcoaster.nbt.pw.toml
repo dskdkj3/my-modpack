@@ -1,0 +1,8 @@
+name = "large_jetcoaster.nbt"
+filename = "large_jetcoaster.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4ffb6d1efb7b2aed6362111f1821889f0b189f4308652523358bbbfd73ba8350.nbt"
+hash-format = "sha256"
+hash = "bbb67401dbb0039fbd7646f078b5ce46e90a77cea2f00ad0836e78cd581ef9d1"

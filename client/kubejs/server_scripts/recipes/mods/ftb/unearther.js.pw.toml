@@ -1,0 +1,8 @@
+name = "unearther.js"
+filename = "unearther.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c4dab041e71dcaa5da7dd0142e355c8f623ce326f7f17e8eee19a3425d8d8abf.js"
+hash-format = "sha256"
+hash = "bf0a05d9e665df54ab59ba34b231ac0e287e4f2860136d74b013c5470cdc5e16"

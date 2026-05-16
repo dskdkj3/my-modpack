@@ -1,0 +1,8 @@
+name = "plutoniumpelletbetter.json"
+filename = "plutoniumpelletbetter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/00bd3f4bf858bf5e06413aa69a0da03a1a86dc2dc8cb86d713433677b5024b21.json"
+hash-format = "sha256"
+hash = "323e7f4b25696d84dc2c55c404afa9e740982faaf956ae94867246ab29c9e36a"

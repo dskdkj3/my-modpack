@@ -1,0 +1,8 @@
+name = "morered-1.21.1-6.0.0.3.jar"
+filename = "morered-1.21.1-6.0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5763/286/morered-1.21.1-6.0.0.3.jar"
+hash-format = "sha256"
+hash = "8075126184f540c6b35b92127088f6cc4c9544627acac9f2287c62a0dfbde74e"

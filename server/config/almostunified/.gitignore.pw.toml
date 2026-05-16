@@ -1,0 +1,8 @@
+name = ".gitignore"
+filename = ".gitignore"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c0fdc0916bcc644ff389820bb25771519701b0b569d73780515b3b9669e137d.gitignore"
+hash-format = "sha256"
+hash = "abfe79685d4d74888072befedc60b4d19c641c8cf32b48f1b332f11d0aba9a6e"

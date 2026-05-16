@@ -1,0 +1,8 @@
+name = "cleric.json"
+filename = "cleric.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6de477fde30ad1189b9afbe460565ad3532312d1a3264f25e245262f1be09213.json"
+hash-format = "sha256"
+hash = "ff8d5f91914ef03ab2220c8987c5ce156e389439c48e13bda7582c1f4914af8c"

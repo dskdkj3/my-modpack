@@ -1,0 +1,8 @@
+name = "mechanical_dirt.json"
+filename = "mechanical_dirt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1275d883b224e7b9466b7c4dc5caaf110c11a471b11acace2764bf5a518a220.json"
+hash-format = "sha256"
+hash = "ff8bf6651d8d71d1113b269238bac8b1703ae0051773b1ce2d38a645fc19a136"

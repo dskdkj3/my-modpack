@@ -1,0 +1,8 @@
+name = "general.yaml"
+filename = "general.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e06cde7fc142a66fcad8b4cf976b8d25018c413daa4e180544678bfb9065bf91.yaml"
+hash-format = "sha256"
+hash = "30d073baf7960f541f89b3936b0cddc5e7f4b76407e2a44b832659e6c2bcaf0d"

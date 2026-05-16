@@ -1,0 +1,8 @@
+name = "watut-common.toml"
+filename = "watut-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e30321a16c7ec07b9b42170ff347634c37d6069a3654114745b4e38bd26a0073.toml"
+hash-format = "sha256"
+hash = "39dc75fe44500a3bf156f6e824ef57fe2ca25d11af0bcc08efd0eb0e0c2203a9"

@@ -1,0 +1,8 @@
+name = "skeleton_druid.json"
+filename = "skeleton_druid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91d4727bf68a65ff1d39b77439eefddeb71aad64fe5d89230fe946a59cc1da20.json"
+hash-format = "sha256"
+hash = "ef23956b1a16dd2575dfa177de33c3a8d3d022f170863dbf4b252028620db4ec"

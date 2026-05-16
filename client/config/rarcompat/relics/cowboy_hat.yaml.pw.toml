@@ -1,0 +1,8 @@
+name = "cowboy_hat.yaml"
+filename = "cowboy_hat.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96c505bdc10e5b9eaecd00162574e3db2843fa3445337ec6424bf59ad9b995d6.yaml"
+hash-format = "sha256"
+hash = "90b12a4bd47940f4c80bd86e307990c24bec21133399a98aea7ec9cacf6b703f"

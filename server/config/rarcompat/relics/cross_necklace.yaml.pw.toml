@@ -1,0 +1,8 @@
+name = "cross_necklace.yaml"
+filename = "cross_necklace.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61394915b0e5470192695707d901f9ac20554b3c5ca0861a194a7209dd1bed1c.yaml"
+hash-format = "sha256"
+hash = "0343d3ed0925786cb58141fa82b43f18e584e4e987fc62b07e0a064aa1799ddd"

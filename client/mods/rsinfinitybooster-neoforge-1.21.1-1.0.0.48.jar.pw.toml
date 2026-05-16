@@ -1,0 +1,8 @@
+name = "rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar"
+filename = "rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6487/415/rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar"
+hash-format = "sha256"
+hash = "4b21d308cf80aebba98777f20f50eaee0c1466ee2b08559eb8300d8550036c82"

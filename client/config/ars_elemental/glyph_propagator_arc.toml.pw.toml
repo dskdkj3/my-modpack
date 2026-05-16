@@ -1,0 +1,8 @@
+name = "glyph_propagator_arc.toml"
+filename = "glyph_propagator_arc.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5446d5f58eee9a14710562b96f4031dd26d4d6af7e58be08feb95f93406b2b13.toml"
+hash-format = "sha256"
+hash = "e8306da18db47f50d142b23479ab652a205c23ca257c8574d7baef5e9ed7ed6d"

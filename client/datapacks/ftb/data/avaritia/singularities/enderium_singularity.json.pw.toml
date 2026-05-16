@@ -1,0 +1,8 @@
+name = "enderium_singularity.json"
+filename = "enderium_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20671f85974a915591dd8534ae33b4e73d9d6bc4cfb6d2d5d2101bb7c04b268c.json"
+hash-format = "sha256"
+hash = "ff4f5dac617ec102c777abd46c483e956bcb38785d007d31f3ed1b523455eb7c"

@@ -1,0 +1,8 @@
+name = "duality_ring.json"
+filename = "duality_ring.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f268f831b3d85b734d9005fd74cb97185b1c8cc7a28b3dc8e0266a238df62e1a.json"
+hash-format = "sha256"
+hash = "353c54c8d4a4365534d600299b831e805959a85394dd8133af60f9b4206ee2cb"

@@ -1,0 +1,8 @@
+name = "bisect_hover.png"
+filename = "bisect_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/99b219eab2d856ee2b25671a29c89975e560763f04544fa91f1c11e3e4140c70.png"
+hash-format = "sha256"
+hash = "1384fdb02eefc94f4bf813edf489a6f2d417e52d051464b040e39e74726accfd"

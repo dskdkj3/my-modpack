@@ -1,0 +1,8 @@
+name = "draconic_evolution_logo.png"
+filename = "draconic_evolution_logo.png"
+side = "both"
+
+[download]
+url = "https://cdn.feed-the-beast.com/blob/93/933ae6fa770cab7fe632417e926e33e38f326dba30b41dfcc37d3c03dbd0ce87.png"
+hash-format = "sha256"
+hash = "c548b9c063b22bcf554b24462b71a8fa75b5a1325d998df2cf0c9cc8642da3a6"

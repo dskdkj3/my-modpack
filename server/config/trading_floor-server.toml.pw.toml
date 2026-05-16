@@ -1,0 +1,8 @@
+name = "trading_floor-server.toml"
+filename = "trading_floor-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3f45cc8ef9f2c4104bd6f46fb0e18d13cbe89372a5ffce3c1fa94f0a6dadfbe.toml"
+hash-format = "sha256"
+hash = "d5b75616db74f80ecaa48eb529c47d1cd4c02f888deb4b15bcf721a90880c805"

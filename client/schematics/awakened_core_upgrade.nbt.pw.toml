@@ -1,0 +1,8 @@
+name = "awakened_core_upgrade.nbt"
+filename = "awakened_core_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17e8ed9de8115853dbe064ace36a232a5b2de7f35212f4595842b3dc70768685.nbt"
+hash-format = "sha256"
+hash = "c570db2d47eef7295ec645ac5eac81b7288ad73f299212f8285a6ddc67c6bb65"

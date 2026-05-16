@@ -1,0 +1,8 @@
+name = "spectre_lens.md"
+filename = "spectre_lens.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dda0297da763114481c98cebf4fbd744e5374a433b9ad96843a6fdad7c28f042.md"
+hash-format = "sha256"
+hash = "03db457e8b473200a02a0e019345b053a71735fb025225cfb8e63a342199dae9"

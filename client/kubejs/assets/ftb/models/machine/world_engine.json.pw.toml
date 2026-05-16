@@ -1,0 +1,8 @@
+name = "world_engine.json"
+filename = "world_engine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/44c1dbb8ee5018aed137eac9c036cdcc2e0620e402e18a5dfd6dcb64894d1f32.json"
+hash-format = "sha256"
+hash = "ede518de4361f24940a9f048f5d4242d781b2a0c0dc8948a7a508bf2185eddd0"

@@ -1,0 +1,8 @@
+name = "quest_cooldown.js"
+filename = "quest_cooldown.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a71038031f655f2b6fc72c3a61a713ba5c4e2b2bbadeafce55e4b814d1feee2f.js"
+hash-format = "sha256"
+hash = "cbe1314f6dc3d112fe67f387998bb0fd3a6375d3e6ecd30a8e5cea764c334fa0"

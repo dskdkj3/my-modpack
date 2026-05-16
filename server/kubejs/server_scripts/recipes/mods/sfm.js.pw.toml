@@ -1,0 +1,8 @@
+name = "sfm.js"
+filename = "sfm.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31ab5dad5db72312c3e7699b5998cf17b8de6d7b3f34bd4eb0338874a269e674.js"
+hash-format = "sha256"
+hash = "65bc9cf5e2027f6059ec2b5f2b48b1767efe7936c9100d946542e7e582a759f5"

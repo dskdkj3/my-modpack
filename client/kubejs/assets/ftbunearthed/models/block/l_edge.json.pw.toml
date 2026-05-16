@@ -1,0 +1,8 @@
+name = "l_edge.json"
+filename = "l_edge.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a77cb3aed61530b7019b76c1d20e3b105d21e99c8c7863fb4a14b539ac27f1a.json"
+hash-format = "sha256"
+hash = "f2be879f2078713218bd93a608a77809d89028d238c80e3dc1e3a94b25c236ad"

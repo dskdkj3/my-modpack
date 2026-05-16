@@ -1,0 +1,8 @@
+name = "beehive2.json"
+filename = "beehive2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c52956b47f58c50eb9e97b40ed8f519c9c192e32b58cd2358a88cbd695b725c.json"
+hash-format = "sha256"
+hash = "21bad89b493e9abecb0e61ac354d4b71cf3a325215404dabf42cba48d3a0d536"

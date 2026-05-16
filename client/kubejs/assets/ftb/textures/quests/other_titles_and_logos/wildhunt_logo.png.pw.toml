@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/other_titles_and_logos/wildhunt_logo.png"
+filename = "wildhunt_logo.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/other_titles_and_logos/wildhunt_logo.png"
+hash-format = "sha256"
+hash = "89b51a284fab5dd391db0e8bc13c5f79b9c3c2dfc0b88f29adf0bcbca1cbf64d"

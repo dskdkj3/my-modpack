@@ -1,0 +1,8 @@
+name = "shadow_steel_upgrade.nbt"
+filename = "shadow_steel_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/663a06cc32214eb4dc0d06a6b378a0700aca16ce54bf762e78010998fafdf3d6.nbt"
+hash-format = "sha256"
+hash = "dc72faa31ce3ea3ba33ef06650611767a0005413d50a7e53d357e02af2991ad9"

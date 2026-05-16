@@ -1,0 +1,8 @@
+name = "lodestone.js"
+filename = "lodestone.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c8f7b09cb6edbd271f1e9ef26fef9ea7691feb3522d95a671757d890a473680.js"
+hash-format = "sha256"
+hash = "c9f35af99e82f037d83e889a94157dc121837ba610d63712a35068ef75328cc8"

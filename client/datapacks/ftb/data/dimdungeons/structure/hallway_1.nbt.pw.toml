@@ -1,0 +1,8 @@
+name = "hallway_1.nbt"
+filename = "hallway_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd6fee44b455c2a361136f7c49c6f9b921b31cbc5315a78e2fa00e97d8ff7bf1.nbt"
+hash-format = "sha256"
+hash = "34dd806f3c70ab69e81c82a9e86d649ca62af58dce9e28755cdd00eb83a82691"

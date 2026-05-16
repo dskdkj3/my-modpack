@@ -1,0 +1,8 @@
+name = "weapon_attributes.toml"
+filename = "weapon_attributes.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32a3f25281cc34ff12eb63d513eda00550dc3e96a7af367cdaeecf38be4080c8.toml"
+hash-format = "sha256"
+hash = "00dfd0399277d139ae5f4d14249cc1b8513fa248060b1b52c163efe0d624c4c9"

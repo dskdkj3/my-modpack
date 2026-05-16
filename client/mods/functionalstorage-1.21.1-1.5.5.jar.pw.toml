@@ -1,0 +1,8 @@
+name = "functionalstorage-1.21.1-1.5.5.jar"
+filename = "functionalstorage-1.21.1-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7061/714/functionalstorage-1.21.1-1.5.5.jar"
+hash-format = "sha256"
+hash = "fe956fb09e77e367d523a94f31331c933b90e9abb6e9445e49555edac19b02be"

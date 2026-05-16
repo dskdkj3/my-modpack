@@ -1,0 +1,8 @@
+name = "circuit_fabricator_off.png"
+filename = "circuit_fabricator_off.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/916e8184427f2fe853e381d704a8d31f3f6cd64c9b1e2ae4e19c1e57b8940ccc.png"
+hash-format = "sha256"
+hash = "470ea0622626cd99988825f382a92f80cd3fbc914b52edd662c75002411db5e9"

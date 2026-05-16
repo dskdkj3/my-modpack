@@ -1,0 +1,8 @@
+name = "quantum_bubble.yaml"
+filename = "quantum_bubble.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2c809dbc4235e192e00cbad126851e45a4befd77d85435f50ba45ab232a2c97.yaml"
+hash-format = "sha256"
+hash = "d48a4b0fad342dce6c9d96eb5d0ad680c21dd45a083a949ff839e666a1188518"

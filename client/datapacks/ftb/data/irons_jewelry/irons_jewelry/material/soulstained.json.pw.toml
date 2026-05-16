@@ -1,0 +1,8 @@
+name = "soulstained.json"
+filename = "soulstained.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08da574da628267c1945a1cc44d0195bdb2354ea12fdfc84d1ea8f54afab0701.json"
+hash-format = "sha256"
+hash = "f73b42c62bce7fb94cad65e95d0491ef8883aa024fd116cc501d51a916396552"

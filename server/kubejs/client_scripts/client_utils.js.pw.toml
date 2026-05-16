@@ -1,0 +1,8 @@
+name = "client_utils.js"
+filename = "client_utils.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/dacca301ee7781b5d54cf028528a851a0d99d1fb386d396398c2ec4e8c722eed.js"
+hash-format = "sha256"
+hash = "4375a9a81ace94df1f97cc4c3ae4a8dfdfb39594b06712d1d6c22c0c44c1b99c"

@@ -1,0 +1,8 @@
+name = "wild_potatoes.json"
+filename = "wild_potatoes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b77a4d2f379cf0781f5a25d8732a346e4a1f30c1c5c930f0293499bab94cb381.json"
+hash-format = "sha256"
+hash = "421cb457f7ed8e23289862a623d4d9982f72402faf85dcfb47b0b0a1e12d7838"

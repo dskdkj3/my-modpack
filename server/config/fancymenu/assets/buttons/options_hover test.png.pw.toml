@@ -1,0 +1,8 @@
+name = "options_hover test.png"
+filename = "options_hover test.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe2f4a77b5aab60e4af92a58c6691547e94ad9ed9075f14608ecf723b89a7694.png"
+hash-format = "sha256"
+hash = "992ae0a46fe0d1dff2614c6af6703b47f009607b82eb2a54bd37ad2d6ac4e1fc"

@@ -1,0 +1,8 @@
+name = "productive_metalworks.js"
+filename = "productive_metalworks.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/3664da3a8576b84e065ce2ecf7f5dc22f94484fcf68d344392b699edc67a86e2.js"
+hash-format = "sha256"
+hash = "371a271fb7540cf85bef47a0ab2055bea0697f614b6b8d8d60d69bbca8307f44"

@@ -1,0 +1,8 @@
+name = "stonehole1.png"
+filename = "stonehole1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6c41fd8877e2d296479c1f75afa1c186b6bd5aa8d7f5cc51ca823803cd3c483.png"
+hash-format = "sha256"
+hash = "1cf7bc6fefff58f5ba71e16f471f65f36d01ae21d75b38e272f3dd1210be2b28"

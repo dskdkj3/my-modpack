@@ -1,0 +1,8 @@
+name = "wandering_trader.json"
+filename = "wandering_trader.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/cc37b709821c76a1d5c249fb4245d96d0e750dd0af510266164032a2cfc5d4ba.json"
+hash-format = "sha256"
+hash = "eb63b6f569ccd8c9c88685080a1ef14f1d2be3d89d6384b169a1b4ed5d3dc55a"

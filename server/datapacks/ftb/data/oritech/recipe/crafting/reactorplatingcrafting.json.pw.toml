@@ -1,0 +1,8 @@
+name = "reactorplatingcrafting.json"
+filename = "reactorplatingcrafting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/630d271b51a7038c4bce07711c4ebda5cd0a8d690433cf593715aad7a16491b2.json"
+hash-format = "sha256"
+hash = "65d9c2bf1de779b148bd2b36f4921a1b2d8de590c97107cec4f85a9856d4e1b0"

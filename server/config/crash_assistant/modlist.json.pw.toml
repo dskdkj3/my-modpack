@@ -1,0 +1,8 @@
+name = "modlist.json"
+filename = "modlist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3d02a05dd3e064bdb96e2397c4d108c9f19f0dc03394b0d946df678cca57b90e.json"
+hash-format = "sha256"
+hash = "f3dd65b2effd6c14a578bc3281d681e2658883ad64d5c861d0e00a1b67072d18"

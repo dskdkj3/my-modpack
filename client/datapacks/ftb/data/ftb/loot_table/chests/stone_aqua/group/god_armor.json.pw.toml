@@ -1,0 +1,8 @@
+name = "god_armor.json"
+filename = "god_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a78384b6a0f1084c51523c9bb6ee2db08e60bc7c69374975e582745dac589b19.json"
+hash-format = "sha256"
+hash = "19c0a1e8aedc41cf0d615ec35f31900138ace3f494584e1602a574aa5b1b77be"

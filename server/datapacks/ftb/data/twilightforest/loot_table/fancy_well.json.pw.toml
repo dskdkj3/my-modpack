@@ -1,0 +1,8 @@
+name = "fancy_well.json"
+filename = "fancy_well.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a418b2e9b07df2e5fe6247e7646adc20b2b1611b8230741408b63024dd947bf.json"
+hash-format = "sha256"
+hash = "aac7194938104d411548f7e086987d4fef69a2e663cb96efcd2d30fddea4f537"

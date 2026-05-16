@@ -1,0 +1,8 @@
+name = "fluix_researcher.json"
+filename = "fluix_researcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78da55c6f8934b1361bc424e13782e995526a143a4907f47e6b77b39b52a9f94.json"
+hash-format = "sha256"
+hash = "f0fd8477d0aa47b203f428e8a29c1b19a006e836a7f569fe5424059b4f038b7f"

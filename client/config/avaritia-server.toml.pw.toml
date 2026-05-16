@@ -1,0 +1,8 @@
+name = "avaritia-server.toml"
+filename = "avaritia-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/637855cb69cb03ff9bcca5868cd7c696da8a5d502e33787cc7cb3048599d75df.toml"
+hash-format = "sha256"
+hash = "a4f549b7ee8100e9fc183a72843ce6156701d9caa0fa021e52452bbc584eda89"

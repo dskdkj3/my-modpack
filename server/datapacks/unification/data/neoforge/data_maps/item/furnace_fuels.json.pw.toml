@@ -1,0 +1,8 @@
+name = "furnace_fuels.json"
+filename = "furnace_fuels.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f786fbba2d6327ad852af5498beab802d90690191cc5a0bfcc4f97b845c0b51c.json"
+hash-format = "sha256"
+hash = "507d071539aa4998440f21151fa7ea6feb22092b9c0c853ce522fbd80562bacd"

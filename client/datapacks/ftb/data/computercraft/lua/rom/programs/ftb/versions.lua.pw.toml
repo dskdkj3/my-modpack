@@ -1,0 +1,8 @@
+name = "versions.lua"
+filename = "versions.lua"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/efba16d87e32150177c8586770df035642e10d894b318511e3c410784bba592c.lua"
+hash-format = "sha256"
+hash = "c528ceb7f212f2833a2cdb03967debb9963a3fd0a528d0e66e08641a1ed705b9"

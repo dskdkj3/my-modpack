@@ -1,0 +1,8 @@
+name = "largeappupgrade.json"
+filename = "largeappupgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25c53a0372a16f1d7332cd7a71ee3ac071d6345746e8f8b7d0e6b2c647ed3d5d.json"
+hash-format = "sha256"
+hash = "458fd50b216cef0f645763df2917eaf8841852f5b199c96430e52fe694c7bf65"

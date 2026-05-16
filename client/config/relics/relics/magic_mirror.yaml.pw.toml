@@ -1,0 +1,8 @@
+name = "magic_mirror.yaml"
+filename = "magic_mirror.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/666dc6d1c1ffccbf2127f9e7472000dfbc0412f267c4c7a8c6665b72434c7bfd.yaml"
+hash-format = "sha256"
+hash = "094fff17353605af600b404906dcc9ca8793848cc96c3eabbd458922a9725922"

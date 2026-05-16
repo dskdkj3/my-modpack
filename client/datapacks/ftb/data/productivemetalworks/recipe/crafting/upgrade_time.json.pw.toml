@@ -1,0 +1,8 @@
+name = "upgrade_time.json"
+filename = "upgrade_time.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0af5ceece130cc78d3d397b83570003122615875005c6f2ef2feb2fc6aa39135.json"
+hash-format = "sha256"
+hash = "5f663d25a3425e20dc7a8b03c4562f9390b3946b94119b94501c177419935f21"

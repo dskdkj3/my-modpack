@@ -1,0 +1,8 @@
+name = "twilightforest-common.toml"
+filename = "twilightforest-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5aefafd7ecec395738c1d479d9fde9222cd9b2b328e3f9393f7baebf9e0efca2.toml"
+hash-format = "sha256"
+hash = "20a992e2810f47732b58238a63f7f9cff907380f00babd8dfaad70d762a0a152"

@@ -1,0 +1,8 @@
+name = "rarcompat-1.21-0.9.7.jar"
+filename = "rarcompat-1.21-0.9.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6879/980/rarcompat-1.21-0.9.7.jar"
+hash-format = "sha256"
+hash = "fcbe35d8d6c44f72dcf467deb54c5fb9e5d6be725a79413f9f45354460553149"

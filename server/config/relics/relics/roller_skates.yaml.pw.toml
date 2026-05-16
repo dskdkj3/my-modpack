@@ -1,0 +1,8 @@
+name = "roller_skates.yaml"
+filename = "roller_skates.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6e088354dc795114cb04d6a43b6f8b2d2f1151d24a5f4c1f2a9b065d5068e49.yaml"
+hash-format = "sha256"
+hash = "94a38e7ee15a2e693ea5954f02e21684f9468c7891f3f4de55851f1fb0a5ceb3"

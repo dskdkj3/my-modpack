@@ -1,0 +1,8 @@
+name = "cookingforblockheads-neoforge-1.21.1-21.1.23.jar"
+filename = "cookingforblockheads-neoforge-1.21.1-21.1.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8056/595/cookingforblockheads-neoforge-1.21.1-21.1.23.jar"
+hash-format = "sha256"
+hash = "298638001a3adac6eaeb7a62d6493f563f0dde5517c48490a484cd59d1704bb6"

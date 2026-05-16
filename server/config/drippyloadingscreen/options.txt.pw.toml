@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8ac4df16ab21b5f70699e0e5b281d08d5b23837bccbe252685b95befaa29f4ed.txt"
+hash-format = "sha256"
+hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"

@@ -1,0 +1,8 @@
+name = "ftbpc-server.snbt"
+filename = "ftbpc-server.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cd8e26288cd2d578ebb8e6a7d567630b02753fbce0a5edac301b565ac229def.snbt"
+hash-format = "sha256"
+hash = "d4c8561eeed22b541fc1dbba1183ba6139d0a77dca68b38082863e5ad8771a1d"

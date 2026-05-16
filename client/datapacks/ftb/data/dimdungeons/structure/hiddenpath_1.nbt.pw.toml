@@ -1,0 +1,8 @@
+name = "hiddenpath_1.nbt"
+filename = "hiddenpath_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22836e53b1c083c5294fa0b3508f4ca22dc2a5ab03abe62a7c56f4992aea9842.nbt"
+hash-format = "sha256"
+hash = "2e946288d1ea2e093fdbcc622ea943602329fa5e51950102152777b25577e118"

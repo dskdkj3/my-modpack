@@ -1,0 +1,8 @@
+name = "oritech-startup.toml"
+filename = "oritech-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f52921a7ebdf62eb9f75cdb40615faed3a1af40a9bd8cf5d28dbdc1c69a2cda5.toml"
+hash-format = "sha256"
+hash = "b1672d9c13fae3c7a456a148e53dbafd5910b0e20f5f7c970d82256028cce611"

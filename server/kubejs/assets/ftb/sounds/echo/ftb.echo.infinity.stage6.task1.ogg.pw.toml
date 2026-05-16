@@ -1,0 +1,8 @@
+name = "ftb.echo.infinity.stage6.task1.ogg"
+filename = "ftb.echo.infinity.stage6.task1.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/1991468c0d069530cf22e9a11d1b49812288e5be752bae3fb9269a0eaf230d4a.ogg"
+hash-format = "sha256"
+hash = "59715e69b1c01a1045302f351e200f2c3c971ed921dc3e4b11f043ec5792a5c9"

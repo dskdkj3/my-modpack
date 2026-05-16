@@ -1,0 +1,8 @@
+name = "gem_powers.toml"
+filename = "gem_powers.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a44ea5711b06c9c8ef5cc5cce0cf55859706679ecb4486ecb7c0c2dba467816.toml"
+hash-format = "sha256"
+hash = "449c900fea6dc649c3860ff4ca7757ace36e43d980105683a0bff933423b9ae4"

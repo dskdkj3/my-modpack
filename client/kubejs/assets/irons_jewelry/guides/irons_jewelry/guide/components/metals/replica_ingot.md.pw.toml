@@ -1,0 +1,8 @@
+name = "replica_ingot.md"
+filename = "replica_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/04/049d67b6a71090ab131a6a841659bb0508f385d20b45ca8190eb3bc36c374391.md"
+hash-format = "sha256"
+hash = "061053162c47c351026541bd656d1b8c1af3c1052db6a7f2e083c023ec826ce3"

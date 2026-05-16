@@ -1,0 +1,8 @@
+name = "blank_glyph.json"
+filename = "blank_glyph.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05fd119be0471123f72995c4433d6e8985dc5dc3c16ee8224a624be01a4ddc6d.json"
+hash-format = "sha256"
+hash = "8221a79d583c95e7273c4f5e60ed996bacc9594d887412ce17421efc6d40328c"

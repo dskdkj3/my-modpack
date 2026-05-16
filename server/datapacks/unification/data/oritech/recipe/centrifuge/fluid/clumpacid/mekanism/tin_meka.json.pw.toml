@@ -1,0 +1,8 @@
+name = "tin_meka.json"
+filename = "tin_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/86d0689dda2bb33128716d650dd245a71a47f96f475ae7c9a825476b4bd4effd.json"
+hash-format = "sha256"
+hash = "0d44620d62f99de2bccbed211f2795fec7c20eee7c4105d82532e01c48a455b9"

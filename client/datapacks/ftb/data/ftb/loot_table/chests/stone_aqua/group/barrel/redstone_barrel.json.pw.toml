@@ -1,0 +1,8 @@
+name = "redstone_barrel.json"
+filename = "redstone_barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d5d417fc297530bd14624f4223dfd3119f246dd60876172f85799cba5c9cf88.json"
+hash-format = "sha256"
+hash = "5d9e653deae63b4071000126ba24266d0e596cdc69d2d85bd08a5cffa3308a55"

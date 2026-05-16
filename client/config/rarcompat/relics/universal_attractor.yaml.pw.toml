@@ -1,0 +1,8 @@
+name = "universal_attractor.yaml"
+filename = "universal_attractor.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f3b9be9ca2e04530ecc84b8680703757e3d85e6c0d60f9d01365dd05dcdf88e8.yaml"
+hash-format = "sha256"
+hash = "ab354bf7d9589679392b6a86001b7d3afa77f8ef708905ac61ed6f4a3ab4fad5"

@@ -1,0 +1,8 @@
+name = "world_engine_machine.nbt"
+filename = "world_engine_machine.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e32ffacc5b3d67f2afe98d59cc84d253a28aa2e82487a1e897a2ac4b5148ebd3.nbt"
+hash-format = "sha256"
+hash = "a1d7eab2c387ee4888246f7d2dfdd4d82a0eb64208133476ae32306ce062c7d3"

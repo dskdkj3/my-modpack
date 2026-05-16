@@ -1,0 +1,8 @@
+name = "power_gen_title.png"
+filename = "power_gen_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09bd12636f4c8c43b6edea12657370ba6254912e644f518d10cb6bb5720039ec.png"
+hash-format = "sha256"
+hash = "ecc15d6fbe480a928b379e9cd559f425cc6bbe602f31ddaaf313c05d3291fc89"

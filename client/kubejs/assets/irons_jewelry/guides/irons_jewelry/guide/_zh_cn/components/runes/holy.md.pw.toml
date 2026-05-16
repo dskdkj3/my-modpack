@@ -1,0 +1,8 @@
+name = "holy.md"
+filename = "holy.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45e62fba5fd26559e1e93d00d4b05f061f5b6b2e127b74a5c6b800dbcc66ff06.md"
+hash-format = "sha256"
+hash = "66f94e2e546946a2aff9b66406bdedfbc7c1011ed92b1df0081c29bd94f37126"

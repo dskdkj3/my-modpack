@@ -1,0 +1,8 @@
+name = "redspuzzle_2.nbt"
+filename = "redspuzzle_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/acb6808a5e61182a0e203c32f4aba71aa5f6b05a05bb8b235bb84a0c490c75cb.nbt"
+hash-format = "sha256"
+hash = "bee385f4a66a411ff3994ce0c25859e5ac9e07d7a2b1003069135933520dc046"

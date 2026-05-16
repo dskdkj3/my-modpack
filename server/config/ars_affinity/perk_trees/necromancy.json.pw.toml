@@ -1,0 +1,8 @@
+name = "necromancy.json"
+filename = "necromancy.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd6637924b300ac098192b0556e6e914ae51181e1a88fb3f9eb2a7f4c92b6057.json"
+hash-format = "sha256"
+hash = "833131c19e633b6d189e5609f200748223bcb1c81895b06a0015e62e38e14b0a"

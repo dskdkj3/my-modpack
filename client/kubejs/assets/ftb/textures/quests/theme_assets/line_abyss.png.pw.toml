@@ -1,0 +1,8 @@
+name = "line_abyss.png"
+filename = "line_abyss.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92700ea0297316f90d46c5fa1443685e72c07d9001128d90e6f9856fb3081355.png"
+hash-format = "sha256"
+hash = "cd9284f3c6b07e717b89b21fa005f004e35316354cf42455342db0524a82b1f6"

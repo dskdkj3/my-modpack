@@ -1,0 +1,8 @@
+name = "connected_glass.js"
+filename = "connected_glass.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b863bf46af59e2d015f6404a4ef2641d127f976046284d82c263763c791ecc89.js"
+hash-format = "sha256"
+hash = "47ddad1530c8b086b7610cbb53c24b4d5d8a501b3198c45155618ba2c232f6cd"

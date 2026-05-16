@@ -1,0 +1,8 @@
+name = "infernal_dust.png"
+filename = "infernal_dust.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61cf2e8832b7f63e75f77ca2ee80276a0ad0abca5ec0cf629e8681ba2f542c85.png"
+hash-format = "sha256"
+hash = "dda5d9c8257cd2ae68e9124896918c468f81308a8da54e1b858791c31582342b"

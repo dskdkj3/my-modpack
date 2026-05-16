@@ -1,0 +1,8 @@
+name = "train.png"
+filename = "train.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6edd86b73eb9562422f8c1d9a9d51f5854c97bc38e4edbcb8a0a2a8d0fed78be.png"
+hash-format = "sha256"
+hash = "700bb23a1c8f1bda8c3f880bad4ee9e2f25590bd80f8c259d9114a842d732297"

@@ -1,0 +1,8 @@
+name = "kubejs-neoforge-2101.7.2-build.363.jar"
+filename = "kubejs-neoforge-2101.7.2-build.363.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8012/65/kubejs-neoforge-2101.7.2-build.363.jar"
+hash-format = "sha256"
+hash = "2b6e788ba0947316d399939b39b5363ad765554ef6dcc3b2b817a654b52272bb"

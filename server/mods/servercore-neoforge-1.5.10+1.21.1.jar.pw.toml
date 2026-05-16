@@ -1,0 +1,8 @@
+name = "servercore-neoforge-1.5.10+1.21.1.jar"
+filename = "servercore-neoforge-1.5.10+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6390/848/servercore-neoforge-1.5.10%2b1.21.1.jar"
+hash-format = "sha256"
+hash = "8f1575e774782ca82f7b68ad074568c05bb919d818519a7d2b0d10022779f3d6"

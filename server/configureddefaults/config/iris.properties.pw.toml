@@ -1,0 +1,8 @@
+name = "iris.properties"
+filename = "iris.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/12249cb64a47b49fe8c2a42f3f8fcacf7f04597a2c061268cb8f90c6b973c3b1.properties"
+hash-format = "sha256"
+hash = "58f6e5ff575071aac8ba402430ea936561019268c967694ea3cc33f7019ec06c"

@@ -1,0 +1,8 @@
+name = "BrandonsCore.cfg"
+filename = "BrandonsCore.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17124483ade138c446c0cac60144ee8ca38d2487b7a4ee65f0ae0450b94a5c6c.cfg"
+hash-format = "sha256"
+hash = "1d56ce851586b9e31b0bc40ceacce9a5f05d6568d40d05fbc6c7608d3001a7bb"

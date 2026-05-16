@@ -1,0 +1,8 @@
+name = "keyroom_4.nbt"
+filename = "keyroom_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0f234ba987078a5fc4cde0838747d1ec98917c30b6c38652a3f771b3ba02f1bc.nbt"
+hash-format = "sha256"
+hash = "f8280d2858868a9d6a6011ce36548126ae63b5ae59cb3dd0e42b40298e47b28c"

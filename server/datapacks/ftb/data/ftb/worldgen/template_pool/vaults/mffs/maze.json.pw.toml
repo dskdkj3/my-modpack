@@ -1,0 +1,8 @@
+name = "maze.json"
+filename = "maze.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c79950be108daf17f1873a13c1775f8edfaa3e63669159a90ee96b2108e3a22.json"
+hash-format = "sha256"
+hash = "e7797048298e84e7163f6f63352143993f2a2952a9128e5a4a09ab5572930606"

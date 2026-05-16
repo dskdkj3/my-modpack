@@ -1,0 +1,8 @@
+name = "hud_settings.json"
+filename = "hud_settings.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48e47b7b65ee1fdad8d2b27187ad4cdf13f10206363e46e777a7fd7f908615c8.json"
+hash-format = "sha256"
+hash = "12f7829b4f2a7073226189b5d090797ec5c1a6a35ce5767fd22e4afe62cbc646"

@@ -1,0 +1,8 @@
+name = "BrandonsCore-1.21.1-3.2.1.309.jar"
+filename = "BrandonsCore-1.21.1-3.2.1.309.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7130/990/BrandonsCore-1.21.1-3.2.1.309.jar"
+hash-format = "sha256"
+hash = "076b44de51c606e6cdd89694ac0a879fc028d4f0103880ef44f47dbcc69f1d23"

@@ -1,0 +1,8 @@
+name = "immersive_engineering.js"
+filename = "immersive_engineering.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e75e8065c00743861f9995b3476a3c44958417e9d46d585f16f8cae57d0a1799.js"
+hash-format = "sha256"
+hash = "2de5385e64157921eb72c3013c357fda282e6f55841fa9d789cd24b6e11cd9a5"

@@ -1,0 +1,8 @@
+name = "replacements.js"
+filename = "replacements.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a02073d88b9ea070cc78f4cb0f34d0af4e8ff01793578ce37ffcfd1edb4680d.js"
+hash-format = "sha256"
+hash = "4df8115d8c44b0f11dda90a862c5671b2309de7ac00ddedb747b798d7830c905"

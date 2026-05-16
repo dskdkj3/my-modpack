@@ -1,0 +1,8 @@
+name = "busy_villagers-neoforge-2101.1.1.jar"
+filename = "busy_villagers-neoforge-2101.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7100/320/busy_villagers-neoforge-2101.1.1.jar"
+hash-format = "sha256"
+hash = "d8097fa5c041c1ab244f41ecd70c0211758d4989d715fc2748e0aef353c7a792"

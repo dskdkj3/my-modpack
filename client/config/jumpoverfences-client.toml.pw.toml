@@ -1,0 +1,8 @@
+name = "jumpoverfences-client.toml"
+filename = "jumpoverfences-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be450680948c1e40dd6694aebbd7b9e39d717d4a8e5b19c2e80e4c5de4b80a05.toml"
+hash-format = "sha256"
+hash = "1b6c8bca0d1efd040d23191601e808f2cb39ca347602dd42a1a0125f9a27655d"

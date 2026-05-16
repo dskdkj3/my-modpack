@@ -1,0 +1,8 @@
+name = "fdlib_client.json"
+filename = "fdlib_client.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f14883308ab98cb3ec63b1f0823a081556a1d576077684e509f3876f8bd6fbfc.json"
+hash-format = "sha256"
+hash = "fee032c43c30c3a4cfaa26736c3c719a9baab0badaa6ed8670353670b4999074"

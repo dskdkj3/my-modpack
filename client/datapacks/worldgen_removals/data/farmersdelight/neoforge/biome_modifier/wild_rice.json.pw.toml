@@ -1,0 +1,8 @@
+name = "wild_rice.json"
+filename = "wild_rice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6fe25fc1605e6f066c9470ecba398f4a68a35d71306e7b2fc0f1b66c844443fb.json"
+hash-format = "sha256"
+hash = "ff028750fa4ea60cf9c6dec2006af0ee25c1995ff4184d2d32ad085d1093e047"

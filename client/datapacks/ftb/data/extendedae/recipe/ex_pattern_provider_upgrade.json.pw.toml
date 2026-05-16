@@ -1,0 +1,8 @@
+name = "ex_pattern_provider_upgrade.json"
+filename = "ex_pattern_provider_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f09afd8be69cc37f68ebce0074ca506f2f5746f66ae5c45501255fc0d1e0fdc5.json"
+hash-format = "sha256"
+hash = "e5caf5acd14e96cd9d2d1e73eed78319371291cc383ce8d3827fce1a04281212"

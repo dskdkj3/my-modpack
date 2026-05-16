@@ -1,0 +1,8 @@
+name = "ars_creo-common.toml"
+filename = "ars_creo-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df11597ef3bbb617264f79ee19ef6fd08f5c9ee872497bbdb4642d75c2f2bbb5.toml"
+hash-format = "sha256"
+hash = "81c27a99a3c7f7bc4caceb90449bf09ea50e84017395aaf04b61294a5c9db17a"

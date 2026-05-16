@@ -1,0 +1,8 @@
+name = "levitite_fragile_fluid_tank.json"
+filename = "levitite_fragile_fluid_tank.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba0a45f8f584b4efe9cd0a8b844e57c02cd4a369318ce90ddebb1aa49f4fabd7.json"
+hash-format = "sha256"
+hash = "3213906d72b343516b61631438e3639262b4437d41ee7484c928f56314c5f2a2"

@@ -1,0 +1,8 @@
+name = "compacting_key.json"
+filename = "compacting_key.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95c744f6325894f65d6782d8d48a577a3722eee5250a6296c964fe1eb8e1ddaa.json"
+hash-format = "sha256"
+hash = "0e1f765450a3fd73fcb64082cc86a7118d4458e4f3141733adb21680e7ea76fc"

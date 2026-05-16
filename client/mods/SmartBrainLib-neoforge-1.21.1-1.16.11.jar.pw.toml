@@ -1,0 +1,8 @@
+name = "SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+filename = "SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7055/149/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+hash-format = "sha256"
+hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"

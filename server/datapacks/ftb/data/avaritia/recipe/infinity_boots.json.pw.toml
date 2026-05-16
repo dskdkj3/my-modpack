@@ -1,0 +1,8 @@
+name = "infinity_boots.json"
+filename = "infinity_boots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37c287e7b51b898aa9b777e36156baf0fdbfe0f83659aa92df5cf9a5dad2655e.json"
+hash-format = "sha256"
+hash = "7cd1637eb0f37a0887a60252f870415625d5ff92d66a8c17c87ef4b3fc82bba4"

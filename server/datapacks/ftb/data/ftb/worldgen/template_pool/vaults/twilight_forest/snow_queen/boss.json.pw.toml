@@ -1,0 +1,8 @@
+name = "boss.json"
+filename = "boss.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/268aded84ae01d056b990167deb174e871a85d64dffedd3f0ab81f282b7a5ba7.json"
+hash-format = "sha256"
+hash = "7e98fe30fa86391bfdee76087e4d21568117fea2e4d255848244013dad8fc51b"

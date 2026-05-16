@@ -1,0 +1,8 @@
+name = "bio.json"
+filename = "bio.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05927ed3636501e06ab7996823624e3540cba8f161849570f82381f494d0c618.json"
+hash-format = "sha256"
+hash = "92e23b02376fa35d0d8c793a7874fc23dceaa66ee31a78c39166564aea50ed4b"

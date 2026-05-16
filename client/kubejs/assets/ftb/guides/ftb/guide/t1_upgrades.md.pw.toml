@@ -1,0 +1,8 @@
+name = "t1_upgrades.md"
+filename = "t1_upgrades.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/678cea3c1a9e72649e4849da98b6f03182c0ef203c91b7cb60578a2280ccca5f.md"
+hash-format = "sha256"
+hash = "9e0835f9ca158ddbc07077585a34c73fd81e756550f9cf0687fd5c600354fc94"

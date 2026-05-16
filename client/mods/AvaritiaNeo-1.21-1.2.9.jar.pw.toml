@@ -1,0 +1,8 @@
+name = "AvaritiaNeo-1.21-1.2.9.jar"
+filename = "AvaritiaNeo-1.21-1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7940/871/AvaritiaNeo-1.21-1.2.9.jar"
+hash-format = "sha256"
+hash = "80bcd6e3d57e58ffdcd9e0ee9b374dc09ce3ac7d8bccf40230de58ceee91c27b"

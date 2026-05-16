@@ -1,0 +1,8 @@
+name = "metals.md"
+filename = "metals.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dda6111443af5ab93915e66790d8aa39dca8c553334dffa13e7cceea48e7dcd7.md"
+hash-format = "sha256"
+hash = "e81446084a4b92816ad109169bf5824563e889bd72d41084f645c428898f7ef6"

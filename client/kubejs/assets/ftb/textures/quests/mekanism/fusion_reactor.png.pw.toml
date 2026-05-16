@@ -1,0 +1,8 @@
+name = "fusion_reactor.png"
+filename = "fusion_reactor.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26825aea75dfb47f6d3e3932cfc361cd48d4844bd862171c4c966f37e3c1da0d.png"
+hash-format = "sha256"
+hash = "63b15b577413933ed8a658a7264636fcd7374f49cd6ca3281fa313fdeca9eb5d"

@@ -1,0 +1,8 @@
+name = "renderjs-neoforge-2101.2.4.jar"
+filename = "renderjs-neoforge-2101.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7667/747/renderjs-neoforge-2101.2.4.jar"
+hash-format = "sha256"
+hash = "4837a63612a5aa4fae2796c1ca30c9610d932a76001f5d4beca0370a55eedffa"

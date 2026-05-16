@@ -1,0 +1,8 @@
+name = "create_enchantment_industry-server.toml"
+filename = "create_enchantment_industry-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5ff0129a4f062a3af409d83d181ec6e622d43ff72094ff94e332b0c0d040696f.toml"
+hash-format = "sha256"
+hash = "5ac2904f0a0bfbde8f9e5eee844dd3fb1c11596acb8b5c9a45a6823f576958ca"

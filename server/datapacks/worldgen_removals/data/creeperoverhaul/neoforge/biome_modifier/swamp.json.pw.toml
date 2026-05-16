@@ -1,0 +1,8 @@
+name = "swamp.json"
+filename = "swamp.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7ecdca492db1d904f4d038d5817b76cedcdab778217ad2f07b06c1a2d54098a.json"
+hash-format = "sha256"
+hash = "5fdedbfb855910f96e079656455c632e7c5ac141bfa67a90a11242dc70c36e03"

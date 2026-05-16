@@ -1,0 +1,8 @@
+name = "solcarrot-client.toml"
+filename = "solcarrot-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/944b5ebbc5c9c7225f5482b660a0c6fa2a1f451d5c1b6b2c3135f883fe576044.toml"
+hash-format = "sha256"
+hash = "bcf86f1ca7b5747d42e7b62fda48f558ef28a2795d6b409d5489285846ec8780"

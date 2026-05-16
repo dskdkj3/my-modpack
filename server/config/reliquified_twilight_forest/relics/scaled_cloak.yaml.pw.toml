@@ -1,0 +1,8 @@
+name = "scaled_cloak.yaml"
+filename = "scaled_cloak.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8e84c72fc9b0ebe33e1c60cada6283266184ec12b93e3aa75a0b57593839d94.yaml"
+hash-format = "sha256"
+hash = "84ab5ed5139b227c3536708ab2a40f6f54b7c3b5a7120c1ec92a8ec260919afd"

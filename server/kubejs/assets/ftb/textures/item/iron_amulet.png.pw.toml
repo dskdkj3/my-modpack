@@ -1,0 +1,8 @@
+name = "iron_amulet.png"
+filename = "iron_amulet.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f49e153c0cec0571a240861ae25d27d7a7c029fe195b49d0153d3d0c6fc6c4d3.png"
+hash-format = "sha256"
+hash = "3ac431d1ceb540db4155353e034705ed1683159476e7a92672b8bc45bbf5cd07"

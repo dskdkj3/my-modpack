@@ -1,0 +1,8 @@
+name = "constantan.json"
+filename = "constantan.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2630fda55db36e00f5554c9231b0a3cb4c7140b4a3b916ef141874b0516cf16.json"
+hash-format = "sha256"
+hash = "8bdf16ff7658c2f7115257038d05819cb4b0a9b579c3c260b8de336bda9a1fd4"

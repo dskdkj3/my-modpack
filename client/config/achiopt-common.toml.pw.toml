@@ -1,0 +1,8 @@
+name = "achiopt-common.toml"
+filename = "achiopt-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6a783db4b43f98c4ff527d8e9717c32f266aaafde80c688e84925ecf58ab51d.toml"
+hash-format = "sha256"
+hash = "379c4b808db3b8bbe4afbd359680120ab9e7af86859c0880f527be0623b2f18b"

@@ -1,0 +1,8 @@
+name = "diamond_tool.json"
+filename = "diamond_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5e6527ba36a76efe1ca33d683b3c2a395b6efd5b0f3eb0d86a6ce4368615992.json"
+hash-format = "sha256"
+hash = "cd633cdedd23ab98ef337923890de7b0864c9d7805f0ece1f3f7974c4c717479"

@@ -1,0 +1,8 @@
+name = "amethyst_dust_from_gem.json"
+filename = "amethyst_dust_from_gem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cc952513ae3d12a6df72cc76b53cb85b012632fb54863703ae22ebb94bd76e8.json"
+hash-format = "sha256"
+hash = "53fec26b2787adc31148ef0482dc821c538d29f759e11122b92d0042d7d6f991"

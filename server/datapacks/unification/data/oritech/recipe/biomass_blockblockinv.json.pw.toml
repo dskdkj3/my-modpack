@@ -1,0 +1,8 @@
+name = "biomass_blockblockinv.json"
+filename = "biomass_blockblockinv.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67c43d0d839c1dfe6ebb5097d05e4ba66e7d0db6efedb70360fc48f8712ef8df.json"
+hash-format = "sha256"
+hash = "e19b8f903e7ac9193a1e8a4cd1547796d5ce577131d892c8d7caf6f35a6602b6"

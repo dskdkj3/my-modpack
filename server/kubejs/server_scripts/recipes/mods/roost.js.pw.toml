@@ -1,0 +1,8 @@
+name = "roost.js"
+filename = "roost.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1de760f24fcd0fe31a8b46c4384257653142e63b959ed0c4149519243eac5666.js"
+hash-format = "sha256"
+hash = "4eb61699c1b11a124543f912ad111e41ab756889da47cd2fdfd3d1fb28d0e980"

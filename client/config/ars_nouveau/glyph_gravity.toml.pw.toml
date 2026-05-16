@@ -1,0 +1,8 @@
+name = "glyph_gravity.toml"
+filename = "glyph_gravity.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1747691d7251764ccf21c50029eae7b5e7adc89a4e8484dc1c0983899cc1d4d.toml"
+hash-format = "sha256"
+hash = "8475981cbf4a153c7e619200884d1bfd02b6e5c97fc7219af9ad9c46569143a1"

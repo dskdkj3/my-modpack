@@ -1,0 +1,8 @@
+name = "god_tools.json"
+filename = "god_tools.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/488e45ff728597b53fe0d9fdf4f60f86ad0959043fba3d73fc1a4d6b1c46e042.json"
+hash-format = "sha256"
+hash = "3c675f77eb57ce03a608fdd939a1777bf49dc302b0aa516152bd1967cc4af04a"

@@ -1,0 +1,8 @@
+name = "cheap.json"
+filename = "cheap.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/07ebfd6c216a065a1e4efb4fe33336535c6585294b4dfb7848e63a7e3648ee20.json"
+hash-format = "sha256"
+hash = "bde579448583190ef46cf837835482f928e26443dc4ab37668a55418251a7306"

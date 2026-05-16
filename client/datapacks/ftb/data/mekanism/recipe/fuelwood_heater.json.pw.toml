@@ -1,0 +1,8 @@
+name = "fuelwood_heater.json"
+filename = "fuelwood_heater.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20beeb53df16f2574c868fd92d1c80adc76b0f39c07c348e0c62e9ddf3aa7fe3.json"
+hash-format = "sha256"
+hash = "abee771f3103750d608e3d413f1a23de6117a45186124ef4625ea5d97c1c69da"

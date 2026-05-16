@@ -1,0 +1,8 @@
+name = "base_status_idle.png"
+filename = "base_status_idle.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/757dcd5273b913ef0d72fe20cde7f2c66e932fafdf10195184c8a8a42069ad5a.png"
+hash-format = "sha256"
+hash = "b496fe2664c3e92903c983d4b1e0a48a25f87b0a6bb94826a30401e6de127153"

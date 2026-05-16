@@ -1,0 +1,8 @@
+name = "glyph_summon_steed.toml"
+filename = "glyph_summon_steed.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e2d35349089a50951748353c02a8c4ed4e24321e4730fafaf9cb92ef05ff62e.toml"
+hash-format = "sha256"
+hash = "237b9dfa9c110da43d561e87362b92fa7a3a32ebd5d45f1445f72372e7f2a25d"

@@ -1,0 +1,8 @@
+name = "router_connector.json"
+filename = "router_connector.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/303ae5a8de555992266a65eb2217aaac124918ecf9249ac5dd2d6c17b2eb245f.json"
+hash-format = "sha256"
+hash = "2c01cb9dbb0471a0de69bb20d3633ef281d2fb07b47c8163ecd6879ee05b83d0"

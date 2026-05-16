@@ -1,0 +1,8 @@
+name = "copper_meka.json"
+filename = "copper_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba4df273ad6cf1c8e9889ff58a78edd842c1e86d9c97d98630c3100b40ed2669.json"
+hash-format = "sha256"
+hash = "1dd1f196dd622e7314103127a5acf7ab6dd065e3ed4b963bfa4174a87aab352b"

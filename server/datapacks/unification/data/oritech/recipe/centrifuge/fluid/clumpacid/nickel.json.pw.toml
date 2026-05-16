@@ -1,0 +1,8 @@
+name = "nickel.json"
+filename = "nickel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/235e4361850cd989e70ae29e417905ebe49f349a84e955083cca19416d303c3d.json"
+hash-format = "sha256"
+hash = "c3633ded058d8c6e883cfaa6c4422188b7ab2a2fa052c72379e9e8da41d08522"

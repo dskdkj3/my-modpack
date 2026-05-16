@@ -1,0 +1,8 @@
+name = "chemical.js"
+filename = "chemical.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee484bfeddc31d949091f044377a762a02a1b9c6d860581d382d0a056e02e55b.js"
+hash-format = "sha256"
+hash = "69aa09c78ac41a8dbc6376c4877be841c432287060361fb4243abe5deb1af24d"

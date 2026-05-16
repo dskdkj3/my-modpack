@@ -1,0 +1,8 @@
+name = "xnet_flowfree.png"
+filename = "xnet_flowfree.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b07efbd5bc6e8ddffaca6606a3fca36e9ca021a1a79a82f1382fa66064ae4245.png"
+hash-format = "sha256"
+hash = "58fafd3c366f2fac5fe70bf9167c3d94658a59b9d010f42b015d3bb471700316"

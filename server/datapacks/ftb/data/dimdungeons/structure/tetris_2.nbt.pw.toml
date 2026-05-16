@@ -1,0 +1,8 @@
+name = "tetris_2.nbt"
+filename = "tetris_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebf3fc42c5d85f0d988782805a58042dab25857164f2b9c89b6119416f6217f7.nbt"
+hash-format = "sha256"
+hash = "babe6a6298d0622ade3f185f00a4d36e4f12c1468cf3ad0e6d169bf9e55325f7"

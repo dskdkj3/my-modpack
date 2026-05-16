@@ -1,0 +1,8 @@
+name = "cave_spider.nbt"
+filename = "cave_spider.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7c74a33d6d7b9379abeaa65a9a1b901793abad753a02e1ee52bec0ea3a5e6b9.nbt"
+hash-format = "sha256"
+hash = "efba5909c755ac4f41accc2c53926f2f582bb5f036f12f5f507f9e63b2d8f6e7"

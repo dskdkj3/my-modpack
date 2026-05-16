@@ -1,0 +1,8 @@
+name = "scouring_eye.yaml"
+filename = "scouring_eye.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d9186a09594b55e9e145489fd7ba371a0c5f4a4441c4b28d99eeafb5b5d261f6.yaml"
+hash-format = "sha256"
+hash = "ef5cac58f79754f4f6b4c1aa1fd196567a4b52aefd12b70428b350b306c86a4e"

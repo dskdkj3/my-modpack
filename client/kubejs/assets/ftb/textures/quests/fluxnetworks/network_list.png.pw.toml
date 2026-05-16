@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/fluxnetworks/network_list.png"
+filename = "network_list.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/fluxnetworks/network_list.png"
+hash-format = "sha256"
+hash = "7e72b6fed12fc3d22c71bd4dc46cd341a465880804131bab18bfd81fd2892bfd"

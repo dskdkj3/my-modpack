@@ -1,0 +1,8 @@
+name = "Better SB Upgrades.zip"
+filename = "Better SB Upgrades.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/533abaa021469d68d15c59cf43fc2d079d7f10cf5f9ba93228a6e0aaa082e399.zip"
+hash-format = "sha256"
+hash = "429dd5e2452e124432c0bdd297a027c916a58b04d009a38c48eedb914cef6078"

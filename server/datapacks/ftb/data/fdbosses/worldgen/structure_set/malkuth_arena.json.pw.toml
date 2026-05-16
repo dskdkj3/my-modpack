@@ -1,0 +1,8 @@
+name = "malkuth_arena.json"
+filename = "malkuth_arena.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/503ef21703973e6c8748bbd98611c9000a9677229b95725d1a16079f930adccb.json"
+hash-format = "sha256"
+hash = "535d7e236233310349fd445f325c66f67623dd3bf34af659c2cc9e57a18a638b"

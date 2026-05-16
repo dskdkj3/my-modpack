@@ -1,0 +1,8 @@
+name = "bauxite.json"
+filename = "bauxite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab59a7fb5887f497bfa34f0334eb5d2527f21983b4926cdbca77cec2892c8029.json"
+hash-format = "sha256"
+hash = "3eb726b13095be96c892d4554e522b15f4a41d941f7b48d3cab02ca05e1e0047"

@@ -1,0 +1,8 @@
+name = "infinity_drill.json"
+filename = "infinity_drill.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/156872a933634ce00c1b9406ddc0e6af866d91717d08b35371d7fbea83a529b2.json"
+hash-format = "sha256"
+hash = "d52a63d6ee8cebb56ce5aa5b14d46253a27ee7f0e3311d500c849fc65d7c4b55"

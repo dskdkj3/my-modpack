@@ -1,0 +1,8 @@
+name = "mecrh.snbt"
+filename = "mecrh.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1448896b78e5f2d6fca13d0814a0ecb231159337cd7d2513657778b10fb086e.snbt"
+hash-format = "sha256"
+hash = "3b02b070fc214b59b10f6a8130d65229f8b07d199d4b1c7226d28da049b58d9a"

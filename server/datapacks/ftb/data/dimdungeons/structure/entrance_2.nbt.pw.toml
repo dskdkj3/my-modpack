@@ -1,0 +1,8 @@
+name = "entrance_2.nbt"
+filename = "entrance_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/685cf88a533b51b8f70ac8b0e1068218e57604703d6308124d628b5da09eb87d.nbt"
+hash-format = "sha256"
+hash = "834545935ebedcf278167e8acfa74ab3c7028814624683811152c65150f2468a"

@@ -1,0 +1,8 @@
+name = "empty_player_upgrade_slot.png"
+filename = "empty_player_upgrade_slot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b80ee989f09d063f707a08d06b28f5ce64cb773a32adac8e3938101154f8728f.png"
+hash-format = "sha256"
+hash = "b7507acd6ced2f7d4897ecc3a645b2d1828ba6e6eb7daea19d7df2154e1742a9"

@@ -1,0 +1,8 @@
+name = "twilightforest-client.toml"
+filename = "twilightforest-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/9271b1447947770d90f735ce14370a25d762b2d7b545e7218004926d4e7a9cd7.toml"
+hash-format = "sha256"
+hash = "1dfd163a22345ce6115bb32d2a44e4c13969b0050c4982b8b49d4d93eb915814"

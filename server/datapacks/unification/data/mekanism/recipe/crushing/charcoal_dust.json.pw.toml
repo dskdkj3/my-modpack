@@ -1,0 +1,8 @@
+name = "charcoal_dust.json"
+filename = "charcoal_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6888875363f5092c674ce4056a5e41f26ec07ceb815c1ab6b5c225adc5a744b.json"
+hash-format = "sha256"
+hash = "3814f3dc4ac40692a366afa2c59c5a40c932e7ecc25def1f3ac3a58dcb8ed90d"

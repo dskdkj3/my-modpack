@@ -1,0 +1,8 @@
+name = "ender_power_upgrade.nbt"
+filename = "ender_power_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/453ceb3da38502296cb9bf94c68ea14e0b63d5400e6f2db07db4e104c309bb00.nbt"
+hash-format = "sha256"
+hash = "fa05bc30dd7ba0d8a3d6781bf87b8aebebfe5b1aa03c4978f94a166017b22284"

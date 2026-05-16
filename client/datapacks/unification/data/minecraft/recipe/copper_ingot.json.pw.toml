@@ -1,0 +1,8 @@
+name = "copper_ingot.json"
+filename = "copper_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/ea1846086f92e7be74ec05b60aea07ea7e14a3ba1fcc4891aa64d5bdcf7105e5.json"
+hash-format = "sha256"
+hash = "d908dfb2699c2bdf37172782827fc4f44ae6a1dcf15f1885b8261803b1fb42ca"

@@ -1,0 +1,8 @@
+name = "fluid_cows.json"
+filename = "fluid_cows.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/8024de9eeab36147c3a87d474f0c24fe17c438ecf1b422008ca88e79538783fb.json"
+hash-format = "sha256"
+hash = "c8e3270a3e0129a22d1996aa50310c1785cb4667c9b28483179127821adefed2"

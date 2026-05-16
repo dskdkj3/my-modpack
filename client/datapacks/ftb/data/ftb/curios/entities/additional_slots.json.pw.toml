@@ -1,0 +1,8 @@
+name = "additional_slots.json"
+filename = "additional_slots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6dc96764662f68e7a761f8bb1c6732057c7e5740a76d68553e2c77ade236bcf7.json"
+hash-format = "sha256"
+hash = "098dadbfb2740ac9ac1405162e2695a3165bdcd05ae921880857260d2d6018b2"

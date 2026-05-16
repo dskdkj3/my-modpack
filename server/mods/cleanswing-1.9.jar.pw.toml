@@ -1,0 +1,8 @@
+name = "cleanswing-1.9.jar"
+filename = "cleanswing-1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6153/780/cleanswing-1.9.jar"
+hash-format = "sha256"
+hash = "b86e69372a3451a09c1b5d09d69f2e20485c6d2aa62fa8a538ef77509a5f5595"

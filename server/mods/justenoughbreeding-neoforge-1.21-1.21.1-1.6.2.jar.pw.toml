@@ -1,0 +1,8 @@
+name = "justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar"
+filename = "justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6816/404/justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar"
+hash-format = "sha256"
+hash = "4857ff49f674dac569495eb6cd4252cf5bb075c0c2566923b44be434c4c401d2"

@@ -1,0 +1,8 @@
+name = "ae2-client.toml"
+filename = "ae2-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6f691384023aedacf6f9f5249221c3e8ff0ecc99b4d5e256a0a5b4eed9e658f.toml"
+hash-format = "sha256"
+hash = "18085f62c7ffb750347db4aa80b4c91995e7896f6f2ead72c5a78d56201e51b4"

@@ -1,0 +1,8 @@
+name = "geckolib-neoforge-1.21.1-4.8.4.jar"
+filename = "geckolib-neoforge-1.21.1-4.8.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar"
+hash-format = "sha256"
+hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"

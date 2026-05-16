@@ -1,0 +1,8 @@
+name = "giant_glove.yaml"
+filename = "giant_glove.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddb0b29679bb65826c5c25f568b6798f2a3028d4321b43f441cc9d19718101d5.yaml"
+hash-format = "sha256"
+hash = "cf2a40896c9221aab2ba43c50d4fcc864fcd2223b95f6e4add75fe3eda3eec9f"

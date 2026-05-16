@@ -1,0 +1,8 @@
+name = "pillager.nbt"
+filename = "pillager.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/57a6a1b68db9e5398f5528080e39a8cf3e04bb81027a6640f5baf18cef9b1816.nbt"
+hash-format = "sha256"
+hash = "cd95d48d226c452ea1ff6eaeb451c3024879a0bd89094c979fc95c6f8fd8cd81"

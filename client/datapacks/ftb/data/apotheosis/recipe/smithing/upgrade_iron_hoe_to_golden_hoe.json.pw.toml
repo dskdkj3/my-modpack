@@ -1,0 +1,8 @@
+name = "upgrade_iron_hoe_to_golden_hoe.json"
+filename = "upgrade_iron_hoe_to_golden_hoe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40564e23d60710c0ab7384c63298a62d3b9e72ca29cb3ef58bb2b30c7a9e319b.json"
+hash-format = "sha256"
+hash = "8e59a80f7af6f1238dd7827f2f065d63b25790281d045131ebac087b3a94d481"

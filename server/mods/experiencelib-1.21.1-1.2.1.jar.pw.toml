@@ -1,0 +1,8 @@
+name = "experiencelib-1.21.1-1.2.1.jar"
+filename = "experiencelib-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7705/470/experiencelib-1.21.1-1.2.1.jar"
+hash-format = "sha256"
+hash = "0b131b76087dd361735d6cf05e9223c68d0a2acdb022ca5f4616aa36a66d938a"

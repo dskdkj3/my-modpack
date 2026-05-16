@@ -1,0 +1,8 @@
+name = "nitwit.json"
+filename = "nitwit.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5ce841ea5861da2dd629bbe26a55ebbfa3c62b802086b1ced9b5992c9f1373c.json"
+hash-format = "sha256"
+hash = "b8910dfb97aa50fc976db93b145909fdc074c114d44eb77c42527c9ad0d4095a"

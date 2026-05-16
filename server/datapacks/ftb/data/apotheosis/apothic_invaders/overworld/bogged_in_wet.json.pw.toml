@@ -1,0 +1,8 @@
+name = "bogged_in_wet.json"
+filename = "bogged_in_wet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49c69d0e741e696bc2970cc46fceb57e6c824e7656b7b22fbe9215525f5885a7.json"
+hash-format = "sha256"
+hash = "53d52bf56efac38436db435e9aa7b56d1dc010f6678633ffcc985b2a92ed16a3"

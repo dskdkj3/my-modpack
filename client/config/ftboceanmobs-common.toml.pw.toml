@@ -1,0 +1,8 @@
+name = "ftboceanmobs-common.toml"
+filename = "ftboceanmobs-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f273c831e14cf3d57d12a838aa97b82f3641f3d06e647ab2cd1ed285f6f1e4b.toml"
+hash-format = "sha256"
+hash = "5044e2528f456f18cc289577b826e71246e33bd0ee76c747517c08362c53dadc"

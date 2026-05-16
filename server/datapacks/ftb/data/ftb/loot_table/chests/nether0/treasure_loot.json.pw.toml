@@ -1,0 +1,8 @@
+name = "treasure_loot.json"
+filename = "treasure_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6cf3d322b9d393ee4236961bdb3d9092cc3585ee0f0c990c89458266d69533df.json"
+hash-format = "sha256"
+hash = "ffb46f1512a953c5a66aa0c674dcb4f975d8dc24f4ddb4729836e975b75ee7e7"

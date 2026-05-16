@@ -1,0 +1,8 @@
+name = "void_vortex_in_bottle.yaml"
+filename = "void_vortex_in_bottle.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20846c3d7103aea910f27ae65472b06bde2bba9c98a51c0f0f60fc7258d96746.yaml"
+hash-format = "sha256"
+hash = "193be96e3e38e76dcf2fa299a404edede14d5fc257f4ce4d42cccbd67271cf18"

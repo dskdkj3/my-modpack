@@ -1,0 +1,8 @@
+name = "spider.nbt"
+filename = "spider.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e76b681770dc0e76147eff41f82aaa13632489fa115a095157a0fc58948b73b.nbt"
+hash-format = "sha256"
+hash = "acfc364fb5c7dbb6da018e2764133565b60cf363f48d79a8e84f2f4f1569eb02"

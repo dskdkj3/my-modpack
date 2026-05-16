@@ -1,0 +1,8 @@
+name = "crafting_station.json"
+filename = "crafting_station.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c55f731e7ae59aa0368cb282c9ab3e1d319cc32d6cec7c5000d1bbe235db5a6.json"
+hash-format = "sha256"
+hash = "dda0083f56b65403ddc78d022e2d0ad802c806a1af912cd0adfed29f0597df2b"

@@ -1,0 +1,8 @@
+name = "event_creeper.js"
+filename = "event_creeper.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2afc59bc9cae3c2cbe5a9dae5a2bb441667b7288fcc2bbd768b7e1e3d00aa25b.js"
+hash-format = "sha256"
+hash = "9ed0eb837ef29f231b5516274d9ebdc38e2440a7f0311b897e8d22983941d4b7"

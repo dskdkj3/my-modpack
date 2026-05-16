@@ -1,0 +1,8 @@
+name = "dry_leaves.png"
+filename = "dry_leaves.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/865e768fbe0c442d615d573ddf47ce64d3959e37e3cd8ef6143afa2132777c44.png"
+hash-format = "sha256"
+hash = "09a4f5bb8ac2aa816360c3ca2cb4bce9b75035207e763a6991a8bae6149a143b"

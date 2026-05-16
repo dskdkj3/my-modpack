@@ -1,0 +1,8 @@
+name = "justdirethings-client.toml"
+filename = "justdirethings-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c11740dc9bd453d671ca8923a64a8a673fad5e03aefa9de379f8dfdf0d714349.toml"
+hash-format = "sha256"
+hash = "53adbce3b07d37d9d333b2f58593c16bb3546f253a282d090f9409e1aea8311b"

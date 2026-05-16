@@ -1,0 +1,8 @@
+name = "jags-neo-21.1.5+mc1.21.1.jar"
+filename = "jags-neo-21.1.5+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6717/206/jags-neo-21.1.5%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "929e117f4afcd13a03235e55c1cf9cb5fc1dcecf0050840967d103bb71be700c"

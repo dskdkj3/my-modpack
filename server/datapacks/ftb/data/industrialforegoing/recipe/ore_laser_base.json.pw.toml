@@ -1,0 +1,8 @@
+name = "ore_laser_base.json"
+filename = "ore_laser_base.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9660736edb4275c057d6b6767ca703cf6709c43f22e9d0b1635f8def9cc1155.json"
+hash-format = "sha256"
+hash = "59aaa0c2c9a45da93c102275ff33a680fa8c533928ec2a127ffa582b60d68f32"

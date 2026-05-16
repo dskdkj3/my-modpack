@@ -1,0 +1,8 @@
+name = "occultism.js"
+filename = "occultism.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/315960b71127bb55103641266e5a7b0eef800261b2b89271aff42e984860ff73.js"
+hash-format = "sha256"
+hash = "b2598c6595b9de029893b0c228434a0247c0b4ac3fb66a0e271fe383b15cf432"

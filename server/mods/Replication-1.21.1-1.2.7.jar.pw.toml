@@ -1,0 +1,8 @@
+name = "Replication-1.21.1-1.2.7.jar"
+filename = "Replication-1.21.1-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7662/870/Replication-1.21.1-1.2.7.jar"
+hash-format = "sha256"
+hash = "aae49074d525099447f59cd3677c2cd3e2144a4bd0591181f33ce676c52bd14e"

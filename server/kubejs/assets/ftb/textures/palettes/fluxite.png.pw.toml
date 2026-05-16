@@ -1,0 +1,8 @@
+name = "fluxite.png"
+filename = "fluxite.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f7fc40c89df30c92dc87073e03fc53ba758970c45735505db8070f9d1fc4d5b.png"
+hash-format = "sha256"
+hash = "b149d5bc42c4ceeecd30b9faf31f3fa9a2d959ebbff1520ffa6cd6e919bdea34"

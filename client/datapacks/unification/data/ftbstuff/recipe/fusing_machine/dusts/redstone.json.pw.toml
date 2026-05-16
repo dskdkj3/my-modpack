@@ -1,0 +1,8 @@
+name = "redstone.json"
+filename = "redstone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d636475d53799986ee8232edf80a29d2603c960eea589c4d887e43c955509a1b.json"
+hash-format = "sha256"
+hash = "e5ca351899af7851d336a3c4807b2374b6ed5f5626aca8472a85502e412076ad"

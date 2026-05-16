@@ -1,0 +1,8 @@
+name = "buddings.md"
+filename = "buddings.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd17d9ee1c3dfa55e6db60fea6696701dd66c9bc2dd14454b12e6d1516352dbf.md"
+hash-format = "sha256"
+hash = "7ac810ce4d30c0486dd7ef3561127408b0d0f6828026d09b5775b95ae6b61a87"

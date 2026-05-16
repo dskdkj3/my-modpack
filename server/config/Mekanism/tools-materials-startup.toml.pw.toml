@@ -1,0 +1,8 @@
+name = "tools-materials-startup.toml"
+filename = "tools-materials-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f0233b3528759c345a1dc7ff67fd9fed02870aafff6157a5656e079c35f6d0b.toml"
+hash-format = "sha256"
+hash = "798ffa4faab3f7e77e089e7517dea1be98cc18bd9723aa52969aa7cdc4e9787b"

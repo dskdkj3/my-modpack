@@ -1,0 +1,8 @@
+name = "mineral_veins.json"
+filename = "mineral_veins.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e0f376b8958bffe32e9c0faf5d114b6202e213b97c223023d5589f1676183f54.json"
+hash-format = "sha256"
+hash = "84d4720dcf287f95c6989242537dfebf610ca99e3104b015713fc8845ed20a70"

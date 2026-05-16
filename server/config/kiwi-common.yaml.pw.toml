@@ -1,0 +1,8 @@
+name = "kiwi-common.yaml"
+filename = "kiwi-common.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6cdf58a5ad06e2f8c1a7b4a66a5e4f6a39a50707b173b5fcd9cf1570aea073f.yaml"
+hash-format = "sha256"
+hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"

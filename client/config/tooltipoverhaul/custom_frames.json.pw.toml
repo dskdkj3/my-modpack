@@ -1,0 +1,8 @@
+name = "custom_frames.json"
+filename = "custom_frames.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c36e9624dadd019c62489c52a98f9a5553938754c62239237ab0759bfe3e6911.json"
+hash-format = "sha256"
+hash = "6a5c6ce4923e547f7c6e08eee5a02d79da7c3f5bb272bb66346f081460c5cb4f"

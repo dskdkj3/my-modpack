@@ -1,0 +1,8 @@
+name = "tree_cache.json"
+filename = "tree_cache.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7a70ec99dbaaa1664bbfa8d5bc44db6737587fafbec5533d9227a67dca8bff6.json"
+hash-format = "sha256"
+hash = "2073019329a73196faf9ae113a00edf3949e06eaa42de42fdc65dbd24b4b0ce8"

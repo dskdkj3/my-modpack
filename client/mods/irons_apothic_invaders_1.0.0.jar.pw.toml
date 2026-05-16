@@ -1,0 +1,8 @@
+name = "irons_apothic_invaders_1.0.0.jar"
+filename = "irons_apothic_invaders_1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6507/251/irons_apothic_invaders_1.0.0.jar"
+hash-format = "sha256"
+hash = "03247ae098e4214a7d571e554a528094634ab3fbb04f409ddda6d5441e713219"

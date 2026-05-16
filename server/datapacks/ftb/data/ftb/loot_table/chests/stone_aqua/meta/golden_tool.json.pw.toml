@@ -1,0 +1,8 @@
+name = "golden_tool.json"
+filename = "golden_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/adee446270812026519f7e36f19e345fe0a7ac6bd4047c89b6230fed0a6683b2.json"
+hash-format = "sha256"
+hash = "1684cffbf4792dd3b43f7a6be143ad214bb162b75b9df57b4003a7ec7bc20163"

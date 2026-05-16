@@ -1,0 +1,8 @@
+name = "globals.js"
+filename = "globals.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0bf4b5c661dd02a9ef5ee78d97fa14c0132407fa672cb4f8522778c147182ce1.js"
+hash-format = "sha256"
+hash = "faf04104cea7ae955f2b83d79540d48572c4acbfc1f1d7cbdc59cd5a4f379f82"

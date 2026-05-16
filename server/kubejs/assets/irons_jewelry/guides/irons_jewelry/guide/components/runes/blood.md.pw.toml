@@ -1,0 +1,8 @@
+name = "blood.md"
+filename = "blood.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2cdeb1910e73b6331a9ca79745147e671361641a205ddad5eff0d24d0e240ff.md"
+hash-format = "sha256"
+hash = "8894c79089747d7011f8a573a39a78b2b1b85e94365219f74ba6cdcf10bcf8f8"

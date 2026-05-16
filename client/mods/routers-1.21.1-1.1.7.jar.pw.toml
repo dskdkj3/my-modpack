@@ -1,0 +1,8 @@
+name = "routers-1.21.1-1.1.7.jar"
+filename = "routers-1.21.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7925/302/routers-1.21.1-1.1.7.jar"
+hash-format = "sha256"
+hash = "51586907e50a44735dc698c8d30d9b7455a8a44de8fd66cfd5970bd186d165b3"

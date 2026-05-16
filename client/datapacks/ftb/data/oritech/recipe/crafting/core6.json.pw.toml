@@ -1,0 +1,8 @@
+name = "core6.json"
+filename = "core6.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/0066bd60e1dc266cf7d42bed2646dcd37eda5c3bc68556f7e46d65e33cd705d8.json"
+hash-format = "sha256"
+hash = "c23fd2fb6f04e6fdbfc99d4ef26ca31ced3395c03ae38aa88a2f32d954c5095a"

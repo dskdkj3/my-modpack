@@ -1,0 +1,8 @@
+name = "otherrockchicken.png"
+filename = "otherrockchicken.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/397012bd2785d180db967b33e9ff2944d752857357c75249b2f57b00252f6124.png"
+hash-format = "sha256"
+hash = "1c3712482abd1ea70d34b558dc16b272cd3cbf0325988e7ee3fd2908e755e955"

@@ -1,0 +1,8 @@
+name = "top_2.json"
+filename = "top_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38d1e5094a99b68a6fe3f3f0ace96a2749efbc2a13586ff873123f859f0dfe22.json"
+hash-format = "sha256"
+hash = "ed209cd95f088d9f27999fa919369b7ba1a4654c6f5e8bd095fd350d762bf947"

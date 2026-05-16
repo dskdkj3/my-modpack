@@ -1,0 +1,8 @@
+name = "wirecoil_structure_steel.json"
+filename = "wirecoil_structure_steel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6abef12c459cee5f39c24dea7dfd0e8aea293fb1bc32f57d86155e669dc2425d.json"
+hash-format = "sha256"
+hash = "a9c74362928155d19c783a5baefcca48a8fc157e49262f83ffa2433effa9dc0f"

@@ -1,0 +1,8 @@
+name = "ComplementaryReimagined_r5.7.1.zip"
+filename = "ComplementaryReimagined_r5.7.1.zip"
+side = "client"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91f593760b84abefe61b3531db9eca8349edf00488f0b8f8890b50712be117a9.zip"
+hash-format = "sha256"
+hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"

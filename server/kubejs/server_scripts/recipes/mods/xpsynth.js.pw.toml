@@ -1,0 +1,8 @@
+name = "xpsynth.js"
+filename = "xpsynth.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0ef331ccccd3d722389e1b2a8b4c26cb55e363e4f954e2cf0b01c46f37b58959.js"
+hash-format = "sha256"
+hash = "17c224862e50da10eeee96f068f440590d6ffdf2cffd2fc532cdca75899a2b14"

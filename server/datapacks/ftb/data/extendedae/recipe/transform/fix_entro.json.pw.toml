@@ -1,0 +1,8 @@
+name = "fix_entro.json"
+filename = "fix_entro.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a14401ac2b13575fb1dd9a2384f5feecc3aae5f5a1aabd98d72edab4fc1af91a.json"
+hash-format = "sha256"
+hash = "47915cede5972b5d238a4e554b1ca374d4f729566cf731a754d4980e3e1cff03"

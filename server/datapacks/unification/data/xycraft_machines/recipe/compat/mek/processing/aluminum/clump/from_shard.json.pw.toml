@@ -1,0 +1,8 @@
+name = "from_shard.json"
+filename = "from_shard.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f1885cdac31e3635d32f9c1e27482f8346ae05c1a1f29339a2a164f97a4f42e1.json"
+hash-format = "sha256"
+hash = "43cf8b10d5b75149914267dda68c169d424b5a4d6ce30cb1b0231eb210ae5226"

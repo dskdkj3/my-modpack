@@ -1,0 +1,8 @@
+name = "replication_logo.png"
+filename = "replication_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4de220888a6caa1512aabcea59612052330ed63efd2b04b114d6a0d73793e7cc.png"
+hash-format = "sha256"
+hash = "34df812a09f227e977d8e8c7501875eb04d4a873ef13ef9125914869d88d6402"

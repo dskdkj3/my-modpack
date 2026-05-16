@@ -1,0 +1,8 @@
+name = "chestflipped.png"
+filename = "chestflipped.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/05cb528cd51f90316ec274ca5f08c66981d8ac0d3cd42fb27475ee3ebff2072d.png"
+hash-format = "sha256"
+hash = "3a5320e0d6b3e4ce3416e468eed4787bee14c84d1e23e3064f711b7a50233ab7"

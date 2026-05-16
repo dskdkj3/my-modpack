@@ -1,0 +1,8 @@
+name = "pickaxe_heater.yaml"
+filename = "pickaxe_heater.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba54faa6f1fb68341f1a4f37c43d40bd2d46e6c5e1ed26571053cfd2a57d1403.yaml"
+hash-format = "sha256"
+hash = "390c19e4171fdae15eeef176af11152f0b078a6d4e0aaf9e33fc10f4ffedc035"

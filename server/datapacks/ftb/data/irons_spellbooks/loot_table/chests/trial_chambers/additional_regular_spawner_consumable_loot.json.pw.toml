@@ -1,0 +1,8 @@
+name = "additional_regular_spawner_consumable_loot.json"
+filename = "additional_regular_spawner_consumable_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/1377d20d103955d811c46e7f8afb0ec4268e7424e843fb4dbb314a820e8c31c3.json"
+hash-format = "sha256"
+hash = "753dbda1e8dd44ffdd6a8b14db08409a8668f7267610157302d7fcd635d6ccde"

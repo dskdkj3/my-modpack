@@ -1,0 +1,8 @@
+name = "worldgen.json"
+filename = "worldgen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0bd70990c3a5d5b48c3d9f505ee74ec64ca5f76080476f72509dcacb30df835.json"
+hash-format = "sha256"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"

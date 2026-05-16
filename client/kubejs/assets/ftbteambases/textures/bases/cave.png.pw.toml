@@ -1,0 +1,8 @@
+name = "cave.png"
+filename = "cave.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f71a614a10abe99d70cad1ad2b81e263ce5088ce7243223ad151d84c58b75c84.png"
+hash-format = "sha256"
+hash = "53e2df1aef369ba9b918174b6a69887ad5e9a2c383356aa68b5e26a5fec7b0e3"

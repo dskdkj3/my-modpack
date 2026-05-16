@@ -1,0 +1,8 @@
+name = "garnet.md"
+filename = "garnet.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0d193b68c4fbdeae3503de9610705424ce39f3c859869e7b9df2b9a2b107cbc.md"
+hash-format = "sha256"
+hash = "758b3f887399afa514538fc34aee0fc9b3f4588537c1f7488c316546d131b298"

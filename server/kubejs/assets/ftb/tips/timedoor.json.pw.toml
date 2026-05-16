@@ -1,0 +1,8 @@
+name = "timedoor.json"
+filename = "timedoor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d11d81805bc9cc8d0e563fb7ddd772b72116178ab1cd103d925eb93b82bf5e8b.json"
+hash-format = "sha256"
+hash = "c9e76036e9572db1fa6119b4bfc5b8ce43a0747f446d7193d2b87107880cc750"

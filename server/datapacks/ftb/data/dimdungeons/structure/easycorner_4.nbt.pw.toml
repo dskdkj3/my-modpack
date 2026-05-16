@@ -1,0 +1,8 @@
+name = "easycorner_4.nbt"
+filename = "easycorner_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bdc83559549c3aa2d0e6929539e8d2e5ec6e93c723cf4813bea94b30cd55d4ab.nbt"
+hash-format = "sha256"
+hash = "29505274a129fa185ba0d19e2e537ebf64d3293ce0321567eba6867d753c027b"

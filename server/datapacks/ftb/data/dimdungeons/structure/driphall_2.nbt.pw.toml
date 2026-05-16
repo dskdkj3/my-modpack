@@ -1,0 +1,8 @@
+name = "driphall_2.nbt"
+filename = "driphall_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9165ae8262a4ab01a8474321a9abcece22b824f0c494a50dc18f4f84d4fcff1f.nbt"
+hash-format = "sha256"
+hash = "e6c758ded0842d5bac2fdbba325fe3dc9764c94c4044c4eabe5e9cf89c3b510f"

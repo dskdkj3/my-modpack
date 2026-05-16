@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/energy_acceptor.md"
+filename = "energy_acceptor.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/energy_acceptor.md"
+hash-format = "sha256"
+hash = "725eb8d3e4ba7b3e57639765ce930e6c1755fdb1ef825e5e8d486b0739dddc94"

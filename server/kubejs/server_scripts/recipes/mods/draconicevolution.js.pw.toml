@@ -1,0 +1,8 @@
+name = "draconicevolution.js"
+filename = "draconicevolution.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4907bcc95fb3d8b1f747cbdfdb35c2a640fb8d23903da0d743b1edef0aa218d.js"
+hash-format = "sha256"
+hash = "ae45f3c2bb1867224a6fa988f6d26e3a157d26c6501fda9d7d212ca0ebd92cf8"

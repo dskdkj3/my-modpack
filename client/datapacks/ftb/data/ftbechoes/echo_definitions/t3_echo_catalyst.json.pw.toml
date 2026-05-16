@@ -1,0 +1,8 @@
+name = "t3_echo_catalyst.json"
+filename = "t3_echo_catalyst.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22ad03142cad231ed9e4263252cd556b671dcce7fb9bf2f504211deb21903223.json"
+hash-format = "sha256"
+hash = "facb609b04da01fd2e484d02955247908d32fd17d937846f990ecac284a938ee"

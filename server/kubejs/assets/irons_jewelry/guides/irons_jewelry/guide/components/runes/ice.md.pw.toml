@@ -1,0 +1,8 @@
+name = "ice.md"
+filename = "ice.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a48d7d1a3b3004edac2e170ae4de8306cf8287c04db09d4808061826c97f1da6.md"
+hash-format = "sha256"
+hash = "1f4930a67608f897caf755dff3da4b2f54b304a63d4d1932af0a61c5adde524b"

@@ -1,0 +1,8 @@
+name = "generic.elytra_glide_efficiency.json"
+filename = "generic.elytra_glide_efficiency.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e45bd3c7b9e964c345f1ef162d1931bd324328e1553ae1c8a02986091abf941a.json"
+hash-format = "sha256"
+hash = "b5f99b3b98210de7a3401afa10fa120786730b73e6efbbdf1de50586e6cb0f73"

@@ -1,0 +1,8 @@
+name = "anvil_printing_press_forming.json"
+filename = "anvil_printing_press_forming.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/cab87d437860fd913e2cd5c540cb30907a658c920de3a4f728eccdf771c6da17.json"
+hash-format = "sha256"
+hash = "a2fab9f3bc6cc06ae2da593d892f09cc1119d98cecc1c00e7b14e988cecfa03f"

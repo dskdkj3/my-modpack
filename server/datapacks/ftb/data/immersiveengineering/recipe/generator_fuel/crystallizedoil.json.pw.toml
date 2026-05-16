@@ -1,0 +1,8 @@
+name = "crystallizedoil.json"
+filename = "crystallizedoil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74d3723a498e39ba21db424bc82f712c393281e0c15a7b691b2a9c8510e5be2a.json"
+hash-format = "sha256"
+hash = "3af8d7ac282c224708fc3d0d6a8717438e222934a7dc38bdb578f5e9e0e826d8"

@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/gui/base_reset.png"
+filename = "base_reset.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/gui/base_reset.png"
+hash-format = "sha256"
+hash = "6f3519436f84b463dd406920b8089280cbdacfcbd3c6bf7f0324aa69e812ed99"

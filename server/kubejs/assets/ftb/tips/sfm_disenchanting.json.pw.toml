@@ -1,0 +1,8 @@
+name = "sfm_disenchanting.json"
+filename = "sfm_disenchanting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/198d6f29ed2798b1ab292da4b5130765689cd148979e9cc3c11c16d113195694.json"
+hash-format = "sha256"
+hash = "d6b7f0674d03e7eac7fb50805ad52fada3ea7532096a30f511820962da5b8851"

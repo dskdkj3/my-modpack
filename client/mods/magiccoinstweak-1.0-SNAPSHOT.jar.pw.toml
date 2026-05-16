@@ -1,0 +1,8 @@
+name = "magiccoinstweak-1.0-SNAPSHOT.jar"
+filename = "magiccoinstweak-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6995/921/magiccoinstweak-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "ddb8cab99f0fceb7bdf5f3e0167252a9aa52813ede8627e668ea453ca4ac7064"

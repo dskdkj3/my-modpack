@@ -1,0 +1,8 @@
+name = "telepad.nbt"
+filename = "telepad.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/afd0260b8634a1b7555af2e560ca810346293c6aad06bb8f809041b238cb0316.nbt"
+hash-format = "sha256"
+hash = "f0f38831b0519ca9627f668a5808b2f39a592ba4b26970f111d6acfbd7b3066a"

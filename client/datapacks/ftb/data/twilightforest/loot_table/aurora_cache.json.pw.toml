@@ -1,0 +1,8 @@
+name = "aurora_cache.json"
+filename = "aurora_cache.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9aa3d93b042c4f6389939eb7a0d41e85bfd2b45106231da2f8f89f8cd781737c.json"
+hash-format = "sha256"
+hash = "d6728cae4a19592feda936e5e7221e53fedca1b26e91696ae43d74011aaae7c6"

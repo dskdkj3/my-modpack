@@ -1,0 +1,8 @@
+name = "team_lifecycle_events.js"
+filename = "team_lifecycle_events.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3ca1f1f532ac2684eff3fa1fbb9281d6c525b220c8d7b1455ff78e848119cd3b.js"
+hash-format = "sha256"
+hash = "aa9216cf007f35902a0f4cab67b766779b3f4bd67913bb702fccaa62284d0d18"

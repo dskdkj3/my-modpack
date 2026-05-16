@@ -1,0 +1,8 @@
+name = "config.txt"
+filename = "config.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cfba23f40ead0193a9487052ec60c7e276fa2770ac497052791da961cbb8a3e.txt"
+hash-format = "sha256"
+hash = "d1bd56ec12c026110b417a9fc8aadbb5d65ae34ff66e6ce796e2decb6003ba9b"

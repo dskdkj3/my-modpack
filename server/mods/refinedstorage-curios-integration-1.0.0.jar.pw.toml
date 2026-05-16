@@ -1,0 +1,8 @@
+name = "refinedstorage-curios-integration-1.0.0.jar"
+filename = "refinedstorage-curios-integration-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6360/514/refinedstorage-curios-integration-1.0.0.jar"
+hash-format = "sha256"
+hash = "5f5132f7d5c08791d6111b14bbce94c5e221ab83300b1aa10565279c09938890"

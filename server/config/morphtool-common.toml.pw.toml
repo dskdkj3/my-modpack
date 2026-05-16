@@ -1,0 +1,8 @@
+name = "morphtool-common.toml"
+filename = "morphtool-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/3329c847f3f8a872272596de3fc89fe17775aff979fc41606df1b6f0a8f48910.toml"
+hash-format = "sha256"
+hash = "fe5ce56aeb3d31f347902fb110cd043de1b8d13dbd9f90c71f77af15c3897f59"

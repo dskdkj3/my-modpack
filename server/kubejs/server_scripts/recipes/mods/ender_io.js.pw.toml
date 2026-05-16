@@ -1,0 +1,8 @@
+name = "ender_io.js"
+filename = "ender_io.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f821acad7420c04d046e5167d982ac49a22ea7d65befcc4131f676b537240564.js"
+hash-format = "sha256"
+hash = "a4eca939fe958a0eca7c64a4e746bab24f4bf749097994b7a059483276340105"

@@ -1,0 +1,8 @@
+name = "euphonium.md"
+filename = "euphonium.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c7646f7ee0b8da333dd85fc83e2a6b90e400fe66564d9f2e8808ae946dd7e46e.md"
+hash-format = "sha256"
+hash = "73275ca85f22b676fc926f5f7cc169c81888a6dc358a2ed9c44bff01f72d1bb9"

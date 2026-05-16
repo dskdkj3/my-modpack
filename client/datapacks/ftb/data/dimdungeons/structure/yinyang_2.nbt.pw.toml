@@ -1,0 +1,8 @@
+name = "yinyang_2.nbt"
+filename = "yinyang_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cd43ce0aca42c71f083d945a13c44adf71488e3691d15dfaea3805e0728f4ee.nbt"
+hash-format = "sha256"
+hash = "be7e0ea5ca3064c908e2a85fc71d1cec99ee751967e607eaabb5155ebf8db6e4"

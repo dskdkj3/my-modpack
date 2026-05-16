@@ -1,0 +1,8 @@
+name = "soaryn.json"
+filename = "soaryn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff152a014522ee6d861413faa4e0aaf7cb0a28c59b567d40fb242cc369e771d1.json"
+hash-format = "sha256"
+hash = "94ef3ceef0ae2f20723d09beb57815c285ebc56f07d2dc5182ea474a784caea3"

@@ -1,0 +1,8 @@
+name = "worldgen_rings.png"
+filename = "worldgen_rings.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb08d9495727cb82b323339e329b5bb78e092b9f34a7c04b7d161ad641c46ab1.png"
+hash-format = "sha256"
+hash = "9a2a82034e2ee4b7c863df8eb00e33aea51a118cf04969a1883b445f995f852e"

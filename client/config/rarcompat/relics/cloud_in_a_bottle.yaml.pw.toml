@@ -1,0 +1,8 @@
+name = "cloud_in_a_bottle.yaml"
+filename = "cloud_in_a_bottle.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b721661b2dcf66bd7317d2a79fcbb8141049e447e2216c933a16f7a045d28093.yaml"
+hash-format = "sha256"
+hash = "abb75d7f83277ff727825bb0ec73acd31510676fa3c64152de42753e11358056"

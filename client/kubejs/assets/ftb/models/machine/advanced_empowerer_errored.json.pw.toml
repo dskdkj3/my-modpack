@@ -1,0 +1,8 @@
+name = "advanced_empowerer_errored.json"
+filename = "advanced_empowerer_errored.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec1004076ff5ad56cbfedcfd1f1e469a0949339539756c0e8ee5951f5154357f.json"
+hash-format = "sha256"
+hash = "794ccd7099401e6057b2f6cf409889db95cf26e96596dac970eaa8454c2beb01"

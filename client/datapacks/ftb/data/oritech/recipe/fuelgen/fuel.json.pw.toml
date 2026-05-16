@@ -1,0 +1,8 @@
+name = "fuel.json"
+filename = "fuel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/3882ca27ab35d05971860e4f1f47a5920eafee8c7c9670bd443a97017c5649d2.json"
+hash-format = "sha256"
+hash = "f7f810251eb2a5cbb2620f2ba0ecc1e25d80c8ceb54a6d060a23fe5fd35fe6d7"

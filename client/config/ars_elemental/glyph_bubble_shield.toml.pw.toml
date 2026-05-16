@@ -1,0 +1,8 @@
+name = "glyph_bubble_shield.toml"
+filename = "glyph_bubble_shield.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d6af5e9fb9178fbf3fcc47a8b1d8a64b1f00a5eeb304159a9c7886568de5e34.toml"
+hash-format = "sha256"
+hash = "91fbf1247544ea61119cc9a3b05d0ada9dae035b16a1baea6dd873b59a5b1edb"

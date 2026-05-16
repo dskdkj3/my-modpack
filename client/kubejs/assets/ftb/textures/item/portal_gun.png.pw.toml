@@ -1,0 +1,8 @@
+name = "portal_gun.png"
+filename = "portal_gun.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0f20c96c2219977b2f81dfef332f9820ff8b6eb7a924aefe9de99f4aa1096219.png"
+hash-format = "sha256"
+hash = "611ea584d63592199a8751079db880551d4dbcd9e3b70282e35fa3954394002a"

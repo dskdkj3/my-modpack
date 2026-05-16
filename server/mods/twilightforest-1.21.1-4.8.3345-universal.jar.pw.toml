@@ -1,0 +1,8 @@
+name = "twilightforest-1.21.1-4.8.3345-universal.jar"
+filename = "twilightforest-1.21.1-4.8.3345-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar"
+hash-format = "sha256"
+hash = "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35"

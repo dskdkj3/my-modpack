@@ -1,0 +1,8 @@
+name = "stone_aqua.json"
+filename = "stone_aqua.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/6865d3070cee863eda0576922f1a215e942f21e480e7ed6a3e94ea54b39ffb1f.json"
+hash-format = "sha256"
+hash = "d797f5977f230470e298d5d12955d014ffbc71f95d518014334518fbe3dda0c4"

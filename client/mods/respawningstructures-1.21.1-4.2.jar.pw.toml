@@ -1,0 +1,8 @@
+name = "respawningstructures-1.21.1-4.2.jar"
+filename = "respawningstructures-1.21.1-4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8026/289/respawningstructures-1.21.1-4.2.jar"
+hash-format = "sha256"
+hash = "b9a03cc0f8a44c71788cc41f964f818250691f4db1f66b28190ebb1e0a94f0a2"

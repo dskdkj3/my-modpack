@@ -1,0 +1,8 @@
+name = "void_crystal.md"
+filename = "void_crystal.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08c18b26f37abbafdf119b937f52a54d11cb812fd7d6415631a4a345bb49fa20.md"
+hash-format = "sha256"
+hash = "2ed9feda724219840990229ff56349f52b30d5de8a6adc90681b3439a3003920"

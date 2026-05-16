@@ -1,0 +1,8 @@
+name = "neutronium.png"
+filename = "neutronium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02f7d2de7ff5fd1a6944e0d8c81bdf9abb0835828e9abc935adfa1c275d5480c.png"
+hash-format = "sha256"
+hash = "a49096e11f92cf41f79afb01f1242f940325a3efb78ff20ae2a027b385693131"

@@ -1,0 +1,8 @@
+name = "clay_ball.md"
+filename = "clay_ball.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c667d7d894553de1409dec6f496ad99b73cf5a85ed4d668b6b48bd19094b34d.md"
+hash-format = "sha256"
+hash = "e753eacf6568c35cff0d3cd09fbf6bab88b12ee9562ebdfe0eedd143269f9977"

@@ -1,0 +1,8 @@
+name = "mycelial_reactor.json"
+filename = "mycelial_reactor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9d6a580e8fcda83010f3e64d0784fb7d82c72b60a55d854ce765ea8456389ee.json"
+hash-format = "sha256"
+hash = "877d3bd3e1011714e5a6371db4c2bc401f5689122171d969d2f2df8668d257f0"

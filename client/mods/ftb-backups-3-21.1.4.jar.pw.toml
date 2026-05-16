@@ -1,0 +1,8 @@
+name = "ftb-backups-3-21.1.4.jar"
+filename = "ftb-backups-3-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8053/183/ftb-backups-3-21.1.4.jar"
+hash-format = "sha256"
+hash = "8c796245c50d56e62aca222f63cdb9180306bcff237ed48d3c27f7a08e1728d4"

@@ -1,0 +1,8 @@
+name = "spawner_5.nbt"
+filename = "spawner_5.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d9815da6040bf3e1c841c5e7c81689bebc42f9e711a19d7496c10a4df4e43f8.nbt"
+hash-format = "sha256"
+hash = "8f484ae106a015cd0c05139e36a09728c2b895dc680f6c0276b579e56a7512bb"

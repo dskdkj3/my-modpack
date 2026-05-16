@@ -1,0 +1,8 @@
+name = "frame-simple_1x1_64x64.png"
+filename = "frame-simple_1x1_64x64.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84a8c3cb0d1ffc333b2c7e7fe51dd7e66c96384b515137ee297fac3472a0a339.png"
+hash-format = "sha256"
+hash = "a5f4315937c117d6e87cc4e820cfdd0cb834effd6ac11566f3d66587d44d946b"

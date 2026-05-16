@@ -1,0 +1,8 @@
+name = "spawn_egg.json"
+filename = "spawn_egg.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1da6c41f8e448002d1ba583e929c14ad2a2731652e3e88911631b0d216f6a449.json"
+hash-format = "sha256"
+hash = "b4b13afd88696ea8d9b40f996274bb56c7d7575caf013e960fb8fa60f891bef5"

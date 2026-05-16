@@ -1,0 +1,8 @@
+name = "hallowed_gold_ingot.md"
+filename = "hallowed_gold_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/481ad0d52f31b2de9443fe368c5d94c3577465dcc38f3b2cb68eea7f06bd05cd.md"
+hash-format = "sha256"
+hash = "199261f67b798376c4b75987d8759fcd303e9769c560173be5f029226ccf41f4"

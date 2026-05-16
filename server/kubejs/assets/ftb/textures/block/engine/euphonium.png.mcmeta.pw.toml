@@ -1,0 +1,8 @@
+name = "euphonium.png.mcmeta"
+filename = "euphonium.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e59179643e6ec50399ae1be58e650092ee41e25370a2c3150437180e0064304.mcmeta"
+hash-format = "sha256"
+hash = "b3078ffd5b195ffdc7078beeccfdf673491f5edafe3f4ea3e0383b0b664bac08"

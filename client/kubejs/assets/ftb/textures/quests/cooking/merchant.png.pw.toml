@@ -1,0 +1,8 @@
+name = "merchant.png"
+filename = "merchant.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff2f6026b5ac878308a2b217d5bd216ca6633fef08df6d05f23d85c9ebf83cec.png"
+hash-format = "sha256"
+hash = "3b8c2423fa9b0ac11c32b62037f43fc8cd2c036758862202aa4e4e8ada5b2767"

@@ -1,0 +1,8 @@
+name = "evocation.md"
+filename = "evocation.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c88b11f0350e7fe4847d88f86ab7d337c0d310e7b8327d95c9f0e142889ad3ea.md"
+hash-format = "sha256"
+hash = "95e646b54b3c80a6959b6706691f06cbe0a214b98c5d6f6a74441157e3fae841"

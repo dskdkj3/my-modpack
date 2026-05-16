@@ -1,0 +1,8 @@
+name = "end_eternal.json"
+filename = "end_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/920efec5f2dc9de29cad27410dc48f2473e5b95bee1a0db963f7f49d412a3c10.json"
+hash-format = "sha256"
+hash = "92e5a7edab9a3f4544779cac053c912845a65d0c839421445f1a175efdcda126"

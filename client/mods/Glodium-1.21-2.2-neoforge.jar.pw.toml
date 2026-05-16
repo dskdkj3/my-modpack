@@ -1,0 +1,8 @@
+name = "Glodium-1.21-2.2-neoforge.jar"
+filename = "Glodium-1.21-2.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5821/676/Glodium-1.21-2.2-neoforge.jar"
+hash-format = "sha256"
+hash = "369e99753df0bdc90a38a8c52df4abb37baf6b18c6ca130af4c7bc75fb160a85"

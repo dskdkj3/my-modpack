@@ -1,0 +1,8 @@
+name = "salt.json"
+filename = "salt.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d3639b615abd90b61c34c3e8dfcc49a7d12f554ada31c800e7db21992213754.json"
+hash-format = "sha256"
+hash = "23126207e5e3e05497107a9c532751f7b06b27cea09839f7f6771cc29e5d68cb"

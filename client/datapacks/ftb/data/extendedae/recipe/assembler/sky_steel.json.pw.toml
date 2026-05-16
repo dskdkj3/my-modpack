@@ -1,0 +1,8 @@
+name = "sky_steel.json"
+filename = "sky_steel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dff482c4feebe8a4fe33aa8fd326b68dc2a4c6e32d7f5de8f85f105669cf8f17.json"
+hash-format = "sha256"
+hash = "78130c9f7df0424ac858eb06a4a5f9a2aabb3526b0dc4f6e6b07aa814dee44d5"

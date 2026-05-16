@@ -1,0 +1,8 @@
+name = "starbuncle_shrine.json"
+filename = "starbuncle_shrine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e1256da49fc54d7247ca394ec117586d8caf041eb06c71ee64fce371b4d2425.json"
+hash-format = "sha256"
+hash = "4ca093a400c946004d4471f93ef2cb2d38d40715f5a987e575ebfebb14ac2734"

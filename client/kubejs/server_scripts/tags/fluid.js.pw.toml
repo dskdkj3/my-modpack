@@ -1,0 +1,8 @@
+name = "fluid.js"
+filename = "fluid.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec32bb6239319d245ee4abe98a81b75c569e36d45d0c786c8921acd85f9c62e6.js"
+hash-format = "sha256"
+hash = "ca6356a9283f9290e373e53fd198ef2baed5a4e597ea375d667b4718673247fb"

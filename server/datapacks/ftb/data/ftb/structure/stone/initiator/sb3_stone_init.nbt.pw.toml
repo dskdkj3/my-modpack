@@ -1,0 +1,8 @@
+name = "sb3_stone_init.nbt"
+filename = "sb3_stone_init.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5006fd46feca7b5dedae1de3f4f57c795cd1a1cc0f61bc4abdec5a5750636c2.nbt"
+hash-format = "sha256"
+hash = "900ff4b1a30986807182078dc4ae5359f6bde355ffc3d46aeb6c8a150eefe8a5"

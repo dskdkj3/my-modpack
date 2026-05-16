@@ -1,0 +1,8 @@
+name = "tiny_chaos_fragment.json"
+filename = "tiny_chaos_fragment.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/beef7b43c267930d781916938512314e7dfff66e86f7ffdb6894c1d08e167495.json"
+hash-format = "sha256"
+hash = "9f6772c1c87a12eee5103643c5bc8d626e6884491d74bdd22ec0e18a3f7cb5f7"

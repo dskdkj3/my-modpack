@@ -1,0 +1,8 @@
+name = "redore_4.nbt"
+filename = "redore_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25b9efd0c27b84d96018320e1e740accd184d2884d1ec3df6da9c4a140fb85eb.nbt"
+hash-format = "sha256"
+hash = "7d1a20d720d2174269625f8e07ced47d9bcd30b77601e114e30954969d909169"

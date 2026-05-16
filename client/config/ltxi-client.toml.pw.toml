@@ -1,0 +1,8 @@
+name = "ltxi-client.toml"
+filename = "ltxi-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1ec0177712469463e1a3c2a899db50d5f007e24f7e8f42360f1e5087f2ba78c8.toml"
+hash-format = "sha256"
+hash = "86dfbb388e2116bdd4f7f7de88e81395bb8a55fa3bfb0cd13e6677f7094265b5"

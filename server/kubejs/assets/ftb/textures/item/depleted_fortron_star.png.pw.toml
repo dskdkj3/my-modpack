@@ -1,0 +1,8 @@
+name = "depleted_fortron_star.png"
+filename = "depleted_fortron_star.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/5389a1443f94cfba93e5019a62c2402914c9080e1921b7c8a18bd24acff7b6d3.png"
+hash-format = "sha256"
+hash = "5f72301a9e1bcc871d73afae8638140d2b0d393e79ecb2ffc9bffe6acc7be31e"

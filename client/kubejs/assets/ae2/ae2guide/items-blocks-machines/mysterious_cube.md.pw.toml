@@ -1,0 +1,8 @@
+name = "mysterious_cube.md"
+filename = "mysterious_cube.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/21874c2f3b5c64df8f6d16ac94261384ef5335d98fc747a6d463163b883bfffe.md"
+hash-format = "sha256"
+hash = "ea87e3d07ab3424c816499fcf7f4b5977b32705b4b107b56a30e949a254b4870"

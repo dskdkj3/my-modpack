@@ -1,0 +1,8 @@
+name = "sort-order.json"
+filename = "sort-order.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/7404af96099ec7ff56e79cb076d8a69fbc027b155a444e6f345f5f99e1b20250.json"
+hash-format = "sha256"
+hash = "f2be759d43ca4457770e81c896a3e93e4c8f60e81ecb28e52c709b1019447843"

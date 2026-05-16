@@ -1,0 +1,8 @@
+name = "bastion_remnant_eternal.json"
+filename = "bastion_remnant_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/4704273520597054a7459ad97437f6d6db534da20b359a9d15f3b133b882c19f.json"
+hash-format = "sha256"
+hash = "2d705e3594d18cb2126a32ca03a6d7776b0920746e4be6a56eb22d2235bd1eb0"

@@ -1,0 +1,8 @@
+name = "night_vision_goggles.yaml"
+filename = "night_vision_goggles.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5ab10804f6f02e71d380c71ec79ba0080c156315a312f36e9759bd829392333.yaml"
+hash-format = "sha256"
+hash = "0dde3fc4af0b75bce4ee79486ecf6ebed2bcb4a71540556474ce17a7fb06be79"

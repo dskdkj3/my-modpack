@@ -1,0 +1,8 @@
+name = "max_mana.json"
+filename = "max_mana.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c1f75158fe0030befd8c472669c04adb0b5d2afd395e44a93e41ef8895c854b.json"
+hash-format = "sha256"
+hash = "d93c8a68daea4dc0cd38d7b9a29e28cc16536332528edff278fdceeeb5a636e2"

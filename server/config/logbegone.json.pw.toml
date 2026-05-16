@@ -1,0 +1,8 @@
+name = "logbegone.json"
+filename = "logbegone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e88cad41cc73ed50944125612a4c046bed85c1d80fdbc8790cb1de772fd4555.json"
+hash-format = "sha256"
+hash = "1743915655d1e7117e6608ffe3b53468d3f0ec5ddff492320f797b6de7ab421e"

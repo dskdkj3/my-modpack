@@ -1,0 +1,8 @@
+name = "apotheosis_nerf.json"
+filename = "apotheosis_nerf.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0ee671c3e39010d62cef7d7298b0d03d7f26d6d95a27d6b56bfe3e8de8d5911f.json"
+hash-format = "sha256"
+hash = "5a4f10880c1e7f26eb3c6e69d1684aa64ebfdd97efeef0a35160164cab96ff4b"

@@ -1,0 +1,8 @@
+name = "enriched_iron_to_dust.json"
+filename = "enriched_iron_to_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c29b62016ef03ed5b446f50d8e365ba574f74fad1992f4db0a353603e21adc49.json"
+hash-format = "sha256"
+hash = "913b98019cf86957741e01af1e15c7255a11d78a2a9c7deaf27a49a8a2b887a1"

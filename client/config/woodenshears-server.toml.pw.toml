@@ -1,0 +1,8 @@
+name = "woodenshears-server.toml"
+filename = "woodenshears-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/767f67a6404d78a3b21ff36750e9c3b14d26e917f26c0f3e4c337cb664ed015c.toml"
+hash-format = "sha256"
+hash = "ecee507be9f0a39dd16d5747927880cb2ab7e6553f6be16b942d21cfb3dffaf6"

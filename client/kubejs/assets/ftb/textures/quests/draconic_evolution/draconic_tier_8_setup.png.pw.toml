@@ -1,0 +1,8 @@
+name = "draconic_tier_8_setup.png"
+filename = "draconic_tier_8_setup.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/986603a7f99943652b8323c91e8d6f9a876d3ad1a151fbc438f5457682653a69.png"
+hash-format = "sha256"
+hash = "a5725ca639e409d467722fbc52bbb70de74d94d5f54a942a7abec8aa71a9f1a1"

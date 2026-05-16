@@ -1,0 +1,8 @@
+name = "resourceful-config-web.json"
+filename = "resourceful-config-web.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ed2ebc5deee8893f57b4dca1180ace4a4d73323af299861d196c85143fc6178.json"
+hash-format = "sha256"
+hash = "e9918256c05d48a4e0ae74813768f9dab1453490aae68855c46b5c3474d8e0ba"

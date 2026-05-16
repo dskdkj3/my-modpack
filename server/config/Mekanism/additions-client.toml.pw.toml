@@ -1,0 +1,8 @@
+name = "additions-client.toml"
+filename = "additions-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0524d7b6e4a8d97b50aacb7461f02104e35c58c3711f30ee6a3caaf831a7055.toml"
+hash-format = "sha256"
+hash = "52fccdd324d438e22516ead39c6e1cceb0e27bfdd7811c1eb6a842a69fead88c"

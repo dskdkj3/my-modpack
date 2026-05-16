@@ -1,0 +1,8 @@
+name = "fire.json"
+filename = "fire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a2b5816254a19323e4e3a12261c8ee20d31bf204c59e4c3a8fab7efe1940348.json"
+hash-format = "sha256"
+hash = "19f81940c407ae191590a624c449984eedd9edc8f3db060a92d64f55695d9286"

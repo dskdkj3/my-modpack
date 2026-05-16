@@ -1,0 +1,8 @@
+name = "heavyoil_meka.json"
+filename = "heavyoil_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/cae6ac8a283cd0fc182f2171d4007644db90a8646bd9df6e4cdc7a0f786c2f57.json"
+hash-format = "sha256"
+hash = "99d2c7e202d4ec3d5afc071fbcb5fb90e5f1a3c626bb9b04db166b1cfca39687"

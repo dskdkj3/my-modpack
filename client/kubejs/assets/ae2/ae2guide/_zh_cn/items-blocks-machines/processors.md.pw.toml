@@ -1,0 +1,8 @@
+name = "processors.md"
+filename = "processors.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c859030b00bbf32c5a91e1de8140bd0998c6612dad877d53a715dbdb534ca17b.md"
+hash-format = "sha256"
+hash = "555c6609c06a64afef40de3be2396427809aa44711dfad178811998047791fc1"

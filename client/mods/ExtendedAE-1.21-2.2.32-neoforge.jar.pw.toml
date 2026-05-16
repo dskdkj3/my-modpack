@@ -1,0 +1,8 @@
+name = "ExtendedAE-1.21-2.2.32-neoforge.jar"
+filename = "ExtendedAE-1.21-2.2.32-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8025/439/ExtendedAE-1.21-2.2.32-neoforge.jar"
+hash-format = "sha256"
+hash = "b1c59d990918c7bd94f069e68da131fbea3164ff7395f67f824ef2f18bb2d1e6"

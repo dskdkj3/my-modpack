@@ -1,0 +1,8 @@
+name = "new_machine_soaryn.json"
+filename = "new_machine_soaryn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a366313c6a18503b58fad8575545f88b67e20913ec4ff20c52679702ec04176.json"
+hash-format = "sha256"
+hash = "cb67d6fe0e08b452583a3ac5e638e51217c782461b149229956d6ea5446fc1ce"

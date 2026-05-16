@@ -1,0 +1,8 @@
+name = "world_protection.js"
+filename = "world_protection.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/ddad170e19805a283b2db302209e583641de5f925f7adef6604ecad209022e52.js"
+hash-format = "sha256"
+hash = "0b050567b7eb3e9aea615093d6283fe4b73a856fd4d4292459bb567a099fe979"

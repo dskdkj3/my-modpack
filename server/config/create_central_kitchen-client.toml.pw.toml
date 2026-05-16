@@ -1,0 +1,8 @@
+name = "create_central_kitchen-client.toml"
+filename = "create_central_kitchen-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25a40bdba0dd1d74d61eae3bbb0c4e42f1d4f998f95a4be88c7fd9a574a47087.toml"
+hash-format = "sha256"
+hash = "cd23ac4f2ce6a45b649d26077484476f18854d28bae7749d132dfc7d1139ca8d"

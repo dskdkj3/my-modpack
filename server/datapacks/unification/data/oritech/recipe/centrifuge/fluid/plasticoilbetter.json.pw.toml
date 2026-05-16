@@ -1,0 +1,8 @@
+name = "plasticoilbetter.json"
+filename = "plasticoilbetter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/088f4c2bdd788d78eaf2637547f49297b4d2dfe6eb5283aeb837556ebb2d05fb.json"
+hash-format = "sha256"
+hash = "4cfa3d321de71501efa938c354939c51e6816057d37830880b415224c3f4360c"

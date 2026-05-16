@@ -1,0 +1,8 @@
+name = "blastchest_1.nbt"
+filename = "blastchest_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a6850f86e3679df46fdf8a35576fb612d34e11de3054d2bca006026fe116d4d.nbt"
+hash-format = "sha256"
+hash = "623942e4bc338da9a68e64d2caef200357ea8767391940feb57724d2f04d867c"

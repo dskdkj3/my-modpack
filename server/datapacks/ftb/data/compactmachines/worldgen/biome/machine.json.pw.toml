@@ -1,0 +1,8 @@
+name = "machine.json"
+filename = "machine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6879c2521a01f4a28dbccf5c01ee58a0ac1760c11a3b8b3f5bebc8e577f5d39.json"
+hash-format = "sha256"
+hash = "01629aead2ae53c124da98dfa88f65062f4bee87db0d57161c88b94e1ce5a294"

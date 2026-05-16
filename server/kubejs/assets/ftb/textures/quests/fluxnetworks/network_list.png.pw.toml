@@ -1,0 +1,8 @@
+name = "network_list.png"
+filename = "network_list.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c80ef5470f4199bc67d76818cbdbbb6bfd8242affe0c53046b818159abc984e.png"
+hash-format = "sha256"
+hash = "9ecbfdd23466606328f0578bf0f52f75494f80bf6a5f5f0920ec3f738f616dff"

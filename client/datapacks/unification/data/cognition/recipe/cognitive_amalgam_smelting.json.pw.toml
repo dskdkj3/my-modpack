@@ -1,0 +1,8 @@
+name = "cognitive_amalgam_smelting.json"
+filename = "cognitive_amalgam_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/13f497ec3a4269cd8a40d693081c8b6ffc571678bd5fa2154a517917bf1b7098.json"
+hash-format = "sha256"
+hash = "ee85dc682f41deefe58201978058b34af5279f6e24221bd08a364868518c6e8e"

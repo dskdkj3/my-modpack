@@ -1,0 +1,8 @@
+name = "nickel_meka.json"
+filename = "nickel_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b9376d0ad5c33b53238739222aefcc5b652dc28f485fd32a12763325736495a.json"
+hash-format = "sha256"
+hash = "5dc36294614458b4190ca8592d55fbc25a6dcd6a905d1a81fac5797bf2c59196"

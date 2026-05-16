@@ -1,0 +1,8 @@
+name = "gag.cfg"
+filename = "gag.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/523ca08b73a8a07ef6384758005b315a23f6406898754c81df1dff7a8056ae93.cfg"
+hash-format = "sha256"
+hash = "e780636e430cfae917821e4dfabc48b9a5af7cb0e6c2714f7db184ccf4214acf"

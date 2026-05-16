@@ -1,0 +1,8 @@
+name = "legacy_checklist.txt"
+filename = "legacy_checklist.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c06904f5d55d801901f7a6f0653352c972678e979b217aba44445327f39cd607.txt"
+hash-format = "sha256"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"

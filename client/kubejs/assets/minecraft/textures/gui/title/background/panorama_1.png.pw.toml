@@ -1,0 +1,8 @@
+name = "panorama_1.png"
+filename = "panorama_1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/4157d43e31b70ae3ce68456949582e6ad37162f8d329ca577ab00da4a7d8f338.png"
+hash-format = "sha256"
+hash = "1d0709ca87813a9a2fd7ecf1c0ff433a624629d6c65fb900a80eec062ea5a946"

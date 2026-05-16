@@ -1,0 +1,8 @@
+name = "base_background_empty.png"
+filename = "base_background_empty.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c0924e95c7fd169957c30671b3e32398ed57cb6ab31216cb9d5253d1bdc428d.png"
+hash-format = "sha256"
+hash = "b73552e72cb8b53a8e581aeb1ec927121203f039d7cac5828dfe0eb7ca95b2bf"

@@ -1,0 +1,8 @@
+name = "block_portal_crown_inventory.json"
+filename = "block_portal_crown_inventory.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c22e5de53d77daab0d07a26408af7a072112bed4d0c9785b755092ad795a4fd.json"
+hash-format = "sha256"
+hash = "1c98adfc8674fce75d04a2a61c635cb33a4f8c8919eeb4781f457399e30c41cc"

@@ -1,0 +1,8 @@
+name = "create_vault.json"
+filename = "create_vault.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/70f855c3327144215b194358f49adb92efa874c612eeb5a0841a1f9d50fa75d6.json"
+hash-format = "sha256"
+hash = "e7dd9f62e7805aef1e5de7e07a819c6f69770df3b75a89ddce5b25159868a081"

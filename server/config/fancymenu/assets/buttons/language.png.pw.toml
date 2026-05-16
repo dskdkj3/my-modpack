@@ -1,0 +1,8 @@
+name = "language.png"
+filename = "language.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/03e8f80062d3a2522ddf15a7898686b864bc8233cdafb82bb34cefc041e5bb69.png"
+hash-format = "sha256"
+hash = "19330fbacc1a515b96973b5d6c8096dcf25eefdb42202a1d616e1eac11c1f7b0"

@@ -1,0 +1,8 @@
+name = "pocket_piston.yaml"
+filename = "pocket_piston.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22b901a07d927b5fc015705cbcfc83d35f7dff9168fd799b3cb70b2c640c8832.yaml"
+hash-format = "sha256"
+hash = "8b0ed42db3243db8ffa11c48d92800aa937a7f20c2809eeb2defd7d7ddebef59"

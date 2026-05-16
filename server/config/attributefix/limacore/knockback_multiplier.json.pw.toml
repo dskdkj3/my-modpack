@@ -1,0 +1,8 @@
+name = "knockback_multiplier.json"
+filename = "knockback_multiplier.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c49ecb4612784869a29bdfbd021bfc051bef876b20d35b819386c53d11af623f.json"
+hash-format = "sha256"
+hash = "6cd57a7ca2f9d04fbacd8ca3e6f4b17b1bab8deec05213ce5847bde562bace5a"

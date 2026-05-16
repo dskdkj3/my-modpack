@@ -1,0 +1,8 @@
+name = "events_timer.json"
+filename = "events_timer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/260863f09b40ff6a6990303f9d4dc194a172c72c69f07d28a3713c853f27e7c8.json"
+hash-format = "sha256"
+hash = "16ad842a3976baea3270e9365407052abb01de2e05a68252820c11e6f4ab5f40"

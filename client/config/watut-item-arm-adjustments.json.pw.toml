@@ -1,0 +1,8 @@
+name = "watut-item-arm-adjustments.json"
+filename = "watut-item-arm-adjustments.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c056a5a0f1db24722ffb8a269bb15091af80aa44208092f821818579453d5b58.json"
+hash-format = "sha256"
+hash = "0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b"

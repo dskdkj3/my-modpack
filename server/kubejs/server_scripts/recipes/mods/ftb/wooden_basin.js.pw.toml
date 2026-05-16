@@ -1,0 +1,8 @@
+name = "wooden_basin.js"
+filename = "wooden_basin.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c427ccfe5c6981b547571a48c1e0fe59429dbf962c3904de102bc75682530b41.js"
+hash-format = "sha256"
+hash = "79a4260e3b06e98e4950466e1525491b4bfce54c98682f8d25923c27ea60e350"

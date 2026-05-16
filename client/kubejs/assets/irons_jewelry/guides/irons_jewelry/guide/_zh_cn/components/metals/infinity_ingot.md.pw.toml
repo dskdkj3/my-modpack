@@ -1,0 +1,8 @@
+name = "infinity_ingot.md"
+filename = "infinity_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5aedd035c3b5f88de7765b22f83f6dcc0172f3e2639eb38068a87d6a24b3665.md"
+hash-format = "sha256"
+hash = "0966c09ea78d6b138af890f103e1333e6e6494e1ec5437cdff699d41ccd1adae"

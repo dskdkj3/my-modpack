@@ -1,0 +1,8 @@
+name = "infinity_leggings.json"
+filename = "infinity_leggings.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/17c547655630b63dbb777d8371b4eb75dc3e8f0762b559f1f23e3d3abfea233a.json"
+hash-format = "sha256"
+hash = "de216a0af0b19b73668b486e38df8c45e19c4155e83fa4dce26c2061f4206554"

@@ -1,0 +1,8 @@
+name = "title_screen_cnbuttons.txt"
+filename = "title_screen_cnbuttons.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9175cc31de596472d49153bc880973b67fb7a4121c62e2ec549215f0129ffa48.txt"
+hash-format = "sha256"
+hash = "75e48682f7dd07ff4c20919c4cb1397e6e86417b13075d4b53c07ddd42c35d9c"

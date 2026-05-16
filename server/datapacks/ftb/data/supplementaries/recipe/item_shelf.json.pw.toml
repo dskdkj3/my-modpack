@@ -1,0 +1,8 @@
+name = "item_shelf.json"
+filename = "item_shelf.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a6791c9a27e351a45180ae88a1974a574976d84c67f813668d56b562681f950.json"
+hash-format = "sha256"
+hash = "24894b02dd214d23a2b3e218136a1024e5d9aebd1aefc241010cf02170409d2a"

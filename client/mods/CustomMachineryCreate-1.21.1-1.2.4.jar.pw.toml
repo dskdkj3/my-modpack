@@ -1,0 +1,8 @@
+name = "CustomMachineryCreate-1.21.1-1.2.4.jar"
+filename = "CustomMachineryCreate-1.21.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7972/443/CustomMachineryCreate-1.21.1-1.2.4.jar"
+hash-format = "sha256"
+hash = "69082bdc6c4950be51443f9572e4b4b031e87cff17cb788d5efb521e127a4903"

@@ -1,0 +1,8 @@
+name = "twilight_forest.json"
+filename = "twilight_forest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75bc40c2592fead070c0aa83f8fb17b236da8ebc838f03f553979e00b8444bb0.json"
+hash-format = "sha256"
+hash = "ce7e1fe14e559b89d9662f5d97b018ddd677d8fd0fb447e66f0799b40c0b880b"

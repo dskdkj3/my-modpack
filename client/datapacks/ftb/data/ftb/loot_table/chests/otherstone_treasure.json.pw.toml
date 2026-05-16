@@ -1,0 +1,8 @@
+name = "otherstone_treasure.json"
+filename = "otherstone_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41b4386015a833423de4561df25c648563591f3b0580c8d02ebe15f125a1fb44.json"
+hash-format = "sha256"
+hash = "db1377477a1e57b622c5063858a421dfee4edf235236d4b2167f0ce34f46faa7"

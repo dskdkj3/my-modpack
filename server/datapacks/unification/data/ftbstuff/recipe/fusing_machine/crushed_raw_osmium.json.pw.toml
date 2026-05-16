@@ -1,0 +1,8 @@
+name = "crushed_raw_osmium.json"
+filename = "crushed_raw_osmium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a22cb6e7468990f8847b51187a000257e0d12b1a77563fee4e9b11157857e99d.json"
+hash-format = "sha256"
+hash = "241eba389a8d172344f795384164b4e8116bf4734d6bf051f250abc90f1c332d"

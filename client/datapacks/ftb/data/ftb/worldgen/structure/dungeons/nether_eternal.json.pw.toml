@@ -1,0 +1,8 @@
+name = "nether_eternal.json"
+filename = "nether_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/06bd0c84bdaaa1c936a0599a739b8ddfa621ec5b17e5267a8de2fb208b2f9931.json"
+hash-format = "sha256"
+hash = "bc048907c368dce55ee7144d65a2412f7b92c13038902b6ae28dc80245aab4da"

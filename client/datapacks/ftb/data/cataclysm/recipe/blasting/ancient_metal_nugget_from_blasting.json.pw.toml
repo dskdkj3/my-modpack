@@ -1,0 +1,8 @@
+name = "ancient_metal_nugget_from_blasting.json"
+filename = "ancient_metal_nugget_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0b9c4a38416e97fac6e37aa58b51bcd38bb67addc36fcaff52009e84b0cf6849.json"
+hash-format = "sha256"
+hash = "b8653bce04d3606d7ea00038618f86cc61d3d2ac4980e82c22e55f0b99e02cb0"

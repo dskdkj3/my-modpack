@@ -1,0 +1,8 @@
+name = "glyph_rage.toml"
+filename = "glyph_rage.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfe4f381533fe3da290f846ec8ac139f288c5e63e0a352b9d665cf143ff02f2f.toml"
+hash-format = "sha256"
+hash = "dd6f98462b9bdb590d86647e61eacb21c4a728e58065c0ba39def8d5d2d6a08c"

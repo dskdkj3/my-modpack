@@ -1,0 +1,8 @@
+name = "ender_chicken.js"
+filename = "ender_chicken.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/648d6e4767f24a870e03c6695f6ed5f0d4df67661b522fa500d46a2a413a4d84.js"
+hash-format = "sha256"
+hash = "68c7bf920b45ed1bb647c95e689b26f6cef72fe4a6bec491d8a64306c7012296"

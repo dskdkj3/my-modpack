@@ -1,0 +1,8 @@
+name = "multiblock_validator.js"
+filename = "multiblock_validator.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/befd6e532490cd1ea7fde4b641ae1a04f21dfff5d267fadcdc550a7f6de13777.js"
+hash-format = "sha256"
+hash = "70d7d1a3ee0ca64a70468ed2d497ca8a338c6a84bc41396676229e6ea510dcc4"

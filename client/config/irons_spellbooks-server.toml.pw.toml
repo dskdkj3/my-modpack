@@ -1,0 +1,8 @@
+name = "irons_spellbooks-server.toml"
+filename = "irons_spellbooks-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bda7fc190cc468524621ea6dff861571ad24aa9831149de55e4c8b79773a0ccf.toml"
+hash-format = "sha256"
+hash = "60d3c69f0626e8cb575077976a62816a8181a21bed9fb43f30514692464f563a"

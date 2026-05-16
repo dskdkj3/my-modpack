@@ -1,0 +1,8 @@
+name = "heads.lua"
+filename = "heads.lua"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c77997a911a0059be866d31e02df94cc97c84a21ae429aa51c1b03ddf9df1675.lua"
+hash-format = "sha256"
+hash = "443ade0f3baef24c768e38d24bc088c16ce57c7a83f4d77091af3fc0f26f3716"

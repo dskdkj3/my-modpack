@@ -1,0 +1,8 @@
+name = "blaze_uncrafter.json"
+filename = "blaze_uncrafter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92fc4127e947e12f96e322fee6657fa947a79ea7c60af3218935d28786fd8d4d.json"
+hash-format = "sha256"
+hash = "2473af66bc4cde649e8365951496e28669eb721006861454d8c8b3406e5dbcc9"

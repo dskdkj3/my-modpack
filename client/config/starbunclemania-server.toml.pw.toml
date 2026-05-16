@@ -1,0 +1,8 @@
+name = "starbunclemania-server.toml"
+filename = "starbunclemania-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b11bdd798129be28c7bdd0dd10b81c96f3599ae490618d9903e6edfd5b08d79.toml"
+hash-format = "sha256"
+hash = "e46319bc41f65fe5062c2bb087b5d218c46c09e8bb7a18eb4c57af39535eccf5"

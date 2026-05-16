@@ -1,0 +1,8 @@
+name = "name_generation.cfg"
+filename = "name_generation.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97ea6aab9374a7a39c161f88df772aa5e39c858044fa364f1600cc9d63b10c16.cfg"
+hash-format = "sha256"
+hash = "ce1617ba01f1f90d7ee0fd1ad347a5d623533445d84cb576ffb748383f44718e"

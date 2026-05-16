@@ -1,0 +1,8 @@
+name = "void_bubble.yaml"
+filename = "void_bubble.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a73f5c1c4d1dcbd0a2fdf88663f0de439ec7620cfa9b40766f00fd530b34d66f.yaml"
+hash-format = "sha256"
+hash = "96eca56e48d03d80a25d9d5362ec49b6d4b9af54a519beb734bf032c77eb5154"

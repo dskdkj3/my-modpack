@@ -1,0 +1,8 @@
+name = "rechiseled_chipped-2.0-1.21.1.jar"
+filename = "rechiseled_chipped-2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7524/185/rechiseled_chipped-2.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "07d5f74f0734aa171b1001e6570f53fa0469d8b81e9bfb4032e5697ba008f869"

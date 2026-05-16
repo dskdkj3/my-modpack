@@ -1,0 +1,8 @@
+name = "exporter_block.json"
+filename = "exporter_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/11cf1b62334a198f853de9d70cfc9e31e68c0bf203208de1ad5dbcf3c1b01914.json"
+hash-format = "sha256"
+hash = "a90e462c6a5dad68d69eb7edf69bb5f5978034a2b5bc3f3f27d52b8d05099c18"

@@ -1,0 +1,8 @@
+name = "replace_wool.json"
+filename = "replace_wool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2d7c9d007e9c16ad21c3bfee50bab50711afd524c73257da453476014b62e97.json"
+hash-format = "sha256"
+hash = "14e9429236694eb82da2433d634d79f567041145a5e6f85077dc6d09004cc7c2"

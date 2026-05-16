@@ -1,0 +1,8 @@
+name = "panels.png"
+filename = "panels.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/899d308287e83a34585e3e667e32948c0326c287eef728a78d6f20e9f5b64553.png"
+hash-format = "sha256"
+hash = "4d8ebd662e70149215946bf20c9a91733677612a3630d1893585f8bd7e2d0d0c"

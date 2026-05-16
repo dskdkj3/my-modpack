@@ -1,0 +1,8 @@
+name = "ruined_citadel_eternal.json"
+filename = "ruined_citadel_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c06e8bf6be68e3f4c035c8a0378a8bf6723adc22e9fa0f8b4afdea8ea636f21.json"
+hash-format = "sha256"
+hash = "858c65dd24e61d6c0f843f77c16e1d6194f38f742a6956a24e7f09b28cdf168e"

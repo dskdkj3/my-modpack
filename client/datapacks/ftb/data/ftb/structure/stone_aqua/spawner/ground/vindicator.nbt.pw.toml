@@ -1,0 +1,8 @@
+name = "vindicator.nbt"
+filename = "vindicator.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/885ffc1c20554c8ad395eff2da97cb77d1dccf1c2881feb058f742476666e937.nbt"
+hash-format = "sha256"
+hash = "7d5054af31f39f2476a9878f59231a6580a982902b5e77e0149c85866d638545"

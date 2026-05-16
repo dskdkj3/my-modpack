@@ -1,0 +1,8 @@
+name = "fortron_infused_singularity.json"
+filename = "fortron_infused_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/384713254e02cf884f749618f211ababf115e39a13ad779ce242ace050e0ae9a.json"
+hash-format = "sha256"
+hash = "ec7efaee58e1945c198d2fdb149414e9715d4fde5dd718e3840223eb63ba31bc"

@@ -1,0 +1,8 @@
+name = "steel_cape.yaml"
+filename = "steel_cape.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49c7649fc6252edb187f3deb03cc07cc9a7f956625b05e07e33ae36ccdc18773.yaml"
+hash-format = "sha256"
+hash = "b38f58599ac71721c3569e72b4be865b0f63543cfa0511cdb168dbdb03f2fd5a"

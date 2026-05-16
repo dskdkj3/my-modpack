@@ -1,0 +1,8 @@
+name = "chromatic_cloak.yaml"
+filename = "chromatic_cloak.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b050a22b3af96d3ff6fbb1348ace1c07c86f9f77196acf2d673fb7ce5b8c1b8.yaml"
+hash-format = "sha256"
+hash = "3346a905d8ae36eb5951fea6f79a24707942a69eb0075df7e4981c4044578e66"

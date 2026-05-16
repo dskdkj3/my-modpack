@@ -1,0 +1,8 @@
+name = "Morph-o-Tool-1.8-39.jar"
+filename = "Morph-o-Tool-1.8-39.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6023/853/Morph-o-Tool-1.8-39.jar"
+hash-format = "sha256"
+hash = "42cf24a34d5dfe0b31bb92156f291a6370e714692a2a221b894d197e907aa1fb"

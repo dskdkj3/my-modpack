@@ -1,0 +1,8 @@
+name = "blaze.nbt"
+filename = "blaze.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd03299552e70d5758a99adc4687365ec170bbc0463057a8c5c181b1e0e99e3a.nbt"
+hash-format = "sha256"
+hash = "71f68e376f3c2ec937aeb9f0e0b694d8076e6b791b5691db69a912a65328584a"

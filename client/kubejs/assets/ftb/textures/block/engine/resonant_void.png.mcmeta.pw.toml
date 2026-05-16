@@ -1,0 +1,8 @@
+name = "resonant_void.png.mcmeta"
+filename = "resonant_void.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c5959191d512e58a4c22bd0d8730f963b2db55f9a667422f64cd10f1303a7a7.mcmeta"
+hash-format = "sha256"
+hash = "86efb81381377c14eaf7738995c964d26aa8708e51979b7e060ef0a5ac4830a7"

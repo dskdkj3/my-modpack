@@ -1,0 +1,8 @@
+name = "glyph_prestidigitation.toml"
+filename = "glyph_prestidigitation.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a22140e4c1afa4dc6f3ad27fceb5d668489fe055dcb716e93dfb0dacfe58299f.toml"
+hash-format = "sha256"
+hash = "c4d0396bb7394dbd63a9a77fb20889341e375d4090e825bfb3cc2d916d7d82a7"

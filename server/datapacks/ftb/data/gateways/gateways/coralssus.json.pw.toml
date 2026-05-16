@@ -1,0 +1,8 @@
+name = "coralssus.json"
+filename = "coralssus.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d8d7b209425cf94aeca0658d360a64e946b92bcb41aeb2bb7cf63bc93815e273.json"
+hash-format = "sha256"
+hash = "68882b5382ee939e99f3964367238d3e7e833e3e06b136cd1963243aaaf2dcd6"

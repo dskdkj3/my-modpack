@@ -1,0 +1,8 @@
+name = "world_engine_circuit.png"
+filename = "world_engine_circuit.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3ef62c93fe088d38a3568fa59d6de15bb983caef9ee17f8b027f2357c413311f.png"
+hash-format = "sha256"
+hash = "542faf5909cd53c0ac0b0f952695ec5d785e99501b9aa4c43d021037ea157b99"

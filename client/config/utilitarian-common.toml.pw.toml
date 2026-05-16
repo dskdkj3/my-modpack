@@ -1,0 +1,8 @@
+name = "utilitarian-common.toml"
+filename = "utilitarian-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/1777ba81fa523bc2d7c49d78b76c5a0fb185fa329ffe93491c781b0c0b928263.toml"
+hash-format = "sha256"
+hash = "d1aefca093ff3826455d38b24256f7fb9d493f64b3abc4cbbe7674245a0cd4b1"

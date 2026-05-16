@@ -1,0 +1,8 @@
+name = "gilded_portal_side.png"
+filename = "gilded_portal_side.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2fc831509899d162ba2223d325de2df64b19a69ff8660488b9843f53430595ec.png"
+hash-format = "sha256"
+hash = "b36429f086c18e4432bf7f405feb5b33a59b7de771516e93b8b4d1251e8b5a21"

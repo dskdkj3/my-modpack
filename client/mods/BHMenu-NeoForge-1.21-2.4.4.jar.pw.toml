@@ -1,0 +1,8 @@
+name = "BHMenu-NeoForge-1.21-2.4.4.jar"
+filename = "BHMenu-NeoForge-1.21-2.4.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7205/496/BHMenu-NeoForge-1.21-2.4.4.jar"
+hash-format = "sha256"
+hash = "96be3f854d120b5c7d1046509b1a904092a687416848e7e5b713e59e1368efa1"

@@ -1,0 +1,8 @@
+name = "machine_block_upgrade.nbt"
+filename = "machine_block_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/810f21299ce0081be13d6fdf9dd128e98c26f2d34ff0fd6d39f8313176c41019.nbt"
+hash-format = "sha256"
+hash = "346bda7fc10395731c49b0edaa447bcae61f0f871a3dcf1a78d2841f1681aa65"

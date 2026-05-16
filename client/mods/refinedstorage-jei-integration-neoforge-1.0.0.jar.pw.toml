@@ -1,0 +1,8 @@
+name = "refinedstorage-jei-integration-neoforge-1.0.0.jar"
+filename = "refinedstorage-jei-integration-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6359/14/refinedstorage-jei-integration-neoforge-1.0.0.jar"
+hash-format = "sha256"
+hash = "e1721529412de7be9087702c46acbe1c4d1d594418df73a2bbebe3780396fb79"

@@ -1,0 +1,8 @@
+name = "echoing_dread.json"
+filename = "echoing_dread.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97ba054606edba98238ef6635d3b6d22038bb89a530f45c603a5cd924c4aa314.json"
+hash-format = "sha256"
+hash = "ef6d344734d64eb789ecd6229528e75f05b35c942eddacff4df2818d027ba490"

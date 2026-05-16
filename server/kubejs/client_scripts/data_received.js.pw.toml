@@ -1,0 +1,8 @@
+name = "data_received.js"
+filename = "data_received.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d048fb764456cac6b6c55f38800d18aa7e18483ad2751b0d2605dfa8733aca6.js"
+hash-format = "sha256"
+hash = "58c1c58471125f812e0d9ab5ef457ceaa3aab244b73388145fa5f4905213fce9"

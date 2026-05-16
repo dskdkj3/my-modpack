@@ -1,0 +1,8 @@
+name = "withered_bracelet.yaml"
+filename = "withered_bracelet.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/19344bfe404098c5f4567d289d52415f83b1cec70d025992ce16e18c358a4d8b.yaml"
+hash-format = "sha256"
+hash = "cb84e911e696ca73dcfae72bda15c0459f4bd7bc4c2a238f3fdc45b4c8c77b0a"

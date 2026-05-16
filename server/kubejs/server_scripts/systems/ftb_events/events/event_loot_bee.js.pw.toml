@@ -1,0 +1,8 @@
+name = "event_loot_bee.js"
+filename = "event_loot_bee.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f6c497f5c48912e10c51050c8732e4e44bca04a32f76eca206c364fecfc0b47.js"
+hash-format = "sha256"
+hash = "903f1699abb475dfb8924521c7315548504e1cbbc9f3731da9e03e3c431ae0e1"

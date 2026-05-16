@@ -1,0 +1,8 @@
+name = "dark_void_upgrade.nbt"
+filename = "dark_void_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b33469156e0c155b6e5c0253ead6ed2c12f5529bd89f9641f1b1adeff103e90.nbt"
+hash-format = "sha256"
+hash = "9697a2ce935f0b4206dbbd67cf3f8f170f1b48111a83c856e950d1b5c6e1fcaf"

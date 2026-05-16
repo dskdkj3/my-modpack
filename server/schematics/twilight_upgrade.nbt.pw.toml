@@ -1,0 +1,8 @@
+name = "twilight_upgrade.nbt"
+filename = "twilight_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4db338b1c460dabd54049a64ec0eea4d86e1190853511838ac80155ab458814.nbt"
+hash-format = "sha256"
+hash = "da3d08023915ebb9c691733a4acc6ba9114b6dd78d8be4b9fd7e51a0b232bf1b"

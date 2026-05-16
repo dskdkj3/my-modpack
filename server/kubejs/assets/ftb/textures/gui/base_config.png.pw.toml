@@ -1,0 +1,8 @@
+name = "base_config.png"
+filename = "base_config.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/07e9fe24e56a9967a4d0ea92d42bffa21864372abd16cdbc5627d285113124fa.png"
+hash-format = "sha256"
+hash = "7c4e34144230262e8ab0c898d4204c3f0be9452f155295bcdae9b206dbdd90e6"

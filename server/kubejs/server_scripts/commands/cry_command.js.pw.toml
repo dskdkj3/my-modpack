@@ -1,0 +1,8 @@
+name = "cry_command.js"
+filename = "cry_command.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee6fc3bb23c6247462a44832156caa534bb50087bb4e4f21f62cf7ca2206a91e.js"
+hash-format = "sha256"
+hash = "10f83aa443bca6d6202182d0f3f1dfa926a225d7bfcb593ecfd3ccea72fb94e0"

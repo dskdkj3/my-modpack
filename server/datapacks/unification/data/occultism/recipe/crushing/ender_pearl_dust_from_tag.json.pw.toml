@@ -1,0 +1,8 @@
+name = "ender_pearl_dust_from_tag.json"
+filename = "ender_pearl_dust_from_tag.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cfa93b929d49da55e32c82edb56394fa91418f116fce26f192370cda73bc5809.json"
+hash-format = "sha256"
+hash = "d763d9696435575650690c3b6dea23316c8abd46bd63e7283f1c4ea4f40cf838"

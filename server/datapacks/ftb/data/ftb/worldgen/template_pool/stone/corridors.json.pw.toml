@@ -1,0 +1,8 @@
+name = "corridors.json"
+filename = "corridors.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6a3c1d0ac9b1d29120390366d4956f05ddca2d1dbdc7436b5e3dccbaf338311.json"
+hash-format = "sha256"
+hash = "e4ce1ed1c4d26204f0ef8d97907ba7b0ac66b9e0eda490296c9c311c45cb0115"

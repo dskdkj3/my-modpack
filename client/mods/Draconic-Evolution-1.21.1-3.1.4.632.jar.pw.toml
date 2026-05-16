@@ -1,0 +1,8 @@
+name = "Draconic-Evolution-1.21.1-3.1.4.632.jar"
+filename = "Draconic-Evolution-1.21.1-3.1.4.632.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7584/459/Draconic-Evolution-1.21.1-3.1.4.632.jar"
+hash-format = "sha256"
+hash = "623d7d58e58428a206015b56bf67387c79ff6d97f7221cff23b1dad0bed9544e"

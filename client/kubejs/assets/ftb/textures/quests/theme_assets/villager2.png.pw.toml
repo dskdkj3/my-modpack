@@ -1,0 +1,8 @@
+name = "villager2.png"
+filename = "villager2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0fb7293f5aa047196f00e35a81b206999d72e4e625616e9ea5ba3211955da37.png"
+hash-format = "sha256"
+hash = "267ed3254e2209ad8742751846c6f802235c6f041680fa13eeff106da5859a53"

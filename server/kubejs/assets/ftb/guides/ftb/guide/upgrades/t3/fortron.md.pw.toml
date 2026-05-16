@@ -1,0 +1,8 @@
+name = "fortron.md"
+filename = "fortron.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0affeadc19cc4d54c5b41bbfa2268516b20ca6e4639f3bf6c54c08ff3c404008.md"
+hash-format = "sha256"
+hash = "d20099fbafd422fa221bd6e663882e2da78862585c3ca6db698e8aa1c96c873b"

@@ -1,0 +1,8 @@
+name = "fdlib-1.0.9-1.21.1.jar"
+filename = "fdlib-1.0.9-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7844/741/fdlib-1.0.9-1.21.1.jar"
+hash-format = "sha256"
+hash = "84c2ba547695abbe488533681714ee53bc4412c6983f305d2d9deaa3ada0a710"

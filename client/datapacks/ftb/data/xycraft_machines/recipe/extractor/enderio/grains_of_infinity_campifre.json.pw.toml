@@ -1,0 +1,8 @@
+name = "grains_of_infinity_campifre.json"
+filename = "grains_of_infinity_campifre.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91789efbc41b9391d7899efc51a50676334353d576274adc795cd56a54a89655.json"
+hash-format = "sha256"
+hash = "2a464bf73167192f7f8cc936fc6d466e0350db0834afc056bcceccf5080290a7"

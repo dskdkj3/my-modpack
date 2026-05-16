@@ -1,0 +1,8 @@
+name = "glyph_summon_vex.toml"
+filename = "glyph_summon_vex.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66c8234e56aeba57b903952895f9302ecf092912de894796623686d0b32458ab.toml"
+hash-format = "sha256"
+hash = "80aae6754a1c8c1290bfa9c55c3c19ad0de55e0c7527eb2619556e75f6767982"

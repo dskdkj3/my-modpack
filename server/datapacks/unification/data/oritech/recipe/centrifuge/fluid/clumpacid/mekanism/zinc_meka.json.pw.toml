@@ -1,0 +1,8 @@
+name = "zinc_meka.json"
+filename = "zinc_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2fe506ca3924ef1d13772bf017688131c6c15b9a645dec8b2145189fe6319333.json"
+hash-format = "sha256"
+hash = "56d6f73dbbdd3f3235b7dda46df60907587970ed77d98edc7479ec158805e2f9"

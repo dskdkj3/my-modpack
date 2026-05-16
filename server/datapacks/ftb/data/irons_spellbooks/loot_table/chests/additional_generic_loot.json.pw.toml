@@ -1,0 +1,8 @@
+name = "additional_generic_loot.json"
+filename = "additional_generic_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a38c0281cf51d2ffe243075e490cdcbca103e99543c108d792a4eb3e6e308184.json"
+hash-format = "sha256"
+hash = "9f19e196b6e8dbe5d695022e90ca7695025d85ce15a44d717e2a7f2e6903ba7d"

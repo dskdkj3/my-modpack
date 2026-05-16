@@ -1,0 +1,8 @@
+name = "projecte.js"
+filename = "projecte.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96ce9484e1e8e6cef385cb5e5a0986befbb9e5e3a8ba865f17c8ad2f2ec76184.js"
+hash-format = "sha256"
+hash = "e0f2bb2431234275d4f908a6a8bbff2327b9915140a66a6f1ba020e69a748cc2"

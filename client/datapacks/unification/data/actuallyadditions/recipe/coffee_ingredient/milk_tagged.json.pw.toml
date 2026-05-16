@@ -1,0 +1,8 @@
+name = "milk_tagged.json"
+filename = "milk_tagged.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc3b2791b810aa0bf435caab8ba3b9c9d049b0e5f5a41eed424d7ab2b789945a.json"
+hash-format = "sha256"
+hash = "63510fd5ced48f304479c2392fd35e251b64be6cd1fe0fcf584b5edf1c86e4db"

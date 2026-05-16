@@ -1,0 +1,8 @@
+name = "fused_consciousness.md"
+filename = "fused_consciousness.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48e6f7b8b444fd2d3807d9b6962d71bcbe8437f02d6eaa157779c88c579627be.md"
+hash-format = "sha256"
+hash = "9c0f1ac78b5eb17fc953b0a8100f2b0ec5bb0a9576e897da79501bb61ff9539a"

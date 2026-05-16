@@ -1,0 +1,8 @@
+name = "prismarine_gem.md"
+filename = "prismarine_gem.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55137dcbdcd22e798bb8f43c6ba20aa0bb32fbbb49239ed28a4a19b0a3d6c359.md"
+hash-format = "sha256"
+hash = "b418bf3ad172dca3ae8330b6b640f1d6a629e8d7712541b3f090d8a460bd921d"

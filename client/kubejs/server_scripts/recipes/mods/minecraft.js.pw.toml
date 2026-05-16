@@ -1,0 +1,8 @@
+name = "minecraft.js"
+filename = "minecraft.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/982ad57afad27fe5f383fe428af1bc04cc80eaedec9cf56cf07c6e92a682db86.js"
+hash-format = "sha256"
+hash = "288eef0ad7e487f38884e9aca42eee4253c8ced1ad0a4b9a7f625cd945944b9a"

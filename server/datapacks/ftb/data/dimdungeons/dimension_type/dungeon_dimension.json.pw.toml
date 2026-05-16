@@ -1,0 +1,8 @@
+name = "dungeon_dimension.json"
+filename = "dungeon_dimension.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3d431f3b15630585201ca4e20110c4890855094728e40898e4677dda8e755485.json"
+hash-format = "sha256"
+hash = "b42e960ae6af4f0d9b3307fe06a8ea1143018ecb67016aaacae785eb29cc549a"

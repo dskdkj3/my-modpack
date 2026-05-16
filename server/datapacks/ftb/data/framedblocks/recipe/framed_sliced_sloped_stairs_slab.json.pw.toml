@@ -1,0 +1,8 @@
+name = "framed_sliced_sloped_stairs_slab.json"
+filename = "framed_sliced_sloped_stairs_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cb2cf045c1485c46bb258f7a198620369c31770bca0a9764e09337fe11af86a.json"
+hash-format = "sha256"
+hash = "3d93389d5841b17b0aa526910771686c46c427b3bcc2eb2aba50db3f5d8a9188"

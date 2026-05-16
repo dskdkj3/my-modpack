@@ -1,0 +1,8 @@
+name = "portal3d1.png"
+filename = "portal3d1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b674eea140b9ed39670a0c04ed4933b914387ff4fa3c48e2b2c66bec4099738f.png"
+hash-format = "sha256"
+hash = "99f63632b5a617a87f28e0740fe7a717b870005c711ad3f74c252a60475795df"

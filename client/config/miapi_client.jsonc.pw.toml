@@ -1,0 +1,8 @@
+name = "miapi_client.jsonc"
+filename = "miapi_client.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/779ed7aacd1da61e2a20461a89d196d0960c5bf72fa385ce9c5324a7ea7d092f.jsonc"
+hash-format = "sha256"
+hash = "e9d6e8e13b7057d07dfec65c7223495981e645a5fc0be4ec88892cfac9726aab"

@@ -1,0 +1,8 @@
+name = "glyph_randomize.toml"
+filename = "glyph_randomize.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a6b72f785f95c43d785bb743493f561684cd01a44292a5a848bb5f4bc985205.toml"
+hash-format = "sha256"
+hash = "422149dc77ea5f8c78d9357722dbca5e02b98db4c21523a6d5d769ce15fa722b"

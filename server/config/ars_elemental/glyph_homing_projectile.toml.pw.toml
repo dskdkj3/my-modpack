@@ -1,0 +1,8 @@
+name = "glyph_homing_projectile.toml"
+filename = "glyph_homing_projectile.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd85fa8af46f1a3141eb1b20247d39a8a229eb3f988240ae34b77975eb379407.toml"
+hash-format = "sha256"
+hash = "6218f897a6dd67f0d5326900a737e7ece068bd1126d9703d68549c06971f1e29"

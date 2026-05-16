@@ -1,0 +1,8 @@
+name = "lumium.json"
+filename = "lumium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/170242679152bf8d6d37ccd6fe8a742aff868bf45f7f85776feb9682ca36279d.json"
+hash-format = "sha256"
+hash = "d56c72f66c6d037438d7ee9d83c123a4459eb437b643cc49cf28c98b05104aca"

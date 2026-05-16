@@ -1,0 +1,8 @@
+name = "ftb.echo.startup.ogg"
+filename = "ftb.echo.startup.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/740f0f81ee61ea8a95959018042882e3e8ec7c3d050426151139b57df644168a.ogg"
+hash-format = "sha256"
+hash = "ff3564c23b6dfc927ab33c97d1cb8a2706f047bc26aced0f3c03ebfd17d1e368"

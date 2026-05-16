@@ -1,0 +1,8 @@
+name = "fortron_upgrade.nbt"
+filename = "fortron_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f65e671c1dd8b1b50fadc3a021cbdbbcb7b23f1b5f2983a1ea0297be1109cda3.nbt"
+hash-format = "sha256"
+hash = "03c15108eb87d605b9bf01ae11dd95254c910cd2b4c22a5992bcc51097f0742d"

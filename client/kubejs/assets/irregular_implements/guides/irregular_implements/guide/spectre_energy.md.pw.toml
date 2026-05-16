@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/irregular_implements/guides/irregular_implements/guide/spectre_energy.md"
+filename = "spectre_energy.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/irregular_implements/guides/irregular_implements/guide/spectre_energy.md"
+hash-format = "sha256"
+hash = "352b1b4eac3c8782afbad6f9ec2d17ef5f4077803446c98a0a13a235a27b9054"

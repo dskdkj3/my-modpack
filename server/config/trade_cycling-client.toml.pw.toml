@@ -1,0 +1,8 @@
+name = "trade_cycling-client.toml"
+filename = "trade_cycling-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab0722de0897d00b7fe4f7934405bc0d12ffb8e950048eef9fcc5847547a8515.toml"
+hash-format = "sha256"
+hash = "e726057fef1900ca57dd93128503c7cf735c707323450ebe1fd2fe40f749c7b2"

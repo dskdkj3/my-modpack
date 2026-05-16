@@ -1,0 +1,8 @@
+name = "energite_ingot.json"
+filename = "energite_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9aad5b83bf98506034a2caca9ef597b3bcdfc8df3613d2666005b671e7eab3c1.json"
+hash-format = "sha256"
+hash = "cca32e1f6a45392d632fd4c5b514560226421d94b0f5202c5b4721d3dc04e67d"

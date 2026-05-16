@@ -1,0 +1,8 @@
+name = "codex_glyph_1.png"
+filename = "codex_glyph_1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/dee5f7548b5c9bee7205a06b244ce9cdf393537d204ff4c6bedb1cd94b3eafde.png"
+hash-format = "sha256"
+hash = "60fb12975a7e41ebe088b1acf236f70d0340b42203029707fbd50b68909de882"

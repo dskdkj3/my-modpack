@@ -1,0 +1,8 @@
+name = "book.json"
+filename = "book.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc718d8295145362732737412a1ece366d2c388035c078a0a5b26139a6e7f087.json"
+hash-format = "sha256"
+hash = "5d295654e43c91bed6898b1ccf0c13ac1177af0575eb027eb060c52826f6a6e2"

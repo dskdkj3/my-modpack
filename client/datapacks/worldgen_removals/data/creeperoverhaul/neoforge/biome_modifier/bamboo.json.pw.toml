@@ -1,0 +1,8 @@
+name = "bamboo.json"
+filename = "bamboo.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c85c39f96afa32c77e8e7fb7747dc501e803bdd88648e5dcb4d77db3af3e97f.json"
+hash-format = "sha256"
+hash = "294f04948d67257a6b76ba958c56615ea1d6d3de615199af848a084dbfab300e"

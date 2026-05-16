@@ -1,0 +1,8 @@
+name = "id_relay.json"
+filename = "id_relay.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/8842d9cacce23b25862f06b0ee42bbabab19a1e814066d85edfc66b217128ab0.json"
+hash-format = "sha256"
+hash = "08980d14259ad59378404fe82da04d23641abd0e3a36f2eed60b6d041c00c3d5"

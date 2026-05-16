@@ -1,0 +1,8 @@
+name = "lantern.js"
+filename = "lantern.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4455e8fc2ca15aa34016645a84191175dbf1d37291698b03029b57313bd223c.js"
+hash-format = "sha256"
+hash = "cbfc33e3a84f102bdaa81db1d85a55fd8a4806a943e849f208c578f5750310ae"

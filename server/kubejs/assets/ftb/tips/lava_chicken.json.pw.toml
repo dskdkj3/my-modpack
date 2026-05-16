@@ -1,0 +1,8 @@
+name = "lava_chicken.json"
+filename = "lava_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1086b75c7a869464edc53dc963cc1f55b654c8679e0e78e88895d0b63f60398.json"
+hash-format = "sha256"
+hash = "45e02dbcd5c2c8fc2eb0c343aee64795d1e7f144af69ccb595d42250a8fa9051"

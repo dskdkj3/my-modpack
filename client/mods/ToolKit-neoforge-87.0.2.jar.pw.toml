@@ -1,0 +1,8 @@
+name = "ToolKit-neoforge-87.0.2.jar"
+filename = "ToolKit-neoforge-87.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7506/399/ToolKit-neoforge-87.0.2.jar"
+hash-format = "sha256"
+hash = "0f976a58939a2b7c5b1954b92b76d24cfd9901737cfa66cf964ac1986e36e16f"

@@ -1,0 +1,8 @@
+name = "crafting_cpu_multiblock.md"
+filename = "crafting_cpu_multiblock.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1ed4ab8d4b1606d02de494712ae519fa59f2c9c2a8077891404d348ac644b372.md"
+hash-format = "sha256"
+hash = "c94d9e85134b7fd5bc86541137822312298c970842bfab6a72d4102f89fc1bed"

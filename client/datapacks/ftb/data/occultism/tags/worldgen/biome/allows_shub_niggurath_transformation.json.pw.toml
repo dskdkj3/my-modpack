@@ -1,0 +1,8 @@
+name = "allows_shub_niggurath_transformation.json"
+filename = "allows_shub_niggurath_transformation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9ac61fe4b2665d60834992d42fc0a8b2c36f78953799eaf01ad0cf75fac43fa.json"
+hash-format = "sha256"
+hash = "03f1c0b30920d483cb38ce4d1650142dadcb48773d6c5a2a2c981abc892518cc"

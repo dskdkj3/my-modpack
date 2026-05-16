@@ -1,0 +1,8 @@
+name = "knight.json"
+filename = "knight.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/1635a26a4e6150350756b2baece570d62e494efeff010fa67698bcefca5386ba.json"
+hash-format = "sha256"
+hash = "0f56efb709ab148e5c5ea08973574f0010e4e5cc16f08aa25a383996458747cb"

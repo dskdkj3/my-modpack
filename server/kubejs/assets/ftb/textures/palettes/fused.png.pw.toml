@@ -1,0 +1,8 @@
+name = "fused.png"
+filename = "fused.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b02d8968a1328481e13f1fc26a45f9dd8c941ca2171ec5f674a8b7189d005bea.png"
+hash-format = "sha256"
+hash = "2e31798c6a32e14a61f0a834ff1b492c69d2ca83d5248337ff1ad04866ac9220"

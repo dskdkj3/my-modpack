@@ -1,0 +1,8 @@
+name = "xp_synthesiser-1.0.3.jar"
+filename = "xp_synthesiser-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6830/972/xp_synthesiser-1.0.3.jar"
+hash-format = "sha256"
+hash = "f553f8209e0d69758c8fb50ef9951484df5f44f3b5b13b36f2f95bee73161954"

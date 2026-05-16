@@ -1,0 +1,8 @@
+name = "FluxNetworks-1.21.1-8.0.0.jar"
+filename = "FluxNetworks-1.21.1-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6089/446/FluxNetworks-1.21.1-8.0.0.jar"
+hash-format = "sha256"
+hash = "29e511b2d76f85bd247aa213a92bb059ecc037fcc3fed82baffcff97b638d3a6"

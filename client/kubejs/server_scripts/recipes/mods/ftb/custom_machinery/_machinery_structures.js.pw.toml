@@ -1,0 +1,8 @@
+name = "_machinery_structures.js"
+filename = "_machinery_structures.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dda0676719662cd4fe6048a742277b6d64963b764fd4eeed61dacaa6da123827.js"
+hash-format = "sha256"
+hash = "a6c778e98b4afac7a79e6bc6719fb7aaa1bf28e7c91943936998465f71cbff79"

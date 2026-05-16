@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/power.snbt"
+filename = "power.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/power.snbt"
+hash-format = "sha256"
+hash = "2360656ad0973225170f8e122299900d906e1baca28839dae89185196bcaa38e"

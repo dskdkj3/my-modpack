@@ -1,0 +1,8 @@
+name = "eiocapacitor.json"
+filename = "eiocapacitor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1f83b53c4240b7fefef2143b066bdda96d1b133324b627b0aae031cdccdc207.json"
+hash-format = "sha256"
+hash = "11407c49edc2b951b22f9e23e04c248310bd8dc5e44f42962536ecaaf390f65a"

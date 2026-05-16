@@ -1,0 +1,8 @@
+name = "machine-resource-production.toml"
+filename = "machine-resource-production.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4c19c3eb1e3b02d8ecd5927de02ffd177b1ca7845174756597811aea6fa1200a.toml"
+hash-format = "sha256"
+hash = "7165754eee13e0378db81c047006ea403895747293ac0198435e9076d7955c43"

@@ -1,0 +1,8 @@
+name = "dimdungeons-server.toml"
+filename = "dimdungeons-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2bb4c50bc16668b6e601ac43a2bcd2de7a255cb1d136998315f971e64c17ddf.toml"
+hash-format = "sha256"
+hash = "a709ff626f24d0ad39ddb93d3eab55fcdd8176bb979dd33c4c8da3e86f653943"

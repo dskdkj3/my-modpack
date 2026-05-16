@@ -1,0 +1,8 @@
+name = "ring_gen_break_me.json"
+filename = "ring_gen_break_me.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cc08da7779b364003a3cf4777c0e2130963ea7a67b8b3f4bb957b50d911f57d.json"
+hash-format = "sha256"
+hash = "f61c6638b58c27b15b60090d136e51be2698f117950b8131288ec7c751a423b3"

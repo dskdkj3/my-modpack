@@ -1,0 +1,8 @@
+name = "create_occult_engineering.js"
+filename = "create_occult_engineering.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c065f4afc43ba788491d11794f4ec42ff3eae857eceb957d842e326fc5dd61a.js"
+hash-format = "sha256"
+hash = "e01ae0e342b7f353be950e40725cb87c478cf66df4dd4720c29e06622076c37d"

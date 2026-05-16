@@ -1,0 +1,8 @@
+name = "ice.json"
+filename = "ice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e91dfb35b77d50f90a12543a75fdc088b293397689a9a8d905155bc2b1f31c7.json"
+hash-format = "sha256"
+hash = "1ffb1aee9abb672f4dc42d93804a3a9207b17438b453681f8c37f0dd3dc6b4ec"

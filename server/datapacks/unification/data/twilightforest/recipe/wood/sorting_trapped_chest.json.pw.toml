@@ -1,0 +1,8 @@
+name = "sorting_trapped_chest.json"
+filename = "sorting_trapped_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d86d8aec61142ee0b5f9267664486afb59d1f96a6ba1e13ec9eedbd0592a5ed1.json"
+hash-format = "sha256"
+hash = "dd5f0a4601ab00c649833f8b19d71c98c34a7b62c66aef0290a188dc9a59e0f9"

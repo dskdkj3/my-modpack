@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/processing__automation.snbt"
+filename = "processing__automation.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/processing__automation.snbt"
+hash-format = "sha256"
+hash = "8b63c20acd6d97b367912d368f177fb5409e8999dd9e7a270ae0c3d0b90112e5"

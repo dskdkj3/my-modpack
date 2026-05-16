@@ -1,0 +1,8 @@
+name = "glyphmenu.png"
+filename = "glyphmenu.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/cabc50ce34e660afd0086321c1b184a3da2f08e8d9c9d2700deef388bb3e2f44.png"
+hash-format = "sha256"
+hash = "70384419378cc78bd66244d436db89a33eee3655bb8e3e7d70c1a54a85e0b9c5"

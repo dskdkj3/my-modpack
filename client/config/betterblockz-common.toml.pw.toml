@@ -1,0 +1,8 @@
+name = "betterblockz-common.toml"
+filename = "betterblockz-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c1b3424bf6519fc438ac7880287d9e3493484c657df05590db1c4284366dd3f.toml"
+hash-format = "sha256"
+hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"

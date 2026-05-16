@@ -1,0 +1,8 @@
+name = "occultengineering-client.toml"
+filename = "occultengineering-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/4468c17ddf5a9cc3ede2d945ee865073909d8dcf21c6d7c6a16a821416e1e361.toml"
+hash-format = "sha256"
+hash = "aed828a661414eae2a4cc1ae4dac7b51ab93a7cecb4b9af02c5b1fa916e8c164"

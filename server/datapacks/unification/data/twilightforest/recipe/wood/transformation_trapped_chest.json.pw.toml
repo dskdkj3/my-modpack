@@ -1,0 +1,8 @@
+name = "transformation_trapped_chest.json"
+filename = "transformation_trapped_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/1719691e0215284c24487e2cc7bd3ba296a5b412c34b9ef938e546db777faa35.json"
+hash-format = "sha256"
+hash = "5eb05d6f9a4caaecb4bf6f78c400fbe061e181c0824d2da48e7e63c9ae63280b"

@@ -1,0 +1,8 @@
+name = "lithium.json"
+filename = "lithium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b70e592a67c63a4d8b9360d7b39e874be862decb49edd75a0b49171a9993cc39.json"
+hash-format = "sha256"
+hash = "afc01dd2a60029ee7bd6727f67cad20ed45f4f740e88a2bfbc6c87870789df01"

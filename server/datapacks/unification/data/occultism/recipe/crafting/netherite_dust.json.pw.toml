@@ -1,0 +1,8 @@
+name = "netherite_dust.json"
+filename = "netherite_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a697706057739260257628d82a768d078d4d7fe29942dabad5255e95aa54ed52.json"
+hash-format = "sha256"
+hash = "df57e5d8c0064fb6c088280d42634f5c2e1c37e6a17a89d76ca2d336c86bb44d"

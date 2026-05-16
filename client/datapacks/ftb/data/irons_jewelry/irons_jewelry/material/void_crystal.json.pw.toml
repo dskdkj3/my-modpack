@@ -1,0 +1,8 @@
+name = "void_crystal.json"
+filename = "void_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa3ada844eaef8bc477f8036791c424886d65230af37b6db44eb84e69353b09d.json"
+hash-format = "sha256"
+hash = "fb5ca86524d5387c62fb11aed202aeb6cc979950742004939d88fde486ed1313"

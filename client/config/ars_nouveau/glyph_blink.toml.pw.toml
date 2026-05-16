@@ -1,0 +1,8 @@
+name = "glyph_blink.toml"
+filename = "glyph_blink.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98720b5eae42d23ec084737f4f9695c4838f1ba91bf0ced6ffbb6e2ec7434c88.toml"
+hash-format = "sha256"
+hash = "e46b59271dd1d9d4aa026b4530c3bbd096adae063c0b6676511c25a7b55b0603"

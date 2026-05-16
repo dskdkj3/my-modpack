@@ -1,0 +1,8 @@
+name = "steameng.json"
+filename = "steameng.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0ef5318e61331d66576d4933be272e8685b401a726f56e0881929a82a6c8ce88.json"
+hash-format = "sha256"
+hash = "3c188e94dffe07452661b17434660b5550562cda3522d2a801dc21c7e3258215"

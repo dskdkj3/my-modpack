@@ -1,0 +1,8 @@
+name = "ex_pattern_access_terminal_upgrade.json"
+filename = "ex_pattern_access_terminal_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee80b5c8e7055e30a3b6916139252af06b6fc79b9becf367181ae7852774d59d.json"
+hash-format = "sha256"
+hash = "ccf7f8986cf9c4892d7952be31c433623380bb6cc65e6c72bd5d94d3a954ccb3"

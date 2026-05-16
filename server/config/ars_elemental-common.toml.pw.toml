@@ -1,0 +1,8 @@
+name = "ars_elemental-common.toml"
+filename = "ars_elemental-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c7ed7f5a3426bf6a7a56cbaf98fce225c2869dfd9e0224a00a7866440e7253d.toml"
+hash-format = "sha256"
+hash = "7f095abc0eaf203ed914d87643b62734655567b086ab541bbd7084c0e0da750d"

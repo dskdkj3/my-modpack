@@ -1,0 +1,8 @@
+name = "catacombs.json"
+filename = "catacombs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f90c42e5eb22b342057e5b6f6df2a0ccdb65c7eccfd6fc74d820860aa7b0b9f4.json"
+hash-format = "sha256"
+hash = "7fafd117459d9fc5bdaef7e47a55979c35f1dc67b494d74e04ce7bd720ee5869"

@@ -1,0 +1,8 @@
+name = "power_glove.yaml"
+filename = "power_glove.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/534453f8d58ce8a466ee478f49dba24f42c88d63d024121ab8a4367a6d2edf26.yaml"
+hash-format = "sha256"
+hash = "dd638579bec4481b9a953b0026fdeab44053a39e5afe575408745bfe3bb60cfd"

@@ -1,0 +1,8 @@
+name = "dark_matter.png"
+filename = "dark_matter.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/916ab8e29fe3e335015718d6552b5c28d2bd5793fcf403a9d8e1784b4d5a5072.png"
+hash-format = "sha256"
+hash = "47a328025fdef3164ec0ff1564778364b18b513978f1c65b876084dbf2e632e7"

@@ -1,0 +1,8 @@
+name = "fml.toml"
+filename = "fml.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aaa5f6ccbc5fc871c00242fda5a20056f52b1120e4da573d0145c00febcdc5df.toml"
+hash-format = "sha256"
+hash = "8f05c5247f70cb0d7e5ad68e9ad4b00a2ba69decd956287938b999e5edd51ef5"

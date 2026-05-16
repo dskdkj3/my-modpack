@@ -1,0 +1,8 @@
+name = "tower_1.nbt"
+filename = "tower_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a1a49a11d6159ff8470acfbb61328c8f0a7df6a03c485429bc08b652549832e.nbt"
+hash-format = "sha256"
+hash = "44f946c34463a77fad5c51b84369ea205f737d05375281d86bc87e3a87e94c68"

@@ -1,0 +1,8 @@
+name = "heap_of_experience.json"
+filename = "heap_of_experience.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3fe0fc5277ba4becc5cfe22356c6ea953c50a5a58e8c427e1d8906fb4e42976f.json"
+hash-format = "sha256"
+hash = "f53569bdc4d11592e74ac99ee0d0eba0a6ad35caeb9149c19937bf8fc11fd4a3"

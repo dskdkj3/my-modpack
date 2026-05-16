@@ -1,0 +1,8 @@
+name = "experience_gem.json"
+filename = "experience_gem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/4317487621150e8c6ee41bef66b10de7311694b732a8b055aaf6f4a1e4026ac8.json"
+hash-format = "sha256"
+hash = "d5ca6a57d8a6968f926f5827b7342a8af2c63d1772cd79912d1486d00cc5b0df"

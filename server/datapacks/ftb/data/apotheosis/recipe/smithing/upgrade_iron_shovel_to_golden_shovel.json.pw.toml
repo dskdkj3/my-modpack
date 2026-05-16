@@ -1,0 +1,8 @@
+name = "upgrade_iron_shovel_to_golden_shovel.json"
+filename = "upgrade_iron_shovel_to_golden_shovel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5fd87e2879509b08ffbf28cc443039fe71e500dfd04463e6f53a5115f6433c93.json"
+hash-format = "sha256"
+hash = "830a01fb570f72d0835fdd910283b62dc49462bc3f55756cf549460ad3f93b74"

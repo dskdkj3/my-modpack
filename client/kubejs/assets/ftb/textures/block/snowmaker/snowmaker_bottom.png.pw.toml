@@ -1,0 +1,8 @@
+name = "snowmaker_bottom.png"
+filename = "snowmaker_bottom.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/8335ffea9d548fe493f17902dc7bbd9bcaa438d50be47aa303b006f8e0a736bc.png"
+hash-format = "sha256"
+hash = "2ba9e033081315bed5905c2d7820564eb434299fb0c28bd5a388f131d04729c2"

@@ -1,0 +1,8 @@
+name = "snow_queen.js"
+filename = "snow_queen.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c9c2985d0ac36c4a54f9d922af08cd65b2d6f4f79683fa06954a10b803a2046.js"
+hash-format = "sha256"
+hash = "d2d0335aeb302d43ecc74a041dcb303eb3330c61824f7d8bad4d0c1f2700ce20"

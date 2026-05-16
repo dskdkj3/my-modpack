@@ -1,0 +1,8 @@
+name = "tier_5.json"
+filename = "tier_5.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a33ddf22577953f998471740d285109e11ba7b3cc0f7612bbf4316fbe881223.json"
+hash-format = "sha256"
+hash = "3b439e5dcab98d2da1a7033e915670f33e04cc0dc9078d469dc3db9049cae00d"

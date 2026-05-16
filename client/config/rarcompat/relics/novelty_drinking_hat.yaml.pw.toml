@@ -1,0 +1,8 @@
+name = "novelty_drinking_hat.yaml"
+filename = "novelty_drinking_hat.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/4761062605a9f01df693d320487456c4e1f000a53a26ca1df1237c615e6445cd.yaml"
+hash-format = "sha256"
+hash = "9abfc93ce01b5d967df3c8852e0852e90f2f7a6f8d5a6bff6ce1175b6fc71885"

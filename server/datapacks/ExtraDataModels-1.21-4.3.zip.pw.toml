@@ -1,0 +1,8 @@
+name = "ExtraDataModels-1.21-4.3.zip"
+filename = "ExtraDataModels-1.21-4.3.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f84eebe91893f940217dead330e68a9162530d703cd2ad84c58cb1864ab868e6.zip"
+hash-format = "sha256"
+hash = "84fe64cc4fee98d1b18e7faf1941b5373bcd0cacc598601deecb39ec499a8878"

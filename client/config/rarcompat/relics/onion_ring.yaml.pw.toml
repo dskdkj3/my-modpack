@@ -1,0 +1,8 @@
+name = "onion_ring.yaml"
+filename = "onion_ring.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/43538dc04801cbd37f7c8f1dc9d8d659a5088714b3785e13046f07fc35b9c141.yaml"
+hash-format = "sha256"
+hash = "e9bacb24e8591debf55f755914fa6c33b924d7efa88721b7ab7b5609d3f1ea96"

@@ -1,0 +1,8 @@
+name = "upgrade_stone_hoe_to_iron_hoe.json"
+filename = "upgrade_stone_hoe_to_iron_hoe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a142a3ef7a1e404a801914c9dfe4f12f05d4ead81e4e12aa45f47452909e694.json"
+hash-format = "sha256"
+hash = "d2bf44d842fe28b328a8aef7d7c9bbd82cc5552910c6efdc7106c2d174485500"

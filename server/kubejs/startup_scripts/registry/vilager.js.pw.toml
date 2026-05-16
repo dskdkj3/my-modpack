@@ -1,0 +1,8 @@
+name = "vilager.js"
+filename = "vilager.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e58f0398b1dd7880ca6181ff3678ca8ea40d9ac6d2a42ee04e6a5f89cfad870.js"
+hash-format = "sha256"
+hash = "7ce075f874096eeccae20c3b2ee4ccd5c52391df1d145bf80f8a58d5352d7e4b"

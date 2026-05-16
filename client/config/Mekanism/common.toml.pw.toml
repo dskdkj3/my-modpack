@@ -1,0 +1,8 @@
+name = "common.toml"
+filename = "common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b10dcd37412e020fcc1d6cc0138deec9801d1a3e48dcc410597416cc5f52d9c.toml"
+hash-format = "sha256"
+hash = "f47c2b016f67cc26363418a6abbb836d78170a7333b1d4798ec6307dda87ba6e"

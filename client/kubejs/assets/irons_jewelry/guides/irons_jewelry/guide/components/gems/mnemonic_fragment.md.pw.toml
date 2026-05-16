@@ -1,0 +1,8 @@
+name = "mnemonic_fragment.md"
+filename = "mnemonic_fragment.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/284aeba577091d2a58a8ed32cda76cc9ae4b72208a094b98d179196c1b462b82.md"
+hash-format = "sha256"
+hash = "b73c8055cea0ffa62d07a6c26e11535327fe1056ee36413de04aec5076f76494"

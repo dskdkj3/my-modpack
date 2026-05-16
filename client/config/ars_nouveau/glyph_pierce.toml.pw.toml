@@ -1,0 +1,8 @@
+name = "glyph_pierce.toml"
+filename = "glyph_pierce.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/13f1bc5bc10dcf8368b812d49b1fe3869c11948cba2f10e9705ff1d132e1aee3.toml"
+hash-format = "sha256"
+hash = "3df19f4771ba80f902f704908120eaf9cabfa34f47d063cb2025519c4c62134c"

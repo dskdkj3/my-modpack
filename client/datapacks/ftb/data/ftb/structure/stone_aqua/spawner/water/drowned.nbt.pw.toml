@@ -1,0 +1,8 @@
+name = "drowned.nbt"
+filename = "drowned.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf8d9961d5969afe627a815b5365fa7c716f3e599719ff72d7a03632c3b77148.nbt"
+hash-format = "sha256"
+hash = "47fc07f55a56130203630bab3a0ff95cb8290d295ca88f3bae185951dbb9a428"

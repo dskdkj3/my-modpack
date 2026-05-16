@@ -1,0 +1,8 @@
+name = "moofluids-1.21.1-NeoForge-1.3.6.jar"
+filename = "moofluids-1.21.1-NeoForge-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7536/664/moofluids-1.21.1-NeoForge-1.3.6.jar"
+hash-format = "sha256"
+hash = "27a9d11bd0107d9837a845b33e0b7ce2d31bd228afd991604d2c6202851cbbb0"

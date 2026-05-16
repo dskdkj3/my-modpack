@@ -1,0 +1,8 @@
+name = "infinity_hoe.json"
+filename = "infinity_hoe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9115340b8b079d32e4e47f1dd7b4293f42dbd5420b3cca1a7b40471428a3178.json"
+hash-format = "sha256"
+hash = "ba89f573ab34e267aabfe7160e41379a71d92945391c368fa4eba1ef1a6feb8a"

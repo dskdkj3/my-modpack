@@ -1,0 +1,8 @@
+name = "kube-utils-21.1.3.jar"
+filename = "kube-utils-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7210/381/kube-utils-21.1.3.jar"
+hash-format = "sha256"
+hash = "d5a9e7f3cbbb803ed2e132a5064a91280b0c2a23f574526f2a071494a7d66ab5"

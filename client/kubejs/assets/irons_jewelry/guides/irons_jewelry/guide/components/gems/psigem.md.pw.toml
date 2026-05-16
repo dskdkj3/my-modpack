@@ -1,0 +1,8 @@
+name = "psigem.md"
+filename = "psigem.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e1bbdc03819658757f62842b79e64043923ffd16c5c3cb7079422c868c89297.md"
+hash-format = "sha256"
+hash = "7e89f77fc968fe44c6e24d2ad920ea38a7b8a4177c7d9b8d8b5b0423a06a0afa"

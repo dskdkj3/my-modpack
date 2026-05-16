@@ -1,0 +1,8 @@
+name = "ender.md"
+filename = "ender.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/743072df819dcbe0d4952f2b572d9432d1dd24a3a89c231bf30e2919d781499f.md"
+hash-format = "sha256"
+hash = "af739d8888ec5d6072b88b6f55a33d363a642954ed8b48dadafdd8329d84bd13"

@@ -1,0 +1,8 @@
+name = "configs.jsonc"
+filename = "configs.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/636667e8115758a45989cf39801f38f2ee94f1f6bf996dd176d2170d42cbef57.jsonc"
+hash-format = "sha256"
+hash = "04e13fe2902072703b859be66a9610f1d012122491a855e133dcbf747bd24664"

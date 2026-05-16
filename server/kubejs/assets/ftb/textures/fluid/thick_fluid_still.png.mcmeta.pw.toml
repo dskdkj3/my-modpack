@@ -1,0 +1,8 @@
+name = "thick_fluid_still.png.mcmeta"
+filename = "thick_fluid_still.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a2aad40dfb27490f8d644c13a6a1360b09655196a7b4cd08b9070e7f5434b0f6.mcmeta"
+hash-format = "sha256"
+hash = "c863f130091100f306bd16e0f661202288841b93cfe41fbcd145aed105f56763"

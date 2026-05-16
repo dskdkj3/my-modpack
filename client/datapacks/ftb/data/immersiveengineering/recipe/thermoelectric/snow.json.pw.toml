@@ -1,0 +1,8 @@
+name = "snow.json"
+filename = "snow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/816285ac4826eff37311074c090c67dc89e7ffaf5845aac9c47a08f03fbd570a.json"
+hash-format = "sha256"
+hash = "7a6677ce17fc2627511d18bc40afd0a8568bb3442bdc9bfd36a5b638819b4171"

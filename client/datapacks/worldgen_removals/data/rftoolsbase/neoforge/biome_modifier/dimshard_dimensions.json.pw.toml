@@ -1,0 +1,8 @@
+name = "dimshard_dimensions.json"
+filename = "dimshard_dimensions.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/563e38cecaefded1fe5ce98ce3fd363ce400b398bcb82f6f50d5c3f7532fb5ed.json"
+hash-format = "sha256"
+hash = "6f608b593a981c1d054a518c38903ed43e3922c18e63cf5c625d1cf89cfd9a03"

@@ -1,0 +1,8 @@
+name = "teambase_portal_access.js"
+filename = "teambase_portal_access.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bdcc205f38394cc40c779f861ce0c7da3679978a34c1614a78bcc46cfa51f1e7.js"
+hash-format = "sha256"
+hash = "8f707bc8f13ccdd30be0bbee973dddd6b85a1052f47664485a65ac41cb384347"

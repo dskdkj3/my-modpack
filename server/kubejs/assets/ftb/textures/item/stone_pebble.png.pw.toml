@@ -1,0 +1,8 @@
+name = "stone_pebble.png"
+filename = "stone_pebble.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8ad3ddeb0cb83624aa7cc0313ecc965a71808fc11b8bf71d123b9a1cb82714ce.png"
+hash-format = "sha256"
+hash = "8d6e1713b3a8eb04d67e6c60e4db966b829fd4c26283a44167a92c235f2650ea"

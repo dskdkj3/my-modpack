@@ -1,0 +1,8 @@
+name = "elements_all.aseprite"
+filename = "elements_all.aseprite"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/874af6240ef2a9126fb8160fea4a0bf35109e27a98f24e13d61e671f7889abd6.aseprite"
+hash-format = "sha256"
+hash = "e4f12473b01289ad9879386818e1d2c4e8343493c79badc70db40833944107b5"

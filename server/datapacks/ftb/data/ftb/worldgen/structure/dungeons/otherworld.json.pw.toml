@@ -1,0 +1,8 @@
+name = "otherworld.json"
+filename = "otherworld.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98aed4b64819e73f14c189e468a583adcf6688471b68541c161d8a99d2d5c9c3.json"
+hash-format = "sha256"
+hash = "ede08ba0517269fdf8ffa9191f1b4ebdb923d0a1c7e5de1ec702167e5c6c572e"

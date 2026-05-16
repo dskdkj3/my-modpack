@@ -1,0 +1,8 @@
+name = "cake.json"
+filename = "cake.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78cbe4cfe3c437bc4a89e53311239ba8f2f6e593ba43e79ad49fd9052d790580.json"
+hash-format = "sha256"
+hash = "bb437f2d394ef50887c702bde7c5092217b80f8cb33f836617dfa739771224e2"

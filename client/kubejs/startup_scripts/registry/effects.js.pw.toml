@@ -1,0 +1,8 @@
+name = "effects.js"
+filename = "effects.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c3df48e40fd11244c723cfede95078c0212110f9e267c643a607b2f2482b9e5.js"
+hash-format = "sha256"
+hash = "d9f1ca5ec60f16226d27919b4d1cb5e8ea59be3319f391a8417c997bc9bb6a4f"

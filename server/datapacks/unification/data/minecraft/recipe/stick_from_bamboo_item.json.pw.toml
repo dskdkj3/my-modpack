@@ -1,0 +1,8 @@
+name = "stick_from_bamboo_item.json"
+filename = "stick_from_bamboo_item.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/73/730908f0348a7402e27623b2caefcfb3dcd2a432f0a398a9a1b979457b8e1a8b.json"
+hash-format = "sha256"
+hash = "b8b34c1aec7b48cd40f2c04166b77478ba563b282db8a5585064c0a026c94d3b"

@@ -1,0 +1,8 @@
+name = "glyph_snare.toml"
+filename = "glyph_snare.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/865da6de1ea2086179099b99d02ec3c94cebcb2405aad56778b19ab8d563e637.toml"
+hash-format = "sha256"
+hash = "504c9ae0f7654926f8b03ecf5b19c80e0291f0ab794f1ad3d944f2e743728d4f"

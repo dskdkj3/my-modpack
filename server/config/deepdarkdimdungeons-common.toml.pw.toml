@@ -1,0 +1,8 @@
+name = "deepdarkdimdungeons-common.toml"
+filename = "deepdarkdimdungeons-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/1908f215fc9b77d0d97719aceebc0db6f630e8ec7a64d6db408d5d40c2b9546c.toml"
+hash-format = "sha256"
+hash = "c53f2a4075b03c45299c312a9d6f2335d885edacf70511e5044948b21eb04eac"

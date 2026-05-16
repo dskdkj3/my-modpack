@@ -1,0 +1,8 @@
+name = "oilbase_meka.json"
+filename = "oilbase_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08320a0b4e89c4949f36dcfc8da60cfbc8d9fdb89de49a12c13417939a270a51.json"
+hash-format = "sha256"
+hash = "b31b30ee69044d5eb0dbf634df7070fd51b59351b2b0e5c665f6b7d1e351438a"

@@ -1,0 +1,8 @@
+name = "blaze.json"
+filename = "blaze.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cc96c3246d595ac4a9a574fe912d1560126242c31748e9b8d5481fc2084706c.json"
+hash-format = "sha256"
+hash = "2bdfa98ca19de01cf0b48b20c63edacb3df98773101aa1fb0fed5f28b8d6ef2c"

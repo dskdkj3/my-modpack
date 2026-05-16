@@ -1,0 +1,8 @@
+name = "alchemical_bag.json"
+filename = "alchemical_bag.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33c14d1ea2a4745d060e376087c01428f07aa4e07b19a5aded2d636f348250e4.json"
+hash-format = "sha256"
+hash = "0a69a1833ec3b11c6c8f87e4308648391418d8299bb8edf792b9ad3607ed2783"

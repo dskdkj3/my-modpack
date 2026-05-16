@@ -1,0 +1,8 @@
+name = "cognitive_crystal.png"
+filename = "cognitive_crystal.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d8f86eac7c63f5117e3590cb805ffec619f79dcea26850a4b7e206ae4682e35.png"
+hash-format = "sha256"
+hash = "9f49c61a3fe2415ce04aa61673a5a5cfa8c060596bbaf20ee2e8b640ffe20bda"

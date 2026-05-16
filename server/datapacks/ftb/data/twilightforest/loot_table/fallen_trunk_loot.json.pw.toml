@@ -1,0 +1,8 @@
+name = "fallen_trunk_loot.json"
+filename = "fallen_trunk_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02459f1a89a08e46328d3934a67b7f3a0583ec6991d5b31457c34eeaf125abf8.json"
+hash-format = "sha256"
+hash = "acad78e82e5c1367fc1d2fadfd67b835adecfc8789a116cc7afd162fdbf70e86"

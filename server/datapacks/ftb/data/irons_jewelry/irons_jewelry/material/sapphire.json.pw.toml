@@ -1,0 +1,8 @@
+name = "sapphire.json"
+filename = "sapphire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/36c18ec2478021d017fb3bedd7f0b30ac9ebe5385a8042568f11c5dbcfbc7cd0.json"
+hash-format = "sha256"
+hash = "22bca1c5bdad948fb8c01c99b8ede83014faeea19fb75a79b475de0c4908e118"

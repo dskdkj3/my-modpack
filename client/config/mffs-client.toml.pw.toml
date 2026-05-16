@@ -1,0 +1,8 @@
+name = "mffs-client.toml"
+filename = "mffs-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/35ba5761b05f7f982270b3f5f2570f218c4e915b8de78735c79ec2ad2e58a9c8.toml"
+hash-format = "sha256"
+hash = "ac9294d359f2584a1c5a23bb75043c78a08e00dfd5b1e5ffbc12cf1486b0d9ed"

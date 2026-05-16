@@ -1,0 +1,8 @@
+name = "villager_reset.js"
+filename = "villager_reset.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e9ae86c4bbbeb14e9349a4d39859a598a7dc19b51ecb6b76ab6210e20f9f554.js"
+hash-format = "sha256"
+hash = "960f4455db37dd6d5f406854aad45f67aaee6945ad8c048c49200a3ded1bd0a6"

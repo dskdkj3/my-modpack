@@ -1,0 +1,8 @@
+name = "echo_completion.js"
+filename = "echo_completion.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e15d8159ad5b9da8fd0c53c3a6da19531ef017f70d0d8e6c736649f73ab88c2.js"
+hash-format = "sha256"
+hash = "04d5e6143c096125c4139273ec228a43a7232542ea908ec3459161b9d105a4af"

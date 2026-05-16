@@ -1,0 +1,8 @@
+name = "cobble_gens.js"
+filename = "cobble_gens.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a5042e1226c2822ea6e8fe41ca2e52c122ada674d25ed3f2e309e33763e0a79.js"
+hash-format = "sha256"
+hash = "bb5060e0d2faf8d99e1f699ac52654a944b9b95f7841587fc81d1098f2d7cff4"

@@ -1,0 +1,8 @@
+name = "chicken_config_v5.json"
+filename = "chicken_config_v5.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/43b181ea60a2970cbfbfb79630dad44de62a17ce57b3219d2afed7a7db4447a7.json"
+hash-format = "sha256"
+hash = "926df26233ca6ae8f46026940db4cad24aedd8795f626a9e81228e53bf80c545"

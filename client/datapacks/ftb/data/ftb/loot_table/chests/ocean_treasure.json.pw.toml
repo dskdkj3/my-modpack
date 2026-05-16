@@ -1,0 +1,8 @@
+name = "ocean_treasure.json"
+filename = "ocean_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b3d97a44dc623161fe8303567d27ce4c2d43cfcdf71b6d7d536d8fb0b653e09a.json"
+hash-format = "sha256"
+hash = "b1dbe02277cc025ac6a51e3bd3d04d5d793f9dab86b4c3c8bc37e2f2bc896eda"

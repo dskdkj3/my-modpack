@@ -1,0 +1,8 @@
+name = "zombie.nbt"
+filename = "zombie.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1947c7f065aacb112206997829419433b8d5d4a46d601c8e613f09c5d197b0b.nbt"
+hash-format = "sha256"
+hash = "eaa60a3233850f4d012cdd0f0b69d867bfd8ebcdc68524631c79a74da5d175b0"

@@ -1,0 +1,8 @@
+name = "CustomMachinery-neoforge-1.21.1-0.10.65.jar"
+filename = "CustomMachinery-neoforge-1.21.1-0.10.65.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8053/58/CustomMachinery-neoforge-1.21.1-0.10.65.jar"
+hash-format = "sha256"
+hash = "6c80d33be76b5f7fd84670be2668b4687004df36b3bdb87512e0820d17ff788b"

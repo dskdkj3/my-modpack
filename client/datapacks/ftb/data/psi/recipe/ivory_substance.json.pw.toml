@@ -1,0 +1,8 @@
+name = "ivory_substance.json"
+filename = "ivory_substance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cd0c0516e2991cc2a1f7bd76ed4ea73188171c4627d970dadb71bc66950200b.json"
+hash-format = "sha256"
+hash = "5559952b294d41b3edbffacb6fe6c9f5c9d98389bdfe8b497432fd7214da00d9"

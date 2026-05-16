@@ -1,0 +1,8 @@
+name = "soulstained_ingot.md"
+filename = "soulstained_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4f6e626fef88410440297a1d700538ae94643166842a972ea30640951778a5c.md"
+hash-format = "sha256"
+hash = "99baede714a9a0b417d4e5d332ed25608685d257121654d92148b8ea2e8bda35"

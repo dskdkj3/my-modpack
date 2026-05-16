@@ -1,0 +1,8 @@
+name = "stone_tile_slab_from_stonecutting.json"
+filename = "stone_tile_slab_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a0c2719f66e2b9baaaa07c377789a3bd535b3f27d5bf100bd8371ad1aa0bed2.json"
+hash-format = "sha256"
+hash = "f3769caecaacd788dd4676eee5ee3c013fde015d42633b21159e73a2c72ec586"

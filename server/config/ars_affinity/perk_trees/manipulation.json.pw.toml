@@ -1,0 +1,8 @@
+name = "manipulation.json"
+filename = "manipulation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48f9b4b4fbfbfe513563dbac36e3baf510f721d826ab3c28e5deea1a9fca1f5a.json"
+hash-format = "sha256"
+hash = "ec1bcb4e46f501563f5b8f97813d894358369bc670186967f588b649f3dce5b5"

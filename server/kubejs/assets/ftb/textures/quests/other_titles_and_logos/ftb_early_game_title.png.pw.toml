@@ -1,0 +1,8 @@
+name = "ftb_early_game_title.png"
+filename = "ftb_early_game_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/689c0606257fe3c116ca3fa785326cbc4eed4c6842a935a56c29aeb4afc1c0ce.png"
+hash-format = "sha256"
+hash = "11960cc2352fe12989b90de16f31c7d26e0914c31ad90f5df56c0441e4a42640"

@@ -1,0 +1,8 @@
+name = "tesseract.png"
+filename = "tesseract.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e851bd7eab648729e816c3238f6fcf3d27e07dc1eec624fd1b1798bb2a31cd7c.png"
+hash-format = "sha256"
+hash = "037595b5993e376401f6a125cf7bb9379136f00f3a0ac7138786f450a40ff8d0"

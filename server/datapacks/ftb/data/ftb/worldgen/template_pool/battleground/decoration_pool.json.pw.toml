@@ -1,0 +1,8 @@
+name = "decoration_pool.json"
+filename = "decoration_pool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b82ae56878df21f2cf92651d8a9aa5f38b6e1f5b9a3501d363a8bd2b29878f9e.json"
+hash-format = "sha256"
+hash = "1db55da8fd19b08061ea46d0d086ec278237d48c49ee2d3aa36ff2c016ac7928"

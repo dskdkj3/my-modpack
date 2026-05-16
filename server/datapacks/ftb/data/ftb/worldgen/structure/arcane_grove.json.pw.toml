@@ -1,0 +1,8 @@
+name = "arcane_grove.json"
+filename = "arcane_grove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d029d2d46d06fe4baa49d408e635a204dc5be971845fbba4e8c3c7906ef04b4a.json"
+hash-format = "sha256"
+hash = "962189a904792f3178e47067569291b9855b1f497d0b2d9f2a04345bfcf144d8"

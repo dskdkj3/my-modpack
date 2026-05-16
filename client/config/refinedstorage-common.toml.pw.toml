@@ -1,0 +1,8 @@
+name = "refinedstorage-common.toml"
+filename = "refinedstorage-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9c3fe5ed26adf3b981fb470e2c2cf15850f371ac3cbc1b2b43e67d534d1532b.toml"
+hash-format = "sha256"
+hash = "ac52ee40b4986d913170a4112c477ba31098e596ffa7e6573ce1dce4c7fa6ced"

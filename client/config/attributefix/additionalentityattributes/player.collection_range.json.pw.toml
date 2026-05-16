@@ -1,0 +1,8 @@
+name = "player.collection_range.json"
+filename = "player.collection_range.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/8840b119032b2f3873d843e220dffbe2da6c90358acae6a7bc7ddb731d7ae5a3.json"
+hash-format = "sha256"
+hash = "64a19a5acd3d8754f159c99cc8a23097b38aedd02f087ad90d7db42b360d8af0"

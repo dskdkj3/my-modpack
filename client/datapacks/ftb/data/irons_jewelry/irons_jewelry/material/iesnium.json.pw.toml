@@ -1,0 +1,8 @@
+name = "iesnium.json"
+filename = "iesnium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f10a033c6dfdccb03c24add13755795cb02248578955968adbb05697bbb1b292.json"
+hash-format = "sha256"
+hash = "297ce021311f0cf3ec9ebc28769684b023d891747c3b995f343cd8fec0adaf3f"

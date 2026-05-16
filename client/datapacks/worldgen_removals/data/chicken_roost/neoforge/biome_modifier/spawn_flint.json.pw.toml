@@ -1,0 +1,8 @@
+name = "spawn_flint.json"
+filename = "spawn_flint.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7ecf59abb13d77143ba9524611d4af6299e20e049e3905c6ae3b6ce90bcc8eff.json"
+hash-format = "sha256"
+hash = "8c82e8537fa81532c5f6684f79c290854eb257a6af2cf13b43e50d32ea4e5001"

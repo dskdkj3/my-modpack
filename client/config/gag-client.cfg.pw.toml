@@ -1,0 +1,8 @@
+name = "gag-client.cfg"
+filename = "gag-client.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6cbaf00e8ee4d3e04b9fa54cd754dead6a530e5c707f8ad51c985b6b4f8cbde6.cfg"
+hash-format = "sha256"
+hash = "0a3da9a456621d4962b3dc9f7e2e28cd956bebe529241540f286b3303d1942dc"

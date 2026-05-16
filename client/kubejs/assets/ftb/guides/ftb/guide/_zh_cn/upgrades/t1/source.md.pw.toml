@@ -1,0 +1,8 @@
+name = "source.md"
+filename = "source.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/4734ab3ba3feb8a80078fc5d7a5ade163fb454437482eaa7fb405b6113ac1f0e.md"
+hash-format = "sha256"
+hash = "ca0f01a7115821f8387804f2676d2a7d0f7b4991f190efcaf3e8ac2afd428ebe"

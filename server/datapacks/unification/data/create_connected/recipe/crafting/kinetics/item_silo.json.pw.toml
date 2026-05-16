@@ -1,0 +1,8 @@
+name = "item_silo.json"
+filename = "item_silo.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a383e2d1f79decc2ed07842d090b877cd301d475392f3522b1025864b40bff9.json"
+hash-format = "sha256"
+hash = "a30554770facbcd824a47ba1b51d31ae1e4c6bb9ea29cf6864febd71485bfaaa"

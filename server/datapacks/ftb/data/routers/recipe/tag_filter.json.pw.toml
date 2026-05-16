@@ -1,0 +1,8 @@
+name = "tag_filter.json"
+filename = "tag_filter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad86650242c1796c2a13c3725ac0f934fff4b1abe4bef8f2c48b9bb210dff670.json"
+hash-format = "sha256"
+hash = "b6dcf49faf6fca9a37c4f105620cef5780734ba187688ebcdb095225a33edb26"

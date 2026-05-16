@@ -1,0 +1,8 @@
+name = "diorite_pebble.png"
+filename = "diorite_pebble.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/661fb7136f3ef4266d5ac56ba681e3470e52b891bfa836d81691716ca7bc9f71.png"
+hash-format = "sha256"
+hash = "fddb43b57bf56aae384ba945cd4e3bda7b10de35fed97d60c4f90de0abbe941d"

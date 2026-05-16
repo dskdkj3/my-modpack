@@ -1,0 +1,8 @@
+name = "entityjs-1.4.5-1.21.jar"
+filename = "entityjs-1.4.5-1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7801/738/entityjs-1.4.5-1.21.jar"
+hash-format = "sha256"
+hash = "f6127f3b4fe84f173460d0c303dee6e5c1986eb19f1fa94b45e996674c10d617"

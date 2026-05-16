@@ -1,0 +1,8 @@
+name = "ftb-pause-menu-api-21.1.3.jar"
+filename = "ftb-pause-menu-api-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6695/262/ftb-pause-menu-api-21.1.3.jar"
+hash-format = "sha256"
+hash = "e60fee13d58b5ced35d54b44c0d4bfada65eb4c701ae0155e7e592fe9315c022"

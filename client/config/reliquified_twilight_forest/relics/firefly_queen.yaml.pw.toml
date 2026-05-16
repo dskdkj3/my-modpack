@@ -1,0 +1,8 @@
+name = "firefly_queen.yaml"
+filename = "firefly_queen.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f99d29c97629bb66a59c1efef135f1659c7da37869379460dd04946a20a64c1.yaml"
+hash-format = "sha256"
+hash = "94c220b9e166111e7421599a4efeba49c9c7be47f7a83ff256c248bbff6576a9"

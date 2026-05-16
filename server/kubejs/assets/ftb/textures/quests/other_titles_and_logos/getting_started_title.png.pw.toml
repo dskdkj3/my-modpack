@@ -1,0 +1,8 @@
+name = "getting_started_title.png"
+filename = "getting_started_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/7992aa9cb0e24147a54b04fe6e41bfe98c5497a9cb72340ff1df03a59eedef00.png"
+hash-format = "sha256"
+hash = "7883ea8447188cbe65fa040aca5f8f0f7a907f4e0c52707009b6a3db29b23e19"

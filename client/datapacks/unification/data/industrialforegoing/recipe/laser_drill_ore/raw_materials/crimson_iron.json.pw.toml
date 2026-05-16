@@ -1,0 +1,8 @@
+name = "crimson_iron.json"
+filename = "crimson_iron.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6a950acf7b879e9cae46787254aca213669cd0bad93e4fe7b17789f46b3e271.json"
+hash-format = "sha256"
+hash = "b8795e74e26e291675a43e21f4abd435ec96d85d803f9db5d3f2a1749dced356"

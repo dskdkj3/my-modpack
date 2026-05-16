@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/oritech.snbt"
+filename = "oritech.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/oritech.snbt"
+hash-format = "sha256"
+hash = "176fd2f489fc2ceef2179516a1fde7542ed26ef26d75f1359fbaff2dd1e9b45f"

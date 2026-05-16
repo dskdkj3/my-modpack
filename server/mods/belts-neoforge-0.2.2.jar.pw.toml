@@ -1,0 +1,8 @@
+name = "belts-neoforge-0.2.2.jar"
+filename = "belts-neoforge-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7195/755/belts-neoforge-0.2.2.jar"
+hash-format = "sha256"
+hash = "f96903908dd427a730fa77c93acd40e08e48013c64c3941a58849c4aa875c88e"

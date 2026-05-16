@@ -1,0 +1,8 @@
+name = "computer_scientist.json"
+filename = "computer_scientist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/9469a86c718f4a758a0aed1408a0792af4df1ed35f3268c90feb8079577c4153.json"
+hash-format = "sha256"
+hash = "c640671c8dd1c1cd9925ff88d85575ce7b1fd7e7858bec65e16a272e56228599"

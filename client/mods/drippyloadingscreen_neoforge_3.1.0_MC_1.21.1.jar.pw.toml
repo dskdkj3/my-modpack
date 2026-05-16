@@ -1,0 +1,8 @@
+name = "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
+filename = "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7248/439/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "0c489fe95e9de57e6ba6439e97bc8b0fb54f7de11d8df89a7829711ad379af01"

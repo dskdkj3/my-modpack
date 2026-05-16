@@ -1,0 +1,8 @@
+name = "piglin.json"
+filename = "piglin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/2586d6e41d3e03af69e01a3a4aec13893a31348f1184275ab9de138436dc6157.json"
+hash-format = "sha256"
+hash = "bbe9092f95c2d75522b0592a0373896d7c95c00d50571f20c64fffcb65100416"

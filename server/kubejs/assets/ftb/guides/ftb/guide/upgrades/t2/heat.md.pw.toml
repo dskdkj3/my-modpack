@@ -1,0 +1,8 @@
+name = "heat.md"
+filename = "heat.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c4db7c6e68aa49c14cdce8bf84b3ba66378945846d3c3c34cc11c916f58d1cf3.md"
+hash-format = "sha256"
+hash = "8ee9d86769bb5155bc03aa4c72dccf423242f410bf137042440a5c93c7a4254e"

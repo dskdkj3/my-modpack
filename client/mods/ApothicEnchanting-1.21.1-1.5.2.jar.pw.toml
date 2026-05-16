@@ -1,0 +1,8 @@
+name = "ApothicEnchanting-1.21.1-1.5.2.jar"
+filename = "ApothicEnchanting-1.21.1-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7659/120/ApothicEnchanting-1.21.1-1.5.2.jar"
+hash-format = "sha256"
+hash = "50f3c40f32a78b6b9146bff9d8ca4b15c25a2e5423964c5d1aec239577abbb9f"

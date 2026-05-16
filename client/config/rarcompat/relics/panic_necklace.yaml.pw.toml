@@ -1,0 +1,8 @@
+name = "panic_necklace.yaml"
+filename = "panic_necklace.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2d0a9ac5240e59f69e718abd6073516dcfc8bd840ce53fcaf6b237d4e544632.yaml"
+hash-format = "sha256"
+hash = "645e8b57c89ef3bce8e877302a51b5b1cb73c328b4a8dba84e6653f64cdb0430"

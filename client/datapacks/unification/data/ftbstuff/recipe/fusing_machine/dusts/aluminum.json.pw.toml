@@ -1,0 +1,8 @@
+name = "aluminum.json"
+filename = "aluminum.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9ed8ab7cef277c9ecfd04004041ce9eacaf3a07fcf562503f1a32cf19499c5f.json"
+hash-format = "sha256"
+hash = "1112318ef55b81865d72d1d0bd2fcb9d0cfbcd284da0707bd9b039e8ffc41704"

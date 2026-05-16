@@ -1,0 +1,8 @@
+name = "draconium.png"
+filename = "draconium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74347b995bde8b17b3676fb4142499afbc3ce9f3703b42a4a3d860d452e4a385.png"
+hash-format = "sha256"
+hash = "83a7d1b609d3884122b61cc930f01baac929a3fd0d8ab3284bacce50372c9822"

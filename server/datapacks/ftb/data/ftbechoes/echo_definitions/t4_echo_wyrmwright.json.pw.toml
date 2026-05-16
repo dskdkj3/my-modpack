@@ -1,0 +1,8 @@
+name = "t4_echo_wyrmwright.json"
+filename = "t4_echo_wyrmwright.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15d0dced2036d23d93f28a291b1093263422a689ff27f09efc5b387b602eea0c.json"
+hash-format = "sha256"
+hash = "cc88bd19ee7c46c32fb968a39edfd0903c946215a56cccb4f04fd807ab413a98"

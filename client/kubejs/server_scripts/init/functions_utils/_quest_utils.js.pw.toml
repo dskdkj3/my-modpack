@@ -1,0 +1,8 @@
+name = "_quest_utils.js"
+filename = "_quest_utils.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/9821bd4dfa072fa7f6ab49e8392e54d848d3e5d56afb528d3718af1d3c02ac45.js"
+hash-format = "sha256"
+hash = "1efd9de13df2f1e9d797e7c49a5b424befb29748d51fa8b2c1556ded73c6e742"

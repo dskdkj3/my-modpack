@@ -1,0 +1,8 @@
+name = "combat_2.nbt"
+filename = "combat_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/124c0ebf25ac4223cb24406df997814bafa5e008e2fa4a8585125546f0fbf327.nbt"
+hash-format = "sha256"
+hash = "5c79d45f1a4be14e6c3f110c0712eaeb6df7b0bbfd126712338c34d8caeb0710"

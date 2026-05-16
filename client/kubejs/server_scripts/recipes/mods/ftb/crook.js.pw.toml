@@ -1,0 +1,8 @@
+name = "crook.js"
+filename = "crook.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee2b490770b6534d3529748235190e26ee9817260e8e0582121b056a138f0052.js"
+hash-format = "sha256"
+hash = "cc944d22b8133e1cd33a886eb71a760e7961cc7ed21fe00dfe7fc8719e9118af"

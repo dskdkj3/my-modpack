@@ -1,0 +1,8 @@
+name = "t3_upgrades.md"
+filename = "t3_upgrades.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/7177e980bcf12e3627b61713c7d65baa3080b91446ced5ba3ccf0e837552a46e.md"
+hash-format = "sha256"
+hash = "c13da547e983fbe8978d234205e95f2d8526020a750787951539e0a13bdf52d1"

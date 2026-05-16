@@ -1,0 +1,8 @@
+name = "hoglin.nbt"
+filename = "hoglin.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/afb3971ee8d47be1ebee2e108464164afbc958ba00daa97936ffe12abbef114a.nbt"
+hash-format = "sha256"
+hash = "e49ab1490b14d0ae5c49c6915480b2a9572f6b8c30ef468f3f6018da238533c4"

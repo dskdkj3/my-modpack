@@ -1,0 +1,8 @@
+name = "start_pool.json"
+filename = "start_pool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b3113a216cb00ad1a12fa88624c128c7920648d16a62435e82da2bf0fdcbd8f.json"
+hash-format = "sha256"
+hash = "bac418f5abc3b0dae75a493a5e9cfa09334717dab6bd1dbeaeceac589e856938"

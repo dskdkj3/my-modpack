@@ -1,0 +1,8 @@
+name = "circuit_fabricator.json"
+filename = "circuit_fabricator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6c208088432d428acc920b2def375a839df67842322bebc1bae18ead0fa28fc.json"
+hash-format = "sha256"
+hash = "8b9c50dec7e761b3fb33677b92cbc8f73e131a605fe6377f9831789ad213753a"

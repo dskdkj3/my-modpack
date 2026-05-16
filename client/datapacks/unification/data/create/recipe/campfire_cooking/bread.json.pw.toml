@@ -1,0 +1,8 @@
+name = "bread.json"
+filename = "bread.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/83eeb5bd8ebf9c5914c2d0404b5d68c637303b388536beba99ef0976cbb24de6.json"
+hash-format = "sha256"
+hash = "dff430e10adbd476584e3c81017d818239dc9f67ff7d0900af45c248c4bbaf2d"

@@ -1,0 +1,8 @@
+name = "hallowed_gold.json"
+filename = "hallowed_gold.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e4f772d60ffd4dcd37909439362a21ff340e9228ecb68658e2cb63992864bfce.json"
+hash-format = "sha256"
+hash = "3080714a3818c8538c34325e5cb622114c8f74a6e2b740ef54dc342ad3cc44aa"

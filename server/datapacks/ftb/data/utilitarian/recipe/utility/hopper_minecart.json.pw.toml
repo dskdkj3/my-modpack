@@ -1,0 +1,8 @@
+name = "hopper_minecart.json"
+filename = "hopper_minecart.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/caa97616f5dcc938714c776c7b3ba851048754cee880492e4a54d9a4406ba17c.json"
+hash-format = "sha256"
+hash = "a780335c7bd3a3fab562af75082759de43fbb0d27841e792719e94de85d2674c"

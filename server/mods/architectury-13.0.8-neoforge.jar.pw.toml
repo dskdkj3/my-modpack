@@ -1,0 +1,8 @@
+name = "architectury-13.0.8-neoforge.jar"
+filename = "architectury-13.0.8-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar"
+hash-format = "sha256"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"

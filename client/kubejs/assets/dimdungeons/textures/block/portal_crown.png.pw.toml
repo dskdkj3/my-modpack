@@ -1,0 +1,8 @@
+name = "portal_crown.png"
+filename = "portal_crown.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ada00a7d1f442811b521410ca9381e5936db9960a7714073073ef58ca99e3403.png"
+hash-format = "sha256"
+hash = "841ea7bc39f1862d259255bde0365575ad0c1b9388eab98a64ab31f16f8d1997"

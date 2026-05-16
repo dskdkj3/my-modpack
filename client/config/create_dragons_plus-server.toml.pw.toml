@@ -1,0 +1,8 @@
+name = "create_dragons_plus-server.toml"
+filename = "create_dragons_plus-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/42788556016eff44ee0034708ffc84d23e5bd0605e3bfae6737f25f340bcf408.toml"
+hash-format = "sha256"
+hash = "690d2f38456d0c23d3ed246e50251e8ac9f6a465f96dc7e58cda234256f4f189"

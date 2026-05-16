@@ -1,0 +1,8 @@
+name = "rose_quartz_enriching.json"
+filename = "rose_quartz_enriching.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a5f44c3738e301f222ea80aae8a8e9ccd82f13ea4659c6b7f6159e02c989946.json"
+hash-format = "sha256"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"

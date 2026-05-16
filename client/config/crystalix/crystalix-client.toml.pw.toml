@@ -1,0 +1,8 @@
+name = "crystalix-client.toml"
+filename = "crystalix-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c5fea9a88033752db074fd503c66d19b5f7e850d4c9bd501a3be3e502612cb6.toml"
+hash-format = "sha256"
+hash = "a745b844b928343c2f02293728699bcf9e9928d9edd86e787488338a44cf74dc"

@@ -1,0 +1,8 @@
+name = "redsand_1.nbt"
+filename = "redsand_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a28cdcf1d4b10c1ecb28549615b9dd521867d70aeb6d461bfb1fdf769ea6c05.nbt"
+hash-format = "sha256"
+hash = "b877d3e48e14563eef8b3d7b461b4365ea031238f0134782326197c8a1b57be3"

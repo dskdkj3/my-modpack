@@ -1,0 +1,8 @@
+name = "chancecubes-server.toml"
+filename = "chancecubes-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/352630359d76b1c71c9945b354881d1a34073124cf3bb2ef9c451c32cbb2411d.toml"
+hash-format = "sha256"
+hash = "64e0083c749935e741f94c91355ddf5bd34d7b23422cf59fdb7a51b811398345"

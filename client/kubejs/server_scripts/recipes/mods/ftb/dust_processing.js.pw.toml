@@ -1,0 +1,8 @@
+name = "dust_processing.js"
+filename = "dust_processing.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/930e0f230a1a407950896424b68716fb3368e1acd66402ef13acc5805f9f7405.js"
+hash-format = "sha256"
+hash = "5a6b63b6c4379bcaa3b2772639253e45543ca3de79f82712b20cc686c80ed59b"

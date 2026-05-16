@@ -1,0 +1,8 @@
+name = "nugget_steel_recycle_axe_from_blasting.json"
+filename = "nugget_steel_recycle_axe_from_blasting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a97087349c8e4842ffcd01f675342daf48962c28103bab23d71b20d73caaa5a1.json"
+hash-format = "sha256"
+hash = "78fe80bd6b19bb5334c81c33c5166d76b449a81e9778712f795dbd446d991890"

@@ -1,0 +1,8 @@
+name = "fission_reactor_open.png"
+filename = "fission_reactor_open.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2bef3d73cbcc666b0d0bd32162fce00075d96973f4dcd76f80b7faf7b707ce59.png"
+hash-format = "sha256"
+hash = "159819a6ab4acb327dd250ac0527f45b3d2a6e2333fa48764155cba355e92fc4"

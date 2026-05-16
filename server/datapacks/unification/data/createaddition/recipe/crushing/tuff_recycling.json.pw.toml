@@ -1,0 +1,8 @@
+name = "tuff_recycling.json"
+filename = "tuff_recycling.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a483fcf85df0456a09675593dbb177decf8a512f0766f7b6ac4270f7c20f39ca.json"
+hash-format = "sha256"
+hash = "a2fefb43e061bfa6030c2bca80a9df85af7dbacfa76abfa19464b34ee1780e3a"

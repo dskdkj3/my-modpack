@@ -1,0 +1,8 @@
+name = "bogged.json"
+filename = "bogged.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/5835bcf918a63d508b0ab1b9d38fa66e5dd95af3f7bca97cc21345bba0066ae8.json"
+hash-format = "sha256"
+hash = "89ce38f8d4fbf3cf03ea82a623d88691e7e403850c1c71d7ffa89feab773423f"

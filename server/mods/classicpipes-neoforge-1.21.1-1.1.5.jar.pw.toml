@@ -1,0 +1,8 @@
+name = "classicpipes-neoforge-1.21.1-1.1.5.jar"
+filename = "classicpipes-neoforge-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8054/942/classicpipes-neoforge-1.21.1-1.1.5.jar"
+hash-format = "sha256"
+hash = "e975227e356cd856c389c523242d692699421794166d67a26a6536bec8d24dd0"

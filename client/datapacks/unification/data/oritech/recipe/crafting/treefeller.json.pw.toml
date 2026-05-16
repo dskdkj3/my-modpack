@@ -1,0 +1,8 @@
+name = "treefeller.json"
+filename = "treefeller.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/289db7b489e3378ce5ac94c0d758b1d556c71426f24fdb614de5be771adac13f.json"
+hash-format = "sha256"
+hash = "6e9e91aeb3f9ae7121b7f347880e1a4ae9dff01413633800c439f21039dc946a"

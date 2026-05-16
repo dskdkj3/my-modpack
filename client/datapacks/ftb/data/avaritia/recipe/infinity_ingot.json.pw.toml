@@ -1,0 +1,8 @@
+name = "infinity_ingot.json"
+filename = "infinity_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74f024c4f559ab4a95b70c7d0b56358c03afa05a4870f00cda846fc791ad803d.json"
+hash-format = "sha256"
+hash = "46cd2b8d0e1634648ff2c90bcf2a3a84edeb6a106e0c92b5fedee57a7f5eee32"

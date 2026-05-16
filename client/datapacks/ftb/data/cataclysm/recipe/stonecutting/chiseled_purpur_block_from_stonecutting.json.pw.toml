@@ -1,0 +1,8 @@
+name = "chiseled_purpur_block_from_stonecutting.json"
+filename = "chiseled_purpur_block_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/11dc0beea05f7288ecae31e02058aaa743da49844ef1de9eb691f328bccd926b.json"
+hash-format = "sha256"
+hash = "811d62c6a30bff46e5d8ec912ce67e0e031bafbbec923a1a71a5b7ad260e486d"

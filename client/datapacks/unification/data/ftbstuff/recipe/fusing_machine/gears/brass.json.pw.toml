@@ -1,0 +1,8 @@
+name = "brass.json"
+filename = "brass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/5397b47fddcb6fcc9138082714709ac28ebeb5f44f7b495154cf02e9fa69cced.json"
+hash-format = "sha256"
+hash = "74f5ae8f601ad50fb05448e06d412ea8769da30823f3045961745f3138f8281e"

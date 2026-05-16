@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/world_engine__tier_4.snbt"
+filename = "world_engine__tier_4.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/world_engine__tier_4.snbt"
+hash-format = "sha256"
+hash = "d26246bf65858fb23c894fb4c90992cbf0626c8129fdaa13fc650cecd1a60aae"

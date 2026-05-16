@@ -1,0 +1,8 @@
+name = "id_connector.json"
+filename = "id_connector.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/3054706c4406f2e6d992215c60a5d8e06a295f33752de5d7b7695eaba648a7eb.json"
+hash-format = "sha256"
+hash = "85c9098c182d43fdcbe667d25021399d35ad14181bcdc031a63f488942bed27c"

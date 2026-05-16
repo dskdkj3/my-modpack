@@ -1,0 +1,8 @@
+name = "README.md"
+filename = "README.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dfa4e8e561bbbd2b3cf7ec8237a36e8c31c40660a0754df3764648ed9f9306b0.md"
+hash-format = "sha256"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"

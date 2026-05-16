@@ -1,0 +1,8 @@
+name = "diamond_armor.json"
+filename = "diamond_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/36ded513c81384fad150525dd1203587a79b3cd5847e265b323c3393d9a1f67b.json"
+hash-format = "sha256"
+hash = "c9be2de932f6f1b3b4aab47098e1d3c7631c116632bcbdf058e44b188fe013c3"

@@ -1,0 +1,8 @@
+name = "crushed_raw_gold.json"
+filename = "crushed_raw_gold.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/869d5c960cd9e97a05295b16718c44307a2916cfa71a9b6c08a34614923025cb.json"
+hash-format = "sha256"
+hash = "7d234140eacf97b29b3b011853aabbfe41b686abee54fcde0096a9213cd55df8"

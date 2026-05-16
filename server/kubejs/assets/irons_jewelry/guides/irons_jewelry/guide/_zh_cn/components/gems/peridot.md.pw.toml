@@ -1,0 +1,8 @@
+name = "peridot.md"
+filename = "peridot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/746047d285d07773ae438e8209428309ba14876f83268ded7093e6eca4e3e1eb.md"
+hash-format = "sha256"
+hash = "88894b789cb788c09bca1b7b4cc2c6241a26d04d4fc92022c6c76790be4c02a2"

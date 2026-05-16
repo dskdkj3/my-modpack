@@ -1,0 +1,8 @@
+name = "endermite.json"
+filename = "endermite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c0a777c9c675fba73e6c5e8fab99cf1b1c0a58cdb8a00f6640cbea40a305993.json"
+hash-format = "sha256"
+hash = "a664aa69d5d1e49ac5be265ff7893c12ef2e3a54044fbd7406832605fe315b69"

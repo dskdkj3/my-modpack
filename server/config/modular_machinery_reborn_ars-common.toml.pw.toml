@@ -1,0 +1,8 @@
+name = "modular_machinery_reborn_ars-common.toml"
+filename = "modular_machinery_reborn_ars-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9662e5ce081e2b7760e5dd9fc6e875cbce7dbbc19c501c9e9134c1de8c53dfe.toml"
+hash-format = "sha256"
+hash = "dbc568cbf9453c9c9ddae3dd9660c3594b04a91dace0a301d5f8169603aec5d7"

@@ -1,0 +1,8 @@
+name = "parkour_zone.nbt"
+filename = "parkour_zone.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9ae176da4ccf4a544235e4ffecbf34e8c979e23c612c40980d8d0a11fd9ce6ee.nbt"
+hash-format = "sha256"
+hash = "ee0e05a862a17057ee529d7a96f66efad48b4e1ac9b376641e4080fe5ae7c9c8"

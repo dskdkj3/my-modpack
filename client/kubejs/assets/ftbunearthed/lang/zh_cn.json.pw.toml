@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftbunearthed/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftbunearthed/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "de369c7da1e79c863a863f6121a9cb342fa583d9e93f193ab3d0cb2797a9ccd2"

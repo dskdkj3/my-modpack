@@ -1,0 +1,8 @@
+name = "shape_card_quarry_fortune.json"
+filename = "shape_card_quarry_fortune.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/673db8f55e48c1c54b0dc74407994dc99835f33807fcf1c04e5b3fcbaa1ccc77.json"
+hash-format = "sha256"
+hash = "78e2993deb3995ddfd08a2a3c678b491e219a6425d54c13e491387bd57fc581b"

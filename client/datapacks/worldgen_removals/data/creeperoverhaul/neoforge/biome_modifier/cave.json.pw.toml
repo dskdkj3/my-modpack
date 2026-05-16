@@ -1,0 +1,8 @@
+name = "cave.json"
+filename = "cave.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/58f0223ef96853659e50bff69faa451d9eba4edd62c8bd3529bec4a65ba4c5ce.json"
+hash-format = "sha256"
+hash = "618689fd68e17a55c5a6797d54f172e1e96fe7d7a335d394bd064242e170bd5b"

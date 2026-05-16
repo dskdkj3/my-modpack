@@ -1,0 +1,8 @@
+name = "whoopee_cushion.yaml"
+filename = "whoopee_cushion.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8cc3f611cebf3b157d5c09fda736b0ceb17527f0299a51a4c3da10171e04af7c.yaml"
+hash-format = "sha256"
+hash = "9b028ddf9d35ec9a534642d7ba2dd0823f6759f72c67d8627d2637f61dfa06ed"

@@ -1,0 +1,8 @@
+name = "lobby_sculk.png"
+filename = "lobby_sculk.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d43e7a68b78da9944a759d5d038582a1b146e636baed3325beac084e2016c4a1.png"
+hash-format = "sha256"
+hash = "ceafebc84d40eaafb4834ffadbc5944acf346027219335195b28fc51361631c6"

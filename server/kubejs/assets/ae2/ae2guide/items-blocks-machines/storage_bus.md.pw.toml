@@ -1,0 +1,8 @@
+name = "storage_bus.md"
+filename = "storage_bus.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c68d0551bbfa5e6e9acdbff780029749b750eeceae8fa6ee0d77cdf34d57736f.md"
+hash-format = "sha256"
+hash = "f5308ff8ca8c3761ef07cd7d32391ab28b44cf41854453b9e833eebd3c72d08e"

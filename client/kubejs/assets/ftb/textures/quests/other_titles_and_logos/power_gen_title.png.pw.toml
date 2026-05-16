@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/other_titles_and_logos/power_gen_title.png"
+filename = "power_gen_title.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/other_titles_and_logos/power_gen_title.png"
+hash-format = "sha256"
+hash = "a952f3670dc129894f637864113e2c85697a09795ee1f229a7daac62e568d56e"

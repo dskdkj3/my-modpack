@@ -1,0 +1,8 @@
+name = "emblem_of_defense.yaml"
+filename = "emblem_of_defense.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/4627fa8bd4eebff4630a071bb53992415d47d9e123bd02213288b2710933fcd1.yaml"
+hash-format = "sha256"
+hash = "8716668d563d4e1a267c454dd01760279300713ad892d8d7c046f9471c022def"

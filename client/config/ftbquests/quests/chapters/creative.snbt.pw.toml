@@ -1,0 +1,8 @@
+name = "creative.snbt"
+filename = "creative.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f728a316c762628104acf8ccbb67aa094190cf6c8d365d5d0fd82a02a57e09c3.snbt"
+hash-format = "sha256"
+hash = "0038a9f41a249e5e9c6c864b53fa0f8dd11d8ccd25385f5972140adce8c846f8"

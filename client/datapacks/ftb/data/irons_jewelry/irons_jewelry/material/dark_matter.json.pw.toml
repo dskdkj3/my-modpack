@@ -1,0 +1,8 @@
+name = "dark_matter.json"
+filename = "dark_matter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/760bce57e686434c9f027962030b4129659fb2361feb8e80df04e134964e3731.json"
+hash-format = "sha256"
+hash = "c888c95ebba0a39deb5bf93c7d6315d494ac8d95093ec06eae035704f24ec24d"

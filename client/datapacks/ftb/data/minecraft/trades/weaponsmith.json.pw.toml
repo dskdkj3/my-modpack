@@ -1,0 +1,8 @@
+name = "weaponsmith.json"
+filename = "weaponsmith.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2f74d3f6292d1b6d9aee7181b5ebf3ed8af6bbe97cfaa53405f26d9f1f190118.json"
+hash-format = "sha256"
+hash = "85bed0e39c66f90ef08bc3ed56f4a37eb6b72884040b9f15d06b584a0ea628bb"

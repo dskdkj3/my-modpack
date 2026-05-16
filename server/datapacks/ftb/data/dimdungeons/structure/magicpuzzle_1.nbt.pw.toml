@@ -1,0 +1,8 @@
+name = "magicpuzzle_1.nbt"
+filename = "magicpuzzle_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d06a8734f1b993015d9cea07656b1a39fae1f980df16b140484a81e47dafc01a.nbt"
+hash-format = "sha256"
+hash = "1408bc7bd117b5a15fe7dae95a6ce9962c9869f734012047bbb91d13122b751b"

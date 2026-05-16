@@ -1,0 +1,8 @@
+name = "crushhall_3.nbt"
+filename = "crushhall_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/feeb7d25140bdd2649d0b1ec981fc0af3271c5a44dbdd68027d7b7091fb3b009.nbt"
+hash-format = "sha256"
+hash = "58473978c97fbb3879634de9c5c5ccbe0e3d97c080962e8e008b63f8a825d7fd"

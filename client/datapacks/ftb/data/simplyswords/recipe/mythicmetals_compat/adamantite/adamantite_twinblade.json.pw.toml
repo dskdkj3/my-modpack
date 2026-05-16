@@ -1,0 +1,8 @@
+name = "adamantite_twinblade.json"
+filename = "adamantite_twinblade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6bd774f859f67f09f68ad16edfc125cb03c55c5b837b26f538190a5ff746692a.json"
+hash-format = "sha256"
+hash = "f37facd769250cef3ef266328d25de44392187227ad08129c268818b8e94df81"

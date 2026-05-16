@@ -1,0 +1,8 @@
+name = "golden_hook.yaml"
+filename = "golden_hook.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7adc688a7df923f1796e77f72eb90b4e964fad8f9f9d42087f1bdbe0ae9c528c.yaml"
+hash-format = "sha256"
+hash = "7687468f83fbdd74b691723e1c4798839a2d9c03c3c3c6d20214a2250132b617"

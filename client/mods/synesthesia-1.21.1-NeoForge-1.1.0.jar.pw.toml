@@ -1,0 +1,8 @@
+name = "synesthesia-1.21.1-NeoForge-1.1.0.jar"
+filename = "synesthesia-1.21.1-NeoForge-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7944/216/synesthesia-1.21.1-NeoForge-1.1.0.jar"
+hash-format = "sha256"
+hash = "119647612681c4d1c6dc412667fb8668c93c5f21ced99be5fd3e6ebe87de4b41"

@@ -1,0 +1,8 @@
+name = "cable_facades-common.toml"
+filename = "cable_facades-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/533157ea272ea84eef88868374f9ed977f0f74aa2064c0dd1d03cc60b228f5e0.toml"
+hash-format = "sha256"
+hash = "83cd795c34f72cfd9e36c3534220bd7430d9789de19b512bc97b795378ccaf1a"

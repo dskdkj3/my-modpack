@@ -1,0 +1,8 @@
+name = "events_disable.json"
+filename = "events_disable.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7ac22f349ba2e0fbea6fc7f332eb6d742e0f98bba40ba149c61af8cea358b74b.json"
+hash-format = "sha256"
+hash = "05026eff2f75bf5b09b117015acb09f8abce2fb6d8a8c5b22db3591eca12dfad"

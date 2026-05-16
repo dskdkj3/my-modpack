@@ -1,0 +1,8 @@
+name = "theme2_corner1.nbt"
+filename = "theme2_corner1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d86476fd985a7887376ceeedf3806b60b277c8936abe11759a9104e6c76393a.nbt"
+hash-format = "sha256"
+hash = "03db30851657a76ee98ed9c26e8718c311f2bb7b713e707f835e8b2c13894792"

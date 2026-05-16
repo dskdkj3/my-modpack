@@ -1,0 +1,8 @@
+name = "twilight_treasure.json"
+filename = "twilight_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90a576524f5f4bfbf64189867d3c5ea06696efb4f8d48c9c2de7cbfe3ec0f21f.json"
+hash-format = "sha256"
+hash = "05e896daa6466e4661ed893262bc149077f0daa316f815e42e88a0e4e6abf75d"

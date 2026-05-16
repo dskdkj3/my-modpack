@@ -1,0 +1,8 @@
+name = "enhanced_ender_shard_smithing.json"
+filename = "enhanced_ender_shard_smithing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c168399d9d1ba2136e9faf82ecc10115b9263a23f4cde413b59b39b79272d40.json"
+hash-format = "sha256"
+hash = "e9f285a75bf2760542d0314a2cbcbb9fa0ec761fe29b9d970fb821df09585b3c"

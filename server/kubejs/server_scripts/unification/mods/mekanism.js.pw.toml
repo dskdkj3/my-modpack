@@ -1,0 +1,8 @@
+name = "mekanism.js"
+filename = "mekanism.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af581d7fc8dd2abf6c17378a286031a3fd51b7008563e02eaea348fac7d914cc.js"
+hash-format = "sha256"
+hash = "be54db0790f150e2e3b8b65407595095e3cbfedd48f7106d0de2ef5959af9f8a"

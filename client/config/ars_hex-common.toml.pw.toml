@@ -1,0 +1,8 @@
+name = "ars_hex-common.toml"
+filename = "ars_hex-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/8454cf843536f2163a8e0ffb0e17fc84b4b1557b79ff372073528ee0647ef67c.toml"
+hash-format = "sha256"
+hash = "5bb495cfcc250a96143acc76ff9b18ee5b452f897f9db6834245e34e76bfd17d"

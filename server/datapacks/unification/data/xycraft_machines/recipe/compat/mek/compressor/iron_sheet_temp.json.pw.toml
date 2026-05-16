@@ -1,0 +1,8 @@
+name = "iron_sheet_temp.json"
+filename = "iron_sheet_temp.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d276e4913751a7552d372a5519cb6b722f3576bf0a1a88b781cb978dee1d81b7.json"
+hash-format = "sha256"
+hash = "3ac8f0f227e9ec5df6e6eb2ba3a31ce1dd5af2172c840221f2e766f44f4301ba"

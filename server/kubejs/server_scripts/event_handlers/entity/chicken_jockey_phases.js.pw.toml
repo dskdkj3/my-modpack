@@ -1,0 +1,8 @@
+name = "chicken_jockey_phases.js"
+filename = "chicken_jockey_phases.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e91721e71f6e2c8fff930ef1f6fc8a39089e1cb1826def12bae4abc59f3d95c5.js"
+hash-format = "sha256"
+hash = "271e6194b2ff7bb017ce3dc76b069a57ccd8e214ac755831cce8626cdba961b5"

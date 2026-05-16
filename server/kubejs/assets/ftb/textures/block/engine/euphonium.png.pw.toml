@@ -1,0 +1,8 @@
+name = "euphonium.png"
+filename = "euphonium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1fec7ffac4205d4a7b47debcda52933c7fe66a2ef9b2070e3e25170346753b42.png"
+hash-format = "sha256"
+hash = "841583626d28dc21c9fda4d9ce0430966d9fd36b882fe5533e6704f5873751de"

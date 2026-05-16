@@ -1,0 +1,8 @@
+name = "azure_silver.json"
+filename = "azure_silver.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/002bd270c33f7fbbe134b175ae3086db657ea99c89ccf2b6bed313ad1f67faef.json"
+hash-format = "sha256"
+hash = "8d752ed574eaa3703e1837da6e2f1e5bc7aec8276024a45426942b89f6b8dc5c"

@@ -1,0 +1,8 @@
+name = "portal_puzzle.nbt"
+filename = "portal_puzzle.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/4567906b95373c2ef27fc06a30013b57396afc3e5d15637dc555725daf3c78ac.nbt"
+hash-format = "sha256"
+hash = "117dec54c083c8201ea4274c7668977f08b5496f6e84df3eb8675ce314e5d940"

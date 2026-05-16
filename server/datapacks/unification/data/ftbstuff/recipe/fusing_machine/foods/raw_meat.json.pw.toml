@@ -1,0 +1,8 @@
+name = "raw_meat.json"
+filename = "raw_meat.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e688563d018215a455625bc8067085f239684a2b15397b0c605a4a94e459811.json"
+hash-format = "sha256"
+hash = "b0b24fd004a04223bf3ac451d558af43724735c824bfd2054110d0a71e422dd1"

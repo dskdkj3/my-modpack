@@ -1,0 +1,8 @@
+name = "rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar"
+filename = "rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7742/278/rep_ae2_bridge-1.8.0.0.0-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "22c906ac6d221f62ddfd49b3b3c33a3f5180ad0e20c4c6eac11ef6213ac51b67"

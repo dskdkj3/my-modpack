@@ -1,0 +1,8 @@
+name = "duratium_ingot.json"
+filename = "duratium_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2dde243f1a2629d8a044ce20666098d0e597f85c27eb55be40101492fbbe3a2.json"
+hash-format = "sha256"
+hash = "ae054cdfdc861b6295dff2bfd1b89c4ed57a812196581164933ba21819ad1a44"

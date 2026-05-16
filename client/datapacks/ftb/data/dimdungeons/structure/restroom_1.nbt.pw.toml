@@ -1,0 +1,8 @@
+name = "restroom_1.nbt"
+filename = "restroom_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edec91de99fa3cc22f294614da7f2ee5a26fcf26a64c2ab9e3f569fb0be46c91.nbt"
+hash-format = "sha256"
+hash = "f0f353180174f528e147181adcad094f7e53c3b0e01deb61315838437400dbc9"

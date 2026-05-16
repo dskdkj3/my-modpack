@@ -1,0 +1,8 @@
+name = "weeping_well.json"
+filename = "weeping_well.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/0522b5f2919d5df89f496f9c69f9cd82b11357ea581dced74afd8e5f834192b6.json"
+hash-format = "sha256"
+hash = "e7537e36ba21b8a7aabb217d28c86d9549b933d00163e462f8590a60819f2453"

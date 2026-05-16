@@ -1,0 +1,8 @@
+name = "ftb.echo.light_bender.stage3.task1.ogg"
+filename = "ftb.echo.light_bender.stage3.task1.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be89b4e90f79a7bacfd19a2675926bdc6f3d71265fb7241c489c226e6074673f.ogg"
+hash-format = "sha256"
+hash = "f8866b09d22194330d13f6df537a98189bfe6a45536bfda95c918b277163c81e"

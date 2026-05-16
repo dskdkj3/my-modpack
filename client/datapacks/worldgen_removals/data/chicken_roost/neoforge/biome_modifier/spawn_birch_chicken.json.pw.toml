@@ -1,0 +1,8 @@
+name = "spawn_birch_chicken.json"
+filename = "spawn_birch_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47b9b2f0c3eac3852a4bc7b15c4036181bb0f96736648f5abc7daa335ab8b3ad.json"
+hash-format = "sha256"
+hash = "2ede49de6e0c52a242b93721fafb3aa3639e04ef0bba48d41e61415bd9d6d267"

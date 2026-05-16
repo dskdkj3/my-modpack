@@ -1,0 +1,8 @@
+name = "kubejstweaks-1.0.6.jar"
+filename = "kubejstweaks-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7516/288/kubejstweaks-1.0.6.jar"
+hash-format = "sha256"
+hash = "2a444fb6e0931f30acc4d5880b164cc7bc8fe24801973a75bde384996c827e8f"

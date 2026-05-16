@@ -1,0 +1,8 @@
+name = "fortron_infused_ingot.md"
+filename = "fortron_infused_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3146cbb58d56badb4f3de45a6c75215b7cf5af475bd300853d148c441ffdce1.md"
+hash-format = "sha256"
+hash = "50a30a4fb4a69e2dbc0be3ef3c26311d2bcb35067a051c32c91671e470aaacc9"

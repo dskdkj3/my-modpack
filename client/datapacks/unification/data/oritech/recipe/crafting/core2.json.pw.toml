@@ -1,0 +1,8 @@
+name = "core2.json"
+filename = "core2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/314021814936893e83fa6e91e99f2a251a7bf7c149a7505251c3f7a1590123b8.json"
+hash-format = "sha256"
+hash = "20e0ae9ee2064029f0333ab88ee4edca0de35d8195fa8335d80b98479e2419f9"

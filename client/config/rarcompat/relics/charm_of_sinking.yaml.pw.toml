@@ -1,0 +1,8 @@
+name = "charm_of_sinking.yaml"
+filename = "charm_of_sinking.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6fe487ee9d328fba1b451bd469a4d62f170db74ae47abc853f1d59e27b943b6.yaml"
+hash-format = "sha256"
+hash = "0c989d1863090267dd5249a81145b45cdeb8fd3c031aab5b7959582ac769f2d6"

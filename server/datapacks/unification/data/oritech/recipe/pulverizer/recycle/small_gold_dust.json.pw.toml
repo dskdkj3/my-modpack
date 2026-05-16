@@ -1,0 +1,8 @@
+name = "small_gold_dust.json"
+filename = "small_gold_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df6811e5bfb54ef6502d853ae058d61a01969a4010802028049e709fb5f3780c.json"
+hash-format = "sha256"
+hash = "5a613b114aed48a588ce89f584942c1d6ba9f41c8b4b22a769508c73210ba7d5"

@@ -1,0 +1,8 @@
+name = "boss_dungeon_2_deep.json"
+filename = "boss_dungeon_2_deep.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0d93ee4714c34026f031374494a01e303ae3a8ea68bba2246a26efed16c7305.json"
+hash-format = "sha256"
+hash = "9fb16a19175531af604cc3cada9099fdbc29d2599195314fb64d5984a5eb129d"

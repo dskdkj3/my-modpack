@@ -1,0 +1,8 @@
+name = "junk.json"
+filename = "junk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5404e05b6db5556fb513d7793a18d56db16d9fbbaa539348d14c7bcea743d44b.json"
+hash-format = "sha256"
+hash = "e9cae6bb1fca71636a32a340240f6e6ec53cff38621762046841a21a76330483"

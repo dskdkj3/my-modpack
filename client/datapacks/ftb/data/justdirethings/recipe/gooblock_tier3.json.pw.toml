@@ -1,0 +1,8 @@
+name = "gooblock_tier3.json"
+filename = "gooblock_tier3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6bb931faea65ec337a1498a6ed36e91260a545057602e6bf054e7b3bf25830cc.json"
+hash-format = "sha256"
+hash = "f86cf7263b04366b99e8da42674af2e7210d6e90b743cd22c93d0291959f576f"

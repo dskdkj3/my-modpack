@@ -1,0 +1,8 @@
+name = "generic.armor_toughness.json"
+filename = "generic.armor_toughness.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/8014dfff756a1817f29b6543f6624e68c0cca525d5f753721feca3b1598be45a.json"
+hash-format = "sha256"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"

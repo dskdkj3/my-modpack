@@ -1,0 +1,8 @@
+name = "deepslate_platinum_ore.json"
+filename = "deepslate_platinum_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45f4b8091b0d6f0ff4e7abc96784108d3c846d2ddbc15663dd1b7b1659ef79fb.json"
+hash-format = "sha256"
+hash = "dd470b60cc42d02b5892ccfb515753a1d14dbc930fc77d07c175a5d0d9999cb3"

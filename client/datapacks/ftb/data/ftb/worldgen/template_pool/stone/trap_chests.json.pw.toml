@@ -1,0 +1,8 @@
+name = "trap_chests.json"
+filename = "trap_chests.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce7a6490211e9a8b9d05fdfc6f89da952239c6c8874b7517273b5881918bb763.json"
+hash-format = "sha256"
+hash = "f3401b23379f0ec96dbb307c7efbce109b0d71204c27eb2984450d1fe994b526"

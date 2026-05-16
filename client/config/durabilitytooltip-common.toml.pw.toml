@@ -1,0 +1,8 @@
+name = "durabilitytooltip-common.toml"
+filename = "durabilitytooltip-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2bd3bde6718942362bf0a8b7ad0c8fafbacee959a7dafebeb127e040e69d2824.toml"
+hash-format = "sha256"
+hash = "a00d2ddb5ff61267d17392e97800be0b7987d5f02d891f0de5ae1c429988baa6"

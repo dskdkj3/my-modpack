@@ -1,0 +1,8 @@
+name = "5x5_decorator.json"
+filename = "5x5_decorator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/4685d4e8b6a7dbef45d8c63859a9167b25c40391620e4768e95b4492757ae009.json"
+hash-format = "sha256"
+hash = "054491e7afc6432491eea3a3442561f0615bec1efd6037066607b10848aa1dde"

@@ -1,0 +1,8 @@
+name = "advemp_bottomslot.png"
+filename = "advemp_bottomslot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/06698e4544ee956e891543b861c65aa00cf26fe62ad02fa228e1f932e03307f1.png"
+hash-format = "sha256"
+hash = "14af8d865edfc3ac80740d24d41aa679ad032383aa4f244a09d0397e3628632b"

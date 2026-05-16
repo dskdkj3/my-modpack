@@ -1,0 +1,8 @@
+name = "adamant_ingot.json"
+filename = "adamant_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/515883e175c5acfea950bab08ef1b06d894854c93406dcb3cd7f9bb90a08ed1e.json"
+hash-format = "sha256"
+hash = "873a88f09bc6f9894c72d7fcd9a7b5c77a6ba4f20483fe159a32a28211038204"

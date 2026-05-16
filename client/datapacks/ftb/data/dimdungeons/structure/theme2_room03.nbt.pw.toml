@@ -1,0 +1,8 @@
+name = "theme2_room03.nbt"
+filename = "theme2_room03.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7eb57f33f497e512e84be9fa210ef1392a1307e11f3ffc28e684a99e41a3d342.nbt"
+hash-format = "sha256"
+hash = "6e9234e4059fbd19375aeebf7dc394e19885682517eae551e7ee0b2074dc061b"

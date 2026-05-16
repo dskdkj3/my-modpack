@@ -1,0 +1,8 @@
+name = "recipe-category-sort-order.ini"
+filename = "recipe-category-sort-order.ini"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5dc39b32a31cd3d13a630768f6182426a7f036878a3285920e1917e2327c1365.ini"
+hash-format = "sha256"
+hash = "06bda8e1130ef4b9e48c5d453b3d4fcf3d9aa011efbf5ef28163c989f2906891"

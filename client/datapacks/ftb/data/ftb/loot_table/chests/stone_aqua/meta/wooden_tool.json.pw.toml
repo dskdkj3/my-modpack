@@ -1,0 +1,8 @@
+name = "wooden_tool.json"
+filename = "wooden_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74d6046296a0c9d5c40618b6b95a2cb06bdd9cc23b29064fbc73a3f448f20e87.json"
+hash-format = "sha256"
+hash = "1911fd5e7b48da8de09aa68de9237e51853a35eda882e2bde64510a1eddbb6c7"

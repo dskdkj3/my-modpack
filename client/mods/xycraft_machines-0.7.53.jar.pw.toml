@@ -1,0 +1,8 @@
+name = "xycraft_machines-0.7.53.jar"
+filename = "xycraft_machines-0.7.53.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6872/530/xycraft_machines-0.7.53.jar"
+hash-format = "sha256"
+hash = "51e82887cf9b09654e3e34b230e8ff5532db624a9dd1f5c7dfa01c4841b7ffef"

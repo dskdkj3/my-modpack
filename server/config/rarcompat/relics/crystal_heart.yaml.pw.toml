@@ -1,0 +1,8 @@
+name = "crystal_heart.yaml"
+filename = "crystal_heart.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd4191d50f03483ce1cf0ac8c1ec050ddb4c56ddafa741a385430cc0ac6db338.yaml"
+hash-format = "sha256"
+hash = "9e700693d68c679610a83da674663376051080db9292e48850bc8a2fc5133874"

@@ -1,0 +1,8 @@
+name = "wolf.json"
+filename = "wolf.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74c36831f6cf09243d99bd02b19f0aa58823c87c9eb9a2bc18446003ab0adafc.json"
+hash-format = "sha256"
+hash = "1a3f37a48e9a73ddc85a33c22fc4f53ea53013b28877c64683f8cc3af4859ef9"

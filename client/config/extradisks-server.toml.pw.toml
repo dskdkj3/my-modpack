@@ -1,0 +1,8 @@
+name = "extradisks-server.toml"
+filename = "extradisks-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e4939a3c30d6db5f45ec69dbf18b54603b88a16fa93185e1c78bfc47515149f.toml"
+hash-format = "sha256"
+hash = "1555abbe7bb0a8abf0d09704d41c448660e9fe7fb67198b9db976a8d9b7c3a7e"

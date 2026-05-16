@@ -1,0 +1,8 @@
+name = "ars_ocultas-1.21.1-2.4.1.jar"
+filename = "ars_ocultas-1.21.1-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8006/990/ars_ocultas-1.21.1-2.4.1.jar"
+hash-format = "sha256"
+hash = "af5be78e40802f42a45f1b73996408a7e6df23c654cafd5487087a19e00482be"

@@ -1,0 +1,8 @@
+name = "farmersdelight-common.toml"
+filename = "farmersdelight-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f23bb1f421c36bc11e0d4fd057def3e90a73e4aeefd2936cdc082b1f3c33b1af.toml"
+hash-format = "sha256"
+hash = "19a52c4eaa7d617a2cb7a87e090c7bc44ab42128ef3760e2c211c938e3827f99"

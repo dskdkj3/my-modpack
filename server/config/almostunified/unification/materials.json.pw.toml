@@ -1,0 +1,8 @@
+name = "materials.json"
+filename = "materials.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d2104a35d36eba2081ce3fb32d63adddd649f0281b00f63c9d481542d88ac242.json"
+hash-format = "sha256"
+hash = "378ff892ce039be4e98560ad55d9bb0521441f1b9c9f63039fcd3d65197233ab"

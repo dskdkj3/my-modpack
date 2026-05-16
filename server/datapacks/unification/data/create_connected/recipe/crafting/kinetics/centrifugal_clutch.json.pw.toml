@@ -1,0 +1,8 @@
+name = "centrifugal_clutch.json"
+filename = "centrifugal_clutch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/5602464d8e1b553fbb890cb8c993a8042b9090cfa44c02c602cc16b6506adbc0.json"
+hash-format = "sha256"
+hash = "e741520732eb77942c790ed977305c4651f0d93316ed163a18cd5ca385204c08"

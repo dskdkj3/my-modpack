@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crystal_resonance_generator.md"
+filename = "crystal_resonance_generator.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crystal_resonance_generator.md"
+hash-format = "sha256"
+hash = "4c9736e269ec4fbcacbe4bec03c6b31b5dd388a9a03175c4a8b7e0baecbfdb09"

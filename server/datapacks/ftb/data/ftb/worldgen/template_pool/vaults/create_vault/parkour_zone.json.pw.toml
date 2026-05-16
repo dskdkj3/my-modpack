@@ -1,0 +1,8 @@
+name = "parkour_zone.json"
+filename = "parkour_zone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4be1b591514e75a137cf62b61ef12acda0cb3a9b68383e49fdba2da46da273c5.json"
+hash-format = "sha256"
+hash = "b4607e884678de217dc2126e3d056d6f5f8661d9e38cf37217a1a970df2fc2e9"

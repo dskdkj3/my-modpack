@@ -1,0 +1,8 @@
+name = "silver_transmute.json"
+filename = "silver_transmute.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74cceddc62cf9f55993b07c9879f784b01a940c46098a4f481782d9443681fa8.json"
+hash-format = "sha256"
+hash = "c194db833c98446ac92c1406861d8c4ea8c9ab563dfcc8fe502710774f1d1d01"

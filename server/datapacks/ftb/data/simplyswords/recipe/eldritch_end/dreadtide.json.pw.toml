@@ -1,0 +1,8 @@
+name = "dreadtide.json"
+filename = "dreadtide.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/7426ab04369345764600a78e7771e862ec42a66a29d0131c234cdc9899523954.json"
+hash-format = "sha256"
+hash = "3d29349e3aa24f7682b80bd90076e36772c24cc037070a3b1476b5e9341a5adf"

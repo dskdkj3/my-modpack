@@ -1,0 +1,8 @@
+name = "fire_gauntlet.yaml"
+filename = "fire_gauntlet.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/361866b69cd4c6a588f60a228a27d8f70309d1e681f64e3f81bc41adff1ad230.yaml"
+hash-format = "sha256"
+hash = "9171186263e3513e51ea883347c41f56ad3965b2113ba88c9d6f7f35510cd0f4"

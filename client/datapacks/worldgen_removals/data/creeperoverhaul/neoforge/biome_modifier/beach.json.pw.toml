@@ -1,0 +1,8 @@
+name = "beach.json"
+filename = "beach.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7f47fee5005718ff0ad7ecc662cb66f74aab0477a5d0b36b688ccafa38f6c43.json"
+hash-format = "sha256"
+hash = "2e264d799b91e642b5cff5f4fe4fb4424b657820bffe90ea4fee074dbc920ebe"

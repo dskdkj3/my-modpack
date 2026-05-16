@@ -1,0 +1,8 @@
+name = "EdivadLib-1.21-3.0.0.jar"
+filename = "EdivadLib-1.21-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5491/721/EdivadLib-1.21-3.0.0.jar"
+hash-format = "sha256"
+hash = "daf3201364c5e9dbc7c0d99a9617cd82c40f203e489a4701b228daa765038d92"

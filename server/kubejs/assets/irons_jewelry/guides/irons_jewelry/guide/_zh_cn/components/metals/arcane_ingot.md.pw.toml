@@ -1,0 +1,8 @@
+name = "arcane_ingot.md"
+filename = "arcane_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7a1edb759d622b93c8a6e0d93caeccc81bf1dfae080cbdeb64f6168ddff4d1c.md"
+hash-format = "sha256"
+hash = "67d4964987d89a2e43ec0189d1c99362b5544239da6a83f53ffd623ab56768e4"

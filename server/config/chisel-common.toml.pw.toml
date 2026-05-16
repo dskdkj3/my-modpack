@@ -1,0 +1,8 @@
+name = "chisel-common.toml"
+filename = "chisel-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd0c56542c6dcdedf426f1cb6ba7f84cf24f8f937ff2a5c065f2ed1b10d672be.toml"
+hash-format = "sha256"
+hash = "ce7779b25a254ce1982cc3ad94424a80cae9c3a1b9f5f1694f19b617eb157441"

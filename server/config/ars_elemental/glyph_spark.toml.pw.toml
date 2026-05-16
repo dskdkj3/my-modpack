@@ -1,0 +1,8 @@
+name = "glyph_spark.toml"
+filename = "glyph_spark.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25e8cc56b0aa7bbea71c91e3f661b7a90f51cf5f298a2031bda4d39306b0d491.toml"
+hash-format = "sha256"
+hash = "f21805086d4d6f800f2575a5653e51c8d85ce12a82f63837f04923a7d3d18f0e"

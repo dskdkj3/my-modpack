@@ -1,0 +1,8 @@
+name = "tags.js"
+filename = "tags.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/747c8d593cf9511a4f390b9e04657152ec6f54f4a131fc123d470a3516bc346c.js"
+hash-format = "sha256"
+hash = "b03f9596935a69efea10a85c855b5fdb1784ee75b0b378562118df9c4d8b02e0"

@@ -1,0 +1,8 @@
+name = "prometheum_ingot.md"
+filename = "prometheum_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/660f26e938e605f5e473ce12af3d157883c312a1edf0dcdea33013ac814ba2d8.md"
+hash-format = "sha256"
+hash = "cb14997db24be16f96d66ab7b5da58625c6f6dbda13c88041594052d0e76f408"

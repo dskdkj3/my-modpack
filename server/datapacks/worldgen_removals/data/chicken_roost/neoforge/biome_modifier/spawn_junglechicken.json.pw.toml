@@ -1,0 +1,8 @@
+name = "spawn_junglechicken.json"
+filename = "spawn_junglechicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d00850f2fb9ffcf21ea3b5963c0a0d985e5ddb4a014a57c2c3a65d63a61a2d2.json"
+hash-format = "sha256"
+hash = "4362b42ecb9a468e6f79eaebf103a1e87dfc7d15b92c144521fabbc642c82e00"

@@ -1,0 +1,8 @@
+name = "wheat_flour.json"
+filename = "wheat_flour.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/471aed5ea6cbc0bac340d2b803b6471b6f442b23f1ecd8d551ebb71b34bf05bf.json"
+hash-format = "sha256"
+hash = "11c8ca6d8457350bb21fea65136c8f45650185f32f910c39607ad307511da5ef"

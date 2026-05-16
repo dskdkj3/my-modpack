@@ -1,0 +1,8 @@
+name = "spawn_basalt_chicken.json"
+filename = "spawn_basalt_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba9e6e76c05f4ef6779ff08a3a19b5369f4ed7c42c230606e748ddcc55feb5d0.json"
+hash-format = "sha256"
+hash = "b5ee7184a8911c624ce81bd3cf0cc2dd2dbaa5345b38724d95633609a3eb7d27"

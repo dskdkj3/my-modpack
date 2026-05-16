@@ -1,0 +1,8 @@
+name = "farmer.json"
+filename = "farmer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/24f761c3278efe7e3aaea91612386154ac3856cb008f1a4e82b3276849e73118.json"
+hash-format = "sha256"
+hash = "6f96e697dc491c23d2844d75cf90be7c3c239d7dc22c4fd2e6c1f7f0713b7fb0"

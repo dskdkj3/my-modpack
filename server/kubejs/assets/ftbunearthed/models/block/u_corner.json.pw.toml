@@ -1,0 +1,8 @@
+name = "u_corner.json"
+filename = "u_corner.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cea2fa996388cbcbe563e9f0df3ea7f7e7b4776826c1873860a2f09028b455b.json"
+hash-format = "sha256"
+hash = "d3cc21b6423e221e3fd3ebf96770a1c6f7fe0db40e9f6bcec44ed23053680167"

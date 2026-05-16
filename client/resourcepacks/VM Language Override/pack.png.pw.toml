@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/pack.png"
+filename = "pack.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/pack.png"
+hash-format = "sha256"
+hash = "1fc64ca8f7701571c50f07fddfcd6667cd114ea411477d3285f80b6552bee97e"

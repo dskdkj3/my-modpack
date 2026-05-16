@@ -1,0 +1,8 @@
+name = "sands.json"
+filename = "sands.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/9108476b15304d5f70c2d040e62778aff442e5b729342d9b3cb9cc56d935123b.json"
+hash-format = "sha256"
+hash = "3752cce767696c02e7b0056c4f526f90222e58328b1f66ca62b27855e9baeca4"

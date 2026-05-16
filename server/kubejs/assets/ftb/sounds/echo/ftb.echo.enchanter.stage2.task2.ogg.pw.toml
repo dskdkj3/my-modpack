@@ -1,0 +1,8 @@
+name = "ftb.echo.enchanter.stage2.task2.ogg"
+filename = "ftb.echo.enchanter.stage2.task2.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/30c3181902cd45f677537bd2d528035852b7c4ad054b3d8b567b172d432799e5.ogg"
+hash-format = "sha256"
+hash = "020fbe530cfa0b9d5af75bf1879e8c08a22a59278eb3ce3cf0ea08b338673cc9"

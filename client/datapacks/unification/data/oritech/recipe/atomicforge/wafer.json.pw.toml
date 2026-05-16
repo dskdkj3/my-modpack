@@ -1,0 +1,8 @@
+name = "wafer.json"
+filename = "wafer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95ff1bc2ba9787f3df9d87408f8d4c5cc5159a03f7733a10edf3cf68d8778ff3.json"
+hash-format = "sha256"
+hash = "bac21ac5f6448d70f80961eb7b4c085e6f74c6fe4c06b56ea705be65af94e59f"

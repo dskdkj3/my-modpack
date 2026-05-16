@@ -1,0 +1,8 @@
+name = "emeradic_crystal.json"
+filename = "emeradic_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3b78b3d360056239488e9d12ae29474a4dd3abe1551cc2a98489db5e6e857c6.json"
+hash-format = "sha256"
+hash = "74bb5cb2d05ea9ac6aa0fdb1576e51fcc2f43079ffc5170b2dee75ea78efa436"

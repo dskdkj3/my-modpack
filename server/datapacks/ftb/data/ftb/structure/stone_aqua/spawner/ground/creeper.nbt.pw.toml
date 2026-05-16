@@ -1,0 +1,8 @@
+name = "creeper.nbt"
+filename = "creeper.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8d673dd5cd15027e2d5d41e027d1aec98b98c0b689e8d9cda8b6071412293716.nbt"
+hash-format = "sha256"
+hash = "b1dcaac5110ef6908596f5b25aef0bda493b8d45d502141851183718348164f5"

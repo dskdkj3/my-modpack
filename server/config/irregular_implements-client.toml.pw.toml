@@ -1,0 +1,8 @@
+name = "irregular_implements-client.toml"
+filename = "irregular_implements-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/7601b63a5089faa179c11ab503ca06faaaef00e26ca39720df357023422b3260.toml"
+hash-format = "sha256"
+hash = "5b021f82a3c310e038bbdc430a6c810d4f9d9140291153514442090dab2f0b65"

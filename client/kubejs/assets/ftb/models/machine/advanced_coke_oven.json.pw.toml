@@ -1,0 +1,8 @@
+name = "advanced_coke_oven.json"
+filename = "advanced_coke_oven.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40eb60e7d979235e274674a402e4b7e3e20494c3edcc6ef2d7895ebecb98a45d.json"
+hash-format = "sha256"
+hash = "b962bd2777179a8279816b91d5092ef04c669af3bbe21e22ac8da3a72dccb033"

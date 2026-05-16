@@ -1,0 +1,8 @@
+name = "balm.json"
+filename = "balm.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/dbc2b0ed81a9bafdaabe14f8313a40a59cc86b8bde0ea949390e08354bcb7330.json"
+hash-format = "sha256"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"

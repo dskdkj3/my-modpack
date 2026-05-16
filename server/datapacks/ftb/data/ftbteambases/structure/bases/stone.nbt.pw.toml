@@ -1,0 +1,8 @@
+name = "stone.nbt"
+filename = "stone.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a710dc8f5fa024aee02a59392c818c29e9360c9b5c1e28b989178a2dd7d0074d.nbt"
+hash-format = "sha256"
+hash = "8fbd16391abe0131c959b25f06965e94c0b1a031747f33a0a0b9c1c6df5c8445"

@@ -1,0 +1,8 @@
+name = "in_enchanting_table.json"
+filename = "in_enchanting_table.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fdbf7ca1e6b17741f54ed1d2e8baec024fefc763f8b132b809860fdc05dcbf0e.json"
+hash-format = "sha256"
+hash = "647d034bdc8c0060c11937d1f39c99be35e15747985fe8da979bae1129345b70"

@@ -1,0 +1,8 @@
+name = "generic.water_speed.json"
+filename = "generic.water_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e59f256ac3c8c5352a8c696c4866e64ab6a7812a8198fbbecb6acea0bb5565a8.json"
+hash-format = "sha256"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"

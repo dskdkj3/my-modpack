@@ -1,0 +1,8 @@
+name = "holyhostage_situation.json"
+filename = "holyhostage_situation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e6d819719a7e29c308959af6139712f5f7c84ca19502101af87e9655dffd91f.json"
+hash-format = "sha256"
+hash = "a9ea0dab01e3569a0705cfc49e59967bf43c65466d6646b9b201f8b0f58daf46"

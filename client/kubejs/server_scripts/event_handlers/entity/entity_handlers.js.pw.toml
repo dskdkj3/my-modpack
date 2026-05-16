@@ -1,0 +1,8 @@
+name = "entity_handlers.js"
+filename = "entity_handlers.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f63ff93d57156e83fe05be4dc5120b8a0b27319729bb0f1a8b27a94a406b142.js"
+hash-format = "sha256"
+hash = "cb9ecbb9f57a3f173d4aeaeeb8e7149745e1f79d4e308e1f9df3bc4333406356"

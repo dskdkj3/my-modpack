@@ -1,0 +1,8 @@
+name = "chroniton_upgrade.nbt"
+filename = "chroniton_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45a47e4dc134ec3fc539059d2511985731439691619c16e002dc75b7cb228233.nbt"
+hash-format = "sha256"
+hash = "c45bf6a8a91d9a7ef036aa0250bfc370e07e4a98ec77ab7c87451706f47e912e"

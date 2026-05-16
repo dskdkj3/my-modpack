@@ -1,0 +1,8 @@
+name = "emerald_grove.json"
+filename = "emerald_grove.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b38ab850a6e73614459437e7ba9397644ee11b8bd6529d62920d800be4eb3c3a.json"
+hash-format = "sha256"
+hash = "7aae317647f3a4e724cbcecf2f705c7b2c01021b1c7a812afbc35697984cec13"

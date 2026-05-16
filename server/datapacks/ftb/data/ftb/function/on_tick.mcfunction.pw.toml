@@ -1,0 +1,8 @@
+name = "on_tick.mcfunction"
+filename = "on_tick.mcfunction"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2a38b1a51e7e00ce53e53e66a96d4b0837474efa76f464d0dbf87b89a570f13.mcfunction"
+hash-format = "sha256"
+hash = "cfd0ae766444d846381c96c0dbaeef712c86280a7c31a655e6feb09ea638e4fc"

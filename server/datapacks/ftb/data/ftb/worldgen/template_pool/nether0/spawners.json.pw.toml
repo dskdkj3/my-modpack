@@ -1,0 +1,8 @@
+name = "spawners.json"
+filename = "spawners.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69abb33524d705d75927cef0fc9645196f88c20f2e013356ff94d54e794a1179.json"
+hash-format = "sha256"
+hash = "d39579648fe8a7c8e174bf805ae73691ae265a365e6dacdb8386a00c88210056"

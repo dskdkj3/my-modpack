@@ -1,0 +1,8 @@
+name = "chest_minecart.json"
+filename = "chest_minecart.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81266f650fe19002669d2fbc86a38fe64e86e72013afde4e15fd2e1388fcef8e.json"
+hash-format = "sha256"
+hash = "703fd7753af48c481ce8ee160a551323ece04cfce778d44bb4577c3b790cff59"

@@ -1,0 +1,8 @@
+name = "large_bricks.nbt"
+filename = "large_bricks.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/252cefbf8d17c3ef0483ad7e2c8fb6b5d4bfe2196ff115d0b0247f6b3bab7b01.nbt"
+hash-format = "sha256"
+hash = "c1ec941ee0f65fd14858c6dddbe4e7c17c6e59f3aa2fc48b98c80de7204bd548"

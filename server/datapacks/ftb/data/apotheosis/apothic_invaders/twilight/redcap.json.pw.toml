@@ -1,0 +1,8 @@
+name = "redcap.json"
+filename = "redcap.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/2029170a34e75aacd519cfd75900009813630f7dbbc39fb9567d748978112c0c.json"
+hash-format = "sha256"
+hash = "8c913b328ccdec634aed0046bcff8f3aa45e09fd20c877ce36419abc5dc293fb"

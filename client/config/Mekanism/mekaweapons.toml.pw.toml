@@ -1,0 +1,8 @@
+name = "mekaweapons.toml"
+filename = "mekaweapons.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3ff6f30dec8694fc93feeffc5243d5963b917b62f6794dc5610a226967f261e6.toml"
+hash-format = "sha256"
+hash = "58e24874349a181191d2361c256f465ecd9b2a18351e7d06fd3ee40f31f29f35"

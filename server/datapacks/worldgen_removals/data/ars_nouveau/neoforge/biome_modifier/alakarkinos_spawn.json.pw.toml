@@ -1,0 +1,8 @@
+name = "alakarkinos_spawn.json"
+filename = "alakarkinos_spawn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3d2cdfae714d1310982fef19a974fe0762a537be87a9568b3ca99d5af2f6bf8e.json"
+hash-format = "sha256"
+hash = "2db4ac8c4437cdb6c37cf607bd9acf65decdb27614de46699f0cf6ac3f736ef8"

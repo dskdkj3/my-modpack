@@ -1,0 +1,8 @@
+name = "player.villager_reputation.json"
+filename = "player.villager_reputation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/452edf6ea8b91f3e2313aef8e435cc05a288d08c5d4caebbf7bd41a8e37cb520.json"
+hash-format = "sha256"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"

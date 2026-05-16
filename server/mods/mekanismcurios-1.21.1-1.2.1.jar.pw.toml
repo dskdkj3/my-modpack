@@ -1,0 +1,8 @@
+name = "mekanismcurios-1.21.1-1.2.1.jar"
+filename = "mekanismcurios-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6602/973/mekanismcurios-1.21.1-1.2.1.jar"
+hash-format = "sha256"
+hash = "6721e17cc4eef95fe987b5431de626c0fa51618037bf606a1a7eff5373e22514"

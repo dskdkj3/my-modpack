@@ -1,0 +1,8 @@
+name = "mangrove.nbt"
+filename = "mangrove.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d82b5b21c1886b33f8557c537157c71868a8eb89788a2783f1541968746ec47a.nbt"
+hash-format = "sha256"
+hash = "654b2b3f5dedb7c0a39911224c412b1e8d4b938f97d192cff9a59e72eb7bedf1"

@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/pack.mcmeta"
+filename = "pack.mcmeta"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/pack.mcmeta"
+hash-format = "sha256"
+hash = "e10afdf60657e7b80cbd8973b52ead634d04db98d684c7fae2c83ddf434ba82f"

@@ -1,0 +1,8 @@
+name = "multiplayer_hover.png"
+filename = "multiplayer_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39654afec84eddf7dcd7c66cbe4324d959127c46ccd07f4b47de6eb69694e4ee.png"
+hash-format = "sha256"
+hash = "2f4504f669e81fe96cbd7e098e5358f86c87aeb09c6fd23190399bdc08e3baf8"

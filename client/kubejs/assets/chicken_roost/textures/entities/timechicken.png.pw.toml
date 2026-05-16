@@ -1,0 +1,8 @@
+name = "timechicken.png"
+filename = "timechicken.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/7058e5197a51358ccbb1ffcfdcc3449f444a02b9ac28114b894aad334eacd063.png"
+hash-format = "sha256"
+hash = "4926368f115197089957f161aba12320fd7896d3c70cb31abe6137a4a9179aff"

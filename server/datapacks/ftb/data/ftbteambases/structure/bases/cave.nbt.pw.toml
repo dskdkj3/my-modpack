@@ -1,0 +1,8 @@
+name = "cave.nbt"
+filename = "cave.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14731279d2f64e790b77534dc6f432c18d44ac4d212d828fd2bd84e08bb7590a.nbt"
+hash-format = "sha256"
+hash = "a471126060e8b2577a7a6c890d8f9d2445339112258c241e4f852cffd8a3c5f2"

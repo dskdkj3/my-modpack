@@ -1,0 +1,8 @@
+name = "deer_antler.yaml"
+filename = "deer_antler.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38b12aa02e72b1b081398fb13b583f3e2d96dfaae8f73718c8a7d82e5e58d037.yaml"
+hash-format = "sha256"
+hash = "e9df92a8dae4e8b57b694a126d4af1e2b2ca5d0466841a083cf070788e523536"

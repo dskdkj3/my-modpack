@@ -1,0 +1,8 @@
+name = "advanced_ae-client.toml"
+filename = "advanced_ae-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/072c5057b4388a2f24a652a655b4d231b6dfb47a56470eb4079a7e7cd03b1037.toml"
+hash-format = "sha256"
+hash = "ef9264673ca264bfa9207db1497f05dd4c6d42d8890f3e652e2bfbf0f2a125e1"

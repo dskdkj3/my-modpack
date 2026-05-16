@@ -1,0 +1,8 @@
+name = "nether_treasure.json"
+filename = "nether_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a47af34a113c243eb52a2bd3d8864830e35e90a668c8a25240e35d00fdf2092f.json"
+hash-format = "sha256"
+hash = "dfc0a979ec675893b85eddcbe972e939fc2e1e1b55077978526a085166bebeb0"

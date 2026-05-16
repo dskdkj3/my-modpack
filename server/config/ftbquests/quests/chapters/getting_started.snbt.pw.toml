@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/getting_started.snbt"
+filename = "getting_started.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/getting_started.snbt"
+hash-format = "sha256"
+hash = "4a25e21946294defe19f64a95d1496da349568b0245621fa152a4a0b11b6c1f4"

@@ -1,0 +1,8 @@
+name = "explorerscompass-common.toml"
+filename = "explorerscompass-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f76be03400a1e200d15bbf6361d4a649c830227bcc0fdce857d9dcb4f209b28a.toml"
+hash-format = "sha256"
+hash = "13b930af9ddd52b1e48ac3bbd07ce1a6bc3e7a2a84b2ba3a1d1e07b63fba77a9"

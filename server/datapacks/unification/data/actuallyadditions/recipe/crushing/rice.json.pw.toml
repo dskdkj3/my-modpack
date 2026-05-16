@@ -1,0 +1,8 @@
+name = "rice.json"
+filename = "rice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/4359a89cef3bc98087602ca3ab39400eb226e451349070ee99fdee0a06ec9e9f.json"
+hash-format = "sha256"
+hash = "511dd8044056f7ae4b971f58bc81e5baacd7dd012476f6cf84916723d2231458"

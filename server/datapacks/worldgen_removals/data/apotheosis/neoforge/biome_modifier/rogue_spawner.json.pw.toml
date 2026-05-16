@@ -1,0 +1,8 @@
+name = "rogue_spawner.json"
+filename = "rogue_spawner.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd7a189fcc127d875c329a72dce55313d2c15d203a5a07b28a4148562b38da94.json"
+hash-format = "sha256"
+hash = "978d82b4ee9eee9d8b4a2e782335da91c74ffc3301bd702c3b2b9cee30b0d91b"

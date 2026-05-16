@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/apotheosis/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/apotheosis/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "60f62edf73619cc160b3bd78918a27d86b862ce0377162819d72c10658f5a725"

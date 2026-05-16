@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/sky_dust.md"
+filename = "sky_dust.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/sky_dust.md"
+hash-format = "sha256"
+hash = "d0a3a93260bf8afeaee835e06d0b13374f03826a47dcfdb0b5cf79b304136cd6"

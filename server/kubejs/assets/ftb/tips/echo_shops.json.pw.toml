@@ -1,0 +1,8 @@
+name = "echo_shops.json"
+filename = "echo_shops.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7ea55b930f94b3937a0ae02cf82fe12338cfe0810ce59034744d76a01d8822ea.json"
+hash-format = "sha256"
+hash = "c926f6763488af32e3f840eefe702f081de128de560ad45bf38baa1053dadb76"

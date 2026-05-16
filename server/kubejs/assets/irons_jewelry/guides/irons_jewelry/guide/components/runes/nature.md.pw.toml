@@ -1,0 +1,8 @@
+name = "nature.md"
+filename = "nature.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/afdfe2b40026e275883e913da580dbcac350731dacd02de4323d5c24b9d1f426.md"
+hash-format = "sha256"
+hash = "25ea84e92910cb190c0390cee0e4a587025b31031f19c6349882ad4cff4f9de4"

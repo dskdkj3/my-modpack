@@ -1,0 +1,8 @@
+name = "fluix_researcher.md"
+filename = "fluix_researcher.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff86f02ca3bd99531ac4d2b683f47191221061b2eecba0e80abd226790823c46.md"
+hash-format = "sha256"
+hash = "066f32ee01b265c3c15b18204407e57b7e9e5ded103d8afcee63c4d390a02c3a"

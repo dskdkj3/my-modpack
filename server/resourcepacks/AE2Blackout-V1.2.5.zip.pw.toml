@@ -1,0 +1,8 @@
+name = "AE2Blackout-V1.2.5.zip"
+filename = "AE2Blackout-V1.2.5.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/6241562c97e7e07c628f31ed8f9878939d7b7c4f1e9f8e494d9b843e9b319d66.zip"
+hash-format = "sha256"
+hash = "14c18628e13420ea7767237de3cbf43eef22b47d84ad960ef61fc7bf37656ae8"

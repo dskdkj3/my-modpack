@@ -1,0 +1,8 @@
+name = "uncommon.json"
+filename = "uncommon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/83437dce96b8c8fdf63444dd9f83fc642ee9b454879bedd6aa9976c424fc4fdf.json"
+hash-format = "sha256"
+hash = "b7edfc1c02fdc2628c451785e7947c9a196e7563e2a95de75373b00ccac58855"

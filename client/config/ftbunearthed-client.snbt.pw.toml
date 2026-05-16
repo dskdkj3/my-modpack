@@ -1,0 +1,8 @@
+name = "ftbunearthed-client.snbt"
+filename = "ftbunearthed-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f13988416bca7ebbc53d1b273bf4eade2d934218b4fcdb9c5924a7e61a69de1.snbt"
+hash-format = "sha256"
+hash = "350d600000bb75f9a87773b74e2864f6586e47d4d1f328798506d42f15c4fa85"

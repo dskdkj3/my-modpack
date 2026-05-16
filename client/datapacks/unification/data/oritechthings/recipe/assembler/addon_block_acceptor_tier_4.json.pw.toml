@@ -1,0 +1,8 @@
+name = "addon_block_acceptor_tier_4.json"
+filename = "addon_block_acceptor_tier_4.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/56c7d5f44e862a30f8ed35d9662236b50e552a72d6f5af7bf7b813bdf018b08a.json"
+hash-format = "sha256"
+hash = "7e61967e1d807b29e4c84cd664001d7a2a6421bb2e177b4831c304d2f8900b6c"

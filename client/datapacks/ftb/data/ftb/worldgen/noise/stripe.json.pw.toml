@@ -1,0 +1,8 @@
+name = "stripe.json"
+filename = "stripe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bcd09f30e3683898ef5ef8925d97b8572c4e0509a742d7048976dda97ec62815.json"
+hash-format = "sha256"
+hash = "e934d96ce52b9159111570cf7c22f208fc91e3883a21ce4f503d1433fdadf92a"

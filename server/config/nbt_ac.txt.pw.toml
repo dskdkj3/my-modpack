@@ -1,0 +1,8 @@
+name = "nbt_ac.txt"
+filename = "nbt_ac.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/595f50f1ae4d6eee657654bf138d3608836f826ecdf6591b5c1154407d14a15a.txt"
+hash-format = "sha256"
+hash = "3cda753b92b96a26e439364f537fbeb9342e2328d5e8b4d9e2d4df162b719884"

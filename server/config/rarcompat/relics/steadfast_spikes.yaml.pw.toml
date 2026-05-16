@@ -1,0 +1,8 @@
+name = "steadfast_spikes.yaml"
+filename = "steadfast_spikes.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8bcdcb824ca6aec848f5e18bfd182a5e5147cfa72daeb4fe97285bf82cdf9ac.yaml"
+hash-format = "sha256"
+hash = "e70d48eddaf4de96776bd9e737348bd95fe4b2475b7d21f6091514725d962bd0"

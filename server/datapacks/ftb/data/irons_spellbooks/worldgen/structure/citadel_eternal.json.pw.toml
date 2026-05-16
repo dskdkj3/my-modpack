@@ -1,0 +1,8 @@
+name = "citadel_eternal.json"
+filename = "citadel_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92c7cb61c4e1bb77ecf4b07ec20e651ee44388a5f9788cc3f272ccb87a63f206.json"
+hash-format = "sha256"
+hash = "2d26b3166863bec262ae71caac2e096b6b264f14772aad9e0ab2b536e7d3e072"

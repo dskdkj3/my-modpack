@@ -1,0 +1,8 @@
+name = "disco.js"
+filename = "disco.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97cc86db43cdc8631cbbf08481f10e37124f0a49dd1b3291b80888df10ddf228.js"
+hash-format = "sha256"
+hash = "b52194717a750686004d55300f91802351a2ccea549a405dc5f97922b87938f2"

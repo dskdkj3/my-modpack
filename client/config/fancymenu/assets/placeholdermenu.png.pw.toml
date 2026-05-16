@@ -1,0 +1,8 @@
+name = "placeholdermenu.png"
+filename = "placeholdermenu.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/608f9eb175098a15b640a2178a9447db6f8c8afabd4171e0dc117dd14e965f48.png"
+hash-format = "sha256"
+hash = "7d95974912e00060d237467d2e502e5e35e49083b1c773184bd4da1929c3ea7c"

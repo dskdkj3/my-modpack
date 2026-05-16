@@ -1,0 +1,8 @@
+name = "veridium_recycling.json"
+filename = "veridium_recycling.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/06/064c89f8cac87fec7d5e62938910ca14c5d25bf534f92194182a9622c6600135.json"
+hash-format = "sha256"
+hash = "8330081c3b1c592c297ddc9bb490fffd80b5f48da64df3c0a66a749ddddb85f2"

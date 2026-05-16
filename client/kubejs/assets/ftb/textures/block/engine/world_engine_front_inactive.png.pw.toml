@@ -1,0 +1,8 @@
+name = "world_engine_front_inactive.png"
+filename = "world_engine_front_inactive.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/ea3f6c208d86775e3a83a258066121bc8933a31d4898a9407f68ba9f001d26d9.png"
+hash-format = "sha256"
+hash = "062076f5003a759865571ba002555bcb9353356758247e9fd93995245038ed5c"

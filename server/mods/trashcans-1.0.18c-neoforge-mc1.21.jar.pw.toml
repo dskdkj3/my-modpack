@@ -1,0 +1,8 @@
+name = "trashcans-1.0.18c-neoforge-mc1.21.jar"
+filename = "trashcans-1.0.18c-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5891/67/trashcans-1.0.18c-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "5d05b498f7c6a6a00deda3b4f66206a5269b69f9c031b1faf5a5e75c0f2b449a"

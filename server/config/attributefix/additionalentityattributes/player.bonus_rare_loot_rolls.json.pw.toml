@@ -1,0 +1,8 @@
+name = "player.bonus_rare_loot_rolls.json"
+filename = "player.bonus_rare_loot_rolls.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f1780da1921a8e22924e72fe9cabe7bcea730c0a35b0b5c7dddc9ff1ac34666f.json"
+hash-format = "sha256"
+hash = "2440adff76c21c044641d20b0bdad8c41f881821bdc08a25046c07513eeff35d"

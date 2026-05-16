@@ -1,0 +1,8 @@
+name = "sauce.perk.elemental_power.json"
+filename = "sauce.perk.elemental_power.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/606682b5ffafb05cb20c2bedb7e701780e453dcc593a1209bb88a1509014c74b.json"
+hash-format = "sha256"
+hash = "58f47c6acc07ecfffb3b2a74290a7fde98f89d2995cd092b8ee89b258eb1fed2"

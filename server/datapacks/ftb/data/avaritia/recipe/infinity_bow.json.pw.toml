@@ -1,0 +1,8 @@
+name = "infinity_bow.json"
+filename = "infinity_bow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/423b5a52fa2aaf41c19171f215f54659f991f88ecba4ff7ce8dfa90e15e53a4c.json"
+hash-format = "sha256"
+hash = "489f34688a24ff608283e5064e256437db27a16f5d43804449cf201b267a41ea"

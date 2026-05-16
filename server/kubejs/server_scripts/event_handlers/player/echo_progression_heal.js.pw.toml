@@ -1,0 +1,8 @@
+name = "echo_progression_heal.js"
+filename = "echo_progression_heal.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/60fbbfb7b41f73cb1fcba3a2775c0ddf5e78901ea04f8afb6f2cfec613d87d9d.js"
+hash-format = "sha256"
+hash = "fd9206afa28a2000b11d312f550d9985b94aaef926ac145b3849fbe497111bb2"

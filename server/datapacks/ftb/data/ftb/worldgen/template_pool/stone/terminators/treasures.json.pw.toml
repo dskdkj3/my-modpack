@@ -1,0 +1,8 @@
+name = "treasures.json"
+filename = "treasures.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/791046746d8dc516bf6716b941f65b175836588827cf28b5465a73d347f35e47.json"
+hash-format = "sha256"
+hash = "735e61a5f39dc496a57d2f635335c988b90a90bc2e7177d74af1debfa77e9503"

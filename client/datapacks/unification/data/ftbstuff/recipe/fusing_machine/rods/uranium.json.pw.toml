@@ -1,0 +1,8 @@
+name = "uranium.json"
+filename = "uranium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72dccffab9143d13359559613e5587cdf76cc1e3a36574b92049f91ec52659b3.json"
+hash-format = "sha256"
+hash = "208fc6ac122663e46bb5365e5af7d7f49cd57018c9160f1f250f3f233d4384cf"

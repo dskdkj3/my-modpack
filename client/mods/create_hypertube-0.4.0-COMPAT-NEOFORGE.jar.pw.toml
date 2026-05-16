@@ -1,0 +1,8 @@
+name = "create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
+filename = "create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
+hash-format = "sha256"
+hash = "3ccc9cdcfa70e18c8a383b7c3e388d877dc979347bb49a8c813142aa9a662102"

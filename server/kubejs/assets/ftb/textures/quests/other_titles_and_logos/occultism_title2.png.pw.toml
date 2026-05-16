@@ -1,0 +1,8 @@
+name = "occultism_title2.png"
+filename = "occultism_title2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/380b45aff409c554bb74a0fc2dddf90b7f864d4ad061d3cc36d7f84772100667.png"
+hash-format = "sha256"
+hash = "ec0f6f4d784881c82b740bb9d0f38ffe950b7fd0a6c77c908fed69786503cf42"

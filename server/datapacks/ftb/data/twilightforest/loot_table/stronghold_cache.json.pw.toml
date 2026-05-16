@@ -1,0 +1,8 @@
+name = "stronghold_cache.json"
+filename = "stronghold_cache.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96916cc556b1ea17d2fbb969cad195cc5cbae39ddfd3dff4f76c74e4a8440de4.json"
+hash-format = "sha256"
+hash = "ea070b209b84fa58d94616b12c020b4c0039ca6e0dd346de6b2fa8265a1009cc"

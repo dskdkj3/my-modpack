@@ -1,0 +1,8 @@
+name = "resonant_void_upgrade.nbt"
+filename = "resonant_void_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f846fdb4c72a99e963a4cd16bcf4f909b1046a81232e42d4b458ef72ab3a6117.nbt"
+hash-format = "sha256"
+hash = "e46961ad8a10c884abd4c4941ba904679ddee0fe7e870cfd58a458375cff4640"

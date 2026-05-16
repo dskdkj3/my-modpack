@@ -1,0 +1,8 @@
+name = "iron_spear.json"
+filename = "iron_spear.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca4a0dabdac690606fdf9c3a8515f9148e5ab93b348757c47a59eaf3658112e9.json"
+hash-format = "sha256"
+hash = "53a7cc1d77ac460e29b8ce54c4e0009911f0a7e1007546bb3a9a7d8b4251867a"

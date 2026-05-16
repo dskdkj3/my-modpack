@@ -1,0 +1,8 @@
+name = "warped.json"
+filename = "warped.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5583776505fba70738bb6b1af5d6c45d3fe21cad98f7fae399b623ba9f2bb5a.json"
+hash-format = "sha256"
+hash = "2459dcb901b0caa430e071be4e298947d8248825b31e05c6039f3bc92014f742"

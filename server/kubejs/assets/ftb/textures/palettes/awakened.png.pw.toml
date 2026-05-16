@@ -1,0 +1,8 @@
+name = "awakened.png"
+filename = "awakened.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab5f8f2147db8dada8bfecff1de1eb3412ead005b8eb0291ee66df5ca5d184c6.png"
+hash-format = "sha256"
+hash = "1a6395eff561dfebe659aaa3fbabd46ea676015084acfb81bf4ca7da5f0dfd76"

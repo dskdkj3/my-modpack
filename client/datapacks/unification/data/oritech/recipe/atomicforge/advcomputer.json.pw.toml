@@ -1,0 +1,8 @@
+name = "advcomputer.json"
+filename = "advcomputer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d43fd0e269d9649c01e5619cf2164886573a6a4244c1aa89e8803b895e10e809.json"
+hash-format = "sha256"
+hash = "12a1ed815a742309c5943644ff355a566aa18e8537254d25ee1cf72521f5657b"

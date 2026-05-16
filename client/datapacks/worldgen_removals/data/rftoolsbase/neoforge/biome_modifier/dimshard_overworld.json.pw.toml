@@ -1,0 +1,8 @@
+name = "dimshard_overworld.json"
+filename = "dimshard_overworld.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b202082846de93251bde565d8eb61e77a0195854d5864d902ce6e0a791e8dc1.json"
+hash-format = "sha256"
+hash = "f41253a1b6a955104039f351de0f5937ed2b817597274bfa059e9c3c76c0f942"

@@ -1,0 +1,8 @@
+name = "sfm-client.toml"
+filename = "sfm-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e52b0780e83956d24a4ae34b03fd9b4a4708e125b8c530b5078ec94b8bce46da.toml"
+hash-format = "sha256"
+hash = "a4188329838f7e91d061358864a1e8d5b400638c2344210dcaf7be30db2f337f"

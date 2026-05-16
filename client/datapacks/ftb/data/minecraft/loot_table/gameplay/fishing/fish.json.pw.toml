@@ -1,0 +1,8 @@
+name = "fish.json"
+filename = "fish.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72bb90bd5becea581e59d5108a55f5d6f631324aa1ed53fe7709a5db5abaf2a6.json"
+hash-format = "sha256"
+hash = "f615ca148519628a78c66ff4565efd00734e56250a20ba72deb6677b873d3ee0"

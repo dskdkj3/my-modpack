@@ -1,0 +1,8 @@
+name = "eternal_set.json"
+filename = "eternal_set.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59e18ce381f4d2152361b9c5921c0a75efdd931063d9715546944296ff47e63c.json"
+hash-format = "sha256"
+hash = "b3693e94bc59340d0f855e6959f7c20479fe518a0e788242687e90632117e5ac"

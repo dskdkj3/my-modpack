@@ -1,0 +1,8 @@
+name = "extrastorage-server.toml"
+filename = "extrastorage-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c41105d040222878decf0793340e6d14472cd38e08b18fa4ac5ea4200048c0cf.toml"
+hash-format = "sha256"
+hash = "c6d75050609ef0c0cdc47fa365fe331a2f679109787c7fd642272ce93a689c29"

@@ -1,0 +1,8 @@
+name = "prometheum.png"
+filename = "prometheum.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8b/8b02b45d7a7433a04a0bb79268e5808125f848540c0c9f58204d0f621f4a3691.png"
+hash-format = "sha256"
+hash = "ad6b9f08ccaa2e6ed868fed1f335da292655c1a8a4763f1060c2e08bc88e7929"

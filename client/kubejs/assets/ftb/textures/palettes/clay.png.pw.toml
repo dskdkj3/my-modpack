@@ -1,0 +1,8 @@
+name = "clay.png"
+filename = "clay.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39d72edf0f7dbc9db68e605e1b855ae2feac761bbe70f2ecefe592d0ec7745ad.png"
+hash-format = "sha256"
+hash = "3f7340a59cc52895b76b5aa9d2877eaea9925b6e3d1fbe607e0f940d1c17c533"

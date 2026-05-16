@@ -1,0 +1,8 @@
+name = "mythic.json"
+filename = "mythic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e2024e8c77faa5bd46a02ff5922740e68a276b05cbdad479da120abd096a1ee3.json"
+hash-format = "sha256"
+hash = "2eaa61cbee8cd2874574fb6c7b2d798620a3eb3cec2bae59553d66c190ff1f56"

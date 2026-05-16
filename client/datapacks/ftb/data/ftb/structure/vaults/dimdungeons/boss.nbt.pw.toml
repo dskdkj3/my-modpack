@@ -1,0 +1,8 @@
+name = "boss.nbt"
+filename = "boss.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/87e1ca4d1c0c2d18d5d26e308a6a6011079bba94f9bf4bb4b38785c8427a949d.nbt"
+hash-format = "sha256"
+hash = "ad31ed9d2a06dab01cc45fcf5cc836482d9543f4c6d78d93aac13eeff783dcb8"

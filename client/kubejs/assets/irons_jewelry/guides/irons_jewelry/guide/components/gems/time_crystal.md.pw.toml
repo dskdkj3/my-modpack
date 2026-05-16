@@ -1,0 +1,8 @@
+name = "time_crystal.md"
+filename = "time_crystal.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d09b1aa62f9dfdd57b96fb63943e71eb76352ba7a328e14fe8c784400debf54.md"
+hash-format = "sha256"
+hash = "f1c155a1e44ac3c1259f79fc1ab360c3d47f84131bf5b31343473fd0ccf791d7"

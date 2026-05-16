@@ -1,0 +1,8 @@
+name = "acacia.json"
+filename = "acacia.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/9902d086f1eb7026a15bf9a3a8216ce756d03a2bf2f7c549a1c113b0b0418656.json"
+hash-format = "sha256"
+hash = "d8c06491a6504616549e9161964fff5a3a2980af8a94542161974b05e4388747"

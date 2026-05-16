@@ -1,0 +1,8 @@
+name = "bucketlib.js"
+filename = "bucketlib.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed10224e35df8b4246524fa552f742301c6170b4edfed9c2ffb797e1aab04f92.js"
+hash-format = "sha256"
+hash = "8675cd393eeda909db1c83dd0ae564cbabf785af1d492e7e60e7257119af0bbc"

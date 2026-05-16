@@ -1,0 +1,8 @@
+name = "dragon_head.json"
+filename = "dragon_head.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f29a632d60038b062a5a824dbde7678816e8deb42976368b70b43aa3d8cee558.json"
+hash-format = "sha256"
+hash = "847f11b836c5d359cb32ce999180da7f13b3281c3e03ebceb871628bc978c08e"

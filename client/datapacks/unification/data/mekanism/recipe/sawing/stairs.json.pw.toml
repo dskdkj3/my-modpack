@@ -1,0 +1,8 @@
+name = "stairs.json"
+filename = "stairs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f68f77ec8a8a4d858ccbecb85d1d1119f071436c35a06e856517374dc8163fb1.json"
+hash-format = "sha256"
+hash = "bf7a37aa52f9572e8f8eaa856699d2d2421ef83eb4b932a3e138c0f0a8309991"

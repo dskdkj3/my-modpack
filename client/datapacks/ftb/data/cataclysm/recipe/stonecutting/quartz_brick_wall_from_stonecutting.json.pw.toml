@@ -1,0 +1,8 @@
+name = "quartz_brick_wall_from_stonecutting.json"
+filename = "quartz_brick_wall_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/370b339eed5aeec7a3472670e515ee44136a29ff4ca2d522081b58c4bb7a1379.json"
+hash-format = "sha256"
+hash = "bff61055e427ece9ecc36391bc641aa9a5bb3b312eb3456c54f801ec901c1488"

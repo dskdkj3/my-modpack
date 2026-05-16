@@ -1,0 +1,8 @@
+name = "irons_spells.js"
+filename = "irons_spells.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7499eec28c3ca339904cc9267acb6460700cb5216af1190afc02eeaac4f30f0.js"
+hash-format = "sha256"
+hash = "d0291bbd52e00430ea8b13709a8f21277bf807d71d52bbc9c185a38b0bdcd21f"

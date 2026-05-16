@@ -1,0 +1,8 @@
+name = "add_ore_silver_deepslate.json"
+filename = "add_ore_silver_deepslate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7d37df18731883926d91ca301c3528a553b246a82ee71f87932c9538461e07e.json"
+hash-format = "sha256"
+hash = "50f02c30a66cedf50bf2a05469434af65d3bcdfeee6b021e57971769f8317e07"

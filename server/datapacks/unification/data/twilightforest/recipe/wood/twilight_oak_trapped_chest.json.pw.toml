@@ -1,0 +1,8 @@
+name = "twilight_oak_trapped_chest.json"
+filename = "twilight_oak_trapped_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/ef752899e7d59cf316cbc46946b79502335326a70917bc6ef3293aec2854ce71.json"
+hash-format = "sha256"
+hash = "b2b48c5eefcc6d5cd72d391ba33dbfa9f5323bd2a74750f6280b2bf773700cc8"

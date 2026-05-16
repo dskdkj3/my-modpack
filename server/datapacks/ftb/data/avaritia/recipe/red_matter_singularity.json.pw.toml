@@ -1,0 +1,8 @@
+name = "red_matter_singularity.json"
+filename = "red_matter_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72cce8e7dd018e56308c0321992cffe42c76cd239d290af52277ce0637fd9081.json"
+hash-format = "sha256"
+hash = "738fcb5af0d8814c5a08e41056c6527b59cbe943ba3e8032713e62929f02eb02"

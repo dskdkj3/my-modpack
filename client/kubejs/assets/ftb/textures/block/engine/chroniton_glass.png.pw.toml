@@ -1,0 +1,8 @@
+name = "chroniton_glass.png"
+filename = "chroniton_glass.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78107e3d1703e65d373f5ecf16577a7e713ba9fb79dd2f13dd8101992e11b987.png"
+hash-format = "sha256"
+hash = "9239e75d6607d8d44fde2498395b318211d9d0f6c5812083d63bcbb049f6b935"

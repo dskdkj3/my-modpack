@@ -1,0 +1,8 @@
+name = "portal.json"
+filename = "portal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b0979f72500650f3e559cafc19f811759791a6e1e885f4bc110cca8aa597ff24.json"
+hash-format = "sha256"
+hash = "9cd131566ab158b700a09f06cc5709f6d7fe8b8b208ba1210a8ab816f7564b2e"

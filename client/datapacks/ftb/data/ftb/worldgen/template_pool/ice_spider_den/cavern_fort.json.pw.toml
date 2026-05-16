@@ -1,0 +1,8 @@
+name = "cavern_fort.json"
+filename = "cavern_fort.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76d73411cce88ef638622851c6918fb7a8e78237001c737374b0e45ce6cc30e9.json"
+hash-format = "sha256"
+hash = "950cbdf21b3c305d6ce2adc25783e00e3a25a2f6ab42a4f1dc2e225410b2ef9a"

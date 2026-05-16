@@ -1,0 +1,8 @@
+name = "t1_echo_machinist.json"
+filename = "t1_echo_machinist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/29b0262a079b4e51ffae759480e96f70913113bed6df190ceb33ea3f253256a3.json"
+hash-format = "sha256"
+hash = "b83f7f2f3ef43f0ffc9674ae8eedfba01b697d14a858f230b170e3c8b3aec2b2"

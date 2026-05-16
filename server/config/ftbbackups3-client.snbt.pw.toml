@@ -1,0 +1,8 @@
+name = "ftbbackups3-client.snbt"
+filename = "ftbbackups3-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/34/340f29a07380893f6949ad62c2c0c734e475eb794ebf8b32b9a786fc8b07c0cf.snbt"
+hash-format = "sha256"
+hash = "a824cbeb79776110e5e80f0a21c579bff35caf5edfd25e8da71db94322a5b827"

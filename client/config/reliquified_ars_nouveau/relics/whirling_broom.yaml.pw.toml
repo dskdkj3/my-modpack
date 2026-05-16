@@ -1,0 +1,8 @@
+name = "whirling_broom.yaml"
+filename = "whirling_broom.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6817401766ab6db102348b729e592ad3d3aa94b068df2b85a9cffe2c510db1a.yaml"
+hash-format = "sha256"
+hash = "0254e356584a47ec534fb93aa715e381f9978339c19ac3c40dd8143a505ae29d"

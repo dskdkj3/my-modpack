@@ -1,0 +1,8 @@
+name = "gold_meka.json"
+filename = "gold_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a8d1c08c086fe5e9160df85cdfb37af5b33259174c13fb0ab90fb39f474f866f.json"
+hash-format = "sha256"
+hash = "2021010e3b2d2a76562f4b832cb5f60a385333091acabb3f237cacc2df38468e"

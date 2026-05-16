@@ -1,0 +1,8 @@
+name = "_create_definitions.js"
+filename = "_create_definitions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d326c739e7abe2541d633e30877bb606cdcb5a6743d3eb85ee2dba848db4d74.js"
+hash-format = "sha256"
+hash = "b77f4c4c116902729e89040c373ddf2f5092e70f808c1af0bd4d6805cdc3d8f8"

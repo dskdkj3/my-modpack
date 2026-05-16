@@ -1,0 +1,8 @@
+name = "badlands.json"
+filename = "badlands.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/667e8533dbe1bbfce27aeb60b794a11aa56fa29315d009d40fcb3c0e94cff776.json"
+hash-format = "sha256"
+hash = "c2b49fa8a8a5fab6441a30f0e98a129ea8980136125729b622b27e46164628ae"

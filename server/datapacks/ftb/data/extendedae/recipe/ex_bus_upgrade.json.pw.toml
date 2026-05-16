@@ -1,0 +1,8 @@
+name = "ex_bus_upgrade.json"
+filename = "ex_bus_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92fa1d9e49fe7c12a00f6c9116de33c9f10990f89d6d4cf17f3ea6122531bfb3.json"
+hash-format = "sha256"
+hash = "220aded603a1c385cd77c6479187d47cedb7901b2cae66757d4f24e3a73d2340"

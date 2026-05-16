@@ -1,0 +1,8 @@
+name = "createenderstorage-1.1.1.jar"
+filename = "createenderstorage-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6869/621/createenderstorage-1.1.1.jar"
+hash-format = "sha256"
+hash = "06d3e86f893058fa50a9f36c785abd87542b8d58e3e84eff9a88ced8243d0053"

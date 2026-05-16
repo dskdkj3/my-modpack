@@ -1,0 +1,8 @@
+name = "add_chorus_succulent.json"
+filename = "add_chorus_succulent.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5a93f7970689dfbf2c96c9116202f9e2608cbf5eb3c9a72da59892d0275791f.json"
+hash-format = "sha256"
+hash = "0477564cdb0794727596148ea53e389bd0843e204a5cedd8a224b68bc4d3f58c"

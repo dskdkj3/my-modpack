@@ -1,0 +1,8 @@
+name = "point_of_interest_type.js"
+filename = "point_of_interest_type.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/3135d5cc92f4cc6848dd30d78d6cf124a8c83dfd5767188da6f7f5064eef21c9.js"
+hash-format = "sha256"
+hash = "9d3650f796530ff08ecd6921b70ec80735f199823411474b115beefbac2d0d14"

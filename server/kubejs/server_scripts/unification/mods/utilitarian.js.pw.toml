@@ -1,0 +1,8 @@
+name = "utilitarian.js"
+filename = "utilitarian.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/6998c488318e01b1358e2a268ae44206e2b1279df15908144deb51e394b3150c.js"
+hash-format = "sha256"
+hash = "25cd86dad54ef4a9f120ac07112bc3f42913ae3aa816aa6d9f8257500f400a45"

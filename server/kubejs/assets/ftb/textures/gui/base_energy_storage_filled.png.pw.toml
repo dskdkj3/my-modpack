@@ -1,0 +1,8 @@
+name = "base_energy_storage_filled.png"
+filename = "base_energy_storage_filled.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e41f6e0475d6344aa008af54cb6f383f3d372e61a1ef7570bebb905fd63c75c.png"
+hash-format = "sha256"
+hash = "3f8abf9773ace4718e107aa579145225a5e30fbd1825f694a5150d4212eb874b"

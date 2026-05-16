@@ -1,0 +1,8 @@
+name = "zinc.json"
+filename = "zinc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a479d3cf28fc6b87e1d637bc70d85fd964c35fa29eae563ac168fbfd74fc23e6.json"
+hash-format = "sha256"
+hash = "5ace36ce975eda8e939cda0866ac548d59ec21f280b52ff9b741b2442336b5c2"

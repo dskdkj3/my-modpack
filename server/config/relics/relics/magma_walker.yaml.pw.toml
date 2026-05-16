@@ -1,0 +1,8 @@
+name = "magma_walker.yaml"
+filename = "magma_walker.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/7555375ce47eef9b032885edde66179ce54e319b61d27830a87151b3f0406c5a.yaml"
+hash-format = "sha256"
+hash = "9afce9f6e3d257249738340e570ba5a97411cd894bd3b72553bb5521718a2f9f"

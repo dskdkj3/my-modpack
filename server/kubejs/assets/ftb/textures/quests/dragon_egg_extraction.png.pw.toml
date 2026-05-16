@@ -1,0 +1,8 @@
+name = "dragon_egg_extraction.png"
+filename = "dragon_egg_extraction.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6edcf8561e0862baf9fef770a109aef6575a25e6fa99e07003368ded85134cb6.png"
+hash-format = "sha256"
+hash = "fd4476064702089ae1c2f0c4b6ba4efe804429a8b33eb2da2ad9226095a5c352"

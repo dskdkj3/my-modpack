@@ -1,0 +1,8 @@
+name = "rice_panicle.json"
+filename = "rice_panicle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/dbc6b0ffcfa3f93786f68abbd568d67f7592d8901d88d87d7f313f02179cca5f.json"
+hash-format = "sha256"
+hash = "04cda267599364808db29066e69d0bf2339f643e2fbd4db7267d2bf751836bf2"

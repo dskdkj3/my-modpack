@@ -1,0 +1,8 @@
+name = "charm_backpack.yaml"
+filename = "charm_backpack.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/007b27427e387967f72f768f0de843752066aa268fce6e133839eb34c0f0b926.yaml"
+hash-format = "sha256"
+hash = "63d6c503b85380f461c332f088eec18b05fde452f7e12d4d3e8c41ab12f7a2e1"

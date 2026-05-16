@@ -1,0 +1,8 @@
+name = "swimmaze_1.nbt"
+filename = "swimmaze_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c74832362bf0bb781787ad6c3fae0f3104bb74ef840c477ce14760f0631bcf9.nbt"
+hash-format = "sha256"
+hash = "435f783a1a9a8d35344fd45d238653735402fa74867c4a98c17b782213d7a078"

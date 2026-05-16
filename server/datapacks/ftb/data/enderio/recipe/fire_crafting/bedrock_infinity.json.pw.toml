@@ -1,0 +1,8 @@
+name = "bedrock_infinity.json"
+filename = "bedrock_infinity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a023c70d1b1a68e32b43626eefd9dff0dc1237878fc7254d2cfb825726e1e362.json"
+hash-format = "sha256"
+hash = "e66949d7a4a26f72fcfed290d8044a4097daabe0ee77e0628cf6932706cbd03b"

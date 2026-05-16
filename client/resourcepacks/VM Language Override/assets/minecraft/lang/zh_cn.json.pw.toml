@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/minecraft/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/minecraft/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "ad01e4df408655cdd25080ec9e8fe645d868cd3491285694870669cbb3de828c"

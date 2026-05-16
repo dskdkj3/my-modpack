@@ -1,0 +1,8 @@
+name = "AppliedFlux-1.21-2.1.4-neoforge.jar"
+filename = "AppliedFlux-1.21-2.1.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7429/565/AppliedFlux-1.21-2.1.4-neoforge.jar"
+hash-format = "sha256"
+hash = "2d5c0dfbf1853e28d515b4224ca39a1de4520a1ac2e0fe987e6400965bf1f555"

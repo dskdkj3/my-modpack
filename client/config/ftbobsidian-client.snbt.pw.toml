@@ -1,0 +1,8 @@
+name = "ftbobsidian-client.snbt"
+filename = "ftbobsidian-client.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/18/18f5386051d79c2a18c533f2176ea77c5cf4d02f3c2de68efc7fcde50cb5a115.snbt"
+hash-format = "sha256"
+hash = "1d6faa9e1a76d13f3ab8558a3640158b1f0a54f624a4e37ddc3ef41ed4191058"

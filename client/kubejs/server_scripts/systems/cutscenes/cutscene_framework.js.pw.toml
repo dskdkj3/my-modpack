@@ -1,0 +1,8 @@
+name = "cutscene_framework.js"
+filename = "cutscene_framework.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a650ec78116e69f81a57cb2fbdbbddfd32b960d187bddd859993de8124b097af.js"
+hash-format = "sha256"
+hash = "764fe84b70630c78fe93a8a0abecb60caab55eaa10d115bb4d277639260c816b"

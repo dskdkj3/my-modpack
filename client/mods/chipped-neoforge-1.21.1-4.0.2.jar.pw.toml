@@ -1,0 +1,8 @@
+name = "chipped-neoforge-1.21.1-4.0.2.jar"
+filename = "chipped-neoforge-1.21.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5813/117/chipped-neoforge-1.21.1-4.0.2.jar"
+hash-format = "sha256"
+hash = "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"

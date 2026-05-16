@@ -1,0 +1,8 @@
+name = "bisect.png"
+filename = "bisect.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/239962d2691ccd20e23eecba26e22db67831eb497212ee8c3fd0f5d3ea032120.png"
+hash-format = "sha256"
+hash = "79e95c8d1b4c179ea66eff01c9f228a4763afce722ac82ecb02d81e4a88cc717"

@@ -1,0 +1,8 @@
+name = "optionals.json"
+filename = "optionals.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/224684fa187d8569e467686cfaa98c3c17fd1879e4660fd4e8358740e91caee0.json"
+hash-format = "sha256"
+hash = "50b2e06a6e76a39a15a2359a7e8417c18757071217173fa84c40943f32fd9881"

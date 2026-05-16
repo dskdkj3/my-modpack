@@ -1,0 +1,8 @@
+name = "more-immersive-wires-1.21.1-1.1.9.jar"
+filename = "more-immersive-wires-1.21.1-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7658/494/more-immersive-wires-1.21.1-1.1.9.jar"
+hash-format = "sha256"
+hash = "0ea0da6684ea00fa0e086c9fe234ca09b0e69c06f65d79b03593f67d202cf59c"

@@ -1,0 +1,8 @@
+name = "source_upgrade.nbt"
+filename = "source_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55556c8cd9df159743363ee55520a1cbf73081629f4c235d53b4355bd83842e9.nbt"
+hash-format = "sha256"
+hash = "41ecdd7e5f38af2aa5b331d2c4861fcb4e8a58d75e140156b9ded6fecb3ce973"

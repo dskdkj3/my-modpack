@@ -1,0 +1,8 @@
+name = "icetrap_1.nbt"
+filename = "icetrap_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4be2dc7d3c69433250b89de015c6a726a3d0c3997bea6cd052639ad1d8e42db3.nbt"
+hash-format = "sha256"
+hash = "be8bbd9dae3fb34a01f8e091b296a8ba0aafb602898ac4cdf60d20c0d1aa45b2"

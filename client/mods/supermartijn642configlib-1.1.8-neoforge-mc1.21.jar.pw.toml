@@ -1,0 +1,8 @@
+name = "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+filename = "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"

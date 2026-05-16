@@ -1,0 +1,8 @@
+name = "leather_armor.json"
+filename = "leather_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a809441c9591062a279b9035a10f620b8aa7ddae14c5d3e221cd0f4619f8ba69.json"
+hash-format = "sha256"
+hash = "29f7056b9e816cbe34ce3cce95c1920a70dd6bea4cd6d4f6de7ac66164968411"

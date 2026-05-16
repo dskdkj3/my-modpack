@@ -1,0 +1,8 @@
+name = "stoneblock_4.json"
+filename = "stoneblock_4.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33622d17399805973386a8054d1f12419c017069bb9fa4bcefd003c1fcdf1362.json"
+hash-format = "sha256"
+hash = "e69329d7dcef4a0ff61cc5a0b393703a22d091af79f39a4fff4c4382811ff9cd"

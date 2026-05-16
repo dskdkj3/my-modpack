@@ -1,0 +1,8 @@
+name = "adamant_dust.json"
+filename = "adamant_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/92/92b825470b760c24bd26d54533d6acbbfedec89fe8db594f43bff7d40c6e959a.json"
+hash-format = "sha256"
+hash = "e0f12cd89eb542d81803b94b1329b77b9836c7d2fe05ed911f1032ad860b0a6e"

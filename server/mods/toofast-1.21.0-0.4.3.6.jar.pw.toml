@@ -1,0 +1,8 @@
+name = "toofast-1.21.0-0.4.3.6.jar"
+filename = "toofast-1.21.0-0.4.3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6819/714/toofast-1.21.0-0.4.3.6.jar"
+hash-format = "sha256"
+hash = "54852c9d395b4dc870d1c8a587e4fade9fb05474540ae4d3dd196663dd6a6114"

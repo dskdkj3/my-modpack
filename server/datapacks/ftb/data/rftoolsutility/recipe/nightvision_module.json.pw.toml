@@ -1,0 +1,8 @@
+name = "nightvision_module.json"
+filename = "nightvision_module.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5f87f6fac2450d18710661eac1839354adf0c245e89afc28dea25523cbd9df31.json"
+hash-format = "sha256"
+hash = "d990ae4637d76fa7ed1c043f210c898141391b13efc0d62c76a2ef43cdecf6fe"

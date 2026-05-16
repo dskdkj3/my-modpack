@@ -1,0 +1,8 @@
+name = "moonstone.md"
+filename = "moonstone.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/58b05067d86bd0d4e3e0565d5c26c6dc47b7ebd3b655268eec934b271cb08d59.md"
+hash-format = "sha256"
+hash = "026a53da39265622858937992fae0e7b43446b44617bf5abbd4b9503205a1c33"

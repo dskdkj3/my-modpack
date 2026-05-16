@@ -1,0 +1,8 @@
+name = "duality_necklace.json"
+filename = "duality_necklace.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/641a95f13ff011e9409c45435fe763b4d24e97efc14e0ba2c7bb12e1b24a4031.json"
+hash-format = "sha256"
+hash = "89f0d0e02421b84fd5b8fd494f617b4d8065b5c52d0a02f4f10de80b6ccb592a"

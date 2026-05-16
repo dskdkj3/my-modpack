@@ -1,0 +1,8 @@
+name = "bioethanol_industrial_foregoing.json"
+filename = "bioethanol_industrial_foregoing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95934a618987cd87b0972f509f8945ce21b212ef3308bd50aa7fde8d3b82bbe0.json"
+hash-format = "sha256"
+hash = "01a43fab8d40c59544408a9bce57a17197a24061ba919baba7b5e8b4b808df7b"

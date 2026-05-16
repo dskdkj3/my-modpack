@@ -1,0 +1,8 @@
+name = "durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
+filename = "durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6833/316/durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "4a2353159c6039d8ce090f7d399ae421e648fdacb7f29a18c67b58886b36f32c"

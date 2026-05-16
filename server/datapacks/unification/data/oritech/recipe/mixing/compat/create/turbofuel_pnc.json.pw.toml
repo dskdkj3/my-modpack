@@ -1,0 +1,8 @@
+name = "turbofuel_pnc.json"
+filename = "turbofuel_pnc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6e7f30a769abdc62669c2480b477da6cc2f8918eddc7ace2ddb86e389ea7d39.json"
+hash-format = "sha256"
+hash = "fc47da282776346970f35bfde18644c3d9a680829a677ae13be9520446040881"

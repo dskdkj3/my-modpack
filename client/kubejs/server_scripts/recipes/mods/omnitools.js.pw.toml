@@ -1,0 +1,8 @@
+name = "omnitools.js"
+filename = "omnitools.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f03cc74d972b952029eca8dd99e4cda94f59b66ab0f88124d8f121a68a24ed3a.js"
+hash-format = "sha256"
+hash = "147808018547d3b001585b655f9517e59540ebd97006934354a9046a4a7d3481"

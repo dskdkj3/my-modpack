@@ -1,0 +1,8 @@
+name = "spawn_sweetberries_chicken.json"
+filename = "spawn_sweetberries_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ef/efb040c090fe016e143ff45fe7dbdc7dee5c4d0dc27065dba5b46e782ae34940.json"
+hash-format = "sha256"
+hash = "d75700639e511bb0968822aa12441f578891ff9badd969eff74c2a624a771ce8"

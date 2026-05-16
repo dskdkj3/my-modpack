@@ -1,0 +1,8 @@
+name = "water_orb_eternal.json"
+filename = "water_orb_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/242baf821a2e44cda14d47b45b2e8dd9d8352c6084f9ff673e55ac9b941c3a03.json"
+hash-format = "sha256"
+hash = "817e4509008deaa124300ba4476e915d4018e3637085e2ea755ce639354e89be"

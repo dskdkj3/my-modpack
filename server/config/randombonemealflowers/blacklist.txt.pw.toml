@@ -1,0 +1,8 @@
+name = "blacklist.txt"
+filename = "blacklist.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/848e8d8c2808f0db5dec5a5fd88bd48fa906796376e50fbdcff099e79f535261.txt"
+hash-format = "sha256"
+hash = "22c544e738ae6319a27eedf54ffdb84dd07337623c618249f3ad4146aa365101"

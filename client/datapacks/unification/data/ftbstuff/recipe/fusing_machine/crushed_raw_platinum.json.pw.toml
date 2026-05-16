@@ -1,0 +1,8 @@
+name = "crushed_raw_platinum.json"
+filename = "crushed_raw_platinum.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/1536d9d7ade3ef886fd3bf874238732c9133da0d38987157730d1838c57525d9.json"
+hash-format = "sha256"
+hash = "e8911eff3e6aff2acf107f8f6faee170ebea6d22c48a7b87f2b74eae84a2ce26"

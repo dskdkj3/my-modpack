@@ -1,0 +1,8 @@
+name = "threeway_2.nbt"
+filename = "threeway_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dce348cbcd6da0254468ac790644e5be1318390784b5c9e04bc69947b8bd8bf4.nbt"
+hash-format = "sha256"
+hash = "75f33c913f17c5a4c00c5468b5aebfd584a2243d2fa8695944c3f200c32e4cf8"

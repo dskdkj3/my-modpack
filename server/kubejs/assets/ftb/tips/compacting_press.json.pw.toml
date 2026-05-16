@@ -1,0 +1,8 @@
+name = "compacting_press.json"
+filename = "compacting_press.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53db142e6afb9def734c8b83a0904db39ee27e417dacd133de307cc6d4898f5d.json"
+hash-format = "sha256"
+hash = "89b217ef61449d6bcbd5f5cc46889e117dac302ab6b458b49719882a9572b369"

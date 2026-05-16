@@ -1,0 +1,8 @@
+name = "slide.json"
+filename = "slide.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49f90814b3b9520ef0bcc06a609bf7a46dd8b5c20f9cb7ab2f39c5966fbfdcc7.json"
+hash-format = "sha256"
+hash = "a9331da19d63bfd31d95305e06d298b3316d5a3ac03acc56bbf2a754f410a54e"

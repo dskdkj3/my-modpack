@@ -1,0 +1,8 @@
+name = "plutoniumdust.json"
+filename = "plutoniumdust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/63b246887dec55313305472244c540aa081fda4176ac46e84f71c3f01ad8f0a1.json"
+hash-format = "sha256"
+hash = "9c3cc973f8ca90407c837c2b78473938b550dafd7211fd573b77206509a2759b"

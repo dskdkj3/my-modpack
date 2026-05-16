@@ -1,0 +1,8 @@
+name = "speedpuzzle_1.nbt"
+filename = "speedpuzzle_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d3e969e6e5d5039351e002f1b248c70cc2279b6077f2b1f09017bbd41cfe441.nbt"
+hash-format = "sha256"
+hash = "91d99fd2c8cf207a6c3cdb7a899fb195dbc71197af5bd08084f1cf28a192f60d"

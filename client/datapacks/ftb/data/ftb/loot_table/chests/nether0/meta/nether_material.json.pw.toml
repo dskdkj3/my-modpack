@@ -1,0 +1,8 @@
+name = "nether_material.json"
+filename = "nether_material.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c40f0e1bc8effa120509205a4a340a717166e81e8c9723ab7b88c28e6ab2b51d.json"
+hash-format = "sha256"
+hash = "a236b2dde37b435e548000f2449eec1c811bb23a916c0673eed6cb6f8e689283"

@@ -1,0 +1,8 @@
+name = "base_fluid_storage.png"
+filename = "base_fluid_storage.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f815f2213cf4aa2606bb698bc6f3c9842934ca0f6541429a2d07840a6fcbb27d.png"
+hash-format = "sha256"
+hash = "2c46069e4ca71bbd07fc98965e06b415efdbbaa9cbfe7bd77e4ad4cb85c0c5c6"

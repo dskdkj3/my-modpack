@@ -1,0 +1,8 @@
+name = "jellyfish_necklace.yaml"
+filename = "jellyfish_necklace.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6a466c496f39cf46a5daecac461720283d69bfc002e090e727d7f4603fb8cfd.yaml"
+hash-format = "sha256"
+hash = "824e11d9d1dce06f2853d77f93d6a5a4c6e2df9445264a48c6ba50ca65d7d425"

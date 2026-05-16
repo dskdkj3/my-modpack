@@ -1,0 +1,8 @@
+name = "crushed_raw_aluminum.json"
+filename = "crushed_raw_aluminum.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fab862c64a49a77efa26eead4fc6776ce48c8cf724b79f7560b748216a73813a.json"
+hash-format = "sha256"
+hash = "939a8ecdb3dce49414ac0bc09fe4097f51162b4f1db7805cc00cf921ad6dd9fc"

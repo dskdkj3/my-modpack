@@ -1,0 +1,8 @@
+name = "build.json"
+filename = "build.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/5382501a538f939d36b67c14e98bdd036ad86f4417645e9be3ddea6c53e12085.json"
+hash-format = "sha256"
+hash = "605b5d006ef9e7db96c0241a7b0db1d7b149b29093b9c11db4f0b2eaede3fc8b"

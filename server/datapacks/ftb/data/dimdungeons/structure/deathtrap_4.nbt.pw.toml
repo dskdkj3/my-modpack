@@ -1,0 +1,8 @@
+name = "deathtrap_4.nbt"
+filename = "deathtrap_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/134ab71af731bb3979991c5188292acaeeac006decb9cdd59c0f74b852ef9acf.nbt"
+hash-format = "sha256"
+hash = "6d29319f31e981998bc7d308da189700be2582b200abd83a21da80bf5becb14f"

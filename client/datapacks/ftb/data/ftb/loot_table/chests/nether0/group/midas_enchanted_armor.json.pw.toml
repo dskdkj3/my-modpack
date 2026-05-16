@@ -1,0 +1,8 @@
+name = "midas_enchanted_armor.json"
+filename = "midas_enchanted_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b77847007cb2d0705ab6291dbe273e4bb074af061fd9622e12ef5f5be7066278.json"
+hash-format = "sha256"
+hash = "1a0a94c8ded4701414e1751974b0c6aeb5625b87eaa7d71032137655111e46d5"

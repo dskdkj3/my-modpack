@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/advanced_ae/ae2guide/_zh_cn/aae_intro/quantum_armor.md"
+filename = "quantum_armor.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/advanced_ae/ae2guide/_zh_cn/aae_intro/quantum_armor.md"
+hash-format = "sha256"
+hash = "1c0c8b44ea40413face42cc8215b376e54412eb8409cde0cd0188a9b19ba8dfb"

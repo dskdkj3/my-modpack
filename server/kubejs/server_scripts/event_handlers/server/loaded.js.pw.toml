@@ -1,0 +1,8 @@
+name = "loaded.js"
+filename = "loaded.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26e269c31bcbf2f51ebe778bd650bfea6e333552a568cdd424edb00f87a243bf.js"
+hash-format = "sha256"
+hash = "6129fa50f412830c0f08de9ed78896ea21622fc3bfbfb8d4aa85fa11f56073a8"

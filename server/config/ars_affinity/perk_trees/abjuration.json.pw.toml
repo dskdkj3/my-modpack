@@ -1,0 +1,8 @@
+name = "abjuration.json"
+filename = "abjuration.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4ae0d36937ddf36b94ae75ff04e1feb16822856292cbfba49622ff41e9703fe.json"
+hash-format = "sha256"
+hash = "0d0f483e1c7a01e5a47aefc588996bc04af1ba116de59dcc341b167670bcda37"

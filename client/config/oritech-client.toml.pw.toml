@@ -1,0 +1,8 @@
+name = "oritech-client.toml"
+filename = "oritech-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e17b53b11f40351040f6feacbff14424c873d498f5166dbe38f119149e041ea.toml"
+hash-format = "sha256"
+hash = "1052942f7b43695db6c5ff80283d17a65c38e12f0ea746842fb0b20671cfaefd"

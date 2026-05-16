@@ -1,0 +1,8 @@
+name = "black_quartz.png"
+filename = "black_quartz.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec1ceaca4099112f4311e1b53bca6554a20ce3a470ba011035a95b248c7a414c.png"
+hash-format = "sha256"
+hash = "b8c399ab6f7ceddd7bf84d7297b9122a6e1e0cb066729d7bf27738b17258fba4"

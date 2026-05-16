@@ -1,0 +1,8 @@
+name = "glyph_flare.toml"
+filename = "glyph_flare.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80edc97f42e4de227ad68f57f1d7ee599c0e2af1e51fce65a37fd17312b29a39.toml"
+hash-format = "sha256"
+hash = "475a5099fd400281ab1aeb5b38e4b95065e107ef856682bec6a6261e9c24e390"

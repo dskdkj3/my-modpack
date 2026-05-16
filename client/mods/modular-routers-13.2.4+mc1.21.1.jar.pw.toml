@@ -1,0 +1,8 @@
+name = "modular-routers-13.2.4+mc1.21.1.jar"
+filename = "modular-routers-13.2.4+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7525/2/modular-routers-13.2.4%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "49652b5ec596371f2dbff3b6b3c4d8d068d89ff52867c262f0c707dd5069f9a2"

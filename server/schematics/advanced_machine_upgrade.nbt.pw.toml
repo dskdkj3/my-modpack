@@ -1,0 +1,8 @@
+name = "advanced_machine_upgrade.nbt"
+filename = "advanced_machine_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55c946e34e80cca26bd3afe6bb6c72aa43df33214e353f57b327fc5675d50ea3.nbt"
+hash-format = "sha256"
+hash = "33e7d940a47b78f3d559f6eb6a27680d468b76fded18de9b13a831d3e174b8a8"

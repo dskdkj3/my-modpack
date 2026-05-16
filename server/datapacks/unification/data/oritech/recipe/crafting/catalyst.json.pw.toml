@@ -1,0 +1,8 @@
+name = "catalyst.json"
+filename = "catalyst.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/35b0c159bd6485fbab985233dd8db470b6a05a961d8fb6ea1348308abcd264e7.json"
+hash-format = "sha256"
+hash = "3de34e1264280b1dbb36c0e42b8f41937a3c1170caab93d768f164fabab95ad1"

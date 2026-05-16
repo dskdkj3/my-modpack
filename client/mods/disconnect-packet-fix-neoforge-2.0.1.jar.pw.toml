@@ -1,0 +1,8 @@
+name = "disconnect-packet-fix-neoforge-2.0.1.jar"
+filename = "disconnect-packet-fix-neoforge-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6064/142/disconnect-packet-fix-neoforge-2.0.1.jar"
+hash-format = "sha256"
+hash = "6254f47c73249108706860505f8261b0273aafdc53fe8008aadfca162f0cfd3b"

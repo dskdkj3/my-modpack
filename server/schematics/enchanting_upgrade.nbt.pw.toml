@@ -1,0 +1,8 @@
+name = "enchanting_upgrade.nbt"
+filename = "enchanting_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/535933ba55bf7db3eb4acac14010fb2b7613b2fcdc57350499af6e279b6d2999.nbt"
+hash-format = "sha256"
+hash = "c5f8a34ba6e6ad97d9551c7868c1314e13a697bbedf242e2ff770c8ecde0e1cd"

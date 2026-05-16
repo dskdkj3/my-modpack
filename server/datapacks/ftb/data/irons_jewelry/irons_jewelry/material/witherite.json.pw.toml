@@ -1,0 +1,8 @@
+name = "witherite.json"
+filename = "witherite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95ab5602ecf6ccd190f8f3d003cb1a67d84a2dfe12bba92e868baed8d312ddf2.json"
+hash-format = "sha256"
+hash = "aa4004e40d004ce4c0d9651d00e649aca4b9340685048e60259efa6cbeb9cc41"

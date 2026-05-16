@@ -1,0 +1,8 @@
+name = "reactor_ui_charge.png"
+filename = "reactor_ui_charge.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6dfdbe09a7de6a5e8528bc0fa6c039cda4621be52b43d6acc175269e5f70fe0a.png"
+hash-format = "sha256"
+hash = "6fb62d358841f112dedef249d1cb547b6d3277b34a7377d6d0879f09260b6cd9"

@@ -1,0 +1,8 @@
+name = "tr_tr.json"
+filename = "tr_tr.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/7936d6be79e409118a07ab55a42fc052cb938e73ccca7699f22135a89af84386.json"
+hash-format = "sha256"
+hash = "4f88107bb9443a10ea044f9a1e4c233d23cc0e225b98ae135fb1bfa254c2030d"

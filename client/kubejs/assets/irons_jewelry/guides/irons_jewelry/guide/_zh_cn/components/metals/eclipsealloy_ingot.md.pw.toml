@@ -1,0 +1,8 @@
+name = "eclipsealloy_ingot.md"
+filename = "eclipsealloy_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d6c9ba17732509df016191a19231414288afddbdffede0af69e98ff2741718c.md"
+hash-format = "sha256"
+hash = "15930128c89bec534ef24669e78eae8257578250820258105317d0a89c340685"

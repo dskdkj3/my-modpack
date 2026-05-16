@@ -1,0 +1,8 @@
+name = "simplyswords-neoforge-1.63.0-1.21.1.jar"
+filename = "simplyswords-neoforge-1.63.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7704/396/simplyswords-neoforge-1.63.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198"

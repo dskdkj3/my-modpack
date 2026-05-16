@@ -1,0 +1,8 @@
+name = "chorus_totem.yaml"
+filename = "chorus_totem.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f58e2e89e8c9e275fe8980516bf95349d4ebe42192cfcbec20002cd44d8ea650.yaml"
+hash-format = "sha256"
+hash = "ccd377a7dac21a7f65a1d6220a76a1a2488101c3010e0ed2a5ef1dd191f3fcc6"

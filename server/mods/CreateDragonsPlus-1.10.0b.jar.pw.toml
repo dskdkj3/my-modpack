@@ -1,0 +1,8 @@
+name = "CreateDragonsPlus-1.10.0b.jar"
+filename = "CreateDragonsPlus-1.10.0b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar"
+hash-format = "sha256"
+hash = "8cc47a5ea04c8bbefd24ebca67d45e6a44f80925723cb2f82676d27b0a2a9d66"

@@ -1,0 +1,8 @@
+name = "amendments-client.toml"
+filename = "amendments-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e24cfc4cdc83a8aabde07506519ae8bf3ea35a13deba2a16237f42bda74faab.toml"
+hash-format = "sha256"
+hash = "e0a649d7c9c499ab589c2a29380d4906dc9cb57215d1d5a3e08835fde3595e7c"

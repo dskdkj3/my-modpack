@@ -1,0 +1,8 @@
+name = "sodium-mixins.properties"
+filename = "sodium-mixins.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7ebaeb3dd6b25b280d1757b584f0655ab028a76ed0a345852c413dd345f73feb.properties"
+hash-format = "sha256"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"

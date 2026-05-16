@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/backgrounds/tempad_bg.png"
+filename = "tempad_bg.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/backgrounds/tempad_bg.png"
+hash-format = "sha256"
+hash = "866a12edbf9fdf51bb302f78ee3393c0d49bdc96e30b91b5da2de28cb96c48a6"

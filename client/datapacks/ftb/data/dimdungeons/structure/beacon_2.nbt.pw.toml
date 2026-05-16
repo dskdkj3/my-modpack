@@ -1,0 +1,8 @@
+name = "beacon_2.nbt"
+filename = "beacon_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/9456f9370231abc5bff7476181c887df00440d2e71674810e57abd48a8d5b9c5.nbt"
+hash-format = "sha256"
+hash = "19a3d4555b387c69867efbd23e1eed75171d28de960d39c1610f988a17b279de"

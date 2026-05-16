@@ -1,0 +1,8 @@
+name = "randombonemealflowers-1.21.1-4.7.jar"
+filename = "randombonemealflowers-1.21.1-4.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6185/337/randombonemealflowers-1.21.1-4.7.jar"
+hash-format = "sha256"
+hash = "d1ad966c88f0d5d01781a495a49da78807db106217dae2a5db0d992b95d064c0"

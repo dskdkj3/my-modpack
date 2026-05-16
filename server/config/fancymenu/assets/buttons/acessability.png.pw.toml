@@ -1,0 +1,8 @@
+name = "acessability.png"
+filename = "acessability.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a4a4d9d239cf8c413991018895b88c0140b998e0c5efc1385591b9f3b5fa9a73.png"
+hash-format = "sha256"
+hash = "f4b8e2bb55a6399e0a4a79cc82592d9f0702129992ed01c5e31d386a1b806bc8"

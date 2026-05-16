@@ -1,0 +1,8 @@
+name = "emi.yaml"
+filename = "emi.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/74cd018ed2fffd2329c65fca05f0c69bfcc612519872ba0fea30e876880a4dc7.yaml"
+hash-format = "sha256"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"

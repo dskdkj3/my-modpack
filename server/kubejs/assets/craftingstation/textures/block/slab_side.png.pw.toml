@@ -1,0 +1,8 @@
+name = "slab_side.png"
+filename = "slab_side.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e01c6072a1aa729ac9d2383d5878ee1df65c5d259a6ae3f6de15903a5c10479.png"
+hash-format = "sha256"
+hash = "31e13f8419301da7c4367651914a797784c0c365ee450b3e3bd282ea09e88940"

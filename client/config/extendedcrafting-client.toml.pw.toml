@@ -1,0 +1,8 @@
+name = "extendedcrafting-client.toml"
+filename = "extendedcrafting-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cbc156112594fc7fd3cadee7900715a74b22f7b716a433f2dc6a1bf3f4ccd348.toml"
+hash-format = "sha256"
+hash = "44bc452020ee1eccf62f9dd63e8ccdc8e371f7280b1ffd65b4eff8f751987581"

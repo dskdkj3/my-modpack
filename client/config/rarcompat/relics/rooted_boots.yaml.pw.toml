@@ -1,0 +1,8 @@
+name = "rooted_boots.yaml"
+filename = "rooted_boots.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a7e91de94dc89363565e396d220a9894e39e07cbb4455556a7f6f15103d5309.yaml"
+hash-format = "sha256"
+hash = "055069ce16991888975dae9f0a44cfea24ec91797637cd7b18e28773eb1efb31"

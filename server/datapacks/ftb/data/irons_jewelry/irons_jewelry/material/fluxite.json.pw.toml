@@ -1,0 +1,8 @@
+name = "fluxite.json"
+filename = "fluxite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/617721413cec7cad61f7c699d6d71e05706db1ebfcd4d91d392cf70ac8734ce4.json"
+hash-format = "sha256"
+hash = "6b4e4959ce98c2e86374adc30927ace1f32b1a0598bf2de42de6d3565e689ce9"

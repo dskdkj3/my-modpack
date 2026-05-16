@@ -1,0 +1,8 @@
+name = "upgrade_chainmail_boots_to_iron_boots.json"
+filename = "upgrade_chainmail_boots_to_iron_boots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/1054acd61b8392fc8e8581f2c74d8746bd87900f88e1eda8c7e4af553760b621.json"
+hash-format = "sha256"
+hash = "954735d6d0ceb3a90773ad89226bf41ec553d8a50680d7f466a1429012604eba"

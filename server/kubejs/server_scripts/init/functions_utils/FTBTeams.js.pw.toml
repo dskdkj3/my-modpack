@@ -1,0 +1,8 @@
+name = "FTBTeams.js"
+filename = "FTBTeams.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2ef611a92065a63c1bd705e32c04bd1bb9ff187d3e50fc1c48f8ebe5326e9d00.js"
+hash-format = "sha256"
+hash = "9e4ecc6c1dfe2fa91e5a842a219886db383b8882f2a7fa91018adf1ed463301d"

@@ -1,0 +1,8 @@
+name = "glyph_gust.toml"
+filename = "glyph_gust.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eab1b35e3cc57015a1e7eb0b1b381b7bbc1ea0f937872f2f97608c49ee7dda94.toml"
+hash-format = "sha256"
+hash = "29d609f56b64275ad70cca667792fb0eb3f52507e72aaac6863f17293d84ade6"

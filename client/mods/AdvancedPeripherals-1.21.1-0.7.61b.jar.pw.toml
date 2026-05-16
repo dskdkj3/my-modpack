@@ -1,0 +1,8 @@
+name = "AdvancedPeripherals-1.21.1-0.7.61b.jar"
+filename = "AdvancedPeripherals-1.21.1-0.7.61b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7843/484/AdvancedPeripherals-1.21.1-0.7.61b.jar"
+hash-format = "sha256"
+hash = "aeeb4ec4f0eb192b6fdb278b8df248a041863f6a83dd46eb92450b1d779a6582"

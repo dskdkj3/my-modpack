@@ -1,0 +1,8 @@
+name = "gold_ingot.md"
+filename = "gold_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/863501e96617d68779058ccbc97bfd137432b20c718d290a41e1a25fca8f605b.md"
+hash-format = "sha256"
+hash = "e4c3e848ee68c1e1775346933f578757e2d53ef68bb0992a83448fcd3c153ed9"

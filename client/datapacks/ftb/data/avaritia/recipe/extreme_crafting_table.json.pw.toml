@@ -1,0 +1,8 @@
+name = "extreme_crafting_table.json"
+filename = "extreme_crafting_table.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1de6c260251b1eb06bc32d54cf039017192aa5bf9f11000a4d1562091906ac3.json"
+hash-format = "sha256"
+hash = "24d9a1cac48b1ceb4a93a3bbce733a2d1115fdd7f8efa0c454c999046be59445"

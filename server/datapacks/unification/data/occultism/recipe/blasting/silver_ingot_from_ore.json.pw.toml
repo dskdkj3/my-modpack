@@ -1,0 +1,8 @@
+name = "silver_ingot_from_ore.json"
+filename = "silver_ingot_from_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f1f400470dca60b79556cbf518ba7af401a1150e70bae543ceb3e5beff15cfc.json"
+hash-format = "sha256"
+hash = "9c0346e36f197334529726cecbdcfed4eefab1b4f16749058126db6f474f0061"

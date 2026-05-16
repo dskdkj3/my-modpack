@@ -1,0 +1,8 @@
+name = "antimatter_fragments.png.mcmeta"
+filename = "antimatter_fragments.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f96573e40f72030c962f03979739759dedeb0ef06e94bb0c8bb6769312014ed.mcmeta"
+hash-format = "sha256"
+hash = "a6e639b1ad14d501599d43ce12fc8cc5d3b21619d0875ea616687ddb59231049"

@@ -1,0 +1,8 @@
+name = "aluminum_meka.json"
+filename = "aluminum_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e38a11087bafd2027f0e809ca0b9c3047dfd9c119996b21ae2b26c2e48023e9.json"
+hash-format = "sha256"
+hash = "9716c9ebc6e2c21e7c379286c3cd9b65de9cdaf8c0bb12be775256daf5ecc539"

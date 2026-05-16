@@ -1,0 +1,8 @@
+name = "spawn_soulsand_chicken.json"
+filename = "spawn_soulsand_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8287b3be25dfe489a7a769be3ecc96ae5f3e27ba78a63e6cddd4ef0dbd798dd.json"
+hash-format = "sha256"
+hash = "21566da8f684ca51e070a85c6ae9fa55bf6e73c9e1ace87f2da038a5d8e525f9"

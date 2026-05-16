@@ -1,0 +1,8 @@
+name = "element_layer_control.lewidget"
+filename = "element_layer_control.lewidget"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9fb7074338d7b447608a352a9045c6d0bd282fbc60449676f6c2375f3d2e19d2.lewidget"
+hash-format = "sha256"
+hash = "14bedd8f21e5aebf9a0e8d99b8ec9e8483409ec0f3a769ab39ca1a7f4f194e35"

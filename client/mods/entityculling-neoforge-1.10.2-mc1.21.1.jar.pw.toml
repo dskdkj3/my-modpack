@@ -1,0 +1,8 @@
+name = "entityculling-neoforge-1.10.2-mc1.21.1.jar"
+filename = "entityculling-neoforge-1.10.2-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8053/771/entityculling-neoforge-1.10.2-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"

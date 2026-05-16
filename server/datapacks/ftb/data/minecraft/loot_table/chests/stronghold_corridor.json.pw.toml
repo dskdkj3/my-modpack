@@ -1,0 +1,8 @@
+name = "stronghold_corridor.json"
+filename = "stronghold_corridor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d703914bcf3006969d105f09b20f7e69269afe85f6bed2be8889d7d071c43c25.json"
+hash-format = "sha256"
+hash = "1397443b6d65886c52a7239b64d2ab091453b0694550c57f4cbdff87f8fa5e4a"

@@ -1,0 +1,8 @@
+name = "keytrap_2.nbt"
+filename = "keytrap_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3cbb6ff587081bff34ea31fe48d2207264624f3928b11992b37e9ddd5e42ec6.nbt"
+hash-format = "sha256"
+hash = "b8f234340b6d7e3455c6d2b9b4be87382f4b3041996b9dd084441e15eeefa59c"

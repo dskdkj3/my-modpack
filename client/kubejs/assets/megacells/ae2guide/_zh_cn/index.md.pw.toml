@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/megacells/ae2guide/_zh_cn/index.md"
+filename = "index.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/megacells/ae2guide/_zh_cn/index.md"
+hash-format = "sha256"
+hash = "c88817f659e776a377e13a1b76394540b1da88f7f1f8a9706229ab7ad9c83287"

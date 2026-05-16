@@ -1,0 +1,8 @@
+name = "cloak_of_concealment.yaml"
+filename = "cloak_of_concealment.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac26baec1ac15546256506ee005e0bd52e0bca94b7567e264b8dd223695a6378.yaml"
+hash-format = "sha256"
+hash = "f157f58ec65d7385911f4834db09b525ab381f8b324cb33ffcdeb849d58cd1b2"

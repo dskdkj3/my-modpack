@@ -1,0 +1,8 @@
+name = "range_addon_tier_10.json"
+filename = "range_addon_tier_10.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/5314e82b668b4f010f3dc842966b16389f6a643c6aa94e1996b0ce6647007f76.json"
+hash-format = "sha256"
+hash = "a7023c1895eda664046f4b3e9d40d70398b861a6d7003fd64f576ab220530d27"

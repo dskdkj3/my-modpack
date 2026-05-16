@@ -1,0 +1,8 @@
+name = "glass_panes.json"
+filename = "glass_panes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5e0118e874a7ab4faddd0cbbb0f3e6314d01f7c4166a1c1a00ff1139a1b7670.json"
+hash-format = "sha256"
+hash = "1fd2c48eb38d2951d0508195a061e08d029eb63c32d0b39b3095fbbb8366e713"

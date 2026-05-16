@@ -1,0 +1,8 @@
+name = "psigem.json"
+filename = "psigem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f63e53098ea1a58aed941a2dabcbea4ddfb8fd14e06ba0d2c052ecbceafc4ee.json"
+hash-format = "sha256"
+hash = "148d0adf153d2abbc36d6efe5b1bfcbc78a2b16e9448ac4ee7ec63c43f4b7643"

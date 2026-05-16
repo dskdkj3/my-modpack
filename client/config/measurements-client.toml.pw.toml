@@ -1,0 +1,8 @@
+name = "measurements-client.toml"
+filename = "measurements-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0ae6eb121332b1b7a7eed809bc8055d3e50f22dd8d4587787be3bf8204520cd8.toml"
+hash-format = "sha256"
+hash = "419bb9b5e8fb80effc0b383304102635cfd24160c785d74fd58bc3f7447b36fe"

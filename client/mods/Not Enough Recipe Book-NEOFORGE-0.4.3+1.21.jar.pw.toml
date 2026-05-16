@@ -1,0 +1,8 @@
+name = "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar"
+filename = "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6880/47/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2b1.21.jar"
+hash-format = "sha256"
+hash = "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0"

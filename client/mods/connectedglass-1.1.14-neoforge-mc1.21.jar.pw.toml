@@ -1,0 +1,8 @@
+name = "connectedglass-1.1.14-neoforge-mc1.21.jar"
+filename = "connectedglass-1.1.14-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6811/960/connectedglass-1.1.14-neoforge-mc1.21.jar"
+hash-format = "sha256"
+hash = "e5b2a1cd8ef1b8a49a322aeccfc5cd9a53d8303613b9f30718f12a1e525d49fe"

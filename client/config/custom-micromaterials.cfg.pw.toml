@@ -1,0 +1,8 @@
+name = "custom-micromaterials.cfg"
+filename = "custom-micromaterials.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/bede3a3b3776c0ed298d46a7d4a700b0b487e5ab4ba83d125b3237795e660041.cfg"
+hash-format = "sha256"
+hash = "e135509de6da12c503afab230207e0306ecc8925f80e9ec1df4ce1dd3edb8a25"

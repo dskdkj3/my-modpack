@@ -1,0 +1,8 @@
+name = "corner_template.nbt"
+filename = "corner_template.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02111323200747fe9ceaeb2529859463214b53eec1955562d2b6b0cea3085ee0.nbt"
+hash-format = "sha256"
+hash = "7244888759eb5f016c310234afe34c57abe828a9dc03c59399b8217c5d9181e8"

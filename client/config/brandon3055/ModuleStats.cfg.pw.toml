@@ -1,0 +1,8 @@
+name = "ModuleStats.cfg"
+filename = "ModuleStats.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f96d80e8e4c2f813e33a6547040dae827472fc77fc84bb01f2548604b429c079.cfg"
+hash-format = "sha256"
+hash = "f0a816673cd675d134f591070451b521fb3cc2f0aee86b0b110b1fa3cfa49772"

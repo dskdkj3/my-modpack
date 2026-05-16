@@ -1,0 +1,8 @@
+name = "Clavis-NEOFORGE-0.2.13+1.21.1.jar"
+filename = "Clavis-NEOFORGE-0.2.13+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7845/735/Clavis-NEOFORGE-0.2.13%2b1.21.1.jar"
+hash-format = "sha256"
+hash = "e939109015d5aaae6a50346f33fdd554baf50564f275aae67053a7f3d9504650"

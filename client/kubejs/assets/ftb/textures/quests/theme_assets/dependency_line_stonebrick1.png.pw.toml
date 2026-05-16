@@ -1,0 +1,8 @@
+name = "dependency_line_stonebrick1.png"
+filename = "dependency_line_stonebrick1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f83d65195f25ab3c45beff418ff37765fd6f2a445f3088069e7a27de20b90388.png"
+hash-format = "sha256"
+hash = "b5b96811d64f0338fd0b1c17bbe0c18ba09905d60da9e267a6b4d29427140bbb"

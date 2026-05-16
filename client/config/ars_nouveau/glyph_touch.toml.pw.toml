@@ -1,0 +1,8 @@
+name = "glyph_touch.toml"
+filename = "glyph_touch.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/513505fb71c4d9788b003b7fb4d5f20586f26c65ff4978c2a67a9abfa6d25a22.toml"
+hash-format = "sha256"
+hash = "b8bbd2c7b5d7744bc48f1b431e25209bd3ad7d92ebf206059386aed59714bf84"

@@ -1,0 +1,8 @@
+name = "sheolfire.json"
+filename = "sheolfire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0bedbfcb68310ab9eb63bdfa7fe60a1281aac91a7c1a5c871b31f5fa9cf45df8.json"
+hash-format = "sha256"
+hash = "0b29b93f4ce9c01b660df1438e36d9cc59024c590aa8bdee5505ddcca4185c80"

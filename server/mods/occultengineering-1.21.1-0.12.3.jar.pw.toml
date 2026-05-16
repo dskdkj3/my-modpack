@@ -1,0 +1,8 @@
+name = "occultengineering-1.21.1-0.12.3.jar"
+filename = "occultengineering-1.21.1-0.12.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7999/508/occultengineering-1.21.1-0.12.3.jar"
+hash-format = "sha256"
+hash = "8ba5f2442359ec7273193d149c944e4fa891fde4e35696770780aea8cbac96bc"

@@ -1,0 +1,8 @@
+name = "blank_slate.png"
+filename = "blank_slate.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c671dd1f937aa5ac674c4d767434013ce21ea0e7eb46d371627b6c4a02d5632a.png"
+hash-format = "sha256"
+hash = "bcd580bbcf9830582af5d750a1efefd3f19b5892843889ac0e9e1b1040d0dd6d"

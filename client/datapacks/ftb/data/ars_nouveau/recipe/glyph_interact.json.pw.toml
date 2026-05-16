@@ -1,0 +1,8 @@
+name = "glyph_interact.json"
+filename = "glyph_interact.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e2/e203ca381fb96a3297b1732c29b818f3666396d403f17aaf1d7edf2b06ce7693.json"
+hash-format = "sha256"
+hash = "e4450c7d04fb7b262e2a101874c389bcf76057eeb4c7695dea692c0d35604979"

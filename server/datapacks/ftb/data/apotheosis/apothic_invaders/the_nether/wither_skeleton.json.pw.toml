@@ -1,0 +1,8 @@
+name = "wither_skeleton.json"
+filename = "wither_skeleton.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5df4b148ba6215ba68e941f746e42de1923cc05e12881327d3ee2f496939a128.json"
+hash-format = "sha256"
+hash = "1bd789247860a6fb7fdead8960286119511916087ccf8cda1a1f6c6d7e7f341c"

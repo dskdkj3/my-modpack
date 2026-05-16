@@ -1,0 +1,8 @@
+name = "xnetgases-1.21.1-6.0.2.jar"
+filename = "xnetgases-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7561/388/xnetgases-1.21.1-6.0.2.jar"
+hash-format = "sha256"
+hash = "9722e7bd07bb67d67b857452a7e7312e29f709d677dead8093a813c9b9d2e91b"

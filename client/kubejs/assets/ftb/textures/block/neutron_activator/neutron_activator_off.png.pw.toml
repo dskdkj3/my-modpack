@@ -1,0 +1,8 @@
+name = "neutron_activator_off.png"
+filename = "neutron_activator_off.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/5334eb32a2b070a5c41282cd1d7f4c1f2f54b82ebd36948ff47bef878c891054.png"
+hash-format = "sha256"
+hash = "1a8f0704bf4044f6847b58e42b26fb24d1f4048eebbeae44271a7fd20e64cbd5"

@@ -1,0 +1,8 @@
+name = "bio_industrial_foregoing.json"
+filename = "bio_industrial_foregoing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/258725e4ff04cb3834a21618d8ceb218b97e384bf78a1d02a112c6093d7fa8e2.json"
+hash-format = "sha256"
+hash = "0925927f1edf38391cf5a20ba481b569b30db60fee021c816b2c2b8ec4c438fb"

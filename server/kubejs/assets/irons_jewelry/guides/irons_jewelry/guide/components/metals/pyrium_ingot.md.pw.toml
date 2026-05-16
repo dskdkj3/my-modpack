@@ -1,0 +1,8 @@
+name = "pyrium_ingot.md"
+filename = "pyrium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fef501fc2c0d362ad0c83d29b5afa8abba24afd2141a4631a6375931607cfa5f.md"
+hash-format = "sha256"
+hash = "c1965ea56d5cb877de03e1e63c806c7cd257ce1c0cfc015a93b6c9e8cd422ae9"

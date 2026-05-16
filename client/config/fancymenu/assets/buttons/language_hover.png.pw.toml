@@ -1,0 +1,8 @@
+name = "language_hover.png"
+filename = "language_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae1ce7835ba7c0ee25036680833c9eb51961347f78b0cb46d7f7d72b5e8e70bb.png"
+hash-format = "sha256"
+hash = "0a310a78253b4382c855d6a54ee8ec9d0fdac35f3238c6520bc006ee38b4f800"

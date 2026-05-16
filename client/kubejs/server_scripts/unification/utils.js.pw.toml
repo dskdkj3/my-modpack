@@ -1,0 +1,8 @@
+name = "utils.js"
+filename = "utils.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2ea06f2971b4a507dc313c736f65838dbfb5c5f2d10e8c5c7694598242860c64.js"
+hash-format = "sha256"
+hash = "a7a198c02c35eda5c9b424ceddb986dd61345acae0e7cc9607126c9ed29eb199"

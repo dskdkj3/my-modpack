@@ -1,0 +1,8 @@
+name = "controller.md"
+filename = "controller.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1eaf9d16cd3f59dd33eb9a6191d2e4815f10abd5c609a2462a5a443c3196107.md"
+hash-format = "sha256"
+hash = "011de29dd1ec32bc74773aae77bddbdec965ccc84c1dfe36ad2c73140c19463e"

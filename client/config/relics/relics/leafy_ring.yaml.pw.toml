@@ -1,0 +1,8 @@
+name = "leafy_ring.yaml"
+filename = "leafy_ring.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cf9ce23d8ca248c12d75a6b7df65b25980be986e0772cb0aa1cd9218b7fdd2cd.yaml"
+hash-format = "sha256"
+hash = "a7999898eb81f0cbbf110d164b27ec58c29a0df80cf7fda37b7527b4a921cd52"

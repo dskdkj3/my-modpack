@@ -1,0 +1,8 @@
+name = "carbonsheet.json"
+filename = "carbonsheet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e0b6f0bd8cd153b22d8d89680da63b650b370acd5ed46e7aedb686e249c8df1c.json"
+hash-format = "sha256"
+hash = "dfc112f8c59f8e90894975c7d2f26d62bc8e5a7006348c7d22fa3dcb68e8c7e0"

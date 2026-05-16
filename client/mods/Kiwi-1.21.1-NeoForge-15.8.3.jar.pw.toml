@@ -1,0 +1,8 @@
+name = "Kiwi-1.21.1-NeoForge-15.8.3.jar"
+filename = "Kiwi-1.21.1-NeoForge-15.8.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7666/569/Kiwi-1.21.1-NeoForge-15.8.3.jar"
+hash-format = "sha256"
+hash = "16a7f5cf0015ac86ad977b397d6dfef14884412e14c14d428a3598436a2c9561"

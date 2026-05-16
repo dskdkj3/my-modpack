@@ -1,0 +1,8 @@
+name = "machine-generator.toml"
+filename = "machine-generator.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68d9a9c03efdd09846587eae7cbf311bdebc669c9b60e20233b232d058c0e15c.toml"
+hash-format = "sha256"
+hash = "3de46a35b80df8aceda2dbf75cba36f0ff11fa923397cdbacfdba3ba2385dd15"

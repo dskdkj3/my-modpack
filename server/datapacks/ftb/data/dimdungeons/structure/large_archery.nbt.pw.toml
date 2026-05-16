@@ -1,0 +1,8 @@
+name = "large_archery.nbt"
+filename = "large_archery.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c086c78f6798a73452b4c2338ea59d8bd266e71026ef106874cdd83ac156bc29.nbt"
+hash-format = "sha256"
+hash = "bd675740c721e4a7d6e7329370604243ad5063f72e84bd83ac4882a8cd2ebd8b"

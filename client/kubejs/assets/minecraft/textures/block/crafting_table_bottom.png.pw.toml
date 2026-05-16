@@ -1,0 +1,8 @@
+name = "crafting_table_bottom.png"
+filename = "crafting_table_bottom.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/25dd36ad66ddfddc304304d395d2ff1d0b3c25de580921e79df6ef2484d65cdb.png"
+hash-format = "sha256"
+hash = "f648d61695f13bd9f50fa7de13942a4c524ff07c62566b4dcc0c5262f3f6c41a"

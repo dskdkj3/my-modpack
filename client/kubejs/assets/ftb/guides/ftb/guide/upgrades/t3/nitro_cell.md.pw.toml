@@ -1,0 +1,8 @@
+name = "nitro_cell.md"
+filename = "nitro_cell.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1ab7104471c9b8549e91427cb0ec1d06c578fdf785584ee9c956b033c1bb5c8d.md"
+hash-format = "sha256"
+hash = "cd1cd4aa5762dfcfb2e7c60d6a7e018259f14af1c7d58d8c57fdf1b07a14c550"

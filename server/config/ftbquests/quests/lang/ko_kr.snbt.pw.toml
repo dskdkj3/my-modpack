@@ -1,0 +1,8 @@
+name = "ko_kr.snbt"
+filename = "ko_kr.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/60/602ca9637512cc03b40ae60efcffbafcbde3571f958bf43020b4432a8af4aafc.snbt"
+hash-format = "sha256"
+hash = "1825a032361c7e13adf528163c00ba3c0e2051d1f3932a8455f2e483fc2191db"

@@ -1,0 +1,8 @@
+name = "cognitive_crystal.json"
+filename = "cognitive_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4ffed1e3e91ad50fb3d7253ab2b2f9a5c9ffb1e99360334237990633a77848c2.json"
+hash-format = "sha256"
+hash = "f21303f72c5e021db2501a1000f63c2a2a3625d09865b9a98dc0c5b4d7a403d7"

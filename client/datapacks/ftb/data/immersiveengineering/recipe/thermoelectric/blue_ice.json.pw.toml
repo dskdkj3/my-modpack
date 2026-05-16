@@ -1,0 +1,8 @@
+name = "blue_ice.json"
+filename = "blue_ice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/50/5024c0bfa37a039d907e2edf936574e85c1e9edfddeb965da447236fdbb8d498.json"
+hash-format = "sha256"
+hash = "bf58c367a6d1ef0acae95e2d10c144cf331cc7c1044e6c2f052ebab677b46cde"

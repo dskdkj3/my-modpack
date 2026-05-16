@@ -1,0 +1,8 @@
+name = "pipez-server.toml"
+filename = "pipez-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aed6046921fa1e218874a8189d635fefd8d1776ded1d1d2f430dfb86a97021e7.toml"
+hash-format = "sha256"
+hash = "d6975c7ce7394979f1870f853ef0b6cbd8a14e37a6f7009b31eb2845a95d4ef7"

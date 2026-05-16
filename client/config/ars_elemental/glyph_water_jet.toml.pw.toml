@@ -1,0 +1,8 @@
+name = "glyph_water_jet.toml"
+filename = "glyph_water_jet.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/56/5645e0da9b10c2d72596ecf6e726d589926d7f9f47e84fadb2b12c11e3509f72.toml"
+hash-format = "sha256"
+hash = "2e7dda43811662eec984efaaebb5523278c5f9f5d3979b836120557a85f233bb"

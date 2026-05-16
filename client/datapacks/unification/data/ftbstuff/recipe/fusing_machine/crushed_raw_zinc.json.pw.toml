@@ -1,0 +1,8 @@
+name = "crushed_raw_zinc.json"
+filename = "crushed_raw_zinc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/1163628e3a942300ebb5407ed3015f679684036353d8a73ceeebd515ea65e670.json"
+hash-format = "sha256"
+hash = "6c76730c7add3393b91f17dc08b9d8efa43f3c43c348f3dd4e45f3d7e8c9b18f"

@@ -1,0 +1,8 @@
+name = "eclipsealloy.md"
+filename = "eclipsealloy.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb766efa30aa6baf8066302e5a52c2b304ac5e5ce58886e215d92cf4b2fb6189.md"
+hash-format = "sha256"
+hash = "45078a166beca03e960fd65eb8b5b3f72182344cb832f659350d71af367798c5"

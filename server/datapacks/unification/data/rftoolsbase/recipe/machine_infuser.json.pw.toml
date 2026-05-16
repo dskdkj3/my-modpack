@@ -1,0 +1,8 @@
+name = "machine_infuser.json"
+filename = "machine_infuser.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/ce67c4bba5889754036f94023d0da9c59f934c1e48144b2da8d0931c3bcc6164.json"
+hash-format = "sha256"
+hash = "b01a2075f360ebe0483478ef41aa70a8094fa49a6bede1b70b1666bd9f886ffe"

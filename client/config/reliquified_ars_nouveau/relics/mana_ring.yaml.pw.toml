@@ -1,0 +1,8 @@
+name = "mana_ring.yaml"
+filename = "mana_ring.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aad3a6ed367ffdfaf2995e70d975305af5588108d95e7df4aeb5dc78d8f050aa.yaml"
+hash-format = "sha256"
+hash = "c2bf27506856f9bf87d925d87861827646cae891e8c6f5f4930bc39b0ff3c8eb"

@@ -1,0 +1,8 @@
+name = "bat.json"
+filename = "bat.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0fc37bbb1676d8011b090aee6c7904c8390dc7a1266dfcf155c73e2bc2e22310.json"
+hash-format = "sha256"
+hash = "09e6af5a47dbc7ad98e7782dd01f54e98413cbe5055742c9126203dc3081219d"

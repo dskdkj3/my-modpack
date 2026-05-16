@@ -1,0 +1,8 @@
+name = "tinted_glass_lead_wire.json"
+filename = "tinted_glass_lead_wire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d43a607e4b4178b112ca741cbfbcbd043a96f612781f7cafea15ba7090807184.json"
+hash-format = "sha256"
+hash = "5ab6b40c06b8a0021d42900ac1d331c147b63070b73a441917a4cc46a7df157f"

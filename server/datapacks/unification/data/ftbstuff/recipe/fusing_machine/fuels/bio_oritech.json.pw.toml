@@ -1,0 +1,8 @@
+name = "bio_oritech.json"
+filename = "bio_oritech.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9c8c60ec032077ce4b69e398a5f03b8ce7a1abf093c2a8362668f8f7d50d44d.json"
+hash-format = "sha256"
+hash = "ada341c8236bf3d6dc232b796e5599db66d05378bbbac604cc2232f374261324"

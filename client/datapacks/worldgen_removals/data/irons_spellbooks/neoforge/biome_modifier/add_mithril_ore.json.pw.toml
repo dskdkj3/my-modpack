@@ -1,0 +1,8 @@
+name = "add_mithril_ore.json"
+filename = "add_mithril_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fab5651fa9613e76ebe93e2802ece959e5fb5e2c2770683d05b93cbafe755253.json"
+hash-format = "sha256"
+hash = "e0dfe6344fbfc2b8232cab4e0e52b3997b800151fe261219786b74aee43374be"

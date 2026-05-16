@@ -1,0 +1,8 @@
+name = "dimdungeons-common-r200.toml"
+filename = "dimdungeons-common-r200.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1027b4b932be530e5a1f24c6584bd5fe6decbc3221635d927c7a04fbb2d7823.toml"
+hash-format = "sha256"
+hash = "65322317031d19d5e678cafe22a56f41e407d10003ab2bac6bb865d067a10f1f"

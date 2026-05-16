@@ -1,0 +1,8 @@
+name = "refined_glowstone.json"
+filename = "refined_glowstone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98889a0544f4d8a5af7b8577f6ed9fa977607ad395f83a4e3162075322aacae4.json"
+hash-format = "sha256"
+hash = "e661f425261ece43fe4461b31909c6c83333eebc1b0f8d4fbe963b370fbfd657"

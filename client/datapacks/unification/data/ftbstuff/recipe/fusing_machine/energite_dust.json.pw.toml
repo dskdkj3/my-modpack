@@ -1,0 +1,8 @@
+name = "energite_dust.json"
+filename = "energite_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e510904c74dc4a3c84719a0ec53f16279a4149b937cfb434321cdaeeaa7653a4.json"
+hash-format = "sha256"
+hash = "c968adc6a16a803cc83885edd4aa9af09dadd53f3db63a742d4c171cc971f2b5"

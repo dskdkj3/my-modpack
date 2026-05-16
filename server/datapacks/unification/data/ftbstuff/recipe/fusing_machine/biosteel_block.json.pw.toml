@@ -1,0 +1,8 @@
+name = "biosteel_block.json"
+filename = "biosteel_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd8e0c9c81cfd8bb0476eade2088c9d1ae06f6312d5e4601dcc0ca8f8e808587.json"
+hash-format = "sha256"
+hash = "1faa20c367beb1d30d5e54719094cb07e8b4bca415605fc7b5b70c51f8d3f947"

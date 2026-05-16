@@ -1,0 +1,8 @@
+name = "meteorite_compass.md"
+filename = "meteorite_compass.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/57028b0d893a01cbb63b6fb861a575cdd586e03e309e9a7964c3e42133196722.md"
+hash-format = "sha256"
+hash = "7b60346cc18579cf30143e7867f2d3d2b5a7a3c807de2de667ec822d46253fce"

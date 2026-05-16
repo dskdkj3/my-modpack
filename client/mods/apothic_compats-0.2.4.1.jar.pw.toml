@@ -1,0 +1,8 @@
+name = "apothic_compats-0.2.4.1.jar"
+filename = "apothic_compats-0.2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7717/908/apothic_compats-0.2.4.1.jar"
+hash-format = "sha256"
+hash = "73367f5f445f488f2e60595a71727931ad86024609ef0779c42920690ef98b2a"

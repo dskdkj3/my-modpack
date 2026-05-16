@@ -1,0 +1,8 @@
+name = "check_villager.json"
+filename = "check_villager.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f4be900848a0bc6cf9d65fbe30d6c8c2df9c7b668df85e5ba1483c45696557f.json"
+hash-format = "sha256"
+hash = "250a23b2d14504b9368990723dbf75e093b7bb8205620e02290bcd2d8a6877ac"

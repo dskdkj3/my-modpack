@@ -1,0 +1,8 @@
+name = "power_core3.json"
+filename = "power_core3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/444bb27a79d51c2d750ee1bc36d48f3931ca7bcd70a70222c5abe5ff92f12c08.json"
+hash-format = "sha256"
+hash = "279f6ca4dbc23d353040b5bd17dc59427e55db0a07c33e810d0fd47e950da495"

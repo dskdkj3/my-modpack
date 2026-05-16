@@ -1,0 +1,8 @@
+name = "world_engine_machine_block.png"
+filename = "world_engine_machine_block.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c47b60916824791a29823525fae224c226e2972e0e22e0c4917628779889124a.png"
+hash-format = "sha256"
+hash = "6572bbe3d25d4265eaf816d2e359e608621ce63a09c7daac293629ec3e73095b"

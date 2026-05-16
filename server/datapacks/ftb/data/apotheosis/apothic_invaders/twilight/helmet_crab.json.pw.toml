@@ -1,0 +1,8 @@
+name = "helmet_crab.json"
+filename = "helmet_crab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0d925025efd7384973690239b5db2e8995aa6d31124ce8e85b3c6f3dd6c4f37.json"
+hash-format = "sha256"
+hash = "ee089666bb819921476fef0512fb053272318a9a389e14e86c505115bac048be"

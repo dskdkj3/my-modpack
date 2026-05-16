@@ -1,0 +1,8 @@
+name = "exit_hover.png"
+filename = "exit_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/701b3c1e7e9651c184d95fe7ab9cf28441a4cd62db28d4a0236e7981a038cb45.png"
+hash-format = "sha256"
+hash = "a3610c61cf4ed6c60a9db3d86d092531ce33e1fd7b719fc05e8a2335b178841c"

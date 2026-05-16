@@ -1,0 +1,8 @@
+name = "unification.js"
+filename = "unification.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a023348ccac53cece31e602c53b7c3481fd622ae864d8595353b35ac9c266b48.js"
+hash-format = "sha256"
+hash = "e3447ed72e5102e39b2705ced12a466c8fe57df270dc75d3dec6d631dddc466d"

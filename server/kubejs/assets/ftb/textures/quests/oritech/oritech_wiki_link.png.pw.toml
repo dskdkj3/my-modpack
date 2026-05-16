@@ -1,0 +1,8 @@
+name = "oritech_wiki_link.png"
+filename = "oritech_wiki_link.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7dd1a130b93023f4834e4c44d24eacf2f15035c7bbd9a811714a9744adffacf8.png"
+hash-format = "sha256"
+hash = "0b7dc9e9799d87d7b3970559989d865d30df78316032e1f23fb9e35e8c0f072f"

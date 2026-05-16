@@ -1,0 +1,8 @@
+name = "item_gold_portal.png"
+filename = "item_gold_portal.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e4fe0b3ea9137717ed3e9192cf6979344ed9b815c93bfc75f5a0e7ff1db72608.png"
+hash-format = "sha256"
+hash = "987a08eb36a6d80829bd338c29beea053ebbc82c303aed2d952a0d7998546519"

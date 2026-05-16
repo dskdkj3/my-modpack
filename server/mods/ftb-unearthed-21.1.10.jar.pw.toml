@@ -1,0 +1,8 @@
+name = "ftb-unearthed-21.1.10.jar"
+filename = "ftb-unearthed-21.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7879/426/ftb-unearthed-21.1.10.jar"
+hash-format = "sha256"
+hash = "79d2d58028b575b39e600d1542620d8c0eed872968a7a97a94747aaf8dfcc21d"

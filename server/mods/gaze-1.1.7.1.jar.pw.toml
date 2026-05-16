@@ -1,0 +1,8 @@
+name = "gaze-1.1.7.1.jar"
+filename = "gaze-1.1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7261/638/gaze-1.1.7.1.jar"
+hash-format = "sha256"
+hash = "ef9d7ea7a56f1ba5547f4c7b90bf36c87807b9bb5a18c43b1f6c370d5b7e6c06"

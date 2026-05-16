@@ -1,0 +1,8 @@
+name = "xnetgases.toml"
+filename = "xnetgases.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f315a711d5a03304d3ce2b31ebd3974fb24de27dbd8fbd35255560403066f037.toml"
+hash-format = "sha256"
+hash = "cce9e48fc83f8581565b87081e1ccbba1f418bb9f26440aa3b78e5506095e9c9"

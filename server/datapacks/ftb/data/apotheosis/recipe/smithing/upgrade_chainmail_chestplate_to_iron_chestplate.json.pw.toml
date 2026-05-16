@@ -1,0 +1,8 @@
+name = "upgrade_chainmail_chestplate_to_iron_chestplate.json"
+filename = "upgrade_chainmail_chestplate_to_iron_chestplate.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b3b1bcb65d6bf98d186678051b58032a124919f7adde44e642c989b27da669c.json"
+hash-format = "sha256"
+hash = "907e7766cac87ee376223f8920983ad1a22c24998cd61fde1737ec4fa4b6dd90"

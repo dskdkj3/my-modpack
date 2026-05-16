@@ -1,0 +1,8 @@
+name = "gold_portal.png.mcmeta"
+filename = "gold_portal.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e9da8947c60db9b301c3253801f7ee9dc0a3c6dc8d0ba8212604349e45f4d91.mcmeta"
+hash-format = "sha256"
+hash = "65d32cb1d20fa08aece410f949e5e207fd28dde49d5694908b9e7641d6832b7d"

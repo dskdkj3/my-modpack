@@ -1,0 +1,8 @@
+name = "savannah.json"
+filename = "savannah.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d927aedcb42b7dc04741ae00edb0b0b902fe12fb5a1a64bbe4d20c19844373e3.json"
+hash-format = "sha256"
+hash = "c1ee9405dcdf630b5412da0416f4b0582a2200d832ef7199a80325c296ef3b42"

@@ -1,0 +1,8 @@
+name = "add_coffee.json"
+filename = "add_coffee.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bdf189eeb704a4a98195869f51dfd55827030c2ce407438f369b8946637f97e6.json"
+hash-format = "sha256"
+hash = "aff6ba84b3ebece93c0d9c33a22e08b3bbfa3f31adfbd624f96043970810321e"

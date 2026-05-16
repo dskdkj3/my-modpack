@@ -1,0 +1,8 @@
+name = "wits-1.3.0+1.21-neoforge.jar"
+filename = "wits-1.3.0+1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5426/237/wits-1.3.0%2b1.21-neoforge.jar"
+hash-format = "sha256"
+hash = "77dea7de8a1d5d35649c98b83b3232b7bbadfa9fbba3d129589022d33eb09583"

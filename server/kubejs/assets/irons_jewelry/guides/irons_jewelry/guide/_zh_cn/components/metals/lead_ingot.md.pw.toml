@@ -1,0 +1,8 @@
+name = "lead_ingot.md"
+filename = "lead_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5b3be12048bb763213552bd4be8d7947644f8a0ca624eb41f305a3cdbb71a57.md"
+hash-format = "sha256"
+hash = "96bd89aece054b70aff7d8ed474928ef2a174f6d96d2153b4ea333c5fd18b7d4"

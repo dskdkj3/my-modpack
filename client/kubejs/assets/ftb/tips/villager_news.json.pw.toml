@@ -1,0 +1,8 @@
+name = "villager_news.json"
+filename = "villager_news.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aed4b6dbe1f80004df02ef8bfb41bb79884414860948fde1386d0b88978b5563.json"
+hash-format = "sha256"
+hash = "db6365660fb0a5283509d77361c64edfca99849c47d622f71ac93557dd269586"

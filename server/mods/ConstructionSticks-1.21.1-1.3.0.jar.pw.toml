@@ -1,0 +1,8 @@
+name = "ConstructionSticks-1.21.1-1.3.0.jar"
+filename = "ConstructionSticks-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7687/867/ConstructionSticks-1.21.1-1.3.0.jar"
+hash-format = "sha256"
+hash = "c035e07b7178fefc12ca006255189a69c23608e7adb3e91a616fe26a4e1711c5"

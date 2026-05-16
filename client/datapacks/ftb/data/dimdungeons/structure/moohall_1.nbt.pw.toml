@@ -1,0 +1,8 @@
+name = "moohall_1.nbt"
+filename = "moohall_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad7eab87218dfd75fcb42698772e8a22d8bc302fdec7d7881c81c4f233d5f13b.nbt"
+hash-format = "sha256"
+hash = "3f6be8fae83db1db542c296c9736f013740581f2ba4ed965847b9ebec944eb1a"

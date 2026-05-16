@@ -1,0 +1,8 @@
+name = "enderdrives-server.toml"
+filename = "enderdrives-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac7b75dcccaebfdb04fad9f2c9d63cacfdc05a6be5f98a87efbfa953ef1b8b2b.toml"
+hash-format = "sha256"
+hash = "2b713ef8e6c447e32b5deab4ef190ef9977b1e218aaf89397498e8cb44b92534"

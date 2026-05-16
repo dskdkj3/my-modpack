@@ -1,0 +1,8 @@
+name = "plasticbiobetter.json"
+filename = "plasticbiobetter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b957ec0c41181e5c63cb51d646a89b867f9aa475663faf6d8ee12632269e82d.json"
+hash-format = "sha256"
+hash = "80383ac22b9cc85bc90d1be97984845f22565427942f208f5d464510714bbed5"

@@ -1,0 +1,8 @@
+name = "structure_compass_finder.js"
+filename = "structure_compass_finder.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d21ef0f52f6472a3fc8767583608fabcdb19ce2f26f5d021f4dff27d60e4965e.js"
+hash-format = "sha256"
+hash = "befd2ede340253d95c06910392cafcebc7f2b1e822d18e0807b540e672aa780a"

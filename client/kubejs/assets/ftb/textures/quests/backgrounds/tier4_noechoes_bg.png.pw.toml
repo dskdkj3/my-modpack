@@ -1,0 +1,8 @@
+name = "tier4_noechoes_bg.png"
+filename = "tier4_noechoes_bg.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/201025cfbe2c260fad1765d893f6d821147730e5025479adf4bd834bedd852a7.png"
+hash-format = "sha256"
+hash = "11f5cbed2526e3371184e20fd256a5f70bf249285753d1ab4f6fa4a7a277e5c8"

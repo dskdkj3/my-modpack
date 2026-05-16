@@ -1,0 +1,8 @@
+name = "library_hall.nbt"
+filename = "library_hall.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca7d72ff71695c6ef2321eef93217a941cb5f620997f749a518a232eaa6bf26f.nbt"
+hash-format = "sha256"
+hash = "e717d9de5eaa6f18943824d15b3980d13c6e91c3d09b927fa831aeb684c46020"

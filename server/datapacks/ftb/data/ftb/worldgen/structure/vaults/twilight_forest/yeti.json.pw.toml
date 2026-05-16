@@ -1,0 +1,8 @@
+name = "yeti.json"
+filename = "yeti.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4b/4b54d106c5bc41616e993c469a3aafee05fe962b9b8a6fc97503597ad287cf79.json"
+hash-format = "sha256"
+hash = "16ce4af6bcd0d41dc83f02dd6659de2d84e8e4a3b1b1f9ae400ff6c012972543"

@@ -1,0 +1,8 @@
+name = "lich_crown.yaml"
+filename = "lich_crown.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f02c498b985c4cba074cd10f063548815074ecb44ec0415ceca4e1863d059c5b.yaml"
+hash-format = "sha256"
+hash = "ab455ffa22c32bc2c47c98c113aa7ad6eceaa8c5a0202fbfaa3b0bf556733f9c"

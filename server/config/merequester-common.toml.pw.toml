@@ -1,0 +1,8 @@
+name = "merequester-common.toml"
+filename = "merequester-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/69d6f595f42e1968f67b9e755151a5506cccb6e679f2c03c3b99d771eb96a14d.toml"
+hash-format = "sha256"
+hash = "d9abd2849c3a0e83d79adb19ee34ad716e5408e7394c93c576aaab4397152465"

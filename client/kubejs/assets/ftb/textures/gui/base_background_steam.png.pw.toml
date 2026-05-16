@@ -1,0 +1,8 @@
+name = "base_background_steam.png"
+filename = "base_background_steam.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fe462dee2066d46aa9fd30873d176a7f2ed21f04ff39c2b936d42343c980f47e.png"
+hash-format = "sha256"
+hash = "6a0cf4fd24b2a90786389f09aec6ccb04fa3d6d329fc0c61c2aba5e7a6beb661"

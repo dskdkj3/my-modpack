@@ -1,0 +1,8 @@
+name = "advanced_coke_oven_idle.png"
+filename = "advanced_coke_oven_idle.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc4ea3720b5d3ee7036740f03e8f3af91e78d9fce9ce544fb9a28c94f4c0ec7b.png"
+hash-format = "sha256"
+hash = "bb8ed3568d403785a64b999f73794246bd3afe967d188322184c3bec6302959c"

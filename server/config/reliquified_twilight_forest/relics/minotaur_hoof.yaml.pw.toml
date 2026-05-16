@@ -1,0 +1,8 @@
+name = "minotaur_hoof.yaml"
+filename = "minotaur_hoof.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/8294194de067b211a3532450a07804b8a007184610ecd1060ea916fbc4af6d01.yaml"
+hash-format = "sha256"
+hash = "c06ebd54d5ccb5a0be36abb3ab9d242277637cd1c0aa5ea4ccc3bae624194a24"

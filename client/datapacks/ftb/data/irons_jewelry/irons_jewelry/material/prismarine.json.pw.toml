@@ -1,0 +1,8 @@
+name = "prismarine.json"
+filename = "prismarine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a422b8853b97ae711b8c2d0b1414aea04beb68575ebfc09c9ca52b0314acddf4.json"
+hash-format = "sha256"
+hash = "55c9623c45ebe23fa16c1be86f7dd109811ee496209502139f22b12cd01789ed"

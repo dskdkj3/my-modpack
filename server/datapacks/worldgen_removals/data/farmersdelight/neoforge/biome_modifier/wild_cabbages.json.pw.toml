@@ -1,0 +1,8 @@
+name = "wild_cabbages.json"
+filename = "wild_cabbages.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac436fd067f1b338349db9a64dd72cfb1653f80cad852dcb23ad17fde9553010.json"
+hash-format = "sha256"
+hash = "d65fe0a75d554f23479bc43ebcb93a853d565b61131175fa38ce29dd3a0fe66d"

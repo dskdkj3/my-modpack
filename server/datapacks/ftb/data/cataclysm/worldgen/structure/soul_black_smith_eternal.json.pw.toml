@@ -1,0 +1,8 @@
+name = "soul_black_smith_eternal.json"
+filename = "soul_black_smith_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7ecbdd834c53236ad0e90b084ffd4eac5b858a5ad7c516c69dfbc6af7ff4e773.json"
+hash-format = "sha256"
+hash = "a4900667178d76e4b7f96aff91ac1076661be1556ed97d0d560301845ddc397e"

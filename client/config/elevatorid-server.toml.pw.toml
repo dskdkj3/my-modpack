@@ -1,0 +1,8 @@
+name = "elevatorid-server.toml"
+filename = "elevatorid-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/395a2de07314ef890151ff10fdcf267dba6bc7f9b7aede3e1ee9a9e7f3822020.toml"
+hash-format = "sha256"
+hash = "3861e1c9b5383e73030e33a4e00c34f64bce7a0f3f38dfb2be9c5ddedd2a7123"

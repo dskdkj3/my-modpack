@@ -1,0 +1,8 @@
+name = "small_chaos_frag.md"
+filename = "small_chaos_frag.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6f8139b34098c8bcc0f2495eb46d06020ac96883fbc66d394852b56a21bda59c.md"
+hash-format = "sha256"
+hash = "f2f26f5e49013c8f59d60a1ee3540baa56fa190d38872dc04b9c5107e23be45f"

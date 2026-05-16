@@ -1,0 +1,8 @@
+name = "citadel.json"
+filename = "citadel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/97bd65e240d95a0e67249b322861d6737ac6f8bf885e3da540fdc96f7821cb20.json"
+hash-format = "sha256"
+hash = "01ddeaa6dc0ece4274585c9fa4b278086faea9f409824e6a2067d15c07b30b90"

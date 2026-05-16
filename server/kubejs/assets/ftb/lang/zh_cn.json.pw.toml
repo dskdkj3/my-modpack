@@ -1,0 +1,8 @@
+name = "zh_cn.json"
+filename = "zh_cn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5c666ec07269ae339ee686f5f63eb796b4b59a0bf64383af9f3abd50e2055f4.json"
+hash-format = "sha256"
+hash = "51105b19919c9828553d3e23b382ad3fe3cc55488163dd70e2c4aaaff93fa061"

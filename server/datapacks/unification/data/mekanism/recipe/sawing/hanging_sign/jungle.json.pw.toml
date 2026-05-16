@@ -1,0 +1,8 @@
+name = "jungle.json"
+filename = "jungle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/780c89ca0943350c02d88beab90549b1a298fb956f76d441968e5ac7e792498c.json"
+hash-format = "sha256"
+hash = "b3051adbaa956bd1ce8f4e301a76a07a10d59f2cc2b94ce4f44901c04cb091c9"

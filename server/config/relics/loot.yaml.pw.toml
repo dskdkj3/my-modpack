@@ -1,0 +1,8 @@
+name = "loot.yaml"
+filename = "loot.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/4123fbd31f5d22f56228b5e79fa470378183f81162515594a286c54785e5da8c.yaml"
+hash-format = "sha256"
+hash = "3111d6d607efe9f5870759a411b2b275d9d9f04d83672508e1521ea158d5530a"

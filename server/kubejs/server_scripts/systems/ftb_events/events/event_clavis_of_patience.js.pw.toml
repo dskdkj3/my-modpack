@@ -1,0 +1,8 @@
+name = "event_clavis_of_patience.js"
+filename = "event_clavis_of_patience.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a22b6561844c2e61284632073a50d56fdf49a6453595ef732a2702aab4b4566.js"
+hash-format = "sha256"
+hash = "49695afc13a9d32dc5a49f7f27694e0ab4d12fbfbd64b0080cb537ab8a06b4f7"

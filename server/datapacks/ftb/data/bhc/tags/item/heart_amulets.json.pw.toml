@@ -1,0 +1,8 @@
+name = "heart_amulets.json"
+filename = "heart_amulets.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/99eadb5f7e75f21ecc4b52050df02f6806af65dd57909761b89d4ecfddb63ae7.json"
+hash-format = "sha256"
+hash = "74fa8f895861f7d944c8a83414609e3c86663988ec9bdf8412b3d2fe17a7d445"

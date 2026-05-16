@@ -1,0 +1,8 @@
+name = "endportal_2.nbt"
+filename = "endportal_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/809ddc7cf042a879ca6035067b42e711f0e3ea39bb32980e9d67aacd904aacc8.nbt"
+hash-format = "sha256"
+hash = "cf8229f9ed37828c718288da579a77b813b73afee55594040f60815fdf0be99d"

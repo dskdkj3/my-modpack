@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/certus_quartz_dust.md"
+filename = "certus_quartz_dust.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/certus_quartz_dust.md"
+hash-format = "sha256"
+hash = "90bc0713ef4f04571b32b264aa6290642b9242b2d11016c1b1d8efd16816b1a8"

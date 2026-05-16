@@ -1,0 +1,8 @@
+name = "anglers_hat.yaml"
+filename = "anglers_hat.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f94c8874bb3b06f940ededab62d33e6f82167c3d5fee948e8f1747021354805f.yaml"
+hash-format = "sha256"
+hash = "1c024c31e1c25b364498c56c6718d066df0fe95a4554df2869c85f195c450133"

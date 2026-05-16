@@ -1,0 +1,8 @@
+name = "lead.json"
+filename = "lead.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2da11c3733757df607faeea662674ee81b202e520b7f8c6274aa8472a172a9c7.json"
+hash-format = "sha256"
+hash = "d2551800055a44999414918b106678e7bea43c98bb9031f25cf3cabf2516d82e"

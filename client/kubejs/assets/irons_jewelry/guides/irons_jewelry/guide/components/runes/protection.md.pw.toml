@@ -1,0 +1,8 @@
+name = "protection.md"
+filename = "protection.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b76e385a2152f1125e8d35ad8972b747781d0ce04ca7b0bbc20cd2fbb87abb3.md"
+hash-format = "sha256"
+hash = "0c2e44843c80af45ad9a4b6de2ebd6caaa68bdcdddf08a72a3269a045f7df9d7"

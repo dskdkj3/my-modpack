@@ -1,0 +1,8 @@
+name = "crushed_raw_iron.json"
+filename = "crushed_raw_iron.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fa/fad9add92d1c5adc1bc69a9435720582b268d990fd99a4fa542affdd100acf24.json"
+hash-format = "sha256"
+hash = "eed19f254fb03cb19de0ad2404091202bd44d1909d93f20f9ee3d27faa39b586"

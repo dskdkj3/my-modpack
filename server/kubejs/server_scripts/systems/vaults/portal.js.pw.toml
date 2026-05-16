@@ -1,0 +1,8 @@
+name = "portal.js"
+filename = "portal.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/1566f02f19b9110a5fdc50168a752dbba271c1560102c30a7e378bb27494b094.js"
+hash-format = "sha256"
+hash = "dbcf3c2d7b7582079e353cfb8682ba8a2356ad8ee69c2d4220b91b9c7f2b5452"

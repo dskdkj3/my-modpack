@@ -1,0 +1,8 @@
+name = "copper_node.json"
+filename = "copper_node.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/657509ee121ada3889abdcc88469c6be8f1b9f096de51129f9134b6a19a4f347.json"
+hash-format = "sha256"
+hash = "2ad0acff084e2a9bbb743fceb6e5080468b985797c005717e578d3fe823f1bf0"

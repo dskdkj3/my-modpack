@@ -1,0 +1,8 @@
+name = "chicken_food_recipe_tier_18.json"
+filename = "chicken_food_recipe_tier_18.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b3091d95822c190e6a72a8c0e43ef14d2dfc15933e96bdcf15e409c9aa48b613.json"
+hash-format = "sha256"
+hash = "252bb20795f492cfb9d0daf199a93b7a104e119a1488b3bf45e423f13e6f6bd5"

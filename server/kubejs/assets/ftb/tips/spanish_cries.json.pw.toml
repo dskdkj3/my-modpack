@@ -1,0 +1,8 @@
+name = "spanish_cries.json"
+filename = "spanish_cries.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d6e4e3c3b00b22cef160a65b633ca11025ec086c568401e3896cc7bdaf5439dc.json"
+hash-format = "sha256"
+hash = "027846197b453f36ae31b19e6df8f7425e728f718a021561c7f79990ea0e32d1"

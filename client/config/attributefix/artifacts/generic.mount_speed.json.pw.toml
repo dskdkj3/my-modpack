@@ -1,0 +1,8 @@
+name = "generic.mount_speed.json"
+filename = "generic.mount_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d3ac899dc0ada9dfa6fd5487a7d652d64303bc79bcd356a5b76bf36ca44fca9c.json"
+hash-format = "sha256"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"

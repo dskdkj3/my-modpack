@@ -1,0 +1,8 @@
+name = "vaults.lua"
+filename = "vaults.lua"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c66744bb7dadbdeedf4b500d97cb0451cb02f5ba2719cb9b60563bf824d9c0e.lua"
+hash-format = "sha256"
+hash = "2dfa945168da1ac633eaf33109cf871be085211f62820b1bfbf87b4700f9aab9"

@@ -1,0 +1,8 @@
+name = "deepslate_infinity.json"
+filename = "deepslate_infinity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09a50922bb15444d212267c075a2fe5ea9bd198b32260aada5c770e02a7e334e.json"
+hash-format = "sha256"
+hash = "3251e9ed58ac1315e228774464bedb7003ba40a1388949f2e6dd34bb24aa471d"

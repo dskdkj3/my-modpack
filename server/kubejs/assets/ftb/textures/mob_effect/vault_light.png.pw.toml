@@ -1,0 +1,8 @@
+name = "vault_light.png"
+filename = "vault_light.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f069a17d391cd89853481e42b63b05367753720a0ee3776fb5f67b27fbbfe905.png"
+hash-format = "sha256"
+hash = "0f74173f72c14147eaa7ef1c59831278ca17e125e839469b61c2414479180937"

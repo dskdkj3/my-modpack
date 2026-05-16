@@ -1,0 +1,8 @@
+name = "dimensionalshard.json"
+filename = "dimensionalshard.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/894a820ec8eed1b3ac34d17716a3a84cd0191ca6988a0b9a4c4767fb5f6f07d0.json"
+hash-format = "sha256"
+hash = "1e31db6da081b8c0ae80db70ef77f7a168cd21d94b5f3ed79b9b617ef47d1ef5"

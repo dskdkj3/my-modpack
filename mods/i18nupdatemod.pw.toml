@@ -1,8 +1,0 @@
-name = "I18nUpdateMod"
-filename = "I18nUpdateMod-3.7.0-hmclfix1-all.jar"
-side = "client"
-
-[download]
-url = "https://github.com/dskdkj3/my-modpack/releases/download/i18nupdatemod-3.7.0-hmclfix1/I18nUpdateMod-3.7.0-hmclfix1-all.jar"
-hash-format = "sha512"
-hash = "80e4401902bdd33bbad367143b6fd970226a04d58b18123fc6680511db08b3f32a7c212a207364281890a91ce47fa7dd9ebbc797f70762e4bb193569f4feae61"

@@ -1,0 +1,8 @@
+name = "enderman.nbt"
+filename = "enderman.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/1960c13d78cafd699cf5a601e4eb773867b72b66f3afd533a68caa2d1a828756.nbt"
+hash-format = "sha256"
+hash = "dd2890de2eb70d88a728ff5a9865d38488607a67f7a31a4047df145e1dc7e242"

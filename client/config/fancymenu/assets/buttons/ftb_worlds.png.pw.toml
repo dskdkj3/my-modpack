@@ -1,0 +1,8 @@
+name = "ftb_worlds.png"
+filename = "ftb_worlds.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/41/41efc2a1426ae51cee69bff101ae54e38c58f03e4b1e34a130ee8425c35790e1.png"
+hash-format = "sha256"
+hash = "53f46afdf6dd447f1b1e6dfb41ea3d98adb7fedfd400ac7bfe5f1775c10a70d8"

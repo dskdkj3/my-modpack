@@ -1,0 +1,8 @@
+name = "repeatable_trial_vaults-neoforge-1.21-1.0.3.jar"
+filename = "repeatable_trial_vaults-neoforge-1.21-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8020/541/repeatable_trial_vaults-neoforge-1.21-1.0.3.jar"
+hash-format = "sha256"
+hash = "4a13fe4fbd0738e6129caf1cfcaf7ea26949ffd6e70caf384ab67a9b99475741"

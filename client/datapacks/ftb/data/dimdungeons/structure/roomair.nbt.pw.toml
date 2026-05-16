@@ -1,0 +1,8 @@
+name = "roomair.nbt"
+filename = "roomair.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6ac3cfa1d180ca9740e97c0ecc8002ac5285adc1b335eec23b1207c5c5cfc0a8.nbt"
+hash-format = "sha256"
+hash = "9ef4bab1fab9436a6739d1dac8719c3ac29a4a249d9d0db9c8519ae876a8bb88"

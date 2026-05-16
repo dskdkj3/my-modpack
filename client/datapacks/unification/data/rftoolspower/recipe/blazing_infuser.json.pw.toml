@@ -1,0 +1,8 @@
+name = "blazing_infuser.json"
+filename = "blazing_infuser.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df362aa444b85db60b17607a4673ff8d0854c4b7f5f111f476760c2e14ff6f7b.json"
+hash-format = "sha256"
+hash = "75ac4cbea5926e65529a818f90cf524c647f9ffa15219e2ab64a3ede9212ded5"

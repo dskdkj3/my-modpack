@@ -1,0 +1,8 @@
+name = "ChanceCubes-1.21.1-5.0.2.517.jar"
+filename = "ChanceCubes-1.21.1-5.0.2.517.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6558/787/ChanceCubes-1.21.1-5.0.2.517.jar"
+hash-format = "sha256"
+hash = "a33bc7b64dc24ce16aee1e0d4bde1f67620d75cb55e777013e4217c77b28c840"

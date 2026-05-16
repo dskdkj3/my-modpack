@@ -1,0 +1,8 @@
+name = "ferricore.md"
+filename = "ferricore.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75d8576b5e9384bcc90ec5008b97aafb98565620f8772222a086fddc7e562461.md"
+hash-format = "sha256"
+hash = "a4c3ef83a70609538099be381e68002d17ad3d5b165b7919347784c0c5639f8b"

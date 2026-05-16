@@ -1,0 +1,8 @@
+name = "bonsaipot.png"
+filename = "bonsaipot.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/10a4a0507f9623ba44dabef2c15d89fd2b5afd33f21249b662639050b689480a.png"
+hash-format = "sha256"
+hash = "f2ba4f99f82b2f7f1567da9f4cee8bea0f343d123b4ee20492e02a9094b44463"

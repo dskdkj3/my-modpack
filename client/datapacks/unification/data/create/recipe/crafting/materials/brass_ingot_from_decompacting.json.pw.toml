@@ -1,0 +1,8 @@
+name = "brass_ingot_from_decompacting.json"
+filename = "brass_ingot_from_decompacting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/3220dc30adfc87e49e1e73a249fbc82d650822bd20b5b1dd294468a3c0b5b961.json"
+hash-format = "sha256"
+hash = "224a942c407a6522d25a4bc118d5a0a0610b088212db0869afa538ce73d6e1ae"

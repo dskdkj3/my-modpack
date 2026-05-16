@@ -1,0 +1,8 @@
+name = "event_goat.js"
+filename = "event_goat.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb2ba3736b07d3682db077ba955fb072c6f5e4c86763bc8f4779d523d0286fee.js"
+hash-format = "sha256"
+hash = "1aa1d102c77f8c0a33891c18cbb9aca35b4cfe310c89adabb9605dfe4bb70412"

@@ -1,0 +1,8 @@
+name = "smallappupgrade.json"
+filename = "smallappupgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cf89e5f9571e57497249e1d6cccc51eb571040f9c642a3827ffdd7efee3fe8e.json"
+hash-format = "sha256"
+hash = "95f50a59fac0621efeb3a3dde948176754bc64ba53fc18d74e87b8d4dc1bb662"

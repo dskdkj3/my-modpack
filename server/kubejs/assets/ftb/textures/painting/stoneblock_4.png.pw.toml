@@ -1,0 +1,8 @@
+name = "stoneblock_4.png"
+filename = "stoneblock_4.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e4e395faa95dcfaa69d68fa38e099275a45ea728ec3467e913f869f6ca337df.png"
+hash-format = "sha256"
+hash = "bf50cce5fd0596aac218336b518612df2ed1976262881463efadb26308e61e26"

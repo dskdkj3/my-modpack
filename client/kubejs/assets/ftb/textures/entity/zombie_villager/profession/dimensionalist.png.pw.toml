@@ -1,0 +1,8 @@
+name = "dimensionalist.png"
+filename = "dimensionalist.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/1767c93b25b003a7612492eaa45418ec77b8109af16f2132595d015d45d0cc07.png"
+hash-format = "sha256"
+hash = "ed163ac09a9b06a2d0d414155f4e5837de67c71a35b8a437462a60089eac5b35"

@@ -1,0 +1,8 @@
+name = "sparkle_cat.json"
+filename = "sparkle_cat.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/42185270eed610eb92fe2eee97b199e521773981e2802375217f602c4c769664.json"
+hash-format = "sha256"
+hash = "5602f346bffba2ab0aed208b8e5dccdae3c68faa138ce77ffade29d84753422f"

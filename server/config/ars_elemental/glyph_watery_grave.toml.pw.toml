@@ -1,0 +1,8 @@
+name = "glyph_watery_grave.toml"
+filename = "glyph_watery_grave.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/581b4f32e4c51fa25f35ef2f10e46fb3a65860d4b69372c7b06d0e3f68c4b0f1.toml"
+hash-format = "sha256"
+hash = "19adf1a26ee2a47b2a48a5bd48354b7bd5bff44b1702227a13291dbebb524be6"

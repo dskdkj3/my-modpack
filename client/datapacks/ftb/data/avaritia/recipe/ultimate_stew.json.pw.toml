@@ -1,0 +1,8 @@
+name = "ultimate_stew.json"
+filename = "ultimate_stew.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1d162cca1f2ace5098376ca615341529351def57e92c085c2e14337a7a930f8b.json"
+hash-format = "sha256"
+hash = "08c966b415a27d88cb3b43036fcce9ab2e6f7aee138d87a7bdbd8f2135f5aa45"

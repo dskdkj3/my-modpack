@@ -1,0 +1,8 @@
+name = "advemp_energybar_empty.png"
+filename = "advemp_energybar_empty.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f65c397a6452b8805c4d166fb9d582592d2e49e0a40998a8470cc4f708871a82.png"
+hash-format = "sha256"
+hash = "2bf2c002f961629fd110420ace320befc5c3be6f945d92df26ebb8e3f0d3164b"

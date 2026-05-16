@@ -1,0 +1,8 @@
+name = "oilbase.json"
+filename = "oilbase.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/2503a7b1fb77281cb53891532df56e6a80e96dab9dacbd063a7e71815e64ff4b.json"
+hash-format = "sha256"
+hash = "1748dc6da68533c7b88deab29f2b2686c4069b7011ffd1e7f01dda46bebdb5d6"

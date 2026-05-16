@@ -1,0 +1,8 @@
+name = "crab_slide.js"
+filename = "crab_slide.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/63392c2105459218876c79a7ae2077986110b8fa0abb3803058e95e1a4300b30.js"
+hash-format = "sha256"
+hash = "d302f111d0ab23c255b8ff7de8a0dcc44d14725721c1afc6b6d9f8d828faa148"

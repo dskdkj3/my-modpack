@@ -1,0 +1,8 @@
+name = "trashslot-common.toml"
+filename = "trashslot-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1898fabf55adf7b3e0e179aa2430ace8651ad4bc28a32f477563ce06f9a808f.toml"
+hash-format = "sha256"
+hash = "e206fb54c03e7d6c3c4661cf2e01b7c704b3265f9200cb382e5ed6aba2c18fb3"

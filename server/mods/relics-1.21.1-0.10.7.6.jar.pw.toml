@@ -1,0 +1,8 @@
+name = "relics-1.21.1-0.10.7.6.jar"
+filename = "relics-1.21.1-0.10.7.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6879/532/relics-1.21.1-0.10.7.6.jar"
+hash-format = "sha256"
+hash = "52f10efd38e7660662f60f0fb80ab304805c98069f144fe01b3c78ce35e21c54"

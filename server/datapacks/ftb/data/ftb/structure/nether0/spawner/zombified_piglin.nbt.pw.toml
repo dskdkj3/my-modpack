@@ -1,0 +1,8 @@
+name = "zombified_piglin.nbt"
+filename = "zombified_piglin.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/297331b2a18adfd9c740d69c9625c67369a3afb4136ed27dd90c37a1619ed404.nbt"
+hash-format = "sha256"
+hash = "c799686ba38b4dc1a4eb8c5a014333ed8b62edb2f6865dbb7c776d7b501d666c"

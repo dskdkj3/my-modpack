@@ -1,0 +1,8 @@
+name = "adamant_block.json"
+filename = "adamant_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b57bc051344610420bee4635f490d8ab2ee359bad3e1374af396aee274887ec4.json"
+hash-format = "sha256"
+hash = "dd35342d3c4c26b974f8ec83b268b2769de858cda14e3ec748892af1543fcd21"

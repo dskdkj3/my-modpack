@@ -1,0 +1,8 @@
+name = "exit.png"
+filename = "exit.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0baafec4ed395981466bf20fa2419678d5395f7aa62c2996debec280da0aae87.png"
+hash-format = "sha256"
+hash = "599ec5d29e11914ff5a4e78e8e02a4217d414c2398ea188322a2d01f38e2eb6f"

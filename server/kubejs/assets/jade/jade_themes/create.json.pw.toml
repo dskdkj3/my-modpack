@@ -1,0 +1,8 @@
+name = "create.json"
+filename = "create.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5abc3f4c77799564ec5d7764b6d6c46ab6af4459b957d1e344259bcda2aa468c.json"
+hash-format = "sha256"
+hash = "91ca90441943be283023a596ca64907b7fd14cfe51ceffc4370c75d20061ee65"

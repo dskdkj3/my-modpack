@@ -1,0 +1,8 @@
+name = "meteorites.md"
+filename = "meteorites.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/210078fcaa5f4d71512b35bd16b833005499972f92f7956ea95df1aab9642ab5.md"
+hash-format = "sha256"
+hash = "771127ac9c6bdf5350dbe28ccf61cb347b212a3fae896adfa0bb1fcd9c5c02f1"

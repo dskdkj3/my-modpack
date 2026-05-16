@@ -1,0 +1,8 @@
+name = "onyx.md"
+filename = "onyx.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8ac7fd50e416065f39c3c671ab6590bc8ff75996ae25f3edfdeb4a130eed7ff3.md"
+hash-format = "sha256"
+hash = "338e88e4fbd0763b2f8c57d5e20370182227223a15e76450fd257d856c2d0b0d"

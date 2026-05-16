@@ -1,0 +1,8 @@
+name = "blackout.png"
+filename = "blackout.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/619c79356985dc2fec51beedadb459be1d0f64f26359e3b5ec1b24330bfd5ec9.png"
+hash-format = "sha256"
+hash = "21afce05ca04103c98a9b810684e6aad8b85d82ba436d0c92f2976888e34aefc"

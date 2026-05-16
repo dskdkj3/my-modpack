@@ -1,0 +1,8 @@
+name = "onyx.json"
+filename = "onyx.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da07a862b0081ae8f77e3af982308c627e605ca9a952f038f92e9ae15867bac6.json"
+hash-format = "sha256"
+hash = "7c144929772bbc81b8842fdfb5bd7b092f7a4305f4e08ff20d6f6a943dfb729e"

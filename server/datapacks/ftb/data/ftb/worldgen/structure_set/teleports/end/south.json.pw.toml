@@ -1,0 +1,8 @@
+name = "south.json"
+filename = "south.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edd1aa4da6b09bb569663a7882c346e1f94635e443c21244897a9bf706b34092.json"
+hash-format = "sha256"
+hash = "d301e1e298a9ba1056c90ee90f7d08b507f2689243680850799f796796db8e59"

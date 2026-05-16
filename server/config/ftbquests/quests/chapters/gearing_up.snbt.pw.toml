@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: config/ftbquests/quests/chapters/gearing_up.snbt"
+filename = "gearing_up.snbt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/config/ftbquests/quests/chapters/gearing_up.snbt"
+hash-format = "sha256"
+hash = "f66b1991900be65bbf9569c4ff8c7a786cd6ba89fa05525950beb7bd64f18396"

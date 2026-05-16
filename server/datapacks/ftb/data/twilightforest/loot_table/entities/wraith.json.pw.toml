@@ -1,0 +1,8 @@
+name = "wraith.json"
+filename = "wraith.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4fd5f833a64ce3adea228c38ce2192b8e77d8c36f3dbe091b9fb46a82b75904c.json"
+hash-format = "sha256"
+hash = "070df2804470d8d63617acf2e799164cb1b5195ff098efe9c11175ad68a43710"

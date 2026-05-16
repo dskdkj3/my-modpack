@@ -1,0 +1,8 @@
+name = "t5_echo_infinity.json"
+filename = "t5_echo_infinity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b42d157e8e97b571fe30421c9e84036d55877036f58ed081b2bbd743ca5afa29.json"
+hash-format = "sha256"
+hash = "6923eb77756bb3835f88cf2532031874593c77c9a24c3457cb333176fa0faf3c"

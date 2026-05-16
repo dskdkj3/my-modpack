@@ -1,0 +1,8 @@
+name = "Apotheosis-1.21.1-8.5.2.jar"
+filename = "Apotheosis-1.21.1-8.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7703/848/Apotheosis-1.21.1-8.5.2.jar"
+hash-format = "sha256"
+hash = "63c8e7096f7a57a3256137ea9d15753901a1b031979adcb8b894955c274e52f0"

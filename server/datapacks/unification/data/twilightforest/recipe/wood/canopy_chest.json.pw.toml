@@ -1,0 +1,8 @@
+name = "canopy_chest.json"
+filename = "canopy_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08e5155022748cd0e967f5a691ead4ba5dc13c552d4ee580d10c0100675d1942.json"
+hash-format = "sha256"
+hash = "6a1c5a1b3ad11e7e7dcb0af50afd1d6cb23d55efd5645894d1ac88240efc89cf"

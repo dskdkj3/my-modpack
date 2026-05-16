@@ -1,0 +1,8 @@
+name = "ftb-materials-neoforge-21.1.3.jar"
+filename = "ftb-materials-neoforge-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6831/822/ftb-materials-neoforge-21.1.3.jar"
+hash-format = "sha256"
+hash = "7d028afcfc93c15c8006db319a44a7e05fdfc490f9efe0e89fe642b674a60745"

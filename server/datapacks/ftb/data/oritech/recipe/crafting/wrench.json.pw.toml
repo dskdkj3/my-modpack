@@ -1,0 +1,8 @@
+name = "wrench.json"
+filename = "wrench.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0deb8ebb1ad86f85a53034601ec571835e1343b077bfc1ac66cd65c91dff007.json"
+hash-format = "sha256"
+hash = "b5116c9893a57b306eaa832556edfe1a02cfe3622eee1c83446670f4bb6f6694"

@@ -1,0 +1,8 @@
+name = "advanced_empowerer_idle.json"
+filename = "advanced_empowerer_idle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/8297cb5a2b0e46b50bedc41cbe873ff7e47198fdb83c8b8a9a5c93913058f299.json"
+hash-format = "sha256"
+hash = "32cc6e35ee1c9c1fa8c024ad836a11c030c753e2cc3f70e50b419460194fca7a"

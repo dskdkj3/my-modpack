@@ -1,0 +1,8 @@
+name = "red_matter.json"
+filename = "red_matter.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/bad263817231d3b7c1e8594b8168164d91fb04a1f761a0ed4e91cc14237f9b39.json"
+hash-format = "sha256"
+hash = "086c5c1e690d52bdd2ad56e7645fe678ab5905f3ae297ece0425d5ec7151e567"

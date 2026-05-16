@@ -1,0 +1,8 @@
+name = "generators.toml"
+filename = "generators.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ef627199522b1d8a8a68d9b3ef187d69395ed62e82470224cf81b4a596675c0.toml"
+hash-format = "sha256"
+hash = "a2503802a5e7f3ca6fea639521a5032ef59f05895408ad8c510c290d1aa65f22"

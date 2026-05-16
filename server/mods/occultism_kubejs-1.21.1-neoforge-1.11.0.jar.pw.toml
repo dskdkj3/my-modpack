@@ -1,0 +1,8 @@
+name = "occultism_kubejs-1.21.1-neoforge-1.11.0.jar"
+filename = "occultism_kubejs-1.21.1-neoforge-1.11.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7472/859/occultism_kubejs-1.21.1-neoforge-1.11.0.jar"
+hash-format = "sha256"
+hash = "7499b1ae2278f620eb57fd6cfcd455d27d0c1a8bea277d5c7471e9f5ad55c493"

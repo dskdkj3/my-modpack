@@ -1,0 +1,8 @@
+name = "additional_trial_chest_loot.json"
+filename = "additional_trial_chest_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4d5c8442e91e2efde46673490431f154c23a50b9f97f47bb282d1298d028ff5.json"
+hash-format = "sha256"
+hash = "04858b6e085d80534eff916bde7005a975004e343b36ce87a46245533b75937d"

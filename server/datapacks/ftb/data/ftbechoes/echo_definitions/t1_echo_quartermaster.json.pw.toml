@@ -1,0 +1,8 @@
+name = "t1_echo_quartermaster.json"
+filename = "t1_echo_quartermaster.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d9/d90036c2049ff2f8ce5238393a9b3e15e1355288d1ed0f0eee795bb8f7dba3b5.json"
+hash-format = "sha256"
+hash = "3610f6b54fdb7c2742dae332ceb5a174451a3fb7d949ff40de7ed2811becd6d1"

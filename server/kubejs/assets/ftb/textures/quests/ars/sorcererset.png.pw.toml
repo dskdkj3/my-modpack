@@ -1,0 +1,8 @@
+name = "sorcererset.png"
+filename = "sorcererset.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a18c0de11d97aa88960e93f55b2d57da35c69d08d4046dbfbb16919f3cecc09.png"
+hash-format = "sha256"
+hash = "f51b8e6707d68a1b54549095fd5158ec93ec6f427fe9fbfc53d9d5dd615e5647"

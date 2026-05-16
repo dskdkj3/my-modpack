@@ -1,0 +1,8 @@
+name = "modular_machinery_reborn_mekanism-common.toml"
+filename = "modular_machinery_reborn_mekanism-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32ae7f70fbd1c9d7d7756ece35a145b08e0dba73831c6f60345b90e9e1bc0aef.toml"
+hash-format = "sha256"
+hash = "f61044b4645a570a98fd2b7c9304622ef31f608d86e778cb117fb9714aa02a87"

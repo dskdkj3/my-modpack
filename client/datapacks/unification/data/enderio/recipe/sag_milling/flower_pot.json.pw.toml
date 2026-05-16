@@ -1,0 +1,8 @@
+name = "flower_pot.json"
+filename = "flower_pot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb53b6fc915269d27b7425178c53498f85a7942dbcbbceceb035aa60ac339956.json"
+hash-format = "sha256"
+hash = "9f0fa1f105c1d09b62d1d3c8dcf762dc3eea45af40f70e0625bbe015c26ddc4a"

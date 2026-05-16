@@ -1,0 +1,8 @@
+name = "underwater_ruin_small.json"
+filename = "underwater_ruin_small.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/edaf93ddf12e157c2b2f5b5359b51e961bdf8b29e96d2a4b1676198fb110fab3.json"
+hash-format = "sha256"
+hash = "c7da8207f1eb03423c3c6d173f33cf5e87fc1a56e0c4494a3357cb1b81d24416"

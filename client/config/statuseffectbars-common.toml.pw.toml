@@ -1,0 +1,8 @@
+name = "statuseffectbars-common.toml"
+filename = "statuseffectbars-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/401b011b70be9bed1a5302f1562f40b80656a6b254ec65b1181c348d8fda7015.toml"
+hash-format = "sha256"
+hash = "fe14b885cf058a592c424ece361c8c64178e5ccf932404f263fb8e409edd3b9e"

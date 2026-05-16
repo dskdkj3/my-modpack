@@ -1,0 +1,8 @@
+name = "base_progress_empty.png"
+filename = "base_progress_empty.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0aef8aedc5b84805eb7b60139e3c87a51811c378b7480b47f7e386453a781c07.png"
+hash-format = "sha256"
+hash = "80e59cf31f851ba1f844f54cf4feea5e0ba46d8ae42d756ca33db3f82648a64c"

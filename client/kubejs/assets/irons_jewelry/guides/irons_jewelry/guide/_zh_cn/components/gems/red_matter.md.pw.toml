@@ -1,0 +1,8 @@
+name = "red_matter.md"
+filename = "red_matter.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cc29ed522c08e5914863fee3a3b6a3820d22663de43ba1d78dbc7e895964e8b.md"
+hash-format = "sha256"
+hash = "9511e012ba2638fec891e67e27ee1f1f5affe9988de12bd7854006e5e3b16a16"

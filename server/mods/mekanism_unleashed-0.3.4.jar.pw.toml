@@ -1,0 +1,8 @@
+name = "mekanism_unleashed-0.3.4.jar"
+filename = "mekanism_unleashed-0.3.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7801/278/mekanism_unleashed-0.3.4.jar"
+hash-format = "sha256"
+hash = "e9186a3b8029abbe4447ba056e2f8d1bd09df65488c47c3d6cdce19aa5ff2886"

@@ -1,0 +1,8 @@
+name = "dripstone.json"
+filename = "dripstone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c191679e25c5db19bfa722026d71d6629fa0c7185cc5187371a7bb28425a2df.json"
+hash-format = "sha256"
+hash = "677a9d70baf78b04a8042a04a13be28fb1584de3854c3cf2e3c7b76ff553cd84"

@@ -1,0 +1,8 @@
+name = "z.json"
+filename = "z.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d6351b21052d6c369afe277740b180df3e39b91ec145401c4f81ff8a830ad41.json"
+hash-format = "sha256"
+hash = "f2791c1573b785189ed4dd1daefb33989fc24b2499c1a1a3f269634db6cc4e63"

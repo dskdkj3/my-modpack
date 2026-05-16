@@ -1,0 +1,8 @@
+name = "mooshroom.json"
+filename = "mooshroom.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b110055d9540610410b59d42f70a7e476d112fac7f29e3486baab80fe7f56a7a.json"
+hash-format = "sha256"
+hash = "7dcf06e16370a1b65bfe5aea22419ff24617dee8e1a55a6e3b521f5432a60158"

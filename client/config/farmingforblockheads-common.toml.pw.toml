@@ -1,0 +1,8 @@
+name = "farmingforblockheads-common.toml"
+filename = "farmingforblockheads-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5feb16d84adc9a53ea716fa56e15758cf9d0e959e4d4e0ae46850edfa881264.toml"
+hash-format = "sha256"
+hash = "00caf9b10ce96cf0a8ca61c5f6c98fcfe0a91d5af560dce814f97beafc8069fa"

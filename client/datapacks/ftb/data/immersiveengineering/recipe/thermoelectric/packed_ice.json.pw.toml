@@ -1,0 +1,8 @@
+name = "packed_ice.json"
+filename = "packed_ice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fa07a6b379172d3b4f841f14e9417bbf1c1aa67f73b96edc60b087604febfac.json"
+hash-format = "sha256"
+hash = "e64b503ca3e14317f71e6de4f54a9a35a4436dba39e7da896493175d618cfb51"

@@ -1,0 +1,8 @@
+name = "reward_ominous_unique.json"
+filename = "reward_ominous_unique.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/44/4479d4bd3a4fb80318466dc285c3a724219bb8905d296b75772269643dd9c01e.json"
+hash-format = "sha256"
+hash = "7e4380fe467699bc7bc5374db302b43350be56362fa877f29792a157bfef555c"

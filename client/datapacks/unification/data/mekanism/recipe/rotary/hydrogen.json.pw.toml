@@ -1,0 +1,8 @@
+name = "hydrogen.json"
+filename = "hydrogen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/873a882d16bcc9f1c4e8474f8bfab51bc43e92f10850f44901a791287790cae6.json"
+hash-format = "sha256"
+hash = "4ff81d9ed2196bc144e73a53bf91ebe964000533f33f3112d0f91879d3963159"

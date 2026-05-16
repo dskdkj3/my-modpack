@@ -1,0 +1,8 @@
+name = "archaeologist.png.mcmeta"
+filename = "archaeologist.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80205f5a2d2c2a6c0d39385729f86d90c2f232805e4281e48ccce042e01cbb0e.mcmeta"
+hash-format = "sha256"
+hash = "13702217017482de15e8a369310816374e2cc2cc42cad9a13fdc13b092f72ad3"

@@ -1,0 +1,8 @@
+name = "refinedstorage_mekanism_integration-common.toml"
+filename = "refinedstorage_mekanism_integration-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1ff4401a61af2f5132529da67bed34361b27f3e13ece159a5b3cda2c46bc5874.toml"
+hash-format = "sha256"
+hash = "ea78e5fd131d83c3fc31be65a80995af3416c0527899fa33a1cad30fb844d29c"

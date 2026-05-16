@@ -1,0 +1,8 @@
+name = "busy_villagers-common.toml"
+filename = "busy_villagers-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f953e46422e9a9d403b790ff723f385752c9fafc72c69d0682fb85536fb1dd61.toml"
+hash-format = "sha256"
+hash = "4d90ac8bd5bc1d77ad8cd09e6e658676b7dab1342ae16d1fe59e1857e622aedf"

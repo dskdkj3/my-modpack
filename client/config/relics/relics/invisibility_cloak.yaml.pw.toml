@@ -1,0 +1,8 @@
+name = "invisibility_cloak.yaml"
+filename = "invisibility_cloak.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7cc47c15f1f03fafcc16ce51441266c9e5fd5107a413804775a191f6e04a71fc.yaml"
+hash-format = "sha256"
+hash = "7c8d774d66ad9334e6466a438b46234baa68d1f78ad661e1914cfc1c90ef7e4b"

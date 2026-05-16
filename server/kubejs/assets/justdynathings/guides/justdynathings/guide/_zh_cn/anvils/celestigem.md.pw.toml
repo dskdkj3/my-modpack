@@ -1,0 +1,8 @@
+name = "celestigem.md"
+filename = "celestigem.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/bad86320af49b878fdc2e7801df491c39ddc3fd5f2e8eb5431a21a8fef6cc8fa.md"
+hash-format = "sha256"
+hash = "ca1cfef02cfbe4160df231df055a6a5cd21ef651e21a539d828771dc47a1de65"

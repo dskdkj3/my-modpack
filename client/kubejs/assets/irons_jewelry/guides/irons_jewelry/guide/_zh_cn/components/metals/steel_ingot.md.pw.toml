@@ -1,0 +1,8 @@
+name = "steel_ingot.md"
+filename = "steel_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d317e843a89d8a2d22b9d5926616035d3866ae419efa1843bb469cf280d1a25.md"
+hash-format = "sha256"
+hash = "e64dc6881aefb910e6da5079443ecc46eb5e56a11cc76ab39f74a87f4fa675c2"

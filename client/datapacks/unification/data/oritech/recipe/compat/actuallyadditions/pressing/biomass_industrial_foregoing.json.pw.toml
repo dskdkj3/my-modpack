@@ -1,0 +1,8 @@
+name = "biomass_industrial_foregoing.json"
+filename = "biomass_industrial_foregoing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7c66b23e75ffd0834448789d84d2e9b6d4c0cdd85a5bf1c0448ba16729097c2.json"
+hash-format = "sha256"
+hash = "371f55c0933f8dddb6669e1969aab4b50031ffddc1292994ef61920694685c57"

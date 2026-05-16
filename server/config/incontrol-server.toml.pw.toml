@@ -1,0 +1,8 @@
+name = "incontrol-server.toml"
+filename = "incontrol-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d8a002038aefcd5a32f521a8fc7c5f4431a4f837e4e5bc4f0c01ceac158b15c.toml"
+hash-format = "sha256"
+hash = "f0e413d1b39f86a2542c8019b9ae1ad75bf052f1b83d268f1afa26b8bbe3976b"

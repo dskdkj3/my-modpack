@@ -1,0 +1,8 @@
+name = "carbonconfig.cfg"
+filename = "carbonconfig.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46a856e9b6274313f1ca823a6da372c44af531470398c5e99bd431507a5501bb.cfg"
+hash-format = "sha256"
+hash = "3e95549a42b320ee223da273246750d6a2f21db862050be1911611390695f6d6"

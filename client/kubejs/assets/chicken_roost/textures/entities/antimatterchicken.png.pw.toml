@@ -1,0 +1,8 @@
+name = "antimatterchicken.png"
+filename = "antimatterchicken.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02bf4a974c20614a27dc434e72cd80b92b7cb713fd56ecd19ce7ff100ed37f11.png"
+hash-format = "sha256"
+hash = "ad4da3c9560eee61497a3bbfa142edc1903141cbdd2dadcc6ce67cc79cdf9858"

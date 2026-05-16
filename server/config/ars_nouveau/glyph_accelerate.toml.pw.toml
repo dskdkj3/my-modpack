@@ -1,0 +1,8 @@
+name = "glyph_accelerate.toml"
+filename = "glyph_accelerate.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a5c4f7320be90a9bac4ec0cd0cfa7ba5b9623c4a8d7d6eda6f544e91debb6aa.toml"
+hash-format = "sha256"
+hash = "1a00f7fa7cdb3667f85dd61f913d1a57455f6688f506cf5b90b854e4a33411ad"

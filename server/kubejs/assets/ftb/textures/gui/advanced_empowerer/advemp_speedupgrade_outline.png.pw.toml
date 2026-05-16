@@ -1,0 +1,8 @@
+name = "advemp_speedupgrade_outline.png"
+filename = "advemp_speedupgrade_outline.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff8a343fe7d64635aabdefd64d77b12e8506c37f5b7e27a8db2b75ea8ffe2af6.png"
+hash-format = "sha256"
+hash = "25327f4b63475efb81bd6087ce929c21a14692d9503a41e784d4800dbfd444c6"

@@ -1,0 +1,8 @@
+name = "steam_pressurizer_idle.json"
+filename = "steam_pressurizer_idle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cb/cb23068eb23c5dcae5a55543190fd5e881a71cd19a3e81ccc21938ba338abd60.json"
+hash-format = "sha256"
+hash = "e430ccaa3b1f9934eb890d76ce96e7436dce19430e2050bf86591bfc04570a99"

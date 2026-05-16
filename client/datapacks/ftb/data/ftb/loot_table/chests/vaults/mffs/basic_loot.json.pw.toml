@@ -1,0 +1,8 @@
+name = "basic_loot.json"
+filename = "basic_loot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a738af7204637f2740ddc3c324ca2725d8928b4cb4a3d84209fb23848cccab4f.json"
+hash-format = "sha256"
+hash = "3c7383b706c258c141b5d9645d4d43056322f078b2f3cd62ef999937d30a7474"

@@ -1,0 +1,8 @@
+name = "chicken_jockey.nbt"
+filename = "chicken_jockey.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/976c12033e47f0db00d526f078024ed3cb38daddc6da5a4de808bb50bda92e44.nbt"
+hash-format = "sha256"
+hash = "c480902921448a1b3e6ea460a66c02a9f5f466a39c7283b9fe755bc4ecac87de"

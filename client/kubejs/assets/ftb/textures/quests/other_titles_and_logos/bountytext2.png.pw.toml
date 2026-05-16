@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/other_titles_and_logos/bountytext2.png"
+filename = "bountytext2.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/other_titles_and_logos/bountytext2.png"
+hash-format = "sha256"
+hash = "99506536b8ed064ae7ce84162c477ec8e8e86b325fbabb8cfa2b07b6ba6a9da4"

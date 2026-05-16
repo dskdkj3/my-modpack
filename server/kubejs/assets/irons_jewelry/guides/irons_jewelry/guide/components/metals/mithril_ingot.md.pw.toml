@@ -1,0 +1,8 @@
+name = "mithril_ingot.md"
+filename = "mithril_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/2348d9c18f355e4e0d9ea80450691f95eebc12a9c3d58edd74098fb7820a15b1.md"
+hash-format = "sha256"
+hash = "a68478332fa3fb5e1e212a5deac73db05193627330cd59409c2cc3aff2b11528"

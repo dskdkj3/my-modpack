@@ -1,0 +1,8 @@
+name = "spectre_energy.md"
+filename = "spectre_energy.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/39dcc31a305d20c10ff2e6c12c15979f2c98aa043469ab2b82dc61a31b2e165b.md"
+hash-format = "sha256"
+hash = "352b1b4eac3c8782afbad6f9ec2d17ef5f4077803446c98a0a13a235a27b9054"

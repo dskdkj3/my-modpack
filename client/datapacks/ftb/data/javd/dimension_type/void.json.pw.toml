@@ -1,0 +1,8 @@
+name = "void.json"
+filename = "void.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/031a022922644e0f7af84965d9d0c6e5cf4f0ac68b9919ff926864a090855132.json"
+hash-format = "sha256"
+hash = "91ce3cc38d89d2fc79ec28e4b319eab3036e4e4d592592bb73def8546abca549"

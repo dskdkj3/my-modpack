@@ -1,0 +1,8 @@
+name = "Mekanism-1.21.1-10.7.19.85.jar"
+filename = "Mekanism-1.21.1-10.7.19.85.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7904/58/Mekanism-1.21.1-10.7.19.85.jar"
+hash-format = "sha256"
+hash = "004dbc9f3106f4d192aeaa1ee1190dd16ec9ca8059ed3d093b80034f4c574f43"

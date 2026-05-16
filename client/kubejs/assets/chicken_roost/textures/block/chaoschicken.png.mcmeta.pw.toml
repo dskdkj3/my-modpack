@@ -1,0 +1,8 @@
+name = "chaoschicken.png.mcmeta"
+filename = "chaoschicken.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c8404db89bf44387919fa77e23ca88c43dd100006fad2477282db77562783844.mcmeta"
+hash-format = "sha256"
+hash = "601f829dc67e16e8c656e1d184d5ec3ee04fccca1794901903526984b560e932"

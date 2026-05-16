@@ -1,0 +1,8 @@
+name = "multiblock_validator.png"
+filename = "multiblock_validator.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8cba414a91f6e988dcaad9ee83198106f2314f8d7e475bafef70cf052c9fe058.png"
+hash-format = "sha256"
+hash = "24468ea5a7d2e89f14d2d43bdcfcd7b39c6642c7a5484c080308d5394c5c286d"

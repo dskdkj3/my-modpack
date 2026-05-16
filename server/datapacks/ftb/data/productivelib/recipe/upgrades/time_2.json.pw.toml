@@ -1,0 +1,8 @@
+name = "time_2.json"
+filename = "time_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0ba6dee23f149177500ba1fdf27c6ff086fc1fded5c7ba15f2bd928692662e04.json"
+hash-format = "sha256"
+hash = "9b7c71685bef2899f3f8f8779ceffe67c3677528c8bc5b473492a2b41f53f9c1"

@@ -1,0 +1,8 @@
+name = "rhino-2101.2.7-build.81.jar"
+filename = "rhino-2101.2.7-build.81.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7104/526/rhino-2101.2.7-build.81.jar"
+hash-format = "sha256"
+hash = "fcc3f8de61771596f1b120f734819cb97f5935a5d42c76f4057a0be06a3609db"

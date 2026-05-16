@@ -1,0 +1,8 @@
+name = "impure_daisy.png"
+filename = "impure_daisy.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f69dc23b5a24fb9029df2992c343250ae8ebf86a55f0779cbea5436838ae4ead.png"
+hash-format = "sha256"
+hash = "c4e17ccb76f6157c0c5eb2282b927bd052138c3cefae7110122cf8e375d673de"

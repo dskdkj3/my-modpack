@@ -1,0 +1,8 @@
+name = "structureessentials-1.21.1-5.0.jar"
+filename = "structureessentials-1.21.1-5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7962/596/structureessentials-1.21.1-5.0.jar"
+hash-format = "sha256"
+hash = "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d"

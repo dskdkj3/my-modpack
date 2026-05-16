@@ -1,0 +1,8 @@
+name = "celestigem.png"
+filename = "celestigem.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b80524d6dc28539fea134b1bcfde77742b0e24aa55154877e7f59dad482cb8f4.png"
+hash-format = "sha256"
+hash = "60e3f2a8d24d23b51e46ae74d24856e199ab2302f22e90d22d2ef6557736de3b"

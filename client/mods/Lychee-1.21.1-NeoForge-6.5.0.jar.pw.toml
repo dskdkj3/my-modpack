@@ -1,0 +1,8 @@
+name = "Lychee-1.21.1-NeoForge-6.5.0.jar"
+filename = "Lychee-1.21.1-NeoForge-6.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7441/857/Lychee-1.21.1-NeoForge-6.5.0.jar"
+hash-format = "sha256"
+hash = "7257c01b1c1ba4fa1de082a8e8d36bedc7857fc6dd0224e0f341a5ef1525f964"

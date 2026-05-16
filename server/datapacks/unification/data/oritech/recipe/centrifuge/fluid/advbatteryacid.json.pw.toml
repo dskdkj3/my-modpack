@@ -1,0 +1,8 @@
+name = "advbatteryacid.json"
+filename = "advbatteryacid.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/027ac65644b1fb33b28a6114e649eb3e3d5721b27b6702b28d59e645970eb990.json"
+hash-format = "sha256"
+hash = "e3dfa3e14adba53fac9e56e02bf6c6407def6efe8dc94818637e46b5058175d4"

@@ -1,0 +1,8 @@
+name = "createenchantablemachinery-client.toml"
+filename = "createenchantablemachinery-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f805a81c51667e499c04244866e75e93f108f1562f4cd28cc709d0db060151ee.toml"
+hash-format = "sha256"
+hash = "2466444889f02a1454c7a88bdbd1f0cff94bc5cfc4646d8d6b023bef767d6ead"

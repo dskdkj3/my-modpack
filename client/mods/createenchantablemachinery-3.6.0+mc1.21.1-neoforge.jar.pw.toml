@@ -1,0 +1,8 @@
+name = "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar"
+filename = "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7766/920/createenchantablemachinery-3.6.0%2bmc1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "933ad37b064d8c6005f1f6eb09b3274fe9f5961a6841fb9e7bb65a7bff66f653"

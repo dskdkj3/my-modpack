@@ -1,0 +1,8 @@
+name = "zoglin.json"
+filename = "zoglin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f1419acec6885f24e37596e60c2300aea24af6b2cd34d90c0ada939dec5cce18.json"
+hash-format = "sha256"
+hash = "a31a88b53f11f807cc71b84a9b14ece1369b6c0a623ceefeff71dc75c4059630"

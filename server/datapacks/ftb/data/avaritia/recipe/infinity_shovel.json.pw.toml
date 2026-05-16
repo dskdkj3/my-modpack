@@ -1,0 +1,8 @@
+name = "infinity_shovel.json"
+filename = "infinity_shovel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b6f69b586bac2b9ab2e926f6e8c85c1aac9ea507d6fa9bf2b912e2412b2599ae.json"
+hash-format = "sha256"
+hash = "97cb4622bed8dc2ab0a21448959d393f7792795d1ad8e5f9e089ccc40ce135f1"

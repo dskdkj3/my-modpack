@@ -1,0 +1,8 @@
+name = "fort_to_dungeon.json"
+filename = "fort_to_dungeon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5ba36d6b80bc48ff1b76ad42ae88dd5613fae336d874418ac6d854b435b0f0df.json"
+hash-format = "sha256"
+hash = "61b56c08a1dcda3b93ef4cf98d80462356f377daba388b50fd5ea7bdc64b6fdc"

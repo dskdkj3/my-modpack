@@ -1,0 +1,8 @@
+name = "neutron_activator.json"
+filename = "neutron_activator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9def59eb6583ca9b94675b6882106ca4a010badfb127845c1e1becfe5b75c997.json"
+hash-format = "sha256"
+hash = "e72c63bf71760ae980351b0345f9bad8c6f5e1356136289db0bc16d9d719fd3b"

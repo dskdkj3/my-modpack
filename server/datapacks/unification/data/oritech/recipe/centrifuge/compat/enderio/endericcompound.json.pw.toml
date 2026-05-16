@@ -1,0 +1,8 @@
+name = "endericcompound.json"
+filename = "endericcompound.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eac96f28fdf5b66b700370863b49d1afe214a082f2e9bb95a3c04add6cc032bf.json"
+hash-format = "sha256"
+hash = "1bae2615d6ec3c52a3d0a469bde2e9746c223e69e1e43e0a63f50405fe5256ac"

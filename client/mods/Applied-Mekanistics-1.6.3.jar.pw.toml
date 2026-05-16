@@ -1,0 +1,8 @@
+name = "Applied-Mekanistics-1.6.3.jar"
+filename = "Applied-Mekanistics-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7096/962/Applied-Mekanistics-1.6.3.jar"
+hash-format = "sha256"
+hash = "8946fea39451dbce8e709dedbef40a52ba337bdf7a25ac0c4b503800b1bf0773"

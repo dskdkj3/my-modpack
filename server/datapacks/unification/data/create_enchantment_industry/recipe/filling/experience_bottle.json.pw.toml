@@ -1,0 +1,8 @@
+name = "experience_bottle.json"
+filename = "experience_bottle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6af54de2ad53e92882012abd5d7ed9e24abb156b39e574e8d6c95c00e2a0b4e.json"
+hash-format = "sha256"
+hash = "cde31edf97df597f9ec81a51b7e7c95d1b75a44be28669884b9e71d8ce660a97"

@@ -1,0 +1,8 @@
+name = "phantom.json"
+filename = "phantom.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fcc062cb4ad5060b59f4f717f3e76cd4d3eb0e8d9bad2e121aedba6e990a9c3c.json"
+hash-format = "sha256"
+hash = "57129f967f6f8c6df0931b76a4ff51ce41077244071632d9135a8cabc705f201"

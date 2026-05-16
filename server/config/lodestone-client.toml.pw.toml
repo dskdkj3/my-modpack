@@ -1,0 +1,8 @@
+name = "lodestone-client.toml"
+filename = "lodestone-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80d4cdc820dd3c9004250ac051454f3044ee56c3eb75b54609e3c24238236eb1.toml"
+hash-format = "sha256"
+hash = "964c94d1f00b084d2b017641d3182a8af4846d602db0a26911ec0fdae72f8c43"

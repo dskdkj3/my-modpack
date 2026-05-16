@@ -1,0 +1,8 @@
+name = "shulker_boxes.json"
+filename = "shulker_boxes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b67bb020630110227e9b0784284faf4896f73f7431fc023a0e376f7532e8738.json"
+hash-format = "sha256"
+hash = "9e70cf2b34ca464e67e09416d6e426c780f5cbb7b6211b49625019b8d97ece33"

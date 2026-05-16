@@ -1,0 +1,8 @@
+name = "psimetal_ingot.md"
+filename = "psimetal_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2b09935a6b566e1a70bc985a4f2ee30ffa0520fdbf331b713f4b0de915369c8c.md"
+hash-format = "sha256"
+hash = "e9d4a1f4961c1d4c1fc7e13eede159eabdd873c567f77825c61f84b0c80ea9ea"

@@ -1,0 +1,8 @@
+name = "orange_core.png"
+filename = "orange_core.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5dd97ab9432c71ed24741cec50b012e55c86f465255e882b45270297a78e142.png"
+hash-format = "sha256"
+hash = "e4a29ef59ba25f78648160d694636cffdb9af8454afef0974dc863b0152089e0"

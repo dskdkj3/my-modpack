@@ -1,0 +1,8 @@
+name = "draconic.md"
+filename = "draconic.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f958a59800e345735bd1a84f070683c9bbbb6c400fb8dd59fb43e966b4a5418f.md"
+hash-format = "sha256"
+hash = "f661829c7e8342f9e66b79892b1a638ee36623b27ca021fc1a5b3bd2d72dd11a"

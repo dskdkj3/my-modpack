@@ -1,0 +1,8 @@
+name = "psi.js"
+filename = "psi.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/6783e944703028e1d71ee56b433cca43b7137deaa739d9172680f54da1d5d5d1.js"
+hash-format = "sha256"
+hash = "87715badf71291abee1adfecfec8ee1cbdadacfdceb7a05384eb179be5ea8758"

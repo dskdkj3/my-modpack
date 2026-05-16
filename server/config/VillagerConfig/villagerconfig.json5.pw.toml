@@ -1,0 +1,8 @@
+name = "villagerconfig.json5"
+filename = "villagerconfig.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68e4dc3c28b608fc5a157557341e6c06709fb30777d47dadfec148263e9d2be2.json5"
+hash-format = "sha256"
+hash = "0cb225dac2bd052899e9da55177c7a483365d127791b1107678ba344b105df4c"

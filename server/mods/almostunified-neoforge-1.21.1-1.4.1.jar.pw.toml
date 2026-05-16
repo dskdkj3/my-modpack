@@ -1,0 +1,8 @@
+name = "almostunified-neoforge-1.21.1-1.4.1.jar"
+filename = "almostunified-neoforge-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7873/439/almostunified-neoforge-1.21.1-1.4.1.jar"
+hash-format = "sha256"
+hash = "a8af0fda75e40b0a1e36a6431fa0a6dbff183376bc9f3d53250b0a5cd600c56a"

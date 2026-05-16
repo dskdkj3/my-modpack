@@ -1,0 +1,8 @@
+name = "round_robin_upgrade.json"
+filename = "round_robin_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2f/2fcfc13b884b9d9b664c1b7c3f91fa36977d3ba20c7721882eca65b20c9d57e3.json"
+hash-format = "sha256"
+hash = "26a80f208f355dc312affa32a7ab9e6180c3998dda8731137bc06775314eb433"

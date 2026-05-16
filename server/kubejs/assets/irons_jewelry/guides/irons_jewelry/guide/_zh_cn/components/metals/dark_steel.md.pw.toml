@@ -1,0 +1,8 @@
+name = "dark_steel.md"
+filename = "dark_steel.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9672a1a18242ead369e55b83f119ca9ee89fd821110e50636c7f2ad8e9cfbdf.md"
+hash-format = "sha256"
+hash = "37a838bf77f3be5219b3f1d196e85a458b6d4e6e2a2cba60919e2dbb603cc410"

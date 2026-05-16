@@ -1,0 +1,8 @@
+name = "arcane_iesnium.json"
+filename = "arcane_iesnium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1fb2632e4de6cb3bff2fbdfa69756f7c3913cef939b2d15e2c8853c2df163d53.json"
+hash-format = "sha256"
+hash = "4bde507ecd3d24ecf890194c69226fd4cb9f405e7caf5e5340565acb80517793"

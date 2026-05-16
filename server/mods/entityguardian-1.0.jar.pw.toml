@@ -1,0 +1,8 @@
+name = "entityguardian-1.0.jar"
+filename = "entityguardian-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6806/54/entityguardian-1.0.jar"
+hash-format = "sha256"
+hash = "1f20e1087735bb956aee3809e349af79cce3818df067aa505fcc9d305c7a3f66"

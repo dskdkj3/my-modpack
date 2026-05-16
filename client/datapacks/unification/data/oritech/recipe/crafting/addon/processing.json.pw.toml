@@ -1,0 +1,8 @@
+name = "processing.json"
+filename = "processing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/77ac69c788ae4ac27f1d4ef6304808957cb31d9ffbecb63d7ac7e9b8bd06bd92.json"
+hash-format = "sha256"
+hash = "15a1632f745a1f7c3d0baf2f89453dab53576c7bd11e9ff069e90370b2cb6ef6"

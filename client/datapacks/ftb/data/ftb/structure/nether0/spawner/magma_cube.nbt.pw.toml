@@ -1,0 +1,8 @@
+name = "magma_cube.nbt"
+filename = "magma_cube.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/42/428acf784636d33424341902dda349a737c46f283356da840eca8b67478c1090.nbt"
+hash-format = "sha256"
+hash = "6e24a86cc036ca33ef35a2200a8214cf095fdcca2fc3b6e61386af8cbedadb98"

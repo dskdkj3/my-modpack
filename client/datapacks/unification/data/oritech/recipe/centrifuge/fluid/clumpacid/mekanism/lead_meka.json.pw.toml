@@ -1,0 +1,8 @@
+name = "lead_meka.json"
+filename = "lead_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e96ccfa00a6051b96eeeec9a16144586df60b07fdf2f94fc65401b3c0bb4204.json"
+hash-format = "sha256"
+hash = "60edfcac981a097326ef2a679aef678c4debc77fba913bfac82e9ffd3450a34d"

@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/irregular_implements/guides/irregular_implements/guide/items/spectre_key.md"
+filename = "spectre_key.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/irregular_implements/guides/irregular_implements/guide/items/spectre_key.md"
+hash-format = "sha256"
+hash = "baa7354be7a2bceab8df1004c1ae949b2bf1eb875c1374106e85e82a1b71fa79"

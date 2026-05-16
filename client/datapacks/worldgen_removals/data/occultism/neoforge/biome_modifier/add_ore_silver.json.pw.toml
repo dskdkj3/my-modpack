@@ -1,0 +1,8 @@
+name = "add_ore_silver.json"
+filename = "add_ore_silver.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/1544c4435cb233eb70e7a8a2dd114ae00d4b7c35fa17e3f1584f8053f7aa1765.json"
+hash-format = "sha256"
+hash = "34887fc251a93f1fd2416447e1452748dcf9103c2704fd894c03198520ca0e9a"

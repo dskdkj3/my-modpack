@@ -1,0 +1,8 @@
+name = "eat_speed.json"
+filename = "eat_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3ac25f70d2e519a95eebd41eb83eb4da824074fcdb494dac9f341e06396f1f4.json"
+hash-format = "sha256"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"

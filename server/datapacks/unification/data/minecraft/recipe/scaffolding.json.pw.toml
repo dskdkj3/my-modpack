@@ -1,0 +1,8 @@
+name = "scaffolding.json"
+filename = "scaffolding.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7abba6dc46563f6a818c7b5c3c6207468fbee0d11d288a6a704d5c30add1befe.json"
+hash-format = "sha256"
+hash = "319e9425d178b9d27de587c6711d9cdbac62aa54824697d0d822a2bedd0e5d70"

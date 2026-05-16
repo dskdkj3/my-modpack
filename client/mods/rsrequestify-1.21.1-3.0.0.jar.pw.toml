@@ -1,0 +1,8 @@
+name = "rsrequestify-1.21.1-3.0.0.jar"
+filename = "rsrequestify-1.21.1-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7156/196/rsrequestify-1.21.1-3.0.0.jar"
+hash-format = "sha256"
+hash = "8ac325df8d5a830db93f0c7e0be1f4d3d8c769afe358c2d7c80b45e79093e4fa"

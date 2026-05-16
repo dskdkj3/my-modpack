@@ -1,0 +1,8 @@
+name = "rep_ae2_bridge-common.toml"
+filename = "rep_ae2_bridge-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b1c52af405ec11a8a37c6331ba46283f72592b31d7687359adecf0854459403a.toml"
+hash-format = "sha256"
+hash = "217aa396f4ae174883bc5a75de72d584aa12eaed29e1babd4bc082d604aacae4"

@@ -1,0 +1,8 @@
+name = "darktower_key.json"
+filename = "darktower_key.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc8297c426c8239d55a7c96bf234372c1fbaf8bafdbc638c9f0c1883a6eaedc1.json"
+hash-format = "sha256"
+hash = "ffecda6db3e915aeeb3c268c879c9d16207a8d1a2a6fa1ccbd9e51644875a36f"

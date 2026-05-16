@@ -1,0 +1,8 @@
+name = "oritech-common.toml"
+filename = "oritech-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/3185b8aeba86fb13df1207f63fad6e473e1bfdff68aafcb0731018b4cc6478cb.toml"
+hash-format = "sha256"
+hash = "ba73963f2fb1781701165f312c8de6b09591ee30658466047cd1e6245b41d17f"

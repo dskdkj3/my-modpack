@@ -1,0 +1,8 @@
+name = "telepad.json"
+filename = "telepad.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa5f7145c869b63c93e385023c235a139d4e14711f09773c53751014f75fd2d1.json"
+hash-format = "sha256"
+hash = "3bd03804888b13e2b6998a061263b74f82e673c7321f111c3821dc7598d02263"

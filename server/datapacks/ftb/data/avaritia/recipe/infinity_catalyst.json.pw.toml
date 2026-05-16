@@ -1,0 +1,8 @@
+name = "infinity_catalyst.json"
+filename = "infinity_catalyst.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/6875b3200a21b9dc65f42d71af6481114f28a6ac97eb221e4119d2d576f54b9e.json"
+hash-format = "sha256"
+hash = "35bd724e9d7528f08a54c141adde1d9d696810ad7937addc188bd25151827b8f"

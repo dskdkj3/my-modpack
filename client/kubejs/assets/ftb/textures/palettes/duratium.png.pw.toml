@@ -1,0 +1,8 @@
+name = "duratium.png"
+filename = "duratium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2c8fde46a6559bd297151fd512b39c9c861a4b666d87157851a1da8acd2143c7.png"
+hash-format = "sha256"
+hash = "a9f579bdbdb9e50c870260c935409c3dde94f88da6b1a8ac4e83da363f85f84b"

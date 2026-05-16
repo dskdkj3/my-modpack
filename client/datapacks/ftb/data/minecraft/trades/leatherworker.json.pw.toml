@@ -1,0 +1,8 @@
+name = "leatherworker.json"
+filename = "leatherworker.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/917058128230fdd5f4149485adcf087204146500d56635f10beb7ee21d026c95.json"
+hash-format = "sha256"
+hash = "babf20623ab7a44cc87804f6639e36eb7e324c71015dc550f4f7a8dd1895b201"

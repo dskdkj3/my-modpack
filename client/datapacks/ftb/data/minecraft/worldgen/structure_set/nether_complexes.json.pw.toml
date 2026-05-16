@@ -1,0 +1,8 @@
+name = "nether_complexes.json"
+filename = "nether_complexes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/5983f290717b3a97feefb6d5c87aeb6432f21cc1bcc731b0ed63f22fe088aad3.json"
+hash-format = "sha256"
+hash = "86252e4982714829f5c989806f428ad5fa1fe12d15810dcd3ef329ab16d126b8"

@@ -1,0 +1,8 @@
+name = "crushed_raw_uranium.json"
+filename = "crushed_raw_uranium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e1a79ec6d5ab1f32a469a94f64b2fbd31636865fbefd36134a5a371469f7aab9.json"
+hash-format = "sha256"
+hash = "082b433ecba9b17142722bbd068f24af81890d00c0acc437ec430422ef1ba75f"

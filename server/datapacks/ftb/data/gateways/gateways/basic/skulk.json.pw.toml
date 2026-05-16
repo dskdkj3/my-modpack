@@ -1,0 +1,8 @@
+name = "skulk.json"
+filename = "skulk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08ff4021abb28fadc9a8da8ac04a18d7fa69f866de8730005f84e633a4aea646.json"
+hash-format = "sha256"
+hash = "e245e9d61dca8713dc7dc146e41b1d16df695eda48983a48fcaabb38de659cb6"

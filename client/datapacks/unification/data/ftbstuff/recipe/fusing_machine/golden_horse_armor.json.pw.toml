@@ -1,0 +1,8 @@
+name = "golden_horse_armor.json"
+filename = "golden_horse_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d9feae44ca815f2be8b0719afa732d3b6c870ba48bdd9fea5a9551b0a6fb862.json"
+hash-format = "sha256"
+hash = "86bfbab92a7b2a18a721f7c91f321b48007a2b164dbecf6b47bb92b1803adcef"

@@ -1,0 +1,8 @@
+name = "t4_echo_ancient.json"
+filename = "t4_echo_ancient.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/400751e098a0c92b2b957a3c7c0c4d2258839e15d5c3fc7da0900a8b8dbb2c57.json"
+hash-format = "sha256"
+hash = "16f375e8081df90a43a57f5ddcfecda54b231f5baeb310ce07372bb2edc54caa"

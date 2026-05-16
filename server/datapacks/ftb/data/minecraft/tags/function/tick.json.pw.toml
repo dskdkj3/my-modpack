@@ -1,0 +1,8 @@
+name = "tick.json"
+filename = "tick.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/9370986ce40c1aca90fa76e75af704a0a41c0e82f1f9b50bb5c29171675ddeb8.json"
+hash-format = "sha256"
+hash = "2faeae2f3304b10df68afce594d3be4561ff5fe9289188ace6cef500abb2623e"

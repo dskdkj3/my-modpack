@@ -1,0 +1,8 @@
+name = "base_inventory.png"
+filename = "base_inventory.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e0e6ac1eb036b8125b502f967c4978878a726b0e236f047097c1ae1c5cdfe916.png"
+hash-format = "sha256"
+hash = "eb774d7b9119fb1f2c8e5acfb18f28bae5214b6b621ec030d51736b46505b30b"

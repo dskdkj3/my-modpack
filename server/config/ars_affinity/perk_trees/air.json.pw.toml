@@ -1,0 +1,8 @@
+name = "air.json"
+filename = "air.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/70/7043a30e029a496a02c29c15cceef70c0c041923445e531ba2ac096d4acc975a.json"
+hash-format = "sha256"
+hash = "914d463c46704ecf419146fad45f13c5bd447796f57d4a78b556aa2a679cc359"

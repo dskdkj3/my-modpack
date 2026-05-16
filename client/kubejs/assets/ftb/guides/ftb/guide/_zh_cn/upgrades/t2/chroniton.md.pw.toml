@@ -1,0 +1,8 @@
+name = "chroniton.md"
+filename = "chroniton.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bd/bd58bd0d51bcf26955ba0b91826789821c25abffce0ba78dd1b1bd650814e445.md"
+hash-format = "sha256"
+hash = "41abfa2ccd6a2e98eae34e29c9db6efb040b13ae0b5c8784b449564cfd75f1b7"

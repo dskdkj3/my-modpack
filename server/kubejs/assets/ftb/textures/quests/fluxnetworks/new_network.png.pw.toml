@@ -1,0 +1,8 @@
+name = "new_network.png"
+filename = "new_network.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3b/3b318037dfcf9b5da1454c170fc3d6d3365ce01be14f64e29ccffffc03c083af.png"
+hash-format = "sha256"
+hash = "91068b2f12a058afe511a6754b2ef14e57110bcb2410ab1fc2ca7997dc3e7658"

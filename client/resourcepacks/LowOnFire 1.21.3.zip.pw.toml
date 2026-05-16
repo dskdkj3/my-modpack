@@ -1,0 +1,8 @@
+name = "LowOnFire 1.21.3.zip"
+filename = "LowOnFire 1.21.3.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e4e8a39d0f5a9406dfa3be33c327f261e06380a8e9f1803a8e51e8d3d5c0b303.zip"
+hash-format = "sha256"
+hash = "55ab1c3595da0d8174efe28c2ef9a35e49997a371c67bb7664e841d26954dc15"

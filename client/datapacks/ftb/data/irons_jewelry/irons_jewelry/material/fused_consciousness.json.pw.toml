@@ -1,0 +1,8 @@
+name = "fused_consciousness.json"
+filename = "fused_consciousness.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/88a0c6f1dca748d44a5c05c4ade17bdedae4075031f73ed5ae60bb46e3a893d6.json"
+hash-format = "sha256"
+hash = "faa1235fc621109ddb610376ae00308c1157b8e717b875c127ff14c13c3a6e2f"

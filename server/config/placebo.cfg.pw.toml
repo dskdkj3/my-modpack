@@ -1,0 +1,8 @@
+name = "placebo.cfg"
+filename = "placebo.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b6919d0d611273bf0f08992b1680d8099226637b55e6603118b12d5daa25745.cfg"
+hash-format = "sha256"
+hash = "6bbc71c6dc18b1ba4952e1bc54ed2b98c3a90f04cec4257ec3f7566cdf0c0e2a"

@@ -1,0 +1,8 @@
+name = "sophisticated_storage.js"
+filename = "sophisticated_storage.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45ab3289e4e47c7950d80277ee69017b41cb1768527edbb1ce06cac04a49a0ec.js"
+hash-format = "sha256"
+hash = "d714dac3861ede6c69f8ebb5ad2e0130b82d26e0cdb5c7c4620cb09a9aa0bf32"

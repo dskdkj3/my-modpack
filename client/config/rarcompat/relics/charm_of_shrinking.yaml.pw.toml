@@ -1,0 +1,8 @@
+name = "charm_of_shrinking.yaml"
+filename = "charm_of_shrinking.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5d3017d180fac8aacd65a98b5e9907572d2cd0569b29b4eda8b603c9cb32acd.yaml"
+hash-format = "sha256"
+hash = "7ddde85cb36c7abeba706fd67dbbb009e6e54f14b7105582968724c4859e99b7"

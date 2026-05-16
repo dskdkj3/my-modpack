@@ -1,0 +1,8 @@
+name = "crepperoverhaul-client.jsonc"
+filename = "crepperoverhaul-client.jsonc"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/43663d52f4500c4b91295ebf63016988f679a049a025ad3ba8957e286f2e5829.jsonc"
+hash-format = "sha256"
+hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"

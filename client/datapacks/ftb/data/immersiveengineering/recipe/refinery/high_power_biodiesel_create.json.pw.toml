@@ -1,0 +1,8 @@
+name = "high_power_biodiesel_create.json"
+filename = "high_power_biodiesel_create.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5bf6babc509de1eb3483daee22a9d746efcf174b472d90eed2940d1d6842e46.json"
+hash-format = "sha256"
+hash = "e3cdf02b9f0cd4c90762713c828462b9e7fa52ff3745bd70f77c78ed35ed4cd6"

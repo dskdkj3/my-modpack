@@ -1,0 +1,8 @@
+name = "spiked_cloak.yaml"
+filename = "spiked_cloak.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/46f8e3a1cb8dc52964fff0164b80ed73d971ba9adbc618b7a449452cfa855890.yaml"
+hash-format = "sha256"
+hash = "b0dcf3211e7dac853aa85d42b54815cd041f39507eff627eba34be7d709505d0"

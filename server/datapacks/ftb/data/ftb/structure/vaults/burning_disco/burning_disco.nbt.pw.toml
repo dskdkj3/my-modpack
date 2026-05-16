@@ -1,0 +1,8 @@
+name = "burning_disco.nbt"
+filename = "burning_disco.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/01091a559e2694adb06d105ea1dcb82d4611715459d67579863bf2b1f8e7ec51.nbt"
+hash-format = "sha256"
+hash = "022f0f5854c8878f197fefa49e6415ecc023710c4d3e6b45b798e6527d3f7f1c"

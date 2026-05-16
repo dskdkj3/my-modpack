@@ -1,0 +1,8 @@
+name = "shrink.js"
+filename = "shrink.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b66c409e3dc69b211e3eb1c08946894028f57187258eca8a9fe0eef4f3a4c9cf.js"
+hash-format = "sha256"
+hash = "a018c46617cad15d9bd6ef46f1d1eb441caa229d3808ef7f1e85e529ced7ac1b"

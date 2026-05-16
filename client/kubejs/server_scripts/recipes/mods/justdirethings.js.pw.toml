@@ -1,0 +1,8 @@
+name = "justdirethings.js"
+filename = "justdirethings.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9ac963ea143de3275da1086446523180ce19c9b18094c4d55166d7c8a99122b2.js"
+hash-format = "sha256"
+hash = "39b5acdd3939da080d9939451d081afd8491bf7a425885946e5ca3eb371945b6"

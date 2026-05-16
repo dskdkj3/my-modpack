@@ -1,0 +1,8 @@
+name = "infinity_saw.json"
+filename = "infinity_saw.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/6415eefc5433d56fd8012ee0d3120266b2e07c397320a4be37250fec88f9dc00.json"
+hash-format = "sha256"
+hash = "09206430db418088e8bccd6b679cb51bc455e70fd7eb5e383bdab4d82f623dec"

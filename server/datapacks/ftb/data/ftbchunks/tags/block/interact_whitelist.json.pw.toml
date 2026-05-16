@@ -1,0 +1,8 @@
+name = "interact_whitelist.json"
+filename = "interact_whitelist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/350438fe7c1841d548d8f4490e27449c3dcd178576c98a6e6439ede4323f4991.json"
+hash-format = "sha256"
+hash = "90ef6e060c76b4f178ac62c31eab7012a511baa22783e62763965bdae14079c7"

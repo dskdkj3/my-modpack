@@ -1,0 +1,8 @@
+name = "time_crystal.json"
+filename = "time_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53d2c469d8699c6423db7039a54f85c3f0b213c7faa810e7433043dae8c9aab9.json"
+hash-format = "sha256"
+hash = "42e74d9b4306b5003b9c1c0a9f67fe2235c5155dc95ffefe547bd112bd536e74"

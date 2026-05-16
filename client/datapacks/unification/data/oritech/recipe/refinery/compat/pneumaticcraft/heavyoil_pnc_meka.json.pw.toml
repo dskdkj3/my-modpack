@@ -1,0 +1,8 @@
+name = "heavyoil_pnc_meka.json"
+filename = "heavyoil_pnc_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b282fd6e737bf4be0335b8dbde3e3bd51a765caf1ac07326d27d91f749561526.json"
+hash-format = "sha256"
+hash = "ac6e26a41bad9810ea539846c18e2bd42d9793d9cfd6117bf475b7ab9038e944"

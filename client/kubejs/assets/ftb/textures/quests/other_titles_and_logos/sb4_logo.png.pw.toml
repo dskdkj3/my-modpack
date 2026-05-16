@@ -1,0 +1,8 @@
+name = "sb4_logo.png"
+filename = "sb4_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ba/ba1d4ac6d5848c56901a262fdf39177df1dd8fbbdc4680e724d8c504108f0136.png"
+hash-format = "sha256"
+hash = "ac228f35a71945ed4ec039230f03a68a99037ddf29bb0642a79b9c0daa93f77f"

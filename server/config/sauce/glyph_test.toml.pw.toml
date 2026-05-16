@@ -1,0 +1,8 @@
+name = "glyph_test.toml"
+filename = "glyph_test.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d70a05735c7fbe45cf706f096482202f734ae932b22991d22327cbf93b17422c.toml"
+hash-format = "sha256"
+hash = "697c944cac8435b17aafc552890d6a55bd522e67765dacc57b87a5c6f2e4755b"

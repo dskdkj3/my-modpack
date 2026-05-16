@@ -1,0 +1,8 @@
+name = "ars_elemental-1.21.1-0.7.9.3.jar"
+filename = "ars_elemental-1.21.1-0.7.9.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8005/65/ars_elemental-1.21.1-0.7.9.3.jar"
+hash-format = "sha256"
+hash = "722174201d863e6ff46b5d7fd820d58a0d9adde5fed2da228950f5d6d0a5cfd2"

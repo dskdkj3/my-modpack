@@ -1,0 +1,8 @@
+name = "9.json"
+filename = "9.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81d23bc863cf1d95ded473897195d19842df2808baab5902666f1d2f3dab9429.json"
+hash-format = "sha256"
+hash = "d156ed0078b3159e299c2a5280908da7ad7c906b376db3355c1085f8e5da7f70"

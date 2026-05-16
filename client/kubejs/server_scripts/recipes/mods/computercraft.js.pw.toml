@@ -1,0 +1,8 @@
+name = "computercraft.js"
+filename = "computercraft.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/acacdd853eac10217d2c43a263925269b24e406fb380c6d433d472bca0713df6.js"
+hash-format = "sha256"
+hash = "748b850cd4baef6d2bf8a6a5aa017b4eae4e0464f6fcba9a7e7d18544ef0c788"

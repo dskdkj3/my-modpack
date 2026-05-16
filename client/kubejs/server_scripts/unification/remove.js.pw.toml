@@ -1,0 +1,8 @@
+name = "remove.js"
+filename = "remove.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a2d035c93bab88c474367d924627928103a6a390d3ddf5b8a53c97ebbcd57bc.js"
+hash-format = "sha256"
+hash = "95cc6053f7f3258428bf54a29fe33673f732df16f5bb3aea39dcb876bcde9f3d"

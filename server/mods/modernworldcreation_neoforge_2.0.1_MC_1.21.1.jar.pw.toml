@@ -1,0 +1,8 @@
+name = "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar"
+filename = "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6119/761/modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "aba9de9a28879bc59333aa05f1b53e1233c9eca5a91ab1c4c55cc63674842a43"

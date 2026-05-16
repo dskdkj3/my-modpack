@@ -1,0 +1,8 @@
+name = "labyrinth_room.json"
+filename = "labyrinth_room.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc1e27ec840836b76672523592932c5925d276155cd1e39ddf272e3fcab1bb31.json"
+hash-format = "sha256"
+hash = "8c158c15c63efef5b74d2c1183009c86db6089ad309db52ecfc16e74e54d84f8"

@@ -1,0 +1,8 @@
+name = "chroniton_glass.png.mcmeta"
+filename = "chroniton_glass.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f639ed4b2b1a36a96e3f217e34dd2306e3ac8225c82cfe59ec40fa109ef06d77.mcmeta"
+hash-format = "sha256"
+hash = "9f91ca2ad42fcdf29ec6116d6528adce2a5ae1f74c00b704a570792d0b084435"

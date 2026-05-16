@@ -1,0 +1,8 @@
+name = "monogeneric.json"
+filename = "monogeneric.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac314651d2f2a6a159a547a1b6537970ad0334aa984fdb28d0f8e9431187479d.json"
+hash-format = "sha256"
+hash = "ed1ce4ab67241147f28878514110ed44882fcd8b598a7f7b7d3986119f9aa14f"

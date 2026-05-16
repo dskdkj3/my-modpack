@@ -1,0 +1,8 @@
+name = "crystal_resonance_generator.md"
+filename = "crystal_resonance_generator.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61f20cb498eaee73c18dabb93698a90568ade5e9a220dcdbcc3bb5c56af0be2b.md"
+hash-format = "sha256"
+hash = "828e1fda53a3c125f5483bf4fbfe205e70489c6f8b5650c1c3d7c270cdf3edfa"

@@ -1,0 +1,8 @@
+name = "magic_coins-client.toml"
+filename = "magic_coins-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5fa23cb8a55aa9373b4dfe3fc921a2ff98a5e1068fda3de800629590faee0229.toml"
+hash-format = "sha256"
+hash = "c7a56f9e3dc2391f1c19a4aefe2f9de20683b2ca595d5fd55189a648f3ad90e7"

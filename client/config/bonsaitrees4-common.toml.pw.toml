@@ -1,0 +1,8 @@
+name = "bonsaitrees4-common.toml"
+filename = "bonsaitrees4-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5606558fec5e090b4ad97817ee3214610bce750702a23edd872d1c75566e909.toml"
+hash-format = "sha256"
+hash = "078727f0384d3df40b5115bdc65d3c80cb7b5e39548f798cb9cd5a2d3ef8da16"

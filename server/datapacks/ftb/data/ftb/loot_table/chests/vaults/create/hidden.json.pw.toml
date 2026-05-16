@@ -1,0 +1,8 @@
+name = "hidden.json"
+filename = "hidden.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a0e129665124fcd435146a8f3da8ee04add56e56c4e91d38c71b1b8767789e1.json"
+hash-format = "sha256"
+hash = "6587cec9070ceb57b57f537f4db6d11b777a4ca142b4addf2dcda2e5877dad10"

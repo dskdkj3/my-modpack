@@ -1,0 +1,8 @@
+name = "steam.json"
+filename = "steam.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf1bab8877d66f6708b6a33431e5aa15082dea98042c2e3054d4107a9b530bd4.json"
+hash-format = "sha256"
+hash = "89a739b6f33f4868fa75cd5aaa2b16b672310a2fcbaf2a9c2fb600617806813b"

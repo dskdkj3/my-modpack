@@ -1,0 +1,8 @@
+name = "dimensional_upgrade.json"
+filename = "dimensional_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9098c9d61caa97234d122c8471ee4124f29f415489efd86262042c503c4ba0b.json"
+hash-format = "sha256"
+hash = "52bd21d6116bda9966830d6998cf587239260ca0e9fb70fd967839edb6072d73"

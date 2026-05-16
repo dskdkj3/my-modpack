@@ -1,0 +1,8 @@
+name = "client.json"
+filename = "client.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/03f9e6aa51c39029763215bca0ce7756dcedcf30080b1032bdefd831ba7bd1ef.json"
+hash-format = "sha256"
+hash = "87a09ee1609bc799223c58cb6225c769bb4d0a1a0bb6d9186ff5f8875c7e9a37"

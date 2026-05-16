@@ -1,0 +1,8 @@
+name = "neutron_collector.json"
+filename = "neutron_collector.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d53e1ecaeeae9bbd15035b68b1d46eeea1cdc37246efcf4ddfe8c343c8347ac8.json"
+hash-format = "sha256"
+hash = "708464378d5c0a3774fc0409390cc832a2d878f524d005d2678914f6fb8b489a"

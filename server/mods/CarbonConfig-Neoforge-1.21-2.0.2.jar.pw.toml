@@ -1,0 +1,8 @@
+name = "CarbonConfig-Neoforge-1.21-2.0.2.jar"
+filename = "CarbonConfig-Neoforge-1.21-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8018/138/CarbonConfig-Neoforge-1.21-2.0.2.jar"
+hash-format = "sha256"
+hash = "168eec391406500d8130f742e0a890297b856a5819d689c4ad247cbbbb7ae445"

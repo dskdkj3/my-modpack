@@ -1,0 +1,8 @@
+name = "sauce.perk.spell_crit_damage.json"
+filename = "sauce.perk.spell_crit_damage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/652992a5e45909467f4a12683954e029983931e87aac1a4840f2cd1c27d98194.json"
+hash-format = "sha256"
+hash = "a3b8a8ec7b60537f2313bfaa6b9e9207e8797b2f1115b104802547e806a612b3"

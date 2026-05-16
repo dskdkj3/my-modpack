@@ -1,0 +1,8 @@
+name = "canola_oil.json"
+filename = "canola_oil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1be66936dd6bb7db40e304c1c6f7f7de41da4af4af80f415c23aac7ef4a91bc6.json"
+hash-format = "sha256"
+hash = "537da12043668b5a7393502c6ef99ee1af2b2e3eedf0c9529d3c4ef4386e93c3"

@@ -1,0 +1,8 @@
+name = "dry_ice.json"
+filename = "dry_ice.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3d/3db967ceefaa051d044758b6b1652a82854e0aa12dba66f77ee367ef4a130543.json"
+hash-format = "sha256"
+hash = "ce10c5940505ca5f1383ce1d4edb6d412f2dd1fe1320316a98eb06be4c0edc73"

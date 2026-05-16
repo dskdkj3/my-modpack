@@ -1,0 +1,8 @@
+name = "acessability_hover.png"
+filename = "acessability_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/0368ecc93917a171fbbfe210cbfe117cddcc8f6dfc3712f77a06113b2fd56eb2.png"
+hash-format = "sha256"
+hash = "d1049fa8e9f0caf62aeaa729f0fece5b32af4643059d99097949f001b5a894fd"

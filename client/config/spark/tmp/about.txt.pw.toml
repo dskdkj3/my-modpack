@@ -1,0 +1,8 @@
+name = "about.txt"
+filename = "about.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f59fa47a64959a16aa4bf878bd472b6c3ef1a7c527bf386b605e6c10c8232b87.txt"
+hash-format = "sha256"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"

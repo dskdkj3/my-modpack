@@ -1,0 +1,8 @@
+name = "maple_syrup_bottle.yaml"
+filename = "maple_syrup_bottle.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f5/f5bb249e15189dd6566d248f09a9277f51c59046c2187bb42e2b87f32046dc1b.yaml"
+hash-format = "sha256"
+hash = "1a0f87392bdb727f60c70664a2bf0c6bec68cc2a5f7a79b0eb553e7eb715eac0"

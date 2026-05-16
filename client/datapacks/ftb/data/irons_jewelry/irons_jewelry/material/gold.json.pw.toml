@@ -1,0 +1,8 @@
+name = "gold.json"
+filename = "gold.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5b5c2a74d4cfb3ff2118ed2ad975a865ad20dc00f1c3c52a49113489d9de301.json"
+hash-format = "sha256"
+hash = "c22fa21148899991f1bc55a088420fa67c99d7971308b70527a4092ebaa97c16"

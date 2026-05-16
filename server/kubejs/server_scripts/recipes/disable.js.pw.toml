@@ -1,0 +1,8 @@
+name = "disable.js"
+filename = "disable.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61533143c7fee545db95250f8a858f4f5dac100edfac45bf32e53d41b29a1bec.js"
+hash-format = "sha256"
+hash = "a2efc30b0e418ab467c69abf09b95a727a5d59daf7c899de7204d6804c6cbb4c"

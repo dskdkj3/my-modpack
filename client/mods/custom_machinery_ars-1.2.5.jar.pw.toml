@@ -1,0 +1,8 @@
+name = "custom_machinery_ars-1.2.5.jar"
+filename = "custom_machinery_ars-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7723/811/custom_machinery_ars-1.2.5.jar"
+hash-format = "sha256"
+hash = "82109ac9919e12b2a85f7e698c843e3815ab6e1ae44e1d76d2d85aefee7b5c60"

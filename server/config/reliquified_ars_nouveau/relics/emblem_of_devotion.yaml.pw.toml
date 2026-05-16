@@ -1,0 +1,8 @@
+name = "emblem_of_devotion.yaml"
+filename = "emblem_of_devotion.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0ddeda80140fedd7216d848b2257344dc291e55361f34321205271499a7149aa.yaml"
+hash-format = "sha256"
+hash = "453cba23f93dfc8a534796507eb286f9cb1799704ab03ef8be84003fbc814c0f"

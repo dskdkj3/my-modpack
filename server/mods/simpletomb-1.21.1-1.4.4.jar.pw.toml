@@ -1,0 +1,8 @@
+name = "simpletomb-1.21.1-1.4.4.jar"
+filename = "simpletomb-1.21.1-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7222/249/simpletomb-1.21.1-1.4.4.jar"
+hash-format = "sha256"
+hash = "bb9f1ccf10d88648534ac6fa8d688c2b56713b2bc5e3475b7a5f3b527b7e1c76"

@@ -1,0 +1,8 @@
+name = "moofluids.js"
+filename = "moofluids.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/51c9b66530f781eeb191c65670e0074f21352d02162aea81a260f7b4ef509feb.js"
+hash-format = "sha256"
+hash = "6d64bfdbd8eaea17b64f4dd5fde22119c46b1e3b0bcc060e8ba285de45b9e3ae"

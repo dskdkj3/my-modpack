@@ -1,0 +1,8 @@
+name = "add_grove_underground.json"
+filename = "add_grove_underground.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71cfe4a2f95fffd9c4d0be1c22b9fc870a72388d91697c188299bd3084c238bb.json"
+hash-format = "sha256"
+hash = "077dc0ae531fe9e55bf4f5143fa843f11ac85c3c81fb0790824fae221a5ff404"

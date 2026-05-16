@@ -1,0 +1,8 @@
+name = "ars_affinity-1.21.1-1.1.1.jar"
+filename = "ars_affinity-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7416/588/ars_affinity-1.21.1-1.1.1.jar"
+hash-format = "sha256"
+hash = "d96938c6e246bbcbf82151e0943f14d3b5ec6c466d1ba025a772bfb4e309682f"

@@ -1,0 +1,8 @@
+name = "clavis.yaml"
+filename = "clavis.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c12d695bfa5f489a2fe3f134de5dc1b454376f4f832b876ee2b12c976a4a055.yaml"
+hash-format = "sha256"
+hash = "1eb718c25abaabaca5c15631e2e0217b1efc23194201e3ba971bbcd351fe7050"

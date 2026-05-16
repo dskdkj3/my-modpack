@@ -1,0 +1,8 @@
+name = "honeytrap_1.nbt"
+filename = "honeytrap_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e8de294d3f522252cd075a89f71b012b3cb52182010164e62f5103c7fadc032.nbt"
+hash-format = "sha256"
+hash = "105c3fb77294bcba1910bfbcb2e4becb9080c5ffdaa571380bb14535a98564bb"

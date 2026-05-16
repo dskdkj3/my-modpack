@@ -1,0 +1,8 @@
+name = "overflowingbars-client.toml"
+filename = "overflowingbars-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/8822a2db01fef0b05268de96a59d1c700038802d8f374dd1cf6b7da65942ff88.toml"
+hash-format = "sha256"
+hash = "ae881bce6d0104ea591f9d2d18e47e2d82539a2b1334f88c880d4ad4e8732c3b"

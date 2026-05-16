@@ -1,0 +1,8 @@
+name = "leather_belt.yaml"
+filename = "leather_belt.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/21/21fde84a82f3ab1c935ad45b2e489e0db9d27ac7de3d910f22711ed6a1cc8c5c.yaml"
+hash-format = "sha256"
+hash = "f1e0108d66e07992e330628b0742738898cd2692f930ecea31d0343ee1311d58"

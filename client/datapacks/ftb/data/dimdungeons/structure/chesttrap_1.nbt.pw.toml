@@ -1,0 +1,8 @@
+name = "chesttrap_1.nbt"
+filename = "chesttrap_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e222ebe5908acf8ed19fbe61751f0347e36c8ae7b0beb16fe0676ccb79b09e6.nbt"
+hash-format = "sha256"
+hash = "a6935ffb479466e7d51dc625b796ef223a0e44e31719f3b475dd2fe8f46dee18"

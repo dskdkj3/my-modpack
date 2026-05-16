@@ -1,0 +1,8 @@
+name = "crueltrap_2.nbt"
+filename = "crueltrap_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76a4b51b92f6c233fd6ba874307bd58513ff4670d2636b211513c1f658b2b582.nbt"
+hash-format = "sha256"
+hash = "c6039df41c5962902697edfb33f43626069a0fdd01ae20c15af33d115da8bad9"

@@ -1,0 +1,8 @@
+name = "laserio.js"
+filename = "laserio.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af84915e2aac65c27d2ae8a3288afdefca160bdaac7aa0cb054ed03233d54c11.js"
+hash-format = "sha256"
+hash = "244c3338f08df0caa6a6ca21730a683c29bc41dfb37d2af7bd931957eab82e93"

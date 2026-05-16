@@ -1,0 +1,8 @@
+name = "extendedae.js"
+filename = "extendedae.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a738396c361e0ec77cbd0638e0b3090d519d8d7550b0728da279cb4704257dc.js"
+hash-format = "sha256"
+hash = "52223430206a384934ae70f1081325a050f63f8e3ed155e38b341af21f6af792"

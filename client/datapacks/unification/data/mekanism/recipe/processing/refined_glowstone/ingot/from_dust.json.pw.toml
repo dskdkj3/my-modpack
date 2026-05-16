@@ -1,0 +1,8 @@
+name = "from_dust.json"
+filename = "from_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7be66516265559486d2b7e440501cb3e40e1de57fcdb2806e36572cdd84361d2.json"
+hash-format = "sha256"
+hash = "193b35225ee162557a1d4ef8cf175376a6a888f0062686ca39e3365a17cccc78"

@@ -1,0 +1,8 @@
+name = "lodestone-1.21.1-1.8.2.jar"
+filename = "lodestone-1.21.1-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7264/731/lodestone-1.21.1-1.8.2.jar"
+hash-format = "sha256"
+hash = "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"

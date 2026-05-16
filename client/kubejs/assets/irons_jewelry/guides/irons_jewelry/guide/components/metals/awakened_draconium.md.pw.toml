@@ -1,0 +1,8 @@
+name = "awakened_draconium.md"
+filename = "awakened_draconium.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e9ee26924f7ca82cd6fa4ee2567b74b12ba09ac48beba985fd62db9f74e8f9f.md"
+hash-format = "sha256"
+hash = "73f638e65113023dbed2aade1ff92a160cbd66929e852eae47c25d119356ba6c"

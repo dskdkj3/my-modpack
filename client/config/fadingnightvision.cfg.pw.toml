@@ -1,0 +1,8 @@
+name = "fadingnightvision.cfg"
+filename = "fadingnightvision.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/538daf084dec844ff8e4ac50962ce6872b36564cb1b19f463d4f5316fb5aa69c.cfg"
+hash-format = "sha256"
+hash = "c33281d48944f00ded5a4e61384926b1b13dc08d72a468cecc44b7b8fd7c0370"

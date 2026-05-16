@@ -1,0 +1,8 @@
+name = "solcarrot-server.toml"
+filename = "solcarrot-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cc/ccde6b8351923ad279e0b07b47fa1b496cd6b6028292dd24b915ed8df82041fa.toml"
+hash-format = "sha256"
+hash = "b035c249d34014acaef406fde9e6089cdc645cd17fae2cffa183aba077b268cf"

@@ -1,0 +1,8 @@
+name = "travelers_quest_logo.png"
+filename = "travelers_quest_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3f3ad04fed3b3025392fe5823a84d2bb398a02678ed774af36418c0fabb41f0.png"
+hash-format = "sha256"
+hash = "1e006d84862ad857c3753d07b83e9fa5dfd279727f51a5618b0f0afc3edb0062"

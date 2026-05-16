@@ -1,0 +1,8 @@
+name = "jearchaeology-common.toml"
+filename = "jearchaeology-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a56db6c58cd3885c4f0fa3317c1432c9615d21d94791d3961954cbd203bcb3d7.toml"
+hash-format = "sha256"
+hash = "042867663e2e833cc37285cad0a7862ae8875459451fbf48d5841596e90a4595"

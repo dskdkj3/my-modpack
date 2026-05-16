@@ -1,0 +1,8 @@
+name = "mekanisticrouters-1.2.0.jar"
+filename = "mekanisticrouters-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7511/369/mekanisticrouters-1.2.0.jar"
+hash-format = "sha256"
+hash = "ec58c32b11937d283fd3617372c166652376c1e0fff0339f9405d31f02c06636"

@@ -1,0 +1,8 @@
+name = "scrap_to_dust.json"
+filename = "scrap_to_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d7/d7816e5fe8f0ba7609505156ff897b84b5bf8e15ef4ed4b55aba51570b091fc9.json"
+hash-format = "sha256"
+hash = "28a34bb412d291034801c29d998f90af2e4b74185c83165431260c4cb5aebcc0"

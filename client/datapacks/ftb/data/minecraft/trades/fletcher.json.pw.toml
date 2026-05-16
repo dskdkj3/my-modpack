@@ -1,0 +1,8 @@
+name = "fletcher.json"
+filename = "fletcher.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b21ccd83d5d8eb10ac4f622a84e963eea5babd3d8e71b5834c32e60b032c8b6e.json"
+hash-format = "sha256"
+hash = "6fe1aeef8983c1b8fd1b42c62948851d5f85c55a0129d94375f0c51ad03771ba"

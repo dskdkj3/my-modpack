@@ -1,0 +1,8 @@
+name = "dragon_charge.json"
+filename = "dragon_charge.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd433070be2ca5a14cbfa8ff70f411b9148ba9ba48198be57cd1ee3a234108ed.json"
+hash-format = "sha256"
+hash = "46aef2c7019c309e5291a2d2dfc20d6577b3f7b8f3f5b7f47da976fee0cba031"

@@ -1,0 +1,8 @@
+name = "armorer.json"
+filename = "armorer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a216d58ce0e0a4b8b694b11e1f94d232b3804107015c0b8c3cadd4d1cc90f26.json"
+hash-format = "sha256"
+hash = "19dd42068881d44115080f98b3ac9a9cfbfc520d2226bb833aa7fe2db9d98421"

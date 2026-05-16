@@ -1,0 +1,8 @@
+name = "megacells-common.toml"
+filename = "megacells-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/947a2fdac4baec68bfb5edd970ee196c84e0b79b8a66fb0a0d7f55045a3cbf99.toml"
+hash-format = "sha256"
+hash = "04840f35d1c6b73f20848f5e54f961efcb7f473c7cd5f594d75cd36ed57c1a9d"

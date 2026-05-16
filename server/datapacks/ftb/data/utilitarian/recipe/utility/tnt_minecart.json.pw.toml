@@ -1,0 +1,8 @@
+name = "tnt_minecart.json"
+filename = "tnt_minecart.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fa351dab0cdfd95712a7cd229c56cf83c15989b4c5d2e31c0ab8cba29fa7f98.json"
+hash-format = "sha256"
+hash = "ef4702131c35846b085803c7529a3568d602570c9df5c43ae64d1e71b42574e3"

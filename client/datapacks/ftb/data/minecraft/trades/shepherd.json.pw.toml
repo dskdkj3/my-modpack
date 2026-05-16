@@ -1,0 +1,8 @@
+name = "shepherd.json"
+filename = "shepherd.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de9038a295e3e424b8dbfd63e0c97aaa28e17a60c6c6c54124b266f8e7ae9f67.json"
+hash-format = "sha256"
+hash = "a21e0239bf10b638a5b2987f2d7fc7640c601d929405ed38c83ce1aa50959d9d"

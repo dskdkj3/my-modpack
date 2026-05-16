@@ -1,0 +1,8 @@
+name = "coffin_3.nbt"
+filename = "coffin_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22d66186d3aa3532986eab1ec488aae9bd10b999ada9ba4caab3eef9a5e8258d.nbt"
+hash-format = "sha256"
+hash = "11cffdef64f0df92970b4da9dfce0ee56d070ac14e380542ef953e767ee34fe0"

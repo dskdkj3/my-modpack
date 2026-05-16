@@ -1,0 +1,8 @@
+name = "key_activation_blocks.json"
+filename = "key_activation_blocks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e58d7c77b231181dfd54413eba301ee1f8d52643d01b73bcb7884c43f73c0417.json"
+hash-format = "sha256"
+hash = "243924faa7a8b5652fe92581359fea4f72c288c8cac426154f9da9f08f0495ea"

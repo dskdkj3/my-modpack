@@ -1,0 +1,8 @@
+name = "gettingstarted_glowing.png"
+filename = "gettingstarted_glowing.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d0266b6f8a8aeec26d34a3dc31dd65691b17151be046695a24422b7c9819526.png"
+hash-format = "sha256"
+hash = "08e2cbc81aaf7e42c8f3c6180ec4bb3983a34cf2a0334ff3a16c6b333ced71cf"

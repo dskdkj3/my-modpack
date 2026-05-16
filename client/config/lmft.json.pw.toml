@@ -1,0 +1,8 @@
+name = "lmft.json"
+filename = "lmft.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f85535976a0c247dbc9425515df9c390ed0888b41079f672169f5a89b4f46d07.json"
+hash-format = "sha256"
+hash = "7564aee7b7bf3477b71532d3fda3223c5455182d6b516850887184c4412e8c3d"

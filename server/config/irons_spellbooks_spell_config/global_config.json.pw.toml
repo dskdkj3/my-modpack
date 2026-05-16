@@ -1,0 +1,8 @@
+name = "global_config.json"
+filename = "global_config.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8e/8e52d6a72843f9cecc75c8c963f9281d77c6ccba69a3bd7d11535962238ebab9.json"
+hash-format = "sha256"
+hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"

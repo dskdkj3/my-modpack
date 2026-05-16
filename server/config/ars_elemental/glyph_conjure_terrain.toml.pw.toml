@@ -1,0 +1,8 @@
+name = "glyph_conjure_terrain.toml"
+filename = "glyph_conjure_terrain.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5ae4a6089ee5c423bedee29d1232ca709aa5343b6aa25af9a6d2983e2e329f20.toml"
+hash-format = "sha256"
+hash = "db6f3a2a222f6cbedbfe7cfbc515b9f651b65e64857840bd49224b99da76faa8"

@@ -1,0 +1,8 @@
+name = "materials.png"
+filename = "materials.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71769ebaa62c087d72c11b11e621bb6deba48529221a5fd67cb603fd34098e02.png"
+hash-format = "sha256"
+hash = "8540f2158db33711f2bc71b3278597dbe76b37c67bc4186dc9a5798d055756e3"

@@ -1,0 +1,8 @@
+name = "midas_enchanted_tool.json"
+filename = "midas_enchanted_tool.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b93aaf747c3e988b552ce4ad5c2d9da04df13b5ce01ee14a31aa0a848f76a112.json"
+hash-format = "sha256"
+hash = "185262094bef7888cfabaa9ec58c1b617e0b5b9db8c5a0525a0127e57cb0f12d"

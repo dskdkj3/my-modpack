@@ -1,0 +1,8 @@
+name = "block_charger_side_2.png"
+filename = "block_charger_side_2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cfc5128b0edce0000fc961f22c5d15d6dc23bf50804cb1113a18bd06bb1c252f.png"
+hash-format = "sha256"
+hash = "e7787c47c2382d82a7d344dedb4d75358ddc0e99cfa93792d5c8b692ceb99969"

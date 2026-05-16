@@ -1,0 +1,8 @@
+name = "configured-client.properties"
+filename = "configured-client.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/434da74fea680a5aff81e330f5ee0248a794f52fd86e093e75f08073ee1ce72a.properties"
+hash-format = "sha256"
+hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"

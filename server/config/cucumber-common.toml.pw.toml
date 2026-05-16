@@ -1,0 +1,8 @@
+name = "cucumber-common.toml"
+filename = "cucumber-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0d4dc333b90756f1f5ee531fd44ff12295ca34f3aade0787f2160466b5a7fb8.toml"
+hash-format = "sha256"
+hash = "72e22f95d284342744f4bd1ae7f9df6eeb86ff3c7dc76d9319ae455f0884f69f"

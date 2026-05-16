@@ -1,0 +1,8 @@
+name = "gold_transmute.json"
+filename = "gold_transmute.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f720c0d4a60db2c0ed7ec3f498e177e7fdb47a49004c6c3037c1705107c5d2a6.json"
+hash-format = "sha256"
+hash = "ab9a4288b9cec96508acd875c8893225b7ec26ca5a4b5c84e935f0a1350ba191"

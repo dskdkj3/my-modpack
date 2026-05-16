@@ -1,0 +1,8 @@
+name = "cosmic_meatballs.json"
+filename = "cosmic_meatballs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f9ffcfdf36e3973c0aced7f08ae02171120ed1c1576326783e85318da81c71c8.json"
+hash-format = "sha256"
+hash = "1a19b8b4a7c7ee524df096457832565d927c0f246081460adeedac70dc1bf123"

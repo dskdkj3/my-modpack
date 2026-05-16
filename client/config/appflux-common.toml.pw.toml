@@ -1,0 +1,8 @@
+name = "appflux-common.toml"
+filename = "appflux-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c5c1d0983b43b46833d313f5da6bdf1a761fcce756ddd6e2a7ffb337e51daaf9.toml"
+hash-format = "sha256"
+hash = "4698fdc44f620d377a4ffac3fdcd3ee731a10ac7cc8003777a8ada3f270040ec"

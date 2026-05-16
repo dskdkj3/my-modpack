@@ -1,0 +1,8 @@
+name = "villager_hat.yaml"
+filename = "villager_hat.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/888dcaf076df1ada6831d7276240f1a09b92c505104f20946a0da53272436413.yaml"
+hash-format = "sha256"
+hash = "7b32f8c65bf75ee9ca42a24a3627cdc29686f1578e33e03e1c7e6c6da19397ba"

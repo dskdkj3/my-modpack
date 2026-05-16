@@ -1,0 +1,8 @@
+name = "glyph_wind_shear.toml"
+filename = "glyph_wind_shear.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a370a8470d5b955b105c56d818cc9db12333556bda82d1f7a36d66dbdc602f11.toml"
+hash-format = "sha256"
+hash = "a1d305436a2af427091dc79c817ad5f19aabeca97be1297ddbffb4ed6977e4bd"

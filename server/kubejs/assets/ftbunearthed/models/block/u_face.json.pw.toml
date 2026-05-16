@@ -1,0 +1,8 @@
+name = "u_face.json"
+filename = "u_face.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/71cbfb8261dd331f3b00af43b0e2dac63dd46d8b13b4e545754de7291750db28.json"
+hash-format = "sha256"
+hash = "c5ab851105fe9af7380b9f19eb6731b5dd3f4307621a150f50b0eb2113311c61"

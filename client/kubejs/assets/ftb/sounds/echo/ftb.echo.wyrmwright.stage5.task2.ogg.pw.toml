@@ -1,0 +1,8 @@
+name = "ftb.echo.wyrmwright.stage5.task2.ogg"
+filename = "ftb.echo.wyrmwright.stage5.task2.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c3b5ded54a4ea26107f11d7b7e3645744d203955bf341e45e8c42cf5ca9156be.ogg"
+hash-format = "sha256"
+hash = "1b3f90ab036674c6ae079a7931a69c5e2b940213924ad7cfb692cec1f61b5408"

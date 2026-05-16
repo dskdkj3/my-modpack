@@ -1,0 +1,8 @@
+name = "infinity_singularity.json"
+filename = "infinity_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/1388fee21975adc8f3f917e101f991f3c1c9e35a07cd18d465ec51fc70339f86.json"
+hash-format = "sha256"
+hash = "54d2af0f2171fb4da63680f5cf0bb607310f87c8e9f4e69293dda305d571a2ed"

@@ -1,0 +1,8 @@
+name = "oritech-config.json5"
+filename = "oritech-config.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1d33e65c81ce7f3ae23d3b294cae4565b920f8d490ed749ad77a700691c8606f.json5"
+hash-format = "sha256"
+hash = "6cf96ec7c6d09b5fac45a18ada183fe2f9375a3cc513e23abebecad9c5306832"

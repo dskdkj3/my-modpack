@@ -1,0 +1,8 @@
+name = "firepath_3.nbt"
+filename = "firepath_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/27e719c646be1cc090a1d404334d41813b61d6d8491985929c028d52f79020a5.nbt"
+hash-format = "sha256"
+hash = "928e431599181712d73a04344c100e9816c93190fd284c19593014d1753a5312"

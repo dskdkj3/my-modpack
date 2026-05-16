@@ -1,0 +1,8 @@
+name = "ae2ct-1.21.1-1.1.1.jar"
+filename = "ae2ct-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7182/163/ae2ct-1.21.1-1.1.1.jar"
+hash-format = "sha256"
+hash = "70a704742cf8bc13778a201a2338d0f4108dc0700bca47ed265aba02180f6777"

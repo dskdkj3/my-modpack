@@ -1,0 +1,8 @@
+name = "ftb.echo.radiance.stage5.task1.ogg"
+filename = "ftb.echo.radiance.stage5.task1.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85184e149c16811fd8e4a129d558759e82c8a1b922597086d544384c865be1d9.ogg"
+hash-format = "sha256"
+hash = "3986e036a62af6917860d2d7b3cda20e2f4c80a75f7f6062f89f9550f871849a"

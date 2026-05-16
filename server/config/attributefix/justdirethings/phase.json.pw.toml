@@ -1,0 +1,8 @@
+name = "phase.json"
+filename = "phase.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33ef2c9982eef480dfaeae886f354f2741fc8f959c4b43d4dcacc7cb1f230719.json"
+hash-format = "sha256"
+hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"

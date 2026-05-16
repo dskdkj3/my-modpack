@@ -1,0 +1,8 @@
+name = "world_engine_pre_post.js"
+filename = "world_engine_pre_post.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ffe3b80b8f71795352a3f2e907d82db05a4e7adc1b7fbb0f9a7e02cd725209a9.js"
+hash-format = "sha256"
+hash = "ae7255adfefdf313de21f2e2b100704ff6757de21e8b3bb92a07d96a029da8e2"

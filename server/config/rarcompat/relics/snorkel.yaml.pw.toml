@@ -1,0 +1,8 @@
+name = "snorkel.yaml"
+filename = "snorkel.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02e7ec59090765fe6f17fe64c6c9da7248322c063d19b925fd320a4b7b894cb4.yaml"
+hash-format = "sha256"
+hash = "9327cda75d0db9e3df899657db1e37266e905883990f84df3fe37af6187c5167"

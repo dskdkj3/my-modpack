@@ -1,0 +1,8 @@
+name = "galaxybg.png"
+filename = "galaxybg.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff1e1825e14a3a2e8d837aeb0a041daf45302f8f65c67aa0efa32c77599de3ca.png"
+hash-format = "sha256"
+hash = "89f5db499d011b6541951620d36217344f00d271a069c439d00df953fd04edf4"

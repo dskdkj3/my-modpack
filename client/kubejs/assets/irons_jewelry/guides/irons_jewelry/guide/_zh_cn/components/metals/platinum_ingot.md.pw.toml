@@ -1,0 +1,8 @@
+name = "platinum_ingot.md"
+filename = "platinum_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da0c087befa638889376170ab240fa2630958a541773075797ca83c328609beb.md"
+hash-format = "sha256"
+hash = "c67fd07b5c037a222a221a2a9976476438240ed7829720424bf44fdbb8758e1d"

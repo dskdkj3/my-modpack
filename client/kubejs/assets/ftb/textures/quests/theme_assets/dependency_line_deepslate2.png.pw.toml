@@ -1,0 +1,8 @@
+name = "dependency_line_deepslate2.png"
+filename = "dependency_line_deepslate2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6ac8b7343635c0d5f81793d6850111fa1a7a896d44e7acd2c0b3d4e8fd9da34.png"
+hash-format = "sha256"
+hash = "0f3973891d1444aed79f1f1935b80f8640eed0c3110ced2b8b931822ae3741f4"

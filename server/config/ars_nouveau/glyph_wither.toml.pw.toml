@@ -1,0 +1,8 @@
+name = "glyph_wither.toml"
+filename = "glyph_wither.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7a8145b76eefa63f58a7e6125018d64bbc36e72142cca7f871187b3aef400e6.toml"
+hash-format = "sha256"
+hash = "67e4e66aeda634742bf3af2aa8537636475b24ec6e22edf858b0ff5d98a2ffb8"

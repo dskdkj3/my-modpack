@@ -1,0 +1,8 @@
+name = "t5_echo_chaos.json"
+filename = "t5_echo_chaos.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d6/d667f3ae0ae7d9b6d3058d2154b44a0063dbc85a93ccc115eac7864f4adcf700.json"
+hash-format = "sha256"
+hash = "d82a415f331adc3fd66b19a76cff6c84171a12756bd65d5ad0944806e77f9a61"

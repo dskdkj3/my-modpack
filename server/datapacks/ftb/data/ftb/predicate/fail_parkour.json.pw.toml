@@ -1,0 +1,8 @@
+name = "fail_parkour.json"
+filename = "fail_parkour.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ce/cea730f9265517ae3923e630ae3b666617a972b626694f13a45bb0a9d4364b51.json"
+hash-format = "sha256"
+hash = "65690b954db495180b26477e0cf1ccaf8b9fe5067ede41850d4c49b0d7c80291"

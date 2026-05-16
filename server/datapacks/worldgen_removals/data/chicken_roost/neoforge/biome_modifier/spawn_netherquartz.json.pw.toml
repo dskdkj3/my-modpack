@@ -1,0 +1,8 @@
+name = "spawn_netherquartz.json"
+filename = "spawn_netherquartz.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/2075a5335068110a788a1ade61f62c1dbb4cc9001d190215d5af6fb749acade6.json"
+hash-format = "sha256"
+hash = "180701df1b56427a11ff10be86f94bdbe45fac07d77c677a5bfec1153994c8cb"

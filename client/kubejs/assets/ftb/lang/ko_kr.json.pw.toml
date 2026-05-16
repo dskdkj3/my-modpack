@@ -1,0 +1,8 @@
+name = "ko_kr.json"
+filename = "ko_kr.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5412743a8ddeb5b9a4a1ff7858d215d3ca8208e6efd7d2dec0b876c72869e275.json"
+hash-format = "sha256"
+hash = "b16042b3c3249d7a181c6620731fbd529fc5e837ec9ef3567c653339b8c3ad29"

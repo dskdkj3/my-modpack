@@ -1,0 +1,8 @@
+name = "holy_locket.yaml"
+filename = "holy_locket.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0efd638d305da5410a37a1073e446f13468302175cda34157124f4eb9e23aebc.yaml"
+hash-format = "sha256"
+hash = "bc786dada79404ee96874d3306635d783663daff353e9e10e71b37b9fb9c77fa"

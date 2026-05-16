@@ -1,0 +1,8 @@
+name = "dungeon_no_deadends.json"
+filename = "dungeon_no_deadends.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc8b810c7f1e6cce2e0c1fed9d794dfb0c32ceb5419b69e33effef9e7097e04a.json"
+hash-format = "sha256"
+hash = "164cd4f9b60fb66a99be3809b8f6341fe341a72455fbefdc9029685d4f5d2eaf"

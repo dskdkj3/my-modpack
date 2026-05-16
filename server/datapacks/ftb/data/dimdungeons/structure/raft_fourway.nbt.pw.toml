@@ -1,0 +1,8 @@
+name = "raft_fourway.nbt"
+filename = "raft_fourway.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b4f00720a73363d736c05678bf80663d75f00c2db5076204beac870a683bcbe.nbt"
+hash-format = "sha256"
+hash = "6aad9cbf9d5e1cc2438ff99fe2d51aacd2a888f567d7c179c4bb869ea04ca5dd"

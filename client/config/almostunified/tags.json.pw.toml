@@ -1,0 +1,8 @@
+name = "tags.json"
+filename = "tags.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c49157ec9f0c90d350f02435affc73206ca8c17b29a635674a9f51fadbb02e50.json"
+hash-format = "sha256"
+hash = "3f0d92c8abaf95a68ff79bb2ef9169fd598500070de7e5a616b755f9c5123e6f"

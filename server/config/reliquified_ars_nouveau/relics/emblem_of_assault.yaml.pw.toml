@@ -1,0 +1,8 @@
+name = "emblem_of_assault.yaml"
+filename = "emblem_of_assault.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a422fc9fa061e8eefc55182d29250548242223781e78a999bb04a8bbfc875e73.yaml"
+hash-format = "sha256"
+hash = "3c4982e76a700bab79bb28264430677b15c82bafbe2ed75173c23a725cf47d2d"

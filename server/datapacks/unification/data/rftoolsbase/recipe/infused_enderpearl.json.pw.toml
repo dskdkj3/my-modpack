@@ -1,0 +1,8 @@
+name = "infused_enderpearl.json"
+filename = "infused_enderpearl.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/9609442185681e2fb702cd642375b9621d3c6cb4a5faf6283ea8d9faa9fa2561.json"
+hash-format = "sha256"
+hash = "0740b210116274f6dfc0043d8f3741fe3c5cb3663cf5bbe21e024d93eed8bb72"

@@ -1,0 +1,8 @@
+name = "entro_ingot_transformation.json"
+filename = "entro_ingot_transformation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a1864f358005b5ffe93edb8fb5422223f8b294eb0bb62871e53ba007f3b5c0c5.json"
+hash-format = "sha256"
+hash = "f79162ce099fd202f2cdcd0ae941b239006d733483bc4bf5f18fa26f8a8ad1c9"

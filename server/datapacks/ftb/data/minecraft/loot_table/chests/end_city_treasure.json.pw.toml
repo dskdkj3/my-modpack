@@ -1,0 +1,8 @@
+name = "end_city_treasure.json"
+filename = "end_city_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/03/0308466ce7a68a490ea68aeaa309cd4920c3be55c3a7cfe750b35362f944a3ed.json"
+hash-format = "sha256"
+hash = "085031a52e0ada20df65d9dd9bf9a61a2da6ae33a403c1c34fd26539947a2ef2"

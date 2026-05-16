@@ -1,0 +1,8 @@
+name = "from_dust_smelting.json"
+filename = "from_dust_smelting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1bc9bb1b3ba3efb2e3f1a3b323ea48142dcd846f5134640fe0f5b6ffa12efaf6.json"
+hash-format = "sha256"
+hash = "7b73a51c2a15b8bd12a5814e160cf732f4dcbdfae4777fd8ad519d5d772b348b"

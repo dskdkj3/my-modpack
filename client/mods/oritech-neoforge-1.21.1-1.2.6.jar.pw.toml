@@ -1,0 +1,8 @@
+name = "oritech-neoforge-1.21.1-1.2.6.jar"
+filename = "oritech-neoforge-1.21.1-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8054/306/oritech-neoforge-1.21.1-1.2.6.jar"
+hash-format = "sha256"
+hash = "1d69c80b3f4618fc0795a117ab1acd206ba419ffa3d30cefbdd4b6182d043ce6"

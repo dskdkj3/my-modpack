@@ -1,0 +1,8 @@
+name = "me_beam_former-common.toml"
+filename = "me_beam_former-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f9/f92e9449d7d8ea1aea5ece259436d5a9414ff07179c0ac108bc2e45ab67522f5.toml"
+hash-format = "sha256"
+hash = "234a71dab4bcc5ec2f4760c1cab0c5d77bc86786b540ea675556b3270275ae44"

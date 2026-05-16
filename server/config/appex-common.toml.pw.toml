@@ -1,0 +1,8 @@
+name = "appex-common.toml"
+filename = "appex-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d30f2d9c038c3a42934caf777f4a7f01b3406826e490de08da9e487c1b0bde2.toml"
+hash-format = "sha256"
+hash = "f918072c0d9f4536ffb1ef7aa5748723db76c7ef426c06e9a21207b134e9adbc"

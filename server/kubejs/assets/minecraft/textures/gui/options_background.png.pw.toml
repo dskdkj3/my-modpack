@@ -1,0 +1,8 @@
+name = "options_background.png"
+filename = "options_background.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aad41366ca60ee401991e6416f6c451075faae5ab9bc888dadbec885545ec25b.png"
+hash-format = "sha256"
+hash = "0096954ee757a2184f96e5e300953a6c41855ee49e8e5ad90aeeb0444953fd9d"

@@ -1,0 +1,8 @@
+name = "diamond_gear.json"
+filename = "diamond_gear.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e6/e6e4b985c50294ab8b5cc1aaae759623b5a5651c0b37fb6b9da351e550dfbdcf.json"
+hash-format = "sha256"
+hash = "b4417738d7d94b17f6c39d23b2d1f38a3062257d4c95514183a45b734df4b5bf"

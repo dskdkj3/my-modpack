@@ -1,0 +1,8 @@
+name = "dimensional_teleport_blocker.js"
+filename = "dimensional_teleport_blocker.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3cbccbef5176a352ecdb5aa1451cfcf2ca959c0304383b207bd48f4e7f1764f2.js"
+hash-format = "sha256"
+hash = "acc0f91300824d04ad690dd516641a495feabce59ecf183d8421ae11070fb0e4"

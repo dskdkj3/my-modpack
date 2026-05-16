@@ -1,0 +1,8 @@
+name = "dark_matter_smithing_template.png"
+filename = "dark_matter_smithing_template.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c501aa6934c66d1edff3ec69b0d1018c86154d75b70ea47d8ba9a372f023df1.png"
+hash-format = "sha256"
+hash = "9f574ae21874193d6c72eb33f1557e97090782198c64609904a957fedcf42511"

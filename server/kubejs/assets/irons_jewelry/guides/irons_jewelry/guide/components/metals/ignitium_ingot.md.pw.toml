@@ -1,0 +1,8 @@
+name = "ignitium_ingot.md"
+filename = "ignitium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4cf3857e2ff843404f62369ddcb0c91153d8c310137ba37534ce18501998afc.md"
+hash-format = "sha256"
+hash = "9b2a4db7ce768134976c33fdb862048ff749aa097e0b620d08322e568a337cbe"

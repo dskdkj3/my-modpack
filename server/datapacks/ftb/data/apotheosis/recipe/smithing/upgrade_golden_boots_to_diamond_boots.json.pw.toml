@@ -1,0 +1,8 @@
+name = "upgrade_golden_boots_to_diamond_boots.json"
+filename = "upgrade_golden_boots_to_diamond_boots.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f11d5a8eb6cf7a637aeb9cf8eb39856fa265c2f40107a79148065df7349f095b.json"
+hash-format = "sha256"
+hash = "8fdeca595ab923053b1dc9848fa99cef2ec382ae0c16199813a432446e705223"

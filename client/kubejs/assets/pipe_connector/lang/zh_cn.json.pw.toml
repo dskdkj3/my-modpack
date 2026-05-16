@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/pipe_connector/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/pipe_connector/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "1e528a870de1c18aee43205414d7471a2a34b0c51a85bd36d94131b82ba5aafd"

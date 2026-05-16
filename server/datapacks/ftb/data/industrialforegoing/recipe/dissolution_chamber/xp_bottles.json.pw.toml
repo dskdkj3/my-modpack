@@ -1,0 +1,8 @@
+name = "xp_bottles.json"
+filename = "xp_bottles.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1ea50b4d5ffd5ee519479ea58cc8dbb2c12dada04fa80bbdb4540ae23132ebf5.json"
+hash-format = "sha256"
+hash = "0d76ebfe227e85b61161c34a700e9c5fac048b81caecf3ac92f4a380afb68738"

@@ -1,0 +1,8 @@
+name = "accelerator_speed_sensor.json"
+filename = "accelerator_speed_sensor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/88fa6a9a1af5b57fd6d511d5d9fde8c26d386feba572acaa5788ed1d7c81b131.json"
+hash-format = "sha256"
+hash = "28d830f26b449fdf6cec36b966b2dc3eddb9ecfd3a778dddbc7ff766e96b109e"

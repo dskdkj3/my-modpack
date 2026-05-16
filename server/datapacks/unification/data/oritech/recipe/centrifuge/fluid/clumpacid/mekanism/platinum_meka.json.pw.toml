@@ -1,0 +1,8 @@
+name = "platinum_meka.json"
+filename = "platinum_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/97/975c2bb2338298c4b6823b6e20574dda57e931e16723d4410c0d320e6edd1573.json"
+hash-format = "sha256"
+hash = "3e66d75bacd801242b49780fb00be93ab77911f3589b6045c14d279da6e63ac2"

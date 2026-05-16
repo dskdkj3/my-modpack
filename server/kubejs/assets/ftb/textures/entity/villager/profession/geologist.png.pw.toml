@@ -1,0 +1,8 @@
+name = "geologist.png"
+filename = "geologist.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6e/6e9c4a12ee26eb13f1c1e71095aa092bfbb1212208a888b0ff85abbba2768521.png"
+hash-format = "sha256"
+hash = "cd22d34b5eac4f533d0c94e8251fdbf429a04e85d5eb9f3998e28f0f6cb0c26a"

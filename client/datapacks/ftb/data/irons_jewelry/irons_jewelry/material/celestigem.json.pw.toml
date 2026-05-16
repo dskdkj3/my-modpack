@@ -1,0 +1,8 @@
+name = "celestigem.json"
+filename = "celestigem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df9ca5da4466e5211fa4082c61a70531480f9cd9b829434e0513c26b03a24d1c.json"
+hash-format = "sha256"
+hash = "518dc7c8821175da53ea8f0b49d5680e27a03132c8aa7184a99abb0ece1c4fbf"

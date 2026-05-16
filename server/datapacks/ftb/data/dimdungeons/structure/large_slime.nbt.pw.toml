@@ -1,0 +1,8 @@
+name = "large_slime.nbt"
+filename = "large_slime.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/63791c529320dae869b72f0e7855e40943acceee642535deecb1af7a29fc569b.nbt"
+hash-format = "sha256"
+hash = "7e86cd8ec3a7934ea100807d8ba1c0b94b196f64a9d3027e6da72dc09d2e7d10"

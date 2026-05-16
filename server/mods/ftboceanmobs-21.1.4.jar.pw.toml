@@ -1,0 +1,8 @@
+name = "ftboceanmobs-21.1.4.jar"
+filename = "ftboceanmobs-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6539/516/ftboceanmobs-21.1.4.jar"
+hash-format = "sha256"
+hash = "efdd1e0e792e119fb892ae1171e58390fd51f07028c5095be7b1887a94bd3a40"

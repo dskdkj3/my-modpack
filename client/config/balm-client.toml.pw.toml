@@ -1,0 +1,8 @@
+name = "balm-client.toml"
+filename = "balm-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d2d96dd1172d5fc58e8ea2f3edcf0857a35c8b23b744020a0bc6aaf4d4164cc.toml"
+hash-format = "sha256"
+hash = "655ec36b43d86c6f7d455cc6adab788c4161f543c832d275bafe23f85b8fe71c"

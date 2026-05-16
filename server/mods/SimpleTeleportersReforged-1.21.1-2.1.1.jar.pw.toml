@@ -1,0 +1,8 @@
+name = "SimpleTeleportersReforged-1.21.1-2.1.1.jar"
+filename = "SimpleTeleportersReforged-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7707/182/SimpleTeleportersReforged-1.21.1-2.1.1.jar"
+hash-format = "sha256"
+hash = "0792962e9d0be0245a90f810f2c5b5e428d7d820b50871d5f2a3611c598d9ae3"

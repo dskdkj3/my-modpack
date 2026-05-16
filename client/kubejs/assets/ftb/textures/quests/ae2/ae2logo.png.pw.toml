@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/ae2/ae2logo.png"
+filename = "ae2logo.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/ae2/ae2logo.png"
+hash-format = "sha256"
+hash = "4661cd1ab5d5e0e1e6ff0c27a19da1d72d9a3591d6e5adb4225fa2e2a8b916bb"

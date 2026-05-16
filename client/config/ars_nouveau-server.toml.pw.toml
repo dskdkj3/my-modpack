@@ -1,0 +1,8 @@
+name = "ars_nouveau-server.toml"
+filename = "ars_nouveau-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/29/291a5bcb2ce91d322db435964168e7a2c4653f41cf23033c6b1a9b7a65ca66a2.toml"
+hash-format = "sha256"
+hash = "0951fe1ea46dc785db4f8b20a639e395eda478f62145ca5f89b4b0168367fb1d"

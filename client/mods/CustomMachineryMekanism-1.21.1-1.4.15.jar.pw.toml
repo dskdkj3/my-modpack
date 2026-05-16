@@ -1,0 +1,8 @@
+name = "CustomMachineryMekanism-1.21.1-1.4.15.jar"
+filename = "CustomMachineryMekanism-1.21.1-1.4.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7102/843/CustomMachineryMekanism-1.21.1-1.4.15.jar"
+hash-format = "sha256"
+hash = "5dfebc04921fed82c9cb3de9dec7616a7cdbe16224c8d41e744b3bbc59820109"

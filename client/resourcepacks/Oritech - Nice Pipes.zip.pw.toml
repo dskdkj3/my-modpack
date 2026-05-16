@@ -1,0 +1,8 @@
+name = "Oritech - Nice Pipes.zip"
+filename = "Oritech - Nice Pipes.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/27de9dfc20ba435322cc11c00cdabd0b41803876e0585ef19401b60177455e38.zip"
+hash-format = "sha256"
+hash = "01833d9d0d0c1fd581837a8c40d64cd594673f64ef962f32ee75a9c3b2d4f04b"

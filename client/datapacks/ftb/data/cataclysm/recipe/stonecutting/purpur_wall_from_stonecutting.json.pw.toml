@@ -1,0 +1,8 @@
+name = "purpur_wall_from_stonecutting.json"
+filename = "purpur_wall_from_stonecutting.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15234fade994dad5ad83aa0813e8f573dcc3313da197def6abe37f9372fc92cb.json"
+hash-format = "sha256"
+hash = "885a0d1b47684f1a1540539c3fe8fefb03b89fd05b545921e1035281cb3fbe9e"

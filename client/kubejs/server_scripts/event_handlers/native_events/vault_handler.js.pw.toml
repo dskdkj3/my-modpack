@@ -1,0 +1,8 @@
+name = "vault_handler.js"
+filename = "vault_handler.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/580185291f8f8eeaca0b10035407f39a6709e91cac692552f8d5ac925d8b66b7.js"
+hash-format = "sha256"
+hash = "e719c4175db85b95dad4ae4aeb58c617b0d64115bbf3ec9074a72832c08ed14b"

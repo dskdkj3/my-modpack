@@ -1,0 +1,8 @@
+name = "iesnium.png"
+filename = "iesnium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d7272bd76ee8159c1ff6d263b123077608c5e8f07f4b9ab357fe49acf8b7db7.png"
+hash-format = "sha256"
+hash = "ecc1f5ac15edea1d80a2d9046ab4ef11c98d901fab7c38ef999d041db5cb3a96"

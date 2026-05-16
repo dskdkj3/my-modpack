@@ -1,0 +1,8 @@
+name = "extrahall_3.nbt"
+filename = "extrahall_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/dadf757cfad1fa2e603575ab14068160c4acb9854d5e7e450d67eb55df3b4b0d.nbt"
+hash-format = "sha256"
+hash = "c7699df855e0e6233e60d23890716a00add5bb747bb786f01ac7c3fb7fa21bfa"

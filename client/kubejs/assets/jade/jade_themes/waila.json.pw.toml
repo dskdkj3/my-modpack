@@ -1,0 +1,8 @@
+name = "waila.json"
+filename = "waila.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a2766286120d1095fa8ff8a9118b22838e87d29534b923401da8b62f72d58a4d.json"
+hash-format = "sha256"
+hash = "c64e12f6daf36cd37ec800875d3581e40fad8880544a57c1969c4048d0cc025f"

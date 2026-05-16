@@ -1,0 +1,8 @@
+name = "item_upgrade_1.json"
+filename = "item_upgrade_1.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/729902ef94aadd19a0ab4c84838d660f0fd06f0bdd640cb51ffbdcc97f373eaa.json"
+hash-format = "sha256"
+hash = "a97ae4813ed8f691b6adf2c4992c63e8b7d2d2b507ac7b7d9e2f0deb0f751ce2"

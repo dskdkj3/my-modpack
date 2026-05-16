@@ -1,0 +1,8 @@
+name = "lightning.md"
+filename = "lightning.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6531fa9ef1c921f597a027147260a167f18d4ff35f2fcbe70e55f7438c29e6a.md"
+hash-format = "sha256"
+hash = "83e0047fcccb428b87267ad0683835bd113c2e54555d01ac6aa181cc71b48548"

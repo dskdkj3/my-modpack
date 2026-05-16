@@ -1,0 +1,8 @@
+name = "xnet-client.toml"
+filename = "xnet-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f14a0aeb17424d2772fc81e33a2589a7ec593a753aa7f744f2342b6e7dbe2f78.toml"
+hash-format = "sha256"
+hash = "dc7468178bf85e2051c37553db4129ee331af8bac3bceb99f1f46c21b3e113f4"

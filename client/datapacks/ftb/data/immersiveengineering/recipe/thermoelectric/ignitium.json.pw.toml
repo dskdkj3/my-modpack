@@ -1,0 +1,8 @@
+name = "ignitium.json"
+filename = "ignitium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e9ddee9fea03861818969898d9ffa0025b0e765f1fc2a456b2cb139e0fcec88.json"
+hash-format = "sha256"
+hash = "7270b8c72e4bec8cbaca18e4862d96520ab5a73328b26cb62cc947b3655afcd2"

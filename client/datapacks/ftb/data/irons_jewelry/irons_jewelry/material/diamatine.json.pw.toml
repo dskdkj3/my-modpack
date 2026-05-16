@@ -1,0 +1,8 @@
+name = "diamatine.json"
+filename = "diamatine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/6479f20a6f664c5a51ebe947b5d5debd886b2a966ae0c0298a7d57a5a3aba095.json"
+hash-format = "sha256"
+hash = "f7666c1d6ffe00533480902b5456f76a500352cf82f5e54a0bee9020d00ec355"

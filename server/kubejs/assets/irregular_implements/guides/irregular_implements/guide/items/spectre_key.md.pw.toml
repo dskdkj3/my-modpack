@@ -1,0 +1,8 @@
+name = "spectre_key.md"
+filename = "spectre_key.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cf/cfc26c1d441f17beb6417f368143af51efdb455212283992039d6e905b066467.md"
+hash-format = "sha256"
+hash = "baa7354be7a2bceab8df1004c1ae949b2bf1eb875c1374106e85e82a1b71fa79"

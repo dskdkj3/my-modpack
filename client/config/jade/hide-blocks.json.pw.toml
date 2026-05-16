@@ -1,0 +1,8 @@
+name = "hide-blocks.json"
+filename = "hide-blocks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5fee4f7e3b31cf2077f1f07b8432df9c12cfa306a7f43a711ee86045d631eba6.json"
+hash-format = "sha256"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"

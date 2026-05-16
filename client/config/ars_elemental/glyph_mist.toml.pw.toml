@@ -1,0 +1,8 @@
+name = "glyph_mist.toml"
+filename = "glyph_mist.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7c/7c7439e9c1b262be325bc50302161d4ee5f727795503fb24cf84d4c300df441d.toml"
+hash-format = "sha256"
+hash = "b756a91b6b033b2c29a9e70e079ecdf887f80ef2c37288dda74c2e9fc5ac53bd"

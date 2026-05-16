@@ -1,0 +1,8 @@
+name = "tier_1.json"
+filename = "tier_1.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49ce75bd26146154ce9a7b9b425d25a14a57a6a8caf2439792d5748436b5e434.json"
+hash-format = "sha256"
+hash = "410313f4dda293ba8ba553d781228c5ad5f659f8a40dc0a6718c5894315845f5"

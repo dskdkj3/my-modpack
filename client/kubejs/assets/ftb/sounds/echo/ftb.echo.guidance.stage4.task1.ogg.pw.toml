@@ -1,0 +1,8 @@
+name = "ftb.echo.guidance.stage4.task1.ogg"
+filename = "ftb.echo.guidance.stage4.task1.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/86/861220c9a0afa332ed0cb7a54e7f1971164e6000dc5a860ee5646d418e67c262.ogg"
+hash-format = "sha256"
+hash = "66a9cf5ca1271bb27272c360cdcd4fa9aefe5eed767fc23f61b5bdfa3f4d60b9"

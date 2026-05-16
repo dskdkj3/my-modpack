@@ -1,0 +1,8 @@
+name = "refined_glowstone_ingot.md"
+filename = "refined_glowstone_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d8/d852683cff5b83ad2becad17ad231beba3cd6eb762a8c510caaff64c2e7d6ec2.md"
+hash-format = "sha256"
+hash = "be3bec10e0169d637c63977fa06fad5cbc7fbb9b7f60da74ad41a2eb7131f4a2"

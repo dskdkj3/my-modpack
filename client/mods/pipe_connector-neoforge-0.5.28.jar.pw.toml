@@ -1,0 +1,8 @@
+name = "pipe_connector-neoforge-0.5.28.jar"
+filename = "pipe_connector-neoforge-0.5.28.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7946/261/pipe_connector-neoforge-0.5.28.jar"
+hash-format = "sha256"
+hash = "45e3a03ccbf6cdb5a1c9298602e43dd16b1410ac551c91b4b8b6a691f0b6ad08"

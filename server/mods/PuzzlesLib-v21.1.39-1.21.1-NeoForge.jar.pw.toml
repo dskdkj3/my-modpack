@@ -1,0 +1,8 @@
+name = "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+filename = "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7140/307/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"

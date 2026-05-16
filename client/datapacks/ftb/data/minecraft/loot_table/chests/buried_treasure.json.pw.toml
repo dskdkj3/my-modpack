@@ -1,0 +1,8 @@
+name = "buried_treasure.json"
+filename = "buried_treasure.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dc16715ac7dc1b40f65b4ba68c4e3259b3aac82c151c0ddd58386d436265d3e3.json"
+hash-format = "sha256"
+hash = "3e77c8b99c8dc1de679ee807a274624918b1b3e2764c773d1910cb792716fe7e"

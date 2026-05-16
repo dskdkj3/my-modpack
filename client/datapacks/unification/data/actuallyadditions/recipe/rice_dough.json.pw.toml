@@ -1,0 +1,8 @@
+name = "rice_dough.json"
+filename = "rice_dough.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f65f7aada740231bbdbc212f203aba5589f9a25e6daa527b36c435602ca0384.json"
+hash-format = "sha256"
+hash = "4b86c240903c6001c0aed8f00516080c6f4eacb28c1361aeae5000f77f4050fe"

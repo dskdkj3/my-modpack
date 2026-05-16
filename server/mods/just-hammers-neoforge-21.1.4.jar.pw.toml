@@ -1,0 +1,8 @@
+name = "just-hammers-neoforge-21.1.4.jar"
+filename = "just-hammers-neoforge-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7435/250/just-hammers-neoforge-21.1.4.jar"
+hash-format = "sha256"
+hash = "59487c8758fd762fcddc58e3b5e8a956de3f6a2115cd1c6f9a915939f5f985d8"

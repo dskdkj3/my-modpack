@@ -1,0 +1,8 @@
+name = "loot_barrel.json"
+filename = "loot_barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa93670ca598780b2cbb45b358f868b8a4493820e82e03ec28ccba36c1d28920.json"
+hash-format = "sha256"
+hash = "c52495b87657392bdcfad9a1acd013abeed8ec81da6c913b564b1b276d8645f3"

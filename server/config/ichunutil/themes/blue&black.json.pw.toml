@@ -1,0 +1,8 @@
+name = "blue&black.json"
+filename = "blue&black.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c4/c42020ab344dd3f6ca0ba0d427ed9fa7c643471f74a93334d16a4699b3be4a64.json"
+hash-format = "sha256"
+hash = "737f04c71b43552e74bf0426d7a973d7d55a73659de32673714b9a8a5acc5f62"

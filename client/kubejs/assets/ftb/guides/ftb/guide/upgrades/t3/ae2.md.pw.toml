@@ -1,0 +1,8 @@
+name = "ae2.md"
+filename = "ae2.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/6227526ae1aaaaf991254ae0a283bec10a9b2f6b22e7208ff062e5fd14288989.md"
+hash-format = "sha256"
+hash = "b5e90ee0b37b0d4468ac0165edd355d8250d266e3cf3c8392600280e6e6c564c"

@@ -1,0 +1,8 @@
+name = "title_screen_background.txt"
+filename = "title_screen_background.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a728d149523308982b8ace28bbeeaff9685324b0a17fa921261a6f145ab5c9bd.txt"
+hash-format = "sha256"
+hash = "2f569e54f151e76a9040629a37816890f594f78e58712a3582fd838ff2cde681"

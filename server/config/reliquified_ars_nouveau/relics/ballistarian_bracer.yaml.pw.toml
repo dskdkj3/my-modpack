@@ -1,0 +1,8 @@
+name = "ballistarian_bracer.yaml"
+filename = "ballistarian_bracer.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/355be6f6558653a62cddd4964bca3266fed82bfec8689153bb4cc7eabdde56d9.yaml"
+hash-format = "sha256"
+hash = "ad40327654e91ea1cabccdec65ba547e7ac224b8b6a1ab666b064e0a4d0f7685"

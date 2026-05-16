@@ -1,0 +1,8 @@
+name = "enderic_infuser_active.png"
+filename = "enderic_infuser_active.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c8/c88b57a2b119af4e319369c017b891d3a542afa6b4333218b6a917cf63be8c1e.png"
+hash-format = "sha256"
+hash = "28ffdba9c0dbac45cc3d19f37b2b65e3d08af7fbcc2e63b5c6453903eedd39ce"

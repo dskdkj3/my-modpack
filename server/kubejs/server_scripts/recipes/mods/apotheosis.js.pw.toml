@@ -1,0 +1,8 @@
+name = "apotheosis.js"
+filename = "apotheosis.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e4/e4c1675eead9a49669566c7c64ff45cc17c0bd5d17fe15de9639f617150021c1.js"
+hash-format = "sha256"
+hash = "68b23c3ad66877258098ce4040db67f1066abeaddbb75c6d98c327b9bb532d61"

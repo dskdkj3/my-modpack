@@ -1,0 +1,8 @@
+name = "industrial.json"
+filename = "industrial.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/cafb94ac85eec4acc31f2e3759bf51cfcd3d73f1908693b0ba113aa50568d12b.json"
+hash-format = "sha256"
+hash = "5d50448c9b65cca58f0c214a8f9b878efbd79adebb49ab841aa4d8e1aeef8e2b"

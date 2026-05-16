@@ -1,0 +1,8 @@
+name = "unique_effects.toml"
+filename = "unique_effects.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/655cb396cb560fd5ee33e834cb483d7b328c5de987b4d82aabaf51c90965c703.toml"
+hash-format = "sha256"
+hash = "7b4cec95c759a9fc0a527b65f84053424acd5b3fb1d4d8871852dc1f4f4ade41"

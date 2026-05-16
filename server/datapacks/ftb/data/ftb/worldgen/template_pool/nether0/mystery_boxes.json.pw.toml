@@ -1,0 +1,8 @@
+name = "mystery_boxes.json"
+filename = "mystery_boxes.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f19c88b58a22c40d4f95c92f6615af614ee2bbb1088e55722981cf5ccbe35a31.json"
+hash-format = "sha256"
+hash = "d9aab9f9967917440515202858f7618690cdd6884831a9bcc6bb3aa3760a5274"

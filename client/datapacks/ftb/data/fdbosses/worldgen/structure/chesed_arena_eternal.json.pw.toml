@@ -1,0 +1,8 @@
+name = "chesed_arena_eternal.json"
+filename = "chesed_arena_eternal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/57/57d9dfc7fa9ad036de5af1e3bf2b52e421ddb4a35d709e250f4319fa4bf0818c.json"
+hash-format = "sha256"
+hash = "cd27a429aacb67e73395f6b9f369c6a10f193da5bdd90ee171e7adc9d75463a0"

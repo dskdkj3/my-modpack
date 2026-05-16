@@ -1,0 +1,8 @@
+name = "mekanism_lasers-1.1.10.3-a.jar"
+filename = "mekanism_lasers-1.1.10.3-a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8002/362/mekanism_lasers-1.1.10.3-a.jar"
+hash-format = "sha256"
+hash = "34f126573ee15a6621af6351e25a5a2249fbdbff378e1c68ce19210e1b9d2645"

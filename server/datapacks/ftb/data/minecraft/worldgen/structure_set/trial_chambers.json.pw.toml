@@ -1,0 +1,8 @@
+name = "trial_chambers.json"
+filename = "trial_chambers.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/784dd64684f9590b3c4c8184910a977a54de487e1e22e2d58d0a4960199ccf08.json"
+hash-format = "sha256"
+hash = "601bce98a03e48588789d9e220edf59955c717fcdbc27cec06bb261efd2c33ff"

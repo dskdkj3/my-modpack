@@ -1,0 +1,8 @@
+name = "chaoschicken.png"
+filename = "chaoschicken.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac2662dd684a731cbf52a4d7d282d8a2f2798dc51bd60a43fb5515746c4ff6dc.png"
+hash-format = "sha256"
+hash = "0be48a19cef42fc29f65108a2b66d4527419ee38a658637ea1f27eb772abf445"

@@ -1,0 +1,8 @@
+name = "amethyst.json"
+filename = "amethyst.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/2590f11ed842f336900af90eefc86a3b7e4898b9061b62bd04807533def97de2.json"
+hash-format = "sha256"
+hash = "d0353d8f6904ee75db64c4b532d3c897e7e0ddcd1c428327d8ff2c0c0cba9761"

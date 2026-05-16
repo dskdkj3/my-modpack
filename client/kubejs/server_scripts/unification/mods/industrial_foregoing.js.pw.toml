@@ -1,0 +1,8 @@
+name = "industrial_foregoing.js"
+filename = "industrial_foregoing.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6608eeb317aa0e5a754285abde2479656518f38033d09e644dd36dc77542826.js"
+hash-format = "sha256"
+hash = "0c1c7719171d8385521866409199704fbc4d11dd8df18da50906891f4d1e24bf"

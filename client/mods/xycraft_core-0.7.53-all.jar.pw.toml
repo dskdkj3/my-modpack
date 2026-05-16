@@ -1,0 +1,8 @@
+name = "xycraft_core-0.7.53-all.jar"
+filename = "xycraft_core-0.7.53-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6872/525/xycraft_core-0.7.53-all.jar"
+hash-format = "sha256"
+hash = "0ae977880a244157c79fea6fad10b6cef788cf65f8fefa62809665a155aed256"

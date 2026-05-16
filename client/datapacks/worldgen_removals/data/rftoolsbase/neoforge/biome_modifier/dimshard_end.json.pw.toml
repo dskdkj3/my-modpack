@@ -1,0 +1,8 @@
+name = "dimshard_end.json"
+filename = "dimshard_end.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aebc0b6b8a26489d48f4b797016a9fbe60aa4b398bf634328e5cf977f7629a26.json"
+hash-format = "sha256"
+hash = "cd819bc4803ef4d8644e3ae5121abdb445abf1b13c1631b8d32c5d9045545d9b"

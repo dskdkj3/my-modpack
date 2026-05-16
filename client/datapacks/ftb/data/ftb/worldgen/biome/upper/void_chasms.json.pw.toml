@@ -1,0 +1,8 @@
+name = "void_chasms.json"
+filename = "void_chasms.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9e4bbabfcdff1a3883840c6d628bf2d52c2336dbc8943f9857502f07a2fd7b0.json"
+hash-format = "sha256"
+hash = "818ae330734565286a8a1b8b4143147281f449d7b3e2886eb8bcf3b06c57983b"

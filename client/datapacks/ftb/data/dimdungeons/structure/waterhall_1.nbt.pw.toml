@@ -1,0 +1,8 @@
+name = "waterhall_1.nbt"
+filename = "waterhall_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e90119510631b10c05eee610998b602f88de6220b16bc6b4514cb4371d03a3a.nbt"
+hash-format = "sha256"
+hash = "d59033a1a7cfc247dfc21b3a8a2f0d8cff938367044d57d18bf5118caf3f585d"

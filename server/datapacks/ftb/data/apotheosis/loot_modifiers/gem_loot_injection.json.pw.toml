@@ -1,0 +1,8 @@
+name = "gem_loot_injection.json"
+filename = "gem_loot_injection.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aafd4634e4f6e0673ec37192a0cf6215a02ad94c108a3539f89568aa33591e4b.json"
+hash-format = "sha256"
+hash = "d5f25f504ae7433a3643dd5dbfb16e1ab7dbad79c4b4628b98c417a8d0f4126c"

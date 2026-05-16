@@ -1,0 +1,8 @@
+name = "exit.json"
+filename = "exit.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/43/43ed3f9fcff2cf5e1240597c3f0d1cdb959ff44a85325624bd3d81b66ed7ae3f.json"
+hash-format = "sha256"
+hash = "4163833e848322a31be4e102a82de2bb9902d7df23e27ea6d4f348e63847c7af"

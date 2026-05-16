@@ -1,0 +1,8 @@
+name = "cooldown.md"
+filename = "cooldown.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/35d2f4282bcafd248b54e9f790d9fa85f84efe7a9926774a46dcd8ee3be4a4eb.md"
+hash-format = "sha256"
+hash = "694a792a2b5a7436b69348975753efc563985d19512f3479c6d048a31554e1b3"

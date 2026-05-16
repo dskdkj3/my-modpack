@@ -1,0 +1,8 @@
+name = "vibranium_furnace.json"
+filename = "vibranium_furnace.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e6920c8921bac02a7fe1802610849c3c50c9cc75207c4a7d3711d22649155e3.json"
+hash-format = "sha256"
+hash = "f4a3a88061d260afe5287a04afe2a40d989ce60f192baa29635ff2cbaf688d1d"

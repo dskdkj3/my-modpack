@@ -1,0 +1,8 @@
+name = "dimensional_shard.md"
+filename = "dimensional_shard.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/59111e4a8aaef58d64f748768a52ea69dea2851564765fa634608b7b0fee2cf9.md"
+hash-format = "sha256"
+hash = "896099063640a29becd67f99e5bcc560ea2e99a92fa021634148a449f7726d4d"

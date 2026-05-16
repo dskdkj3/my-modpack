@@ -1,0 +1,8 @@
+name = "lime_candle.json"
+filename = "lime_candle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3eb00f6f565e02acccad2fc316766b192d4a58f00c1c71447e8a4b7e16d3ea70.json"
+hash-format = "sha256"
+hash = "b51e05e53f234af027aa5864414a924c641f2f2e577c7bc0b6b6041650f46b58"

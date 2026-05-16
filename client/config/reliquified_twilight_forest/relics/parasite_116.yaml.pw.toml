@@ -1,0 +1,8 @@
+name = "parasite_116.yaml"
+filename = "parasite_116.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b53cde285a0e079a05858cec3a03a17c159f3a0ea5141135b4b76cacd2f1bc3c.yaml"
+hash-format = "sha256"
+hash = "1b2eb7a1c2dceac883f4a82a0c1e1eb0b056ed62f66b2c4aebf34b6b0cfdd6af"

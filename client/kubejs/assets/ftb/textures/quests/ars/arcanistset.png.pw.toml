@@ -1,0 +1,8 @@
+name = "arcanistset.png"
+filename = "arcanistset.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c78a51022a8a5e5b462e2218f1802197a85f6adc61d87ec51e661f164522e1d.png"
+hash-format = "sha256"
+hash = "28570b9929233db55ee8b1c98a5ae9cb4814da286a15dd9412dec7dd525c40f6"

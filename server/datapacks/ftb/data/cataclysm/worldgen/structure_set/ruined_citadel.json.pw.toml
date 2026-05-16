@@ -1,0 +1,8 @@
+name = "ruined_citadel.json"
+filename = "ruined_citadel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/79d763f3dca904602c8e6b23c5bb4456027f81466848fe344444851d652511ac.json"
+hash-format = "sha256"
+hash = "f3946c697151019003cc065879d48b07eb240f77109a16c54c4345bf558e36ac"

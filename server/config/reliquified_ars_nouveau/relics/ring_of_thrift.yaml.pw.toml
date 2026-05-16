@@ -1,0 +1,8 @@
+name = "ring_of_thrift.yaml"
+filename = "ring_of_thrift.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b5010cda9279aecbbfdfd5ad53feff56546b34bd0880f84625b631bfc791f635.yaml"
+hash-format = "sha256"
+hash = "f4e4a3cf42d4a40ed3f0fe4bb8870d3bc1713c386d75b554dfcb3cb9029ffcb1"

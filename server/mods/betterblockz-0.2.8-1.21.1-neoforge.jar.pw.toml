@@ -1,0 +1,8 @@
+name = "betterblockz-0.2.8-1.21.1-neoforge.jar"
+filename = "betterblockz-0.2.8-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7829/995/betterblockz-0.2.8-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "516ed22e71b9a0bdb631e68d47630aca5feee31dab0cda26a69fef47ae1bd2fe"

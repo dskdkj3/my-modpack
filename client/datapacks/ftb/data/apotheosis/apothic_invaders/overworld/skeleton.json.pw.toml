@@ -1,0 +1,8 @@
+name = "skeleton.json"
+filename = "skeleton.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f1d8667c4ae07799520cd9664b037b6dd73e4f82402bbaf458f476a41782cce.json"
+hash-format = "sha256"
+hash = "9d754214d6771f1f759fe3cb10aa56004df8e3063833f07f4b1de7186bf9c35c"

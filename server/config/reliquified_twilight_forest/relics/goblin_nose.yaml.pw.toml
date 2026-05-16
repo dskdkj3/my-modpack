@@ -1,0 +1,8 @@
+name = "goblin_nose.yaml"
+filename = "goblin_nose.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/12247441acca09718417ffdc1e4437e1038d3a4af7bf037a77ba46b05e4db8c4.yaml"
+hash-format = "sha256"
+hash = "32f4ae5ebf15d28c82303c86d3171b06134ab9a9bd9e44e47ec72ba4beb78677"

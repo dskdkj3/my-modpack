@@ -1,0 +1,8 @@
+name = "chunky.json"
+filename = "chunky.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1d/1db8f0a0a523573329f26f89224c246af986c26826130de289f5436c55e94cb4.json"
+hash-format = "sha256"
+hash = "3ac33ce2b8ad9e77dcd0ad69399e844c372084b3658b8ace52d08d6d70c6b747"

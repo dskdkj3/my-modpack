@@ -1,0 +1,8 @@
+name = "power_core2.json"
+filename = "power_core2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9aa98997af591d33fec7a89b477f6562e58382d1424da99ac572dfe731298e5e.json"
+hash-format = "sha256"
+hash = "c8e2accbbdebe9a5c7c8b136e20f2426dd2feab9ad349715487896710b967a76"

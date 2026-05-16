@@ -1,0 +1,8 @@
+name = "kobold.json"
+filename = "kobold.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5da7ee3b10cfc95dfe0697de2eea5c278fe189cbfffba4e61d331db7fa0a5ce7.json"
+hash-format = "sha256"
+hash = "401369883bbc496aa436fdce9a9498823e189fe576e89131ef43a648a75730c7"

@@ -1,0 +1,8 @@
+name = "drygmy_spawn.json"
+filename = "drygmy_spawn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec01f03f0fd17583d140500cbe02b63f0cf69e13e138439ceda21abad1ada487.json"
+hash-format = "sha256"
+hash = "f3e53195be29c94ae16842813d047fbee1a2f7e40f80db6a5e441a6d8586e5c1"

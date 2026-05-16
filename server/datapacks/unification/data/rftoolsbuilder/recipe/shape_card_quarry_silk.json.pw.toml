@@ -1,0 +1,8 @@
+name = "shape_card_quarry_silk.json"
+filename = "shape_card_quarry_silk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5bdb947e7ba78cf24f8758538b0b501bff8dd139f9511cd368d5251ced43be1.json"
+hash-format = "sha256"
+hash = "098dd8ee3b9040fbb7b3d761b97ab06d290122c0ccc752ca14dab0d7240d26fd"

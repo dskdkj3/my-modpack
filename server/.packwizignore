@@ -1,0 +1,6 @@
+.packwizignore
+*.mrpack
+*.zip
+*.jar
+dist/
+README.md

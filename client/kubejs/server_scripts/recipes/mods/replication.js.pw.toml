@@ -1,0 +1,8 @@
+name = "replication.js"
+filename = "replication.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a3f800c80f753de2c33c89562d95d2d5d08285b8a839ed26343350e63526878.js"
+hash-format = "sha256"
+hash = "a88665c3d04d61ca83341e594a17fa0dfdb556783012b35c55407924393a83ba"

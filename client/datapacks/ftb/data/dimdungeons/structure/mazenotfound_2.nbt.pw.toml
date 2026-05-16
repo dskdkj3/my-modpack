@@ -1,0 +1,8 @@
+name = "mazenotfound_2.nbt"
+filename = "mazenotfound_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1a621c74cce0af1c3e050dd7752550cc8c97874a328549b810d19e5171c74e1.nbt"
+hash-format = "sha256"
+hash = "099538f307637297e244cfaef4ee1f3b04f2c100f79ed88874e10a11ca21edab"

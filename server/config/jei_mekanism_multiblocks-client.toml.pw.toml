@@ -1,0 +1,8 @@
+name = "jei_mekanism_multiblocks-client.toml"
+filename = "jei_mekanism_multiblocks-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/964af097954b8c807e345a0f7025f05510be3cda88a956b4deed60563b3c5cc4.toml"
+hash-format = "sha256"
+hash = "dfcf1a36696234948ca1b6bf3c4a029d255bbe89d3f1ffce17d655b6ee8cfc6c"

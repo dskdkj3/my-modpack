@@ -1,0 +1,8 @@
+name = "snowmaker_idle.json"
+filename = "snowmaker_idle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d29136117e5f12ee09e7bda411e330657e792a35fa0aaad0400922def118ba1a.json"
+hash-format = "sha256"
+hash = "41207f9effcbe6fc00f1b235a09ca77282618bc7fb0dcb1630f0e247115ac5cd"

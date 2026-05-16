@@ -1,0 +1,8 @@
+name = "skullfire_sword.json"
+filename = "skullfire_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/466044b7591cf2ecb733dce2ec80dcef7f1aec7916047ca8be32e7f61884291e.json"
+hash-format = "sha256"
+hash = "29d09239f32043146237cde6546ab21d826bb63ebf3bf6303e7a018f49ff3958"

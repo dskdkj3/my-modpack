@@ -1,0 +1,8 @@
+name = "t4_echo_twilight.json"
+filename = "t4_echo_twilight.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b22c250a15bc4ee04099c48e2d18bd72e35dcfa8091daaca99a15d56dd13192e.json"
+hash-format = "sha256"
+hash = "eaf60c3096207edd01578eb8fa8383cd2889a1465d3c86bfcb6a0fbc7474c643"

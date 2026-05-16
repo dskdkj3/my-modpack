@@ -1,0 +1,8 @@
+name = "silicon_from_certus_quartz_dust.json"
+filename = "silicon_from_certus_quartz_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f4944f49f9618d7b62ba5f57a920e01277634761985c72cdc0fbbe362514e93.json"
+hash-format = "sha256"
+hash = "6f98c3e7b81d644fc524b5395f22a626d9ed8b5f8b78685294e1687da2c51d61"

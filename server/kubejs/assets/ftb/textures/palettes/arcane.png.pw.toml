@@ -1,0 +1,8 @@
+name = "arcane.png"
+filename = "arcane.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9047e11fed8c8ed75656d566d849eb03498b5835f18c10916db5c8e8643531e.png"
+hash-format = "sha256"
+hash = "5baaaae3535ec28ec0ac8ec9fc5de31508bc01174e5d9d8780822ed905ecd9f3"

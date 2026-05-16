@@ -1,0 +1,8 @@
+name = "siliconwashing.json"
+filename = "siliconwashing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2aa7acd649a17952e4c3b2f9d83d4c546937fb0e54fb9504e12bc3cc1756e556.json"
+hash-format = "sha256"
+hash = "a8c816bf32c925ee595f278afce33e3c587e4e437558b1126818571528c3a329"

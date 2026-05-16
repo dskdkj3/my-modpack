@@ -1,0 +1,8 @@
+name = "hammer_time.json"
+filename = "hammer_time.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f344bcca06d4bfccdddde07030fa3a4f29d7a854a00c9b83aaf8deaeb043508.json"
+hash-format = "sha256"
+hash = "ad8ac04783f0cf062fd5172876c99f671ed69dde7fb4b869926786ee5eb9fbe5"

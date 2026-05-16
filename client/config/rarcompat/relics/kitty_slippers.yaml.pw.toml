@@ -1,0 +1,8 @@
+name = "kitty_slippers.yaml"
+filename = "kitty_slippers.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68168fc511c8e267375f4f2ec41991fd376c765ba0b35a1bece2ea37ce4d6fd5.yaml"
+hash-format = "sha256"
+hash = "7ba11248e57edf67fb9db632ea723797870da2e7ff21f4f2762df8eab39e556a"

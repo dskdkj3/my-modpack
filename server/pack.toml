@@ -1,0 +1,13 @@
+name = "FTB StoneBlock 4 1.13.1 Server + zh"
+author = "FTB Team, VM Chinese translate group, dskdkj3"
+version = "1.13.1+zh+dh"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "062dca39a12ed7d7900719423fda5fd435d345fd3f354a9201d75e077abf0d19"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

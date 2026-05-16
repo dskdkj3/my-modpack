@@ -1,0 +1,8 @@
+name = "bunny_hoppers.yaml"
+filename = "bunny_hoppers.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d54ed485aa5deada6569661eeae8de86adf32675049dbec503814b4b2decab0.yaml"
+hash-format = "sha256"
+hash = "bf699dbf3a6e8a200cdb34a9f824d982ee6b1f72bf979c43ec263bee92c020cc"

@@ -1,0 +1,8 @@
+name = "create-shimmer-1.2.8.jar"
+filename = "create-shimmer-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7481/682/create-shimmer-1.2.8.jar"
+hash-format = "sha256"
+hash = "b6daf07821a9c9201313f011b5c4371f2eefc313af3ba4da4d23a9da1424f4df"

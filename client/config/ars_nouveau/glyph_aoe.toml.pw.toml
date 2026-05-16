@@ -1,0 +1,8 @@
+name = "glyph_aoe.toml"
+filename = "glyph_aoe.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b5/b587d13cbe7c6f585233d66429775a0ec9297050281ae7ff8f1ad125023b7796.toml"
+hash-format = "sha256"
+hash = "2e47c6efedb37a1614b72517fb09ca513180fcc1bc7e9aa668f356cec750d2f4"

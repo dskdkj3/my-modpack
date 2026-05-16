@@ -1,0 +1,8 @@
+name = "redcap_sapper.json"
+filename = "redcap_sapper.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/59/596c38b6c8a5ba31eb8e58c0221967fd8c1229c2029a4187e516529979f3d6b5.json"
+hash-format = "sha256"
+hash = "40d472f352faf5cfbb11c63c850d0f2cf2bed6678fc2f3508d0c16273ccb6549"

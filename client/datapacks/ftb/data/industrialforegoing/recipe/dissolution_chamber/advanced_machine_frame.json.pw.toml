@@ -1,0 +1,8 @@
+name = "advanced_machine_frame.json"
+filename = "advanced_machine_frame.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0e/0e1c6f04dc58d49d544d217079b1d0dbd39437aa18fb6de9501fb7c27da8c6c7.json"
+hash-format = "sha256"
+hash = "d93d295af16fae318f30c373ac4a1f17634ebddc6452ae182c2b00252b0451f5"

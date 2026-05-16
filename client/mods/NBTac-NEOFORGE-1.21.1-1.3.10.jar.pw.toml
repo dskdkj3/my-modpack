@@ -1,0 +1,8 @@
+name = "NBTac-NEOFORGE-1.21.1-1.3.10.jar"
+filename = "NBTac-NEOFORGE-1.21.1-1.3.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5957/930/NBTac-NEOFORGE-1.21.1-1.3.10.jar"
+hash-format = "sha256"
+hash = "a163e2e7cc1e0a36519673efce2a7e47fa58c6593e1ac1f4d4ccc38328c3a930"

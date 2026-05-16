@@ -1,0 +1,8 @@
+name = "charcoal_from_campfire.json"
+filename = "charcoal_from_campfire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e97e319cfc7986e2d0d43ffaeba78f072cfaf466f244b51b9d365ef4eaddd6b7.json"
+hash-format = "sha256"
+hash = "229f7c39f98facb6a5e10fdd1c7014af2f9e8f024ea81af99451746e4ea7148b"

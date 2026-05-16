@@ -1,0 +1,8 @@
+name = "feral_claws.yaml"
+filename = "feral_claws.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e55aef00dde784bec58ccebb01d537629aec993a13acadbf468ee159cfac9fa6.yaml"
+hash-format = "sha256"
+hash = "e9336a139a7f342b1c20ddce90121c3289e01947a52b4dfa22660b3292fa7de2"

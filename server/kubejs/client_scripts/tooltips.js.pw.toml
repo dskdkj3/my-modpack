@@ -1,0 +1,8 @@
+name = "tooltips.js"
+filename = "tooltips.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9ef1de57c59794c0d6b6036d92878a775aea06c3acb211353bdb57413991e488.js"
+hash-format = "sha256"
+hash = "02d00ce83f19738b84b2a399889159f880a867a2a46766edb7c4d2f0b983e811"

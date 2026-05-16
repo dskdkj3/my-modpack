@@ -1,0 +1,8 @@
+name = "storage_lead_from_slab.json"
+filename = "storage_lead_from_slab.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/afc61afcc6605452455dde2831180a04e445951ed88c6cd044ae7ddffc0e45dd.json"
+hash-format = "sha256"
+hash = "c42e3ae1c1c7d0f5cf8919681a0475f5edd03dde54044633ced61ee72a4983d7"

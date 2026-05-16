@@ -1,0 +1,8 @@
+name = "flaming_bracer.yaml"
+filename = "flaming_bracer.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b8049a287421bc044bfa73129fa4628a7a26fa2ae945656ec457a4c87ef89c4b.yaml"
+hash-format = "sha256"
+hash = "c442517a9fec066b71adf0c253536b48b626b9bf169cfc923c6c373b5f48b91f"

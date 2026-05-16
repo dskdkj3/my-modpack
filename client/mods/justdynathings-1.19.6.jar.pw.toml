@@ -1,0 +1,8 @@
+name = "justdynathings-1.19.6.jar"
+filename = "justdynathings-1.19.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7851/999/justdynathings-1.19.6.jar"
+hash-format = "sha256"
+hash = "dc72abcf4b81c28a850a6169615ea91aadad5edccd30c6edeaf8b7e070050fef"

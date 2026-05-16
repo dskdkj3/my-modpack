@@ -1,0 +1,8 @@
+name = "startup.toml"
+filename = "startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/add4abfe59fa313924c815c5429091df77e7caee772bb566cb703050be518c70.toml"
+hash-format = "sha256"
+hash = "97f1eccffa97ae4b0638fa14314b214f7884f12b45ce1188b05b4f9c02bdeca2"

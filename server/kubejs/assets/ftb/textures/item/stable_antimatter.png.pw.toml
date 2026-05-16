@@ -1,0 +1,8 @@
+name = "stable_antimatter.png"
+filename = "stable_antimatter.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb03f4dc15f3e2c343b6086001029416c73b1b69b39427f1724bd872073b2163.png"
+hash-format = "sha256"
+hash = "0ba026631e1f9a7cc4442c6f72e39a7f0eb1cab94659cde7ef202f2b358eb8e5"

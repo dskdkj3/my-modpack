@@ -1,0 +1,8 @@
+name = "create-server.toml"
+filename = "create-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2fc49b1173958710780acfe942d8cf967ab4b0d7fc8f05db3c7ae5679d03b48.toml"
+hash-format = "sha256"
+hash = "d07e77e461425dc4490346670a61b4830f8111a975e82d803444377bc0d0d343"

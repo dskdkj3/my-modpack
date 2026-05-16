@@ -1,0 +1,8 @@
+name = "digging_claws.yaml"
+filename = "digging_claws.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a2af2d9f936a1e0ef183de96b367f3ab0169569a2fde3fc99b3730896f7023f0.yaml"
+hash-format = "sha256"
+hash = "c0214f691affd9770b05df6bfb2fd1cf319405f21291f616e81ff58f496ac305"

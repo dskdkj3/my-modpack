@@ -1,0 +1,8 @@
+name = "random_potion.json"
+filename = "random_potion.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8cbeea5087918057d46783f7fa2a44d32341a98f1d524417378336909aed7189.json"
+hash-format = "sha256"
+hash = "eb9414599992aaaf6def1c6c017d60b96c4b3b1cdf3fd102cc0732128711c18c"

@@ -1,0 +1,8 @@
+name = "slide.lua"
+filename = "slide.lua"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61b88ed7dda40b6867a0db1d389ea2456618f1b1ed4fcace17eec46dbc5b1a1c.lua"
+hash-format = "sha256"
+hash = "618da9caee212e0e77f60d6ef6e899dc6453aad7b3130d974b1e6850784b4133"

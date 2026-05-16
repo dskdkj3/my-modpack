@@ -1,0 +1,8 @@
+name = "chorus_inhibitor.yaml"
+filename = "chorus_inhibitor.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/0908e4441dd2b352d57e36002e780136e1b820990375d95cf9a3e2d7b9dc680e.yaml"
+hash-format = "sha256"
+hash = "86b158010c0201f050159cf9196e837dd92c147a21ac03c389680807f598060e"

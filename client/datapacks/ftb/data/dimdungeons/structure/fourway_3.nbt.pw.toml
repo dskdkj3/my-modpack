@@ -1,0 +1,8 @@
+name = "fourway_3.nbt"
+filename = "fourway_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98485eb14c9f8058d0339951eb01fc594947f354de96ebe53564ded97e66910b.nbt"
+hash-format = "sha256"
+hash = "54f2f3c4ebc56198505c014b2d257bb468b226b86d5e2a9cd8f1cd01100f1cc2"

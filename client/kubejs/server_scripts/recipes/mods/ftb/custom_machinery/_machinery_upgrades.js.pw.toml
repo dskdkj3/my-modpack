@@ -1,0 +1,8 @@
+name = "_machinery_upgrades.js"
+filename = "_machinery_upgrades.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a875404164ccbbfc4b9cb5c83d78a34025c7f6049f16dc828ba08849cc2763d.js"
+hash-format = "sha256"
+hash = "19be9e2126c4e838d871f8564f7e4d565f14b0109989551447ed709a3be5cda4"

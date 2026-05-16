@@ -1,0 +1,8 @@
+name = "simple_dungeon.json"
+filename = "simple_dungeon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37b29e221c11cdc2230e3b2c0bf702705ccbbc88c49a524220650c26ab68525c.json"
+hash-format = "sha256"
+hash = "f174dca7f5f8c3a3c351199957274ada56b02827ece412b31ba81088f8624a5e"

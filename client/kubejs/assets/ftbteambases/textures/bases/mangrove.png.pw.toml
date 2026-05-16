@@ -1,0 +1,8 @@
+name = "mangrove.png"
+filename = "mangrove.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/58983f723878a0ee7de3eec490c999c6eedbe5b7534ed0431c3ff15134de9784.png"
+hash-format = "sha256"
+hash = "c3e4c02b6d87b9db1cac7d55b6a1e1cd38b196ae6a894bb20c74e0cb2e2692a9"

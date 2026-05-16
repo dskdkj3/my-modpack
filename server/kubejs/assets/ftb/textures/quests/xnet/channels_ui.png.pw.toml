@@ -1,0 +1,8 @@
+name = "channels_ui.png"
+filename = "channels_ui.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab1341fc91907e0e575713b39fc5160b6ceb8cae6bd2fe959a2122c8e1537564.png"
+hash-format = "sha256"
+hash = "b4dec5d7933882a44cc2c1a850f371126bd1e697d23ce347b86b675c6e0ac1d4"

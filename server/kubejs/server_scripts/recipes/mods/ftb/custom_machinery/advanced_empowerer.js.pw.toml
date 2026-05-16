@@ -1,0 +1,8 @@
+name = "advanced_empowerer.js"
+filename = "advanced_empowerer.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37a9d69f9f6e0f3f5b7607f1cea8fc3af02c6ca8e7ed3f96da323d3709705ffb.js"
+hash-format = "sha256"
+hash = "3f9f0562cb46651284faece45d34b42708cda684048cb27912819333531fe450"

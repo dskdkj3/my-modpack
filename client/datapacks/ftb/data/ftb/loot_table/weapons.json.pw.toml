@@ -1,0 +1,8 @@
+name = "weapons.json"
+filename = "weapons.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c3a1e9b6fc63ca4ddeb785c9ca75f0c25a033b25173435dc116c392566997b8.json"
+hash-format = "sha256"
+hash = "5a0952d4dcdc2678fd7b35b6f551a85949b82ad2360ee0ef723121033fe7ef5f"

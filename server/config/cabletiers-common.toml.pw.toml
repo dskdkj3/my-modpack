@@ -1,0 +1,8 @@
+name = "cabletiers-common.toml"
+filename = "cabletiers-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/8383102c1688a60520d99e24bb031a1399fd471b0cf6c927c6766f1521f2c821.toml"
+hash-format = "sha256"
+hash = "e176127bf52661cbdd03bd327829c5ad6a86058c4d7654a368aa442c04b03728"

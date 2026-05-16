@@ -1,0 +1,8 @@
+name = "presses.md"
+filename = "presses.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1451a49e8cfd8ac909154433b8cde413573e4b1478ec94fc7a61bc5de47fe35.md"
+hash-format = "sha256"
+hash = "b97dbd19c56631a9aed41ff1b250976ebbfa0b80d49c59e32ebb89d9a6ebd7b8"

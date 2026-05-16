@@ -1,0 +1,8 @@
+name = "theme2_outer.nbt"
+filename = "theme2_outer.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f83e4a2ec2dc152e668c527b6e48b4fcc210e33bec00cb256039ef17d28e0623.nbt"
+hash-format = "sha256"
+hash = "e8fab96fddc921fde6467add43424e97ca7147a57aee60c5390e7e3a3e104fab"

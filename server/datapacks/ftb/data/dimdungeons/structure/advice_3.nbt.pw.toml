@@ -1,0 +1,8 @@
+name = "advice_3.nbt"
+filename = "advice_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be53c465234d133af8b0c8f19d666bb17c0ceb1de1689a7b1884bac8872845f2.nbt"
+hash-format = "sha256"
+hash = "7ccf36048c203aeca9b9aa141bb7865bad20dfa6c0388327339c7d58bd447aa4"

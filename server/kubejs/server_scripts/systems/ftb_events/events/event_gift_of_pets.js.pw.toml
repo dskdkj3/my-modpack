@@ -1,0 +1,8 @@
+name = "event_gift_of_pets.js"
+filename = "event_gift_of_pets.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f054626e6454ee51f24c2425c89980e724a1b202e6eb3e4ea3c6e8b132f7a9b.js"
+hash-format = "sha256"
+hash = "9c0efa2212a42161bf2c4da5fef586b60bd0341cae7616d3ad59f401ca2b739d"

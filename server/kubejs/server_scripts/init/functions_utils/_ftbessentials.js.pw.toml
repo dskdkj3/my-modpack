@@ -1,0 +1,8 @@
+name = "_ftbessentials.js"
+filename = "_ftbessentials.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ad/ad801ecc66320cdf0638b0dd1b2fb3d8d4585aefc75576952fd3b0b0251582fa.js"
+hash-format = "sha256"
+hash = "06d3141c251d948af5d010e48332e7a8e303269914be54ed02d3bd66cdb5ba35"

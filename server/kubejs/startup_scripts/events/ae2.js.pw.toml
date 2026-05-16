@@ -1,0 +1,8 @@
+name = "ae2.js"
+filename = "ae2.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/110708cba15cea68c8d4ecf4f7199f1f841bd7967f65e0cad4bd793e4f89dd74.js"
+hash-format = "sha256"
+hash = "42cf31727a087259636299ac4829d02d6e19f38165158c88e1c3b4616218ee09"

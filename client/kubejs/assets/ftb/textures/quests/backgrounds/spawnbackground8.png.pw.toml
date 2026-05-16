@@ -1,0 +1,8 @@
+name = "spawnbackground8.png"
+filename = "spawnbackground8.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53a558a1681547dde2cefb81107d394416b511d7956339ca89fd8efa7bd162a9.png"
+hash-format = "sha256"
+hash = "e4f4d33e3a14b37c23748102ac3051d4f5dd5dc5ae82ddfc0b8922ba9a93883c"

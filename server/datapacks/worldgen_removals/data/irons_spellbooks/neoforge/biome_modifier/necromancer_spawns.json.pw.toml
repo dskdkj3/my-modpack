@@ -1,0 +1,8 @@
+name = "necromancer_spawns.json"
+filename = "necromancer_spawns.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a7ee7d535d223f5215041ff2241197cb5d9e134850d0170089df26be14cef64.json"
+hash-format = "sha256"
+hash = "efc99fd842098f9ecb258c1d98b297a345718b4003aa02f1bffdc343d034639b"

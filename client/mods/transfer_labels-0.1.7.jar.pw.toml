@@ -1,0 +1,8 @@
+name = "transfer_labels-0.1.7.jar"
+filename = "transfer_labels-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7057/233/transfer_labels-0.1.7.jar"
+hash-format = "sha256"
+hash = "915cd58c226527b31b1b51ed263da5bf2d2d762a0a4a4c7c8ea7a4a104e1a6c6"

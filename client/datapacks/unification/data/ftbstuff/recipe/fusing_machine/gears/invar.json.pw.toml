@@ -1,0 +1,8 @@
+name = "invar.json"
+filename = "invar.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/81a32300aa76122cbf102d2244e0fb27ed1365fe5068bf654a5416fb906402f1.json"
+hash-format = "sha256"
+hash = "e1984e613315946e1eee5582736c018e0f27328acc4f325a7a4b397daa66d712"

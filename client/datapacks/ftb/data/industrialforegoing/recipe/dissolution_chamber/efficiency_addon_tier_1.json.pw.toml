@@ -1,0 +1,8 @@
+name = "efficiency_addon_tier_1.json"
+filename = "efficiency_addon_tier_1.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9d/9d26c27e65893920347cddd7a751fb1599f4fded37be493d4648009abb7ce8a7.json"
+hash-format = "sha256"
+hash = "16187e982f11b3b847ec614c72966c7ecae0c93f193a33c154ce9fad403fc4f7"

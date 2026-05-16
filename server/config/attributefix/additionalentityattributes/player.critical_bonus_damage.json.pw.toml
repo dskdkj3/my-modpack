@@ -1,0 +1,8 @@
+name = "player.critical_bonus_damage.json"
+filename = "player.critical_bonus_damage.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b82fd5885f9e9795bf7d85e80532e26f9bb1aedeada56e0198167020f6d291e6.json"
+hash-format = "sha256"
+hash = "f4141221feb1e43056da711fcda29f9091344a48876c62e6f1d1a61fac8af44a"

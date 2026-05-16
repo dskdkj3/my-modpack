@@ -1,0 +1,8 @@
+name = "biobasic.json"
+filename = "biobasic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/db/db64c5e407f4d232b296b6fd9a80f9982fb8ca6cfb848d2171abbeb614f13d3c.json"
+hash-format = "sha256"
+hash = "7c5b3ee3c68a8324bc7907e823df0065c5287c05282e525156d09f001ae75405"

@@ -1,0 +1,8 @@
+name = "lucky_scarf.yaml"
+filename = "lucky_scarf.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f17f98baa18ea78dedfb0261051a958c1bd383e04ec8c39db4017cec42c0ee2e.yaml"
+hash-format = "sha256"
+hash = "edde7926886e19f0babdc044cefe338c78cfb30bfcb8e46a6e253b57760506ec"

@@ -1,0 +1,8 @@
+name = "captain_guppy.json"
+filename = "captain_guppy.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/1181c8f6911bf860f0d1cd449a1464f90a90c8c53709fb065d9d4364b8489ab8.json"
+hash-format = "sha256"
+hash = "324a8a196a62413551776cc2deb1e70df9b681597e57dd736129a6bf787bd843"

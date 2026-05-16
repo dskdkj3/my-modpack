@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/dimdungeons/lang/zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/dimdungeons/lang/zh_cn.json"
+hash-format = "sha256"
+hash = "a93a91c4de480af1ca5d80b413844e8a4df0b609942ee69a224c91c0e67b2a58"

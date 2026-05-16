@@ -1,0 +1,8 @@
+name = "infinite_upgrade.nbt"
+filename = "infinite_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0a8dca0c1d2b1f58aa3b30831cd8d1269b2d6fe32005bf7ab28023fa1bc590c0.nbt"
+hash-format = "sha256"
+hash = "b4ae13e8783326329022f9c7e91602b41fbb7d0193203fdeed8bfd53b0bcff62"

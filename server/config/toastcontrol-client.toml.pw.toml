@@ -1,0 +1,8 @@
+name = "toastcontrol-client.toml"
+filename = "toastcontrol-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d1d3dfaee0474950f52cd12610beb3a8212c15ce26ac3c6ac89cd9dd4e7acaf3.toml"
+hash-format = "sha256"
+hash = "85505fdddef41eb860a7382c8f4e7d7a89463ac71563246bc8d1605011d1d912"

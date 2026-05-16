@@ -1,0 +1,8 @@
+name = "advemp_config_hovered.png"
+filename = "advemp_config_hovered.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c53e8b8bf9e80dedac95ae6a27152bb9454b21cc78e4a980666f734b094bb85.png"
+hash-format = "sha256"
+hash = "fa6c61701502a195daeb464c2869c0fc6462c01a3d587f230ce838302b6be197"

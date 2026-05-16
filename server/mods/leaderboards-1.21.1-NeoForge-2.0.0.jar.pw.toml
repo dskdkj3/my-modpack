@@ -1,0 +1,8 @@
+name = "leaderboards-1.21.1-NeoForge-2.0.0.jar"
+filename = "leaderboards-1.21.1-NeoForge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7932/810/leaderboards-1.21.1-NeoForge-2.0.0.jar"
+hash-format = "sha256"
+hash = "e2002ef4fa5c5d17a93dbeb010e2dfc97c775bf144977a4d165d8d6c19706347"

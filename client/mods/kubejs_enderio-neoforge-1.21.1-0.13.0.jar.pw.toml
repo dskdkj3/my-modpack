@@ -1,0 +1,8 @@
+name = "kubejs_enderio-neoforge-1.21.1-0.13.0.jar"
+filename = "kubejs_enderio-neoforge-1.21.1-0.13.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7743/899/kubejs_enderio-neoforge-1.21.1-0.13.0.jar"
+hash-format = "sha256"
+hash = "79b83fed693bb77440670af23749e13fc1c0fdae8771409044e8807f43d2e390"

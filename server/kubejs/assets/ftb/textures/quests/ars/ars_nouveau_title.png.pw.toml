@@ -1,0 +1,8 @@
+name = "ars_nouveau_title.png"
+filename = "ars_nouveau_title.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/65ec09e47761bb269449b682336adb3774dcc60f6ad438d0fb2b53868a7b226e.png"
+hash-format = "sha256"
+hash = "fd25c1fe6690d1d53f465618b6f981a03ffd06491528e2fc5c3b7fa4dcd3a2e4"

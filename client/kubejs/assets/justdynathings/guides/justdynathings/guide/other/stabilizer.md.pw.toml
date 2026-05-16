@@ -1,0 +1,8 @@
+name = "stabilizer.md"
+filename = "stabilizer.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f31954628aee4801a5b86af701d551242392d8e4f5c73e17b5e7939b5ea24b6b.md"
+hash-format = "sha256"
+hash = "632a4cb596ed0da463e70a83757ee2a74bddd3abd0bbbb5c95d7d47a98ac3d60"

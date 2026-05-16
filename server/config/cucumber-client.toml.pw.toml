@@ -1,0 +1,8 @@
+name = "cucumber-client.toml"
+filename = "cucumber-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a5bbbd0cc458babe185fc91223477ea09c7ca4f8ac59b44f267a732573ff8c9.toml"
+hash-format = "sha256"
+hash = "2f20918e4eb0a97d3ac834c418b160ec132f55211e2fc72e192993938f09443e"

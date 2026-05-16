@@ -1,0 +1,8 @@
+name = "apothic_attributes.cfg"
+filename = "apothic_attributes.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/46/461e3198e5d37c91bfb5b6aa097483f4d4da353b220f3f94a06770d1b4a347d6.cfg"
+hash-format = "sha256"
+hash = "0ce3691bf114d731d9af982f809af2ca88c6cdb2173597f2d82513cdd5610a41"

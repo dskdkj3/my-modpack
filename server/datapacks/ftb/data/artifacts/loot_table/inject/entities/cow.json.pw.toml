@@ -1,0 +1,8 @@
+name = "cow.json"
+filename = "cow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a41b9f3e0b5131173dda611d8e63f93998f0ef2703d5feaae14a0dc6792b5cc9.json"
+hash-format = "sha256"
+hash = "1850670a531c5407865fb63ccbaeaf01f01b10c4f8c5ff376185a65970076e9e"

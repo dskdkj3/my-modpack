@@ -1,0 +1,8 @@
+name = "source_gem.json"
+filename = "source_gem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/0251eeb0ad973849e7fa63269c33598e4377c44c5139134dbd8aa3e040a806a1.json"
+hash-format = "sha256"
+hash = "29e5845c53a2de913297f12eff3a76fb7e243e764acfa67a03f999e2c63e652d"

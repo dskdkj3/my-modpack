@@ -1,0 +1,8 @@
+name = "10.nbt"
+filename = "10.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a47aea3b91e1c30d76f9f9e033459dfa849a2fedb86b6eb86547eee65377b28d.nbt"
+hash-format = "sha256"
+hash = "dc52ba6bad81839bc9f3e3507781f4ebb1d4836ec7a9dd9392306edf64570b85"

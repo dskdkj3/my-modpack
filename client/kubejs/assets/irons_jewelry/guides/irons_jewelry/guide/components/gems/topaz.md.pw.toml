@@ -1,0 +1,8 @@
+name = "topaz.md"
+filename = "topaz.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df99827c329f6316bcaf27118b980c1e10606a202290059f208a97365ecfecf0.md"
+hash-format = "sha256"
+hash = "99d2929828947225f594c5ac98fe62f64479576ad630e1b6a9ed9e2ff09795eb"

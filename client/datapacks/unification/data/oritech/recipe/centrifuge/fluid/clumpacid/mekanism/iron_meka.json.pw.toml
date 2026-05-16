@@ -1,0 +1,8 @@
+name = "iron_meka.json"
+filename = "iron_meka.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b6181dac6c630a7e48eb0f135a0b3669b50e7a3ea98852236a9ed3a92bc1427.json"
+hash-format = "sha256"
+hash = "09c75d265164c7a5fe3e29fd29f16870204db0be983f037fcdd9b510305a9d3f"

@@ -1,0 +1,8 @@
+name = "t2_echo_fabricator.json"
+filename = "t2_echo_fabricator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a1/a12e93352550cd6681c09ac714dbdea955b52cb90720b3b5213f682971a38235.json"
+hash-format = "sha256"
+hash = "eed0e93f57800438791df01e9a67db2ea04a2a3c7e889a68d64e1825e31b1ae6"

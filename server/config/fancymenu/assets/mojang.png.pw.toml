@@ -1,0 +1,8 @@
+name = "mojang.png"
+filename = "mojang.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f44b637263411338fc564e4da92fc4f2f542e9721c0f3e8f1ee5bad9941e796e.png"
+hash-format = "sha256"
+hash = "f514e39d50256e9c78a1e7365ad47da9e701356fd4762f1a0daba503da696263"

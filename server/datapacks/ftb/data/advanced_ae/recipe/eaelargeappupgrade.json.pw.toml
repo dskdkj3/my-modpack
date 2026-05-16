@@ -1,0 +1,8 @@
+name = "eaelargeappupgrade.json"
+filename = "eaelargeappupgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67e22b2250d4b6353cf5e77c742e13e6a1e709c202c18d0b1ec0f9613b3f7e33.json"
+hash-format = "sha256"
+hash = "78224f9dabe142ae35208b39a11c477e9af6483e29ef130fc7697e311f5d0da6"

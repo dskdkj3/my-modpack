@@ -1,0 +1,8 @@
+name = "exit.nbt"
+filename = "exit.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/32/32e2496f1c56b06d1ecb16a3442f42f1e33e644f8d64b3eb877619717759a6c8.nbt"
+hash-format = "sha256"
+hash = "c3b89031cee3ad8084eaeca7268dd488942d44ef0f5f05fafc82f2ffa5596a75"

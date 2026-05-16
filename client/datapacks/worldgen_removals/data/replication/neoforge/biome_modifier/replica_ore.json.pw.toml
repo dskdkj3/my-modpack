@@ -1,0 +1,8 @@
+name = "replica_ore.json"
+filename = "replica_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7f28e307c29b876a7e261676cfc29f4d5401d2a89d62e0811e2757d7afb39e9d.json"
+hash-format = "sha256"
+hash = "160b1908956e11135769ef446fc9ad279896757c442aa3e2f4516858093fc34b"

@@ -1,0 +1,8 @@
+name = "cavern_extensions.json"
+filename = "cavern_extensions.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66d2f9797814bfe3af3f28a1bc899b2cd156a7747bc1367751d5dc251b022e74.json"
+hash-format = "sha256"
+hash = "70357da1bf1007e51e5c2cffcc03a5498f47913d854b986e2dc090fc3b9e1088"

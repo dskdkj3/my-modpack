@@ -1,0 +1,8 @@
+name = "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar"
+filename = "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7505/758/SimpleDiscordRichPresence-neoforge-88.0.1-build.54%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "735cfa183d7779ac843198720e29519bf9f92993a57aea1d6bebe2d0a26a970c"

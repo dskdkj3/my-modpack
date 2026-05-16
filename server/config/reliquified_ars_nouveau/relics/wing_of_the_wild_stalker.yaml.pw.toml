@@ -1,0 +1,8 @@
+name = "wing_of_the_wild_stalker.yaml"
+filename = "wing_of_the_wild_stalker.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cdd15417ff074f91af02eed333b761520d7e2dd153240633cb064176f41fb280.yaml"
+hash-format = "sha256"
+hash = "b0de93cd7977be8c364780d38c9d5e4a89dffab3578a54aab50bcb61f4508047"

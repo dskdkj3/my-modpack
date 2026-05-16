@@ -1,0 +1,8 @@
+name = "respawningstructures.json"
+filename = "respawningstructures.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bfaae698c92a40b1184698eb6f946505aac89f9931c2acc643796e716f88d100.json"
+hash-format = "sha256"
+hash = "89c36c6b2c6b876533e8c06246df063afd1e9da2ada34a5d9326f4f62a3f340b"

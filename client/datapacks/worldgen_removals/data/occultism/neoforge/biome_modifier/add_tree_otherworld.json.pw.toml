@@ -1,0 +1,8 @@
+name = "add_tree_otherworld.json"
+filename = "add_tree_otherworld.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8a/8a84617f716bb137b962913461d00a10e8476feca16939bd255fbcb920d21282.json"
+hash-format = "sha256"
+hash = "8c0662e2bf03c4b1cf7f3b0ab95c57dde6754f297d19a83dd7d47147d897bbfa"

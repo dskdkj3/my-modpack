@@ -1,0 +1,8 @@
+name = "mru-1.0.19+LTS+1.21.1+neoforge.jar"
+filename = "mru-1.0.19+LTS+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6803/126/mru-1.0.19%2bLTS%2b1.21.1%2bneoforge.jar"
+hash-format = "sha256"
+hash = "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a"

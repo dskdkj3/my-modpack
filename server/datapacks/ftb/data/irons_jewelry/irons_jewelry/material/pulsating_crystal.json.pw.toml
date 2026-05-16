@@ -1,0 +1,8 @@
+name = "pulsating_crystal.json"
+filename = "pulsating_crystal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5d2b6dc9730baac151f5b71957596ebb11c2258a5fb6325f6949bc4a3f438978.json"
+hash-format = "sha256"
+hash = "42157945fed657bc400abefaf4a8f26325c90fbd4cbac8341caca80da1ce2fe1"

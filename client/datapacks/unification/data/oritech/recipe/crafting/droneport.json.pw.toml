@@ -1,0 +1,8 @@
+name = "droneport.json"
+filename = "droneport.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e39f4b74f67b3d430483a3914c9db7c852dcc8595175ff7f18ad5aa6fa0ae2f4.json"
+hash-format = "sha256"
+hash = "8205cf1a80193e713b109ebee2c745e912f0757ba430510125a90fab6a20ed6b"

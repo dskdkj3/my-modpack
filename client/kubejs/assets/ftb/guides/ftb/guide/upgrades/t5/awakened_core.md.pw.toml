@@ -1,0 +1,8 @@
+name = "awakened_core.md"
+filename = "awakened_core.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0f10dda8f5e13417c69d3c2eecab2627341b5401dde63737769fa6806e98638.md"
+hash-format = "sha256"
+hash = "3999eb5ee788d90a5c0c387bcd04d5320b907e243e1e641beb97b712a2d05f7b"

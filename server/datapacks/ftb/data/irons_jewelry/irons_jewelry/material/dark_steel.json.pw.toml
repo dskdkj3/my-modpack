@@ -1,0 +1,8 @@
+name = "dark_steel.json"
+filename = "dark_steel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab9425f7539ade83a281037515b9921b0c0530135e6413b5b9dbaee7b9e8963d.json"
+hash-format = "sha256"
+hash = "3451da98451e488d91f670db53cd8e9a709ea228b47784309a5755b8df508488"

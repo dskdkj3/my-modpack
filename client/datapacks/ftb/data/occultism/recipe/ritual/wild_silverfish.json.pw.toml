@@ -1,0 +1,8 @@
+name = "wild_silverfish.json"
+filename = "wild_silverfish.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/308201f4edd19b5c19f61dd43dd35dfa5f515a5906085a4f005f019d07785921.json"
+hash-format = "sha256"
+hash = "ffe476c93a9b806e7b6ab7f3ebaaf9f70bc1da66347f480c143b57b7d2c9bb6d"

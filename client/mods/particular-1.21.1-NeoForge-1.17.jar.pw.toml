@@ -1,0 +1,8 @@
+name = "particular-1.21.1-NeoForge-1.17.jar"
+filename = "particular-1.21.1-NeoForge-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7075/190/particular-1.21.1-NeoForge-1.1.7.jar"
+hash-format = "sha256"
+hash = "2dd32f2104cd789773e43700c315eec3d2bc1b35f70d6c4f87a12abd50b6609d"

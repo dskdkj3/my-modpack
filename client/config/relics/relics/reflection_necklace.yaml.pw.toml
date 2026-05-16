@@ -1,0 +1,8 @@
+name = "reflection_necklace.yaml"
+filename = "reflection_necklace.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ff/ff9669577367525280efc5ea3cb6a5a03dd92e217154c6edde6159a16ae22cef.yaml"
+hash-format = "sha256"
+hash = "32de03dca77f656339a7b557431365cdff3c43320fd76b0606cf871e1651b6a1"

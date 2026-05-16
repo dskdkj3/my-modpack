@@ -1,0 +1,8 @@
+name = "item-core.toml"
+filename = "item-core.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/88/88214c83fc1004cee0f3c55460dc68ddb188b808a7823ad923c5533f7646226e.toml"
+hash-format = "sha256"
+hash = "2501dec928c53b7a8a71f05bb3bdafe597d949a05d4915840e26d5ef1cec8352"

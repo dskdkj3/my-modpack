@@ -1,0 +1,8 @@
+name = "infinity.png"
+filename = "infinity.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/19179a0e95103051d002fb88692d3b9f22f15cdd27e7f10b5dc673b07ae195b4.png"
+hash-format = "sha256"
+hash = "298a7c84be6be3d54efbe6c1ac06368f019f4f26bc7cb15aad05ed21719da1d9"

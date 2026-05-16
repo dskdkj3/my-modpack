@@ -1,0 +1,8 @@
+name = "rftoolsutility-1.21-7.0.11.jar"
+filename = "rftoolsutility-1.21-7.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7745/889/rftoolsutility-1.21-7.0.11.jar"
+hash-format = "sha256"
+hash = "bf38b428b688791c2c9d409c854ea7bb08b114c111f018f80e85e87d063c8c62"

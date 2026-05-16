@@ -1,0 +1,8 @@
+name = "chainmail_armor.json"
+filename = "chainmail_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b6db8fd6160add4103252345f41fae0f9ed029c7bab7aa32253a41532f38ddb.json"
+hash-format = "sha256"
+hash = "ded8dbe62419202505014ee1a3403d4b8ecb67205afb215fe3cf70824320d297"

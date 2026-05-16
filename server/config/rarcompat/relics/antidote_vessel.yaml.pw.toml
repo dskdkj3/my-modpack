@@ -1,0 +1,8 @@
+name = "antidote_vessel.yaml"
+filename = "antidote_vessel.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee38ae558ce0b52e5472a358906679063002f63fac34e6e57169c8693fadd07d.yaml"
+hash-format = "sha256"
+hash = "da25d4defa05059edf81c07a3bed8b478eff3ec4857f54c5a1780cd9b5861672"

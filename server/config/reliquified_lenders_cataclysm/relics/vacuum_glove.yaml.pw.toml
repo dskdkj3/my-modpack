@@ -1,0 +1,8 @@
+name = "vacuum_glove.yaml"
+filename = "vacuum_glove.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3aa68840b96e0c0c556297efea0ca376e91b15a551a56a48e7fd0f253d47b06d.yaml"
+hash-format = "sha256"
+hash = "da9728db759422b69a454e7c6d24d30d4a2098bc886e5585743ef87e7b471c2a"

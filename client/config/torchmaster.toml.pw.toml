@@ -1,0 +1,8 @@
+name = "torchmaster.toml"
+filename = "torchmaster.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/313f025448db018fdeaf26e17a626481429c2adbf295103437e0be8877e9f139.toml"
+hash-format = "sha256"
+hash = "1001478e2b5a5424b7e8ca66564bbf80ea209184f0ba474d6e9f2a926afd1474"

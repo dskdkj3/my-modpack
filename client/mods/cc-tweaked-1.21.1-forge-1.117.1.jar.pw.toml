@@ -1,0 +1,8 @@
+name = "cc-tweaked-1.21.1-forge-1.117.1.jar"
+filename = "cc-tweaked-1.21.1-forge-1.117.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8005/487/cc-tweaked-1.21.1-forge-1.117.1.jar"
+hash-format = "sha256"
+hash = "828d37b1fd2360db026c0cc1053373ada02d1aadd6e3ec3b787c8bfd718615ca"

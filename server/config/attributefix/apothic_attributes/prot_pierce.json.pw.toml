@@ -1,0 +1,8 @@
+name = "prot_pierce.json"
+filename = "prot_pierce.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ca/ca64fe58b936de90258ec51c3d17f83d982549786a96a8764de40aea477f52d6.json"
+hash-format = "sha256"
+hash = "a34b1473712893aa4dd1a7ae1a7a0a6faf7232e546e1c112871054694c8fed35"

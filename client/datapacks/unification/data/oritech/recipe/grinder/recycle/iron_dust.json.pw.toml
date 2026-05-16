@@ -1,0 +1,8 @@
+name = "iron_dust.json"
+filename = "iron_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c88b97a059f7c9dbc2f41ca233aca357ea90246cf4635de4b2cf9a5f842681b.json"
+hash-format = "sha256"
+hash = "bee8f35ca0b43c696d9dab78d477cd7524725f3d82849c5f9d8d038719c271f3"

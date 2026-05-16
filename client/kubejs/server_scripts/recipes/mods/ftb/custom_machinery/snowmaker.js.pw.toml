@@ -1,0 +1,8 @@
+name = "snowmaker.js"
+filename = "snowmaker.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c7501d24df0895bdd19e08f6a2219496c8cc57934a712a18133613746ee3574.js"
+hash-format = "sha256"
+hash = "cacd2333717c12a2e4e14884077c35ed22a98a365e895f18ec7accb8b2be408c"

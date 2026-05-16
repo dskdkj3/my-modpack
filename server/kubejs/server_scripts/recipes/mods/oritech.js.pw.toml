@@ -1,0 +1,8 @@
+name = "oritech.js"
+filename = "oritech.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/1619ed8e5c6161e225c84c5c5e98ea4da03a7fe3e540b8e1864983a57f1b9dbf.js"
+hash-format = "sha256"
+hash = "6a1d04dd956b706d5c054d9b3ca3cc2bc3fc5cacc418f4f2fe24eecf5d8abdae"

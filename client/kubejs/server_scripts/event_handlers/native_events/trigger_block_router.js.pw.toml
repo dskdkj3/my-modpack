@@ -1,0 +1,8 @@
+name = "trigger_block_router.js"
+filename = "trigger_block_router.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3eceb83ad773ef85afed6c84bb0a83edaec2c5552a82967d20fc3f26aa098ae6.js"
+hash-format = "sha256"
+hash = "e53af38fe2d4117c41b773a4db9a7424383e7894f61c42073544bd7a6ee6175c"

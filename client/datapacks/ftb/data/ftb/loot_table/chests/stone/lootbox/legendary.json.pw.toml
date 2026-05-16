@@ -1,0 +1,8 @@
+name = "legendary.json"
+filename = "legendary.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae611f243469a5b3c3340efb96e7c44008f0cdad061ca5254b8eae1138e7f736.json"
+hash-format = "sha256"
+hash = "e1ee460f74ba45a51d1a3b80411540a3765e6577edbefc693bf541063fe09d1d"

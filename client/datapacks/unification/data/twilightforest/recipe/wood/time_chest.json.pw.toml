@@ -1,0 +1,8 @@
+name = "time_chest.json"
+filename = "time_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2c/2cee5865d7977e116c6784d21ba3a0c7082f4f1f43ffb1089dda31caf4fac34f.json"
+hash-format = "sha256"
+hash = "a3809ceebd39f59f68cf4018f5371cec8bf1b5ac8251519820260cb963dda296"

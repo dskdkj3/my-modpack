@@ -1,0 +1,8 @@
+name = "magma_cream.json"
+filename = "magma_cream.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/abd8ebd86caf216fae302f7516d62dda133dc68e09fc2f1fbdb10a5d63d38008.json"
+hash-format = "sha256"
+hash = "61211ed1378f5bcb01eb69aff75be91a9e76ae2ea3d157c2f6be41bad6cd307a"

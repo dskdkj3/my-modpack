@@ -1,0 +1,8 @@
+name = "kubejspowah-1.3.4.jar"
+filename = "kubejspowah-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7182/924/kubejspowah-1.3.4.jar"
+hash-format = "sha256"
+hash = "59fc6b75b4f76fb71b39d5a987d1393172bf0e7951855036967fbcd8a310382a"

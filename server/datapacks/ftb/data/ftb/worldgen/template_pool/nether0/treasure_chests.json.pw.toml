@@ -1,0 +1,8 @@
+name = "treasure_chests.json"
+filename = "treasure_chests.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/87/870a1fcd92bb8d17322958c7434702afd938ef41827d79991d0c1c1ca9c0f4a0.json"
+hash-format = "sha256"
+hash = "f312b3e72f8c15adf6a74e9aead04af2cb75299c540893a8dab74a9a027a4871"

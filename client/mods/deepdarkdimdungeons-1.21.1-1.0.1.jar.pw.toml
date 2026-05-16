@@ -1,0 +1,8 @@
+name = "deepdarkdimdungeons-1.21.1-1.0.1.jar"
+filename = "deepdarkdimdungeons-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7973/35/deepdarkdimdungeons-1.21.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "4a8eb52e16878204d15d6bd8b95c63fe51c975ac984170bf1cd4d041e8ba449e"

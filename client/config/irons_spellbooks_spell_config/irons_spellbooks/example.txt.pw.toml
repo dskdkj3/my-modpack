@@ -1,0 +1,8 @@
+name = "example.txt"
+filename = "example.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b0/b01404bbc79683ccd727210ff1471eae18845e98f34c7284c2f4c987bf5f425e.txt"
+hash-format = "sha256"
+hash = "37b6559c69e456ce91428371042447020afb5e49215b9fa953a6439be57ae104"

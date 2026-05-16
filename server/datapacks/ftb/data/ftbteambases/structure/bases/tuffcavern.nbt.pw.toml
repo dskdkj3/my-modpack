@@ -1,0 +1,8 @@
+name = "tuffcavern.nbt"
+filename = "tuffcavern.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac6eee201b938bee5b4f37acda314d1f4bedece6c6b0846f9c519e7981750a12.nbt"
+hash-format = "sha256"
+hash = "de68ee11b8967606ece2c908864287b99ec5456b3fac990ed3bb120aba8067ea"

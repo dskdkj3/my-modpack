@@ -1,0 +1,8 @@
+name = "collective-1.21.1-8.22.jar"
+filename = "collective-1.21.1-8.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8021/351/collective-1.21.1-8.22.jar"
+hash-format = "sha256"
+hash = "a91714404b5c8c7cb192afd0a447af2234fe2ba73ee32a209bdd026362518cbb"

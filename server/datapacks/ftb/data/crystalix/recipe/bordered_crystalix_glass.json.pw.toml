@@ -1,0 +1,8 @@
+name = "bordered_crystalix_glass.json"
+filename = "bordered_crystalix_glass.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f4c2a181bedf265ae5758e6f1eb0e377a7b4c856b5a3ff445a5dfd011d78f93c.json"
+hash-format = "sha256"
+hash = "be1da501cea71bb42fbb1cc65288eff2ec7a883812090763d581c1f6b0fca8ec"

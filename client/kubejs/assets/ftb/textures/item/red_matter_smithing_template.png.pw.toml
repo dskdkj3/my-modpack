@@ -1,0 +1,8 @@
+name = "red_matter_smithing_template.png"
+filename = "red_matter_smithing_template.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c1e28a45788daac7884193fa9820ee1d2b8ee04e9a1c7b61f0639e7dff6d805.png"
+hash-format = "sha256"
+hash = "ae733a99572d65b9b06a9989c7cf268c6ddb2fd86305fd7436bc4d35b15559ce"

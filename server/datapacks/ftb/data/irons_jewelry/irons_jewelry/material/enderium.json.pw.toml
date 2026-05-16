@@ -1,0 +1,8 @@
+name = "enderium.json"
+filename = "enderium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2afee7586d468812d4967e999b8691ece65fea704ac58f3b897a3e958c90c11.json"
+hash-format = "sha256"
+hash = "41cf49abc533db4ae7dbc00146028a1f451ea2d0c6057a1925057e68866959fd"

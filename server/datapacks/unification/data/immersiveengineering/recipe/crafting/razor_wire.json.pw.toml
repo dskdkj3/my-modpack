@@ -1,0 +1,8 @@
+name = "razor_wire.json"
+filename = "razor_wire.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f136f1942987479c52f34d3c9b410af9b8010475d534e085d4041af2b45dc9ff.json"
+hash-format = "sha256"
+hash = "10e74200c5c5b1397620cfaa7fc057f271b28a4fb356c9a9c9762731625b273c"

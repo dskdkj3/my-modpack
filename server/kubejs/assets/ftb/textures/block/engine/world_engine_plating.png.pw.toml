@@ -1,0 +1,8 @@
+name = "world_engine_plating.png"
+filename = "world_engine_plating.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7e29b947b7121691f4c5877b113dec5f32e54b24a2cb1198bff38651ddc208d.png"
+hash-format = "sha256"
+hash = "75e75d13577916b912cea0dfe3edd857d4bd40fd987c1c463a1717e2cf655483"

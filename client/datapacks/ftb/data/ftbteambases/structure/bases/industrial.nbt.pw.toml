@@ -1,0 +1,8 @@
+name = "industrial.nbt"
+filename = "industrial.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a8da5d473064a642ead079ae899396d14c9c9ccf248ec29d350efc6b8250288.nbt"
+hash-format = "sha256"
+hash = "4d89952507ddd108f561d2a24b72c430a7b6f7edd3bf73e7c4f16ef53b1fd713"

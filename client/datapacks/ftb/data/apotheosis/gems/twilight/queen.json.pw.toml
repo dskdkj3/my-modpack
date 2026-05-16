@@ -1,0 +1,8 @@
+name = "queen.json"
+filename = "queen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd411c0087e9266b3e7331d7b0c72a0b8eee996e62e6e814d4ff78670085216a.json"
+hash-format = "sha256"
+hash = "e47781938813010f6e7258911ae1af8364ce29a8a4cca5755ebaa512ccb88603"

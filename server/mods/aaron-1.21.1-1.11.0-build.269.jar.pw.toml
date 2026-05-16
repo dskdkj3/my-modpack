@@ -1,0 +1,8 @@
+name = "aaron-1.21.1-1.11.0-build.269.jar"
+filename = "aaron-1.21.1-1.11.0-build.269.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8004/432/aaron-1.21.1-1.11.0-build.269.jar"
+hash-format = "sha256"
+hash = "f03d0463f558117bfbcdbe7d510cdd943ceda003d0b5c4e56118254f523c9141"

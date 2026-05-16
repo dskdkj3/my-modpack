@@ -1,0 +1,8 @@
+name = "exploration__combat.snbt"
+filename = "exploration__combat.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/be7d0b7d9cbd6b6aeae3d5702cc6eab97f723f29279f54f7c62f9a6fd6b8d6a0.snbt"
+hash-format = "sha256"
+hash = "0cf54c18f641545dcaabd56b716c24a10a3f9266100e0ed49b4e7606289f5228"

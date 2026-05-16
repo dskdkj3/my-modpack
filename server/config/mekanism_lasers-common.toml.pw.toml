@@ -1,0 +1,8 @@
+name = "mekanism_lasers-common.toml"
+filename = "mekanism_lasers-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d44af38614064324fdc848f60887dc810e3aea91370af95106e88a076aa866a9.toml"
+hash-format = "sha256"
+hash = "3c7572271171136749280e304cf68bd791a333d796cd703a12a8b0221166225b"

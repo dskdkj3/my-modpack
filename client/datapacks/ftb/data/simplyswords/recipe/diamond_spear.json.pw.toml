@@ -1,0 +1,8 @@
+name = "diamond_spear.json"
+filename = "diamond_spear.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b9bbdd91e99e7176fb378b071cddd2de7a11de734797fe400ed58b3b7b7cd0c.json"
+hash-format = "sha256"
+hash = "00f0a3bdfd8967c05708e06711bc5638fe1e48502c3a4923eebb81556c6127d7"

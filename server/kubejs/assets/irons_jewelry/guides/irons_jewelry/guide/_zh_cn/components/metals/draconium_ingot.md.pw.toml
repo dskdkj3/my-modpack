@@ -1,0 +1,8 @@
+name = "draconium_ingot.md"
+filename = "draconium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1f/1f548fe9311d44679f0fdb3bcc367788010aafecbd30077762eaaadc9828010c.md"
+hash-format = "sha256"
+hash = "6dd87e28fcfbf116fa7e8c186335ad7cb2730fb04d37b2db864fb102870f1b05"

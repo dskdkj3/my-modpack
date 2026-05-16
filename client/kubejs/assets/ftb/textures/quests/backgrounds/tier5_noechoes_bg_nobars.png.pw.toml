@@ -1,0 +1,8 @@
+name = "tier5_noechoes_bg_nobars.png"
+filename = "tier5_noechoes_bg_nobars.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/beeb6927c9a114160596e0179b3c445dfa1052f1674e0fb6cabd2c06123b45bc.png"
+hash-format = "sha256"
+hash = "7d5d8c9e573510e55409367866c099a2041575e625363e4ec82ceb6028258895"

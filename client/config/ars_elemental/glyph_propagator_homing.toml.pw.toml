@@ -1,0 +1,8 @@
+name = "glyph_propagator_homing.toml"
+filename = "glyph_propagator_homing.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bf/bf91eb67fe9b045c36ec808ad08852db06f3b0abfe217e7882eaad14ce1ad6cb.toml"
+hash-format = "sha256"
+hash = "7cbd3de062d78d9d2871896b082290cbf59b38cd4025ad3622c54401f0ab96eb"

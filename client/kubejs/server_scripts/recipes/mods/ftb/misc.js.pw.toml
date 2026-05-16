@@ -1,0 +1,8 @@
+name = "misc.js"
+filename = "misc.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d6cdf9b1e1b2a44af30085a10205df2c3b6b941e4e28ce713327cc0c0ded4fe.js"
+hash-format = "sha256"
+hash = "ae1b20a393a6d8b6c9de163136822db8126a4733dad300b3e84b17f3c1197544"

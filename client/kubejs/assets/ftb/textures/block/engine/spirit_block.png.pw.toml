@@ -1,0 +1,8 @@
+name = "spirit_block.png"
+filename = "spirit_block.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/77/7794677459948e24f771b0ac48e0435d7ae40eafca1c722a0322e9b3ddd9b18b.png"
+hash-format = "sha256"
+hash = "b521c4793e31459f0a74987252f0ae5bd5c163d8256b3ad2e758144c1e2c13e8"

@@ -1,0 +1,8 @@
+name = "alakarkinos_charm.json"
+filename = "alakarkinos_charm.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c12d90e600e80bf8aae245eada312fe3e3feebf44e8879adee74364b642ff1d0.json"
+hash-format = "sha256"
+hash = "da2f24fab02ee65caaf978d257b4d22473ffa0f27af9596ac86bbdda9ac7d0a1"

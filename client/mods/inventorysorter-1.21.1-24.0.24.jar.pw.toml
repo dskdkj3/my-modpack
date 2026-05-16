@@ -1,0 +1,8 @@
+name = "inventorysorter-1.21.1-24.0.24.jar"
+filename = "inventorysorter-1.21.1-24.0.24.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7188/660/inventorysorter-1.21.1-24.0.24.jar"
+hash-format = "sha256"
+hash = "6fde143f12b608aec80f590f16ff91787043796dee6642f46f82e4df029c6544"

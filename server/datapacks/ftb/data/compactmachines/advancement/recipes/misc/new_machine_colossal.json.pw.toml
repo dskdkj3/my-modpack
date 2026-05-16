@@ -1,0 +1,8 @@
+name = "new_machine_colossal.json"
+filename = "new_machine_colossal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e72aab4831ed2682c2b0e941738272c90a1b167fa87b6bf67cb09d6a2c90967.json"
+hash-format = "sha256"
+hash = "1ad9404a050d76af01e484f7cc382f10af802b29afc2b96262d98b0769f4bace"

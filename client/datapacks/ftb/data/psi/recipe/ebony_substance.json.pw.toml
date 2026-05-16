@@ -1,0 +1,8 @@
+name = "ebony_substance.json"
+filename = "ebony_substance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5dab8f8331350deb2a06580d377fac2d1f635c3bff2542579548d49e43e6fa80.json"
+hash-format = "sha256"
+hash = "ebeb63c556bae9e7e69269abfef027ba90de05129ce742778ab62602c926b1b0"

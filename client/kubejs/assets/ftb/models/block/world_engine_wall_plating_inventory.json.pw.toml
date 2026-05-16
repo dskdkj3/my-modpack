@@ -1,0 +1,8 @@
+name = "world_engine_wall_plating_inventory.json"
+filename = "world_engine_wall_plating_inventory.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4df36c4c13907aa9f03c4de416aa1d7bc00a7c9433fe6ec9d27ed06d217db56.json"
+hash-format = "sha256"
+hash = "c45c9636c00dacd3141c2102b561add4e51fed8dc07cb65f65de0d3be9286393"

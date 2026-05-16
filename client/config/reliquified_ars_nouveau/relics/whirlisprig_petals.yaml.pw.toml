@@ -1,0 +1,8 @@
+name = "whirlisprig_petals.yaml"
+filename = "whirlisprig_petals.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/714dc5edebf83b21100122be9a31764b00a3c180562133422d4583a6bb7c3086.yaml"
+hash-format = "sha256"
+hash = "3be47ac062b8cdbd817f182a74da08950c38fc78bb49038b8bdd5fe4d764de33"

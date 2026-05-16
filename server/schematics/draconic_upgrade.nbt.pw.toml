@@ -1,0 +1,8 @@
+name = "draconic_upgrade.nbt"
+filename = "draconic_upgrade.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/51/514b0f25993766d2fa5c75da5327ee4229e91e01574d98212d8d103d4ff23432.nbt"
+hash-format = "sha256"
+hash = "934c619a26d3bf59eb1a2f99d1722e2e35736eac23e4bbd8a9ba78f0bafc8830"

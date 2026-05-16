@@ -1,0 +1,8 @@
+name = "from_ore.json"
+filename = "from_ore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e77939c0e9079999b6d11bb9581ec4233908a55e902732e8b8401c4b4886601.json"
+hash-format = "sha256"
+hash = "f9e3e0b32428e9e7bae8f1cb4104670fbe7635bbc373620ac9e2df06ff89dadd"

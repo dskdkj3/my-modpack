@@ -1,0 +1,8 @@
+name = "snow_queen.json"
+filename = "snow_queen.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4fe07d62a6d90d0a709cc7de74964004d75d9841f2b5e68228b1e1671ca15803.json"
+hash-format = "sha256"
+hash = "e1a84a433fa9848796ab1b5a7c81d14bfc2f1931b4f9302a0601973da2c575b3"

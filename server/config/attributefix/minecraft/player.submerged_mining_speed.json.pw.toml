@@ -1,0 +1,8 @@
+name = "player.submerged_mining_speed.json"
+filename = "player.submerged_mining_speed.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a619f4b7baca04734f72a78819210299b764898a57cca83bcb222544d5d16d82.json"
+hash-format = "sha256"
+hash = "f874427dd6754eff702ef41fd35649493094ddd0c79e01623a2cc9ccfe8ce8d7"

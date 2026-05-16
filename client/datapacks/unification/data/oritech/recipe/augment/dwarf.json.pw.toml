@@ -1,0 +1,8 @@
+name = "dwarf.json"
+filename = "dwarf.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/951f251d240b1c60064770aee5a38405f2939c92528795a5293a8a1bb51c5164.json"
+hash-format = "sha256"
+hash = "a22ba7ce9ced14c1edf1338cb5b1e9238ba5640caabca7cef8e11fb1f65e693e"

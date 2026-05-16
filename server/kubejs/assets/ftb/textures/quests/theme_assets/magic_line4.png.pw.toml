@@ -1,0 +1,8 @@
+name = "magic_line4.png"
+filename = "magic_line4.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fd/fd8530cb4fa4af8ded4d4b11cdbc9c8cdfa6b9fcaa67ff4eea00f2f1b2d0558c.png"
+hash-format = "sha256"
+hash = "827524d37b25f3ea395689c509caee2004a9edb92dd8dc9e3a94fe0aac025537"

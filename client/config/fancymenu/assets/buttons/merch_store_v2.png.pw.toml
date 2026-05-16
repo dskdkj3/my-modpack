@@ -1,0 +1,8 @@
+name = "merch_store_v2.png"
+filename = "merch_store_v2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/ea07623533b75f964bcc512ee9dd1a9cbb43506a017ec145725b07c7f341733d.png"
+hash-format = "sha256"
+hash = "354b15ef5f1f69aa0fb74f4b9eb8cddfed7c65986d2df4e31c979dbc56dea008"

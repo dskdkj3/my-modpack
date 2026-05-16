@@ -1,0 +1,8 @@
+name = "juke_3.nbt"
+filename = "juke_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1bf9c293bdac12a3dbc13f6e5f5967c1df4adf82cbd521a5266041d86fae730c.nbt"
+hash-format = "sha256"
+hash = "31c3b4de04f7852ac488a7b9b5329ed5aa2bd71611029b0905f0870fe1e9b6df"

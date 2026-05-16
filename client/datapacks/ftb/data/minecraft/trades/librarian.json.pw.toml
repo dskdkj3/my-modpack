@@ -1,0 +1,8 @@
+name = "librarian.json"
+filename = "librarian.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1cc6bf6249c4e81d49e6a1ed3ca3639062f95ba3a52375c5baf7f6603c4c1e27.json"
+hash-format = "sha256"
+hash = "a1d36421c78d178ee4c2afa0c3d0f92161e66788e1104239d425155f3d1ca490"

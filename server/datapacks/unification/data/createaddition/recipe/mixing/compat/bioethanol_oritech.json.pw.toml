@@ -1,0 +1,8 @@
+name = "bioethanol_oritech.json"
+filename = "bioethanol_oritech.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61cdd95b4f0b1f70d33402f41ec89795f4d448b9596fe3907ef7df09cffbdbf3.json"
+hash-format = "sha256"
+hash = "2d0c33e92bbb174135f9f82994071068beb353bc85eced8e9bd5ba3447b571e7"

@@ -1,0 +1,8 @@
+name = "tipped_arrow.json"
+filename = "tipped_arrow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bb149473155fca765ccf9dab9870d30fff593351bec7d4cc20d260cafa8f9b82.json"
+hash-format = "sha256"
+hash = "8c6d8692c941304de88b5b1dc2b993f13936b3d265af70ee795e6259c3062055"

@@ -1,0 +1,8 @@
+name = "green&black.json"
+filename = "green&black.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/28a76b577784bf4fb169e8923a48dc2516a420caad7c3e34229e0cc65275eaf0.json"
+hash-format = "sha256"
+hash = "c147b5c7b1af5bb58134c7d6c96c5941fd3d4cbcfef70f58c2cc151ed70bfb67"

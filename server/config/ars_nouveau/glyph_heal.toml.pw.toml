@@ -1,0 +1,8 @@
+name = "glyph_heal.toml"
+filename = "glyph_heal.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3a2004de0a50f0b138ed739c3cd3f9c2511a7c682af1aba19fe5d423fbaaa3e4.toml"
+hash-format = "sha256"
+hash = "09623cd93bde087fa5355cb2ec2b88dc263e1b978c76da2a5638fa37c88fa1f3"

@@ -1,0 +1,8 @@
+name = "bedroom_3.nbt"
+filename = "bedroom_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8cddac11dc4b6be65cd66ca19a192a191a7c9f06a618126c2c72f129de6d1c68.nbt"
+hash-format = "sha256"
+hash = "7aeee1edafe30634bf3aa5374ae53bfee40927b90d6862a36b7072094a7675ce"

@@ -1,0 +1,8 @@
+name = "ftb-essentials-neoforge-2101.1.9.jar"
+filename = "ftb-essentials-neoforge-2101.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar"
+hash-format = "sha256"
+hash = "4da8e4d461ceef1a5e6f6705265fe24239b132cdc408eb77787231cb56c219bf"

@@ -1,0 +1,8 @@
+name = "emeradic_crystal.md"
+filename = "emeradic_crystal.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed5b02045e1f5dbae6c8132f2eca1af3780d3230d0f76e4d4ec875f37cf2b3dd.md"
+hash-format = "sha256"
+hash = "2abcc5bab76df7c158219bdd88007af2856e35d29a20904f6e753288b3a28803"

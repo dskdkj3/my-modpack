@@ -1,0 +1,8 @@
+name = "rice_paper.json"
+filename = "rice_paper.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/67415adea574a2a6af286bc4127e1466de35c37efac307d1fcfd64625d8c3c25.json"
+hash-format = "sha256"
+hash = "21dd44caafbb19428639657131600c05ee647f4cc6034de2bda748354fd38e1e"

@@ -1,0 +1,8 @@
+name = "mffs.json"
+filename = "mffs.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/7955890f89a3888fd7f76793ab621b7ff35da5c993f24f412b9bd2c4d10055c0.json"
+hash-format = "sha256"
+hash = "2fc37e480325d2f459a23fd1152f075e20c96ceb1c5caf4e75f48c12292f4098"

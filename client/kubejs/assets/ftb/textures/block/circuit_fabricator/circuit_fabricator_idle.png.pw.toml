@@ -1,0 +1,8 @@
+name = "circuit_fabricator_idle.png"
+filename = "circuit_fabricator_idle.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/eb2cfa4c3f12347230e8fecc2446ad6650f8afb2759076e63d6641139b85b4fe.png"
+hash-format = "sha256"
+hash = "892311932680cc2fce793c825080424386771fb4ba940cd5d66221c58dbf0343"

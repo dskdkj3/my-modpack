@@ -1,0 +1,8 @@
+name = "particle_accelerator.nbt"
+filename = "particle_accelerator.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cb2ef36d3322d0003960a16c9f91718e906a548e8623cfe14ea2070afc79f38.nbt"
+hash-format = "sha256"
+hash = "904e4b050954be70817d4d0c2b22287484b75d7e8875448903468f3d26485709"

@@ -1,0 +1,8 @@
+name = "loot.toml"
+filename = "loot.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26b5de61b9277191446e5f73f56fc52df3ba13c9f199ab1205a50ad6b2711f72.toml"
+hash-format = "sha256"
+hash = "3add0879dd18d7d0ebc142ce265732212b4b3aa02dfbda39cd994b4a209c7936"

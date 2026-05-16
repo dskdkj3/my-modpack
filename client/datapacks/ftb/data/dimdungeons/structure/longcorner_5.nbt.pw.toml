@@ -1,0 +1,8 @@
+name = "longcorner_5.nbt"
+filename = "longcorner_5.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e0/e0cb8bdd098d72f0096405dd23ffe10bca3e03d13f2e077eb0a9715362c0799d.nbt"
+hash-format = "sha256"
+hash = "0ea5fd7d75c6c61554a440bc1636020192e045922fec43e77130613da909b4b7"

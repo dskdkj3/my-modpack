@@ -1,0 +1,8 @@
+name = "ender_eye.json"
+filename = "ender_eye.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/45aa80ed46bf6a2bdef0ccd10f72f3c2863ef9691e7c6ab686e862a3911291fb.json"
+hash-format = "sha256"
+hash = "0af5ac3ec162ceda149e4073f56205a6bfc1f2d208c95eb721c6f155a8de99d3"

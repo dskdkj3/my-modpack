@@ -1,0 +1,8 @@
+name = "divine_pearl.md"
+filename = "divine_pearl.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bbabf1ff71db1b225d1ed9dcc96f79ff2f88ec36886266fd22b79bd98d771290.md"
+hash-format = "sha256"
+hash = "698794e6d40d7e0f36e45da0025d10fa63829bef6ba0ba1ca8f9f6bc70ee79dc"

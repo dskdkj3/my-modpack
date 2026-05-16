@@ -1,0 +1,8 @@
+name = "ore_gens.js"
+filename = "ore_gens.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a6f4e7043738b950c6770770cd35350d7f751851e0a98bdf7c40c45ac6d3b093.js"
+hash-format = "sha256"
+hash = "489da9b35c75bacf046f6ef2ed41cf3ea9f044b8e8a1c0144276da31a8197530"

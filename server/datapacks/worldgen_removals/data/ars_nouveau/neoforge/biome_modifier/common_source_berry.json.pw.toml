@@ -1,0 +1,8 @@
+name = "common_source_berry.json"
+filename = "common_source_berry.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e32432739a746e2dadb31e1628c0862af70d4884cc31225799548ef1c164dccc.json"
+hash-format = "sha256"
+hash = "f5ba94857a5577535ae763f2c95ca3493b045b208d6ce4784ca8f890a81e3a00"

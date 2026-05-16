@@ -1,0 +1,8 @@
+name = "codex_glyph.js"
+filename = "codex_glyph.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48a0a326cbaa38fb369a04367a02995289d0603516d8badb93925b0af83c10a8.js"
+hash-format = "sha256"
+hash = "c871016fef248f61706191eb6758f5e9533cc43be92b38d74277a7c0a98d06f9"

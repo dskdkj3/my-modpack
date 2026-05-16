@@ -1,0 +1,8 @@
+name = "crushed_raw_lead.json"
+filename = "crushed_raw_lead.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/471f6605e5e308c17c3cc5af01f297bcc65a26c84cd668cfa62ecfcc98321ab6.json"
+hash-format = "sha256"
+hash = "58d495c5bebaff949e6ab8799dfb0a28435fd72032d0ab85f46208fbf142f094"

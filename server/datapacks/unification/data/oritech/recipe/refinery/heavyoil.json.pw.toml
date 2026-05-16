@@ -1,0 +1,8 @@
+name = "heavyoil.json"
+filename = "heavyoil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/93/93ff14b2c6576903e8551705dffcc2c653933fe10b81c3836f4422c5788a1cad.json"
+hash-format = "sha256"
+hash = "f0d065bdc4966e4ab85bf7c95c26ead27e31c7534447e00188695bdc295467cc"

@@ -1,0 +1,8 @@
+name = "crushed_raw_copper.json"
+filename = "crushed_raw_copper.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/7680072c95745930590b3bedc78f7a62cc28f8b5926ea8664761a8f4ed60eee1.json"
+hash-format = "sha256"
+hash = "9349f10420a73a824867248a4fc349195673d6e2dd2ecb46d16fe46103fa2233"

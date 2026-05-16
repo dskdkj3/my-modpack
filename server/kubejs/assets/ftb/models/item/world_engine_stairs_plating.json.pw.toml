@@ -1,0 +1,8 @@
+name = "world_engine_stairs_plating.json"
+filename = "world_engine_stairs_plating.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ec/ec456a07a059b0db3d35414f02fad511009d817e5c21b9c908cb9d69d2af7a72.json"
+hash-format = "sha256"
+hash = "5e16d095675cbd21f03f2c3b9c7d7e3dff9fd9054c860e18d3f291ce07ea1c97"

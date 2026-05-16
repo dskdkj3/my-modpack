@@ -1,0 +1,8 @@
+name = "add_campsite.json"
+filename = "add_campsite.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/23f4fb998a4280156bae7a4396e2bfd8c5de2a3eaae65552cab8ba2486d80f80.json"
+hash-format = "sha256"
+hash = "8f3ee68854338fe44480fde0314a57ee8473be8561805cc1cac60ac5f2898249"

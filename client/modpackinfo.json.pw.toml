@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: modpackinfo.json"
+filename = "modpackinfo.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/modpackinfo.json"
+hash-format = "sha256"
+hash = "37ae76878148c41b7d9e2488ed09b350a8e485503742e489d465e0c872cc84b0"

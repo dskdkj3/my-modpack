@@ -1,0 +1,8 @@
+name = "chronon_resonator.png.mcmeta"
+filename = "chronon_resonator.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66c818bb2f57adb0f3c9915847521dd9ed4509936c2b6e893a36df87bcaaf2e0.mcmeta"
+hash-format = "sha256"
+hash = "6e5f941c4d41133aedbc5d6bf64d28a3442b1a1f1adf7d213d8000795f9fbea2"

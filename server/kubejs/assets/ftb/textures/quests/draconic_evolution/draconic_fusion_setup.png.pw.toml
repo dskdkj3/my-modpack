@@ -1,0 +1,8 @@
+name = "draconic_fusion_setup.png"
+filename = "draconic_fusion_setup.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a577c7a88836921bda73ff716bd0dc0ccd398e657e0263acfb3e6c572296ef10.png"
+hash-format = "sha256"
+hash = "a7046e3e77dde0183f716aead8b9febf13e736f6d5677edca4926f8d13f1b59a"

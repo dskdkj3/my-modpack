@@ -1,0 +1,8 @@
+name = "birch.json"
+filename = "birch.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c79f0e3e655bf01f10053cffc5b34c3cd6ca7e86b32d4322a2ee593d5ab093de.json"
+hash-format = "sha256"
+hash = "01d9ea5ff7bc4b34425b22c33ba2b6e07165703198df87a5b0fda41935c4d20d"

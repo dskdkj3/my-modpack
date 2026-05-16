@@ -1,0 +1,8 @@
+name = "enderic_infuser_idle.json"
+filename = "enderic_infuser_idle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e7af7b425326d4c15320eb5cd4b35f36e22cee730077d1e9fdb133c6bbd08aa6.json"
+hash-format = "sha256"
+hash = "8e022b074b12364920c8669a38045a0914e6196494597d8cb53219c8715318b3"

@@ -1,0 +1,8 @@
+name = "supplementaries-client.toml"
+filename = "supplementaries-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/6205d72119357a3fa214ddcef28a2d11d7f8ad4b13932bebac8ed4e1588559fa.toml"
+hash-format = "sha256"
+hash = "d89c0a86328955bb9f93796196fa66bd1ce1fadc92b2b27883aa755436022ef1"

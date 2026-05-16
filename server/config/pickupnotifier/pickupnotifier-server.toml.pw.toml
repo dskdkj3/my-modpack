@@ -1,0 +1,8 @@
+name = "pickupnotifier-server.toml"
+filename = "pickupnotifier-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a4/a47a71edb99e826f4b959a35ba5a003d1f548e5547eeafeb4057036ab5b16b3b.toml"
+hash-format = "sha256"
+hash = "c8236a676f7771c9096483f7d51ccbbe6368a7b167b2d37955a26458fe2d2a24"

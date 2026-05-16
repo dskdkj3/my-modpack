@@ -1,0 +1,8 @@
+name = "create-central-kitchen-2.4.0.jar"
+filename = "create-central-kitchen-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar"
+hash-format = "sha256"
+hash = "259a9b88d305780234bb2020359879406d74b945616d99a16871334d7aee1826"

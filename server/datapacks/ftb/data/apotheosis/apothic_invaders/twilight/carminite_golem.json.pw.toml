@@ -1,0 +1,8 @@
+name = "carminite_golem.json"
+filename = "carminite_golem.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dd/dd35f7616a32f97624852ff4b50733e514e2f3a0d5bb523b5bd4519bd575a58c.json"
+hash-format = "sha256"
+hash = "e0b008e07c1f88591393a9ea7770e08a8dfb2ba41588ed88477b2218dd2c180f"

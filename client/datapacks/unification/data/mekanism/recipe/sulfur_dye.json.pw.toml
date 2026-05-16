@@ -1,0 +1,8 @@
+name = "sulfur_dye.json"
+filename = "sulfur_dye.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d2/d25fcc2bcb3131eb8f173ee84e173421060bc268a9d90ae4c348fa8f5f61651f.json"
+hash-format = "sha256"
+hash = "d5c7f85f948024c3157d902eaaef87599052484b23ca8dfc1d4fef2e3482dce8"

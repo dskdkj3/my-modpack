@@ -1,0 +1,8 @@
+name = "gadgets.json"
+filename = "gadgets.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f001d664c34659e620f42eab02e4d19c52f54d0529f72328ff2dd7943ff795cc.json"
+hash-format = "sha256"
+hash = "28268404e933c7ba92e525f6958b7572d46782729ee8d8d22ac0692f9ce4f4df"

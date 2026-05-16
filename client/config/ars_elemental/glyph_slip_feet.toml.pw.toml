@@ -1,0 +1,8 @@
+name = "glyph_slip_feet.toml"
+filename = "glyph_slip_feet.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/223b9aa6e1f0503dad7f2004e428eaaaa8be863594b98fbdaaa921306e518197.toml"
+hash-format = "sha256"
+hash = "7b05d17c7a95743107f9fcad4f96757dc1b83396ebf8035ce757a763a97ab82d"

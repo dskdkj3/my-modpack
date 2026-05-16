@@ -1,0 +1,8 @@
+name = "ice_spider_den.json"
+filename = "ice_spider_den.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a2ddb10d531b906510b6939c7745413f734b097a99cae0abfdf8de2e1f227e90.json"
+hash-format = "sha256"
+hash = "451813263da07060d0a1e27f7f1d13d1dd29494f235e049ecb4f25eb81372ac1"

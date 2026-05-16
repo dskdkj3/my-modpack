@@ -1,0 +1,8 @@
+name = "resonant_void.md"
+filename = "resonant_void.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a0694d70d58300dc03d5af9635efb0ad1afae6fecb5bc7ff9d26ae7ad9b191c.md"
+hash-format = "sha256"
+hash = "73bedd8b7dcdec723162cc4a9decc872103af1e1c23d16e2003a28f7b3cbec26"

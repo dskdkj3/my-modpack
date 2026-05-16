@@ -1,0 +1,8 @@
+name = "wool_mitten.yaml"
+filename = "wool_mitten.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c569f1dd10291ba1fc54b2aa238a99f819b3a2bb0926d50f339f0f92aca04f9.yaml"
+hash-format = "sha256"
+hash = "d401e00fde5f9c9a7d0afaa83df262a2ef2ff1433620911b2be5197491d9e57f"

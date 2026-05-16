@@ -1,0 +1,8 @@
+name = "boring_ass_vault.nbt"
+filename = "boring_ass_vault.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/48cab1824aeabc7e269e6725cd9567b378ab4912eddbdd94ce6b414224ed0f6d.nbt"
+hash-format = "sha256"
+hash = "e31d34059090196c02d39fef9e7e4eb08eeb73a53272990900e045179cb5e1aa"

@@ -1,0 +1,8 @@
+name = "modernfix-common.toml"
+filename = "modernfix-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fef3fcf9164e4dcee77e1c528e96c8d4047ca2c49e664859424f8c8c01079e35.toml"
+hash-format = "sha256"
+hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"

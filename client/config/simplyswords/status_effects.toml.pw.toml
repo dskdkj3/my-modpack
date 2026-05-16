@@ -1,0 +1,8 @@
+name = "status_effects.toml"
+filename = "status_effects.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/4723dddec50a54f407e1489923fa005632ece5abb8f0c8708d549ef3d3d2ec37.toml"
+hash-format = "sha256"
+hash = "f2705139bcac22bd00c2949cbee453f75f0df1f339b70cc1dfa211c246493e60"

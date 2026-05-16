@@ -1,0 +1,8 @@
+name = "rare_archwood_mix.json"
+filename = "rare_archwood_mix.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/00/0020cf0146025131e286357b7c0dc0a736471b34e57c66a28390adef39f6b601.json"
+hash-format = "sha256"
+hash = "0c1b29525cee11f87244c7c0e0d80ace37fb57070e659b600d894ad14b8efb4f"

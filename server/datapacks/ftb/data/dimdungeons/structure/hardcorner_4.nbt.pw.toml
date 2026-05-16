@@ -1,0 +1,8 @@
+name = "hardcorner_4.nbt"
+filename = "hardcorner_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3850509733ef6c5e72577ac0c71ff682b82faf32df10677b5aed1d56d62309a.nbt"
+hash-format = "sha256"
+hash = "d14b906a65e1d7df08d4eaff6125b848ca627bdc6aeda79c8404efde1209935d"

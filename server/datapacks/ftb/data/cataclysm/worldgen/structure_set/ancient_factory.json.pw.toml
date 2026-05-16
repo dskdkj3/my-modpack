@@ -1,0 +1,8 @@
+name = "ancient_factory.json"
+filename = "ancient_factory.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/64fc138ec173a956ef0a39270f02596497baa5c67867c017c4585c71e0e155d4.json"
+hash-format = "sha256"
+hash = "023060ec6ac5a4659c1460ad46f1ab19bb424325bb0e43f90e872a907822cd79"

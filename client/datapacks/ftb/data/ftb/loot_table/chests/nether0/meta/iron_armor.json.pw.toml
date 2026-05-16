@@ -1,0 +1,8 @@
+name = "iron_armor.json"
+filename = "iron_armor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/131bd57546bc5c339918dc0e464d5b6c8fd870c54ffb7453ffb32c0ede1e8feb.json"
+hash-format = "sha256"
+hash = "b50dac1b7852ff850476055324a76abd6d10880ae99da24a4639133b3765b6c2"

@@ -1,0 +1,8 @@
+name = "chicken_jockey.json"
+filename = "chicken_jockey.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9ec4976b460fe0ef5193181aef772869a14eb88c0c1f07dcdb09a92513b29689.json"
+hash-format = "sha256"
+hash = "913c1f42e0d2a19914eaac6b06dca7a7353ec6acae210e06513beb0693410dcb"

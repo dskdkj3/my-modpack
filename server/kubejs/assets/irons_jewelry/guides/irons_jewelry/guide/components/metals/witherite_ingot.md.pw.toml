@@ -1,0 +1,8 @@
+name = "witherite_ingot.md"
+filename = "witherite_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a8a103b8921139deccc51e2dd2d11326464824fd4d47f29930584d71b94aa7d.md"
+hash-format = "sha256"
+hash = "b738dea4b2e29fea5e2cc7a005099b0b617110e63ebaa2eccd4985370a502957"

@@ -1,0 +1,8 @@
+name = "allthemodium_furnace.json"
+filename = "allthemodium_furnace.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d1/d1d3019ea656798ed642b8c74b81c504350f60a79e10c33010881adf6f055006.json"
+hash-format = "sha256"
+hash = "194f1c0071c353916055c862d82f10fdaa6f10c9407155cdf38e4f88d12e1917"

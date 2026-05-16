@@ -1,0 +1,8 @@
+name = "antimatter_cows.json"
+filename = "antimatter_cows.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/82/82f800e15bcd084d60719bdb23feab6a318ae227e522239559c4da54e16dfd7f.json"
+hash-format = "sha256"
+hash = "8ac7a5a80d42aab5e53b2cfe88aedb7fed91506cc31b4fb3ae1a4621b5531cf2"

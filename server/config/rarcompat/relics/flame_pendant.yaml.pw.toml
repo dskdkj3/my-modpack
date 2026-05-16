@@ -1,0 +1,8 @@
+name = "flame_pendant.yaml"
+filename = "flame_pendant.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26a420a84287cc227b3ad7fdaf3e43f217eab80615f892b6353230267eaedd02.yaml"
+hash-format = "sha256"
+hash = "68f104f0a824c7fffc0ae9eadb70c0253be80df0317313779ce1c755d34ba25a"

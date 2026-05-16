@@ -1,0 +1,8 @@
+name = "shimmer_from_experience.json"
+filename = "shimmer_from_experience.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68162d9fd05b18ff08c16ef94a40b9925be498d2b57c9b14de61aa357b6cee3a.json"
+hash-format = "sha256"
+hash = "d65e03bac80177444452efba25ef48a9819e4b168bc2d21b5d4fd4f971cec557"

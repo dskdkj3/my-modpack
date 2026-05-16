@@ -1,0 +1,8 @@
+name = "fisherman.json"
+filename = "fisherman.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55442fb53ca8835e3abdd91faca0448fc622cf9f17a369e7da43932866ecc40f.json"
+hash-format = "sha256"
+hash = "82e34f88ac286ff91be001cfcf2b67ae3b9b38e0c94cd7504369bf3300d594c1"

@@ -1,0 +1,8 @@
+name = "empoweredoil.json"
+filename = "empoweredoil.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab6bf4c9d41220d11147f17b59002e35395675dd6bf8153d418f3d970e116203.json"
+hash-format = "sha256"
+hash = "d6c97c7acf7431ce3be10f1c1d4b94f42b5e739d91d3114673f02d65bdc649f5"

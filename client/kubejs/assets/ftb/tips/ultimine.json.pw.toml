@@ -1,0 +1,8 @@
+name = "ultimine.json"
+filename = "ultimine.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8ca9a0757e4ff5668047cc1352337280c8eb1287a2179af6f0225b49f8bbd5e7.json"
+hash-format = "sha256"
+hash = "2ad1749999e432d45deca666bec400d111dc252057cb7a47e2eaeeccdb8e68a2"

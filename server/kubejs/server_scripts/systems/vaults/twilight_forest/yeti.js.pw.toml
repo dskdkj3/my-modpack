@@ -1,0 +1,8 @@
+name = "yeti.js"
+filename = "yeti.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5a/5a7f5d48abd06a568d9f69d38dccedef5e3bc37db3eeb8677865a1122dc11d72.js"
+hash-format = "sha256"
+hash = "cbd1e34f9034222acae57245611d414152d35c7f4e41642288f8712d6e350bf0"

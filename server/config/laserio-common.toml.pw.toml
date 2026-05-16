@@ -1,0 +1,8 @@
+name = "laserio-common.toml"
+filename = "laserio-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2f0c1f96770bc3a05553f1230fa95f69f571fd29510acaf08e58200ff202f03.toml"
+hash-format = "sha256"
+hash = "e516e6c66dd55bf806077836add5c8d0ed2175bab67757c572e6d08312a4ff7f"

@@ -1,0 +1,8 @@
+name = "wither_skeleton.nbt"
+filename = "wither_skeleton.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/1280bd79ad1125d23bd87c5cf90ff86b77d0088732fc831525ac64b182961117.nbt"
+hash-format = "sha256"
+hash = "577fdae31a9161a9712789784c99e9d83c8ed6d0f998b5e296661a3448d99f6e"

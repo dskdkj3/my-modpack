@@ -1,0 +1,8 @@
+name = "vindicator.json"
+filename = "vindicator.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22d6c05429b7bd551816c16479a97f5d6073d82a52a3a60d1a3d2fc6b01f6481.json"
+hash-format = "sha256"
+hash = "e2f35fc5af5fb52b9d4f674715c41f0b4becb6c1f94bd9b0e6fcb25ed5a4b698"

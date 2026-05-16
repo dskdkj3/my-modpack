@@ -1,0 +1,8 @@
+name = "replication.toml"
+filename = "replication.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b7/b7a6e2bab11e3b2c83a54bbf3e2f11e8fc53b228dd4e4343f9e253ea54741705.toml"
+hash-format = "sha256"
+hash = "0046e80e81fcbc902b603c5f24f501b6e5daafe6f4e6ac74a5bba23faa2cfb98"

@@ -1,0 +1,8 @@
+name = "ars_blacklist.js"
+filename = "ars_blacklist.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1a979d68ce614735dd20fb650b4c6761d543886a35d84dd7b0c60c3956939b78.js"
+hash-format = "sha256"
+hash = "439d4cc3fcc50cded650605e1ee43194504bd65a4d9e707ef14697dbf0a7c377"

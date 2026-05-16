@@ -1,0 +1,8 @@
+name = "infinity_hammer.json"
+filename = "infinity_hammer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9e/9e96367b9e218af2a6c1d6229d23b5e0e20eb6d5432cba28c32838a593dd66ca.json"
+hash-format = "sha256"
+hash = "f97841eac7c10285293f1346279a67868cd6d99df7ce748e217f158fd8a719fc"

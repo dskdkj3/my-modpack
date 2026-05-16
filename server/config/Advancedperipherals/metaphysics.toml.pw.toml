@@ -1,0 +1,8 @@
+name = "metaphysics.toml"
+filename = "metaphysics.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c3/c358897e1e7d622c689823eb02de66140352df74d0023a51699122a5ffabbc25.toml"
+hash-format = "sha256"
+hash = "39ab4ab00bd9486c935d66456579089574955842b1676d98c5bfba9b75c28163"

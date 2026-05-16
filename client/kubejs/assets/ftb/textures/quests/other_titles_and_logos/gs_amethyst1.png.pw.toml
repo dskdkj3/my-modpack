@@ -1,0 +1,8 @@
+name = "gs_amethyst1.png"
+filename = "gs_amethyst1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26da36ac5444c9035b383e93cb7dbd8423ca3496c0c5ac025e617b3a89f1db87.png"
+hash-format = "sha256"
+hash = "6e901fa70b285e3f001ac00cb0d377615ecc38894f3d613fe78c4f6ddb655fcd"

@@ -1,0 +1,8 @@
+name = "cognitive_crystal.md"
+filename = "cognitive_crystal.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae9a0707659a6b06d7ef770fe415f4124bda223e3dc8c4630e4e04609b52d90d.md"
+hash-format = "sha256"
+hash = "f12037b483c933ce0b265ce396a719f80b63bbd23166baf4771ddb2b036098d9"

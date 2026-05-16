@@ -1,0 +1,8 @@
+name = "irregular-implements-1.21.1-1.10.3-build.237.jar"
+filename = "irregular-implements-1.21.1-1.10.3-build.237.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8029/761/irregular-implements-1.21.1-1.10.3-build.237.jar"
+hash-format = "sha256"
+hash = "af73a449ae25b3b19924990c1e9b416174d753ddb360661333f7b61cf20eb6c4"

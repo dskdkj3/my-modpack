@@ -1,0 +1,8 @@
+name = "copper_ingot.md"
+filename = "copper_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/aeb5494fdf05274a3524aabea964bfa8cbb17287f846f08e59895f05c9b03ab0.md"
+hash-format = "sha256"
+hash = "e252f6db87ee423250840ae9785f1727ed0f3935fb1cac83beb3340c41cc2c51"

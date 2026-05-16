@@ -1,0 +1,8 @@
+name = "glyph_spike.toml"
+filename = "glyph_spike.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3c/3c0276f1864dde558bf7290d716bf9494a5aa28b393c683b78394c6551165982.toml"
+hash-format = "sha256"
+hash = "5524d67e75be9fa7e626c2a410d8e1de7708ce828625da94501d5107bbe32f03"

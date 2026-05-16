@@ -1,0 +1,8 @@
+name = "magma.json"
+filename = "magma.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e0e1db40d4bec51276d25f5091ac284caa1230887c0aa3711649972d46c0c1c.json"
+hash-format = "sha256"
+hash = "036cec4250d396a5d350b1a517b1ec83c97d68efbeb4ebf4ef54949f86012e93"

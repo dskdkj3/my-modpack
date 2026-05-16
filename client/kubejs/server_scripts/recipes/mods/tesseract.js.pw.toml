@@ -1,0 +1,8 @@
+name = "tesseract.js"
+filename = "tesseract.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8dc8a3bef3869c2d98b13e0c3fc59c1428cbca32c63b6602d4db4a2f0b35f0ba.js"
+hash-format = "sha256"
+hash = "5287f74357c900b0b793d4655a56274122f4ae4fc0d5ab8269d31b04905ce916"

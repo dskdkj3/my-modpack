@@ -1,0 +1,8 @@
+name = "gold_dust.json"
+filename = "gold_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9cabb58db1294d19fce72c668cbad82fb413e39cacec8273fdcd70e98597901d.json"
+hash-format = "sha256"
+hash = "2bafaaa6126febba065e6a31c77e9ac8b7cd99917ba1567a7dce984731751c16"

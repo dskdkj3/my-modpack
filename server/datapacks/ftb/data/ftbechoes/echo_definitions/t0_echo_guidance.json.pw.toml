@@ -1,0 +1,8 @@
+name = "t0_echo_guidance.json"
+filename = "t0_echo_guidance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eac77f84b6d44cf158dcf3eb6b8a6d4da2ca8315f208f6af1957fdf05dccad36.json"
+hash-format = "sha256"
+hash = "137b037c57c7c2369ca75089e3fede4c2d1cf529f25c766f1ae578bb92722285"

@@ -1,0 +1,8 @@
+name = "space_core.json"
+filename = "space_core.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/80/80eef4a5c3006eaf1c6b9da68f529a54b3fea0c7862942cf5852767c4122afa7.json"
+hash-format = "sha256"
+hash = "205885c065cf6887443c814202fbd7fb219d1e04e30e104b9f7ec375408fa2e1"

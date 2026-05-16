@@ -1,0 +1,8 @@
+name = "long_discord_hover.png"
+filename = "long_discord_hover.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f4/f41f5db2b5e56ff600c11a8f8c61738a6e455855b2ad272f3d8d88f74d85801b.png"
+hash-format = "sha256"
+hash = "740c7d5e4b1251d06d6ab5ad632d1140855ea7dc44f821f692be22e861657342"

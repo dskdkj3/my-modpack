@@ -1,0 +1,8 @@
+name = "woodenshears-neoforge-1.21-3.2.2.0.jar"
+filename = "woodenshears-neoforge-1.21-3.2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6753/566/woodenshears-neoforge-1.21-3.2.2.0.jar"
+hash-format = "sha256"
+hash = "1b7e9915c85f4fd2fead9273c5166d459c51837b60af193e170fbc0d563c892f"

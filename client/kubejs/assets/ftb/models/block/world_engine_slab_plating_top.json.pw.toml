@@ -1,0 +1,8 @@
+name = "world_engine_slab_plating_top.json"
+filename = "world_engine_slab_plating_top.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e23245e16942e151b7ed35d93ece5f9a56f31205b899d4b3895e5c4fa90b1d9.json"
+hash-format = "sha256"
+hash = "4614bd8ee58bb048e23414e483ed7879a667bac30b15b9dc27384543a920d68f"

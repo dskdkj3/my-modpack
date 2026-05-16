@@ -1,0 +1,8 @@
+name = "mighty_chicken_egg.png.mcmeta"
+filename = "mighty_chicken_egg.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d06d43804dfb9e5c0bbeba22d18c86a956d11932bbefbd903066c24b73ceb0b.mcmeta"
+hash-format = "sha256"
+hash = "aaef055b8b1290bcd8acbf0afa811a786effebb33737a9260878a44cab598994"

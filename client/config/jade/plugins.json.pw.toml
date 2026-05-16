@@ -1,0 +1,8 @@
+name = "plugins.json"
+filename = "plugins.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d3eba57bff052dca12dc522084a2db6ee9be93bb13d00086a7e6d49478d085d.json"
+hash-format = "sha256"
+hash = "08d79d72766d7914af7ebb4797685e92a47386189fdfe4b682bc3e617c071a7c"

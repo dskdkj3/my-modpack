@@ -1,0 +1,8 @@
+name = "loot_category_overrides.json"
+filename = "loot_category_overrides.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e5236fe9e8f95c04ffa12ee91e8885ef9246608666472b40bb1f7bed842f9935.json"
+hash-format = "sha256"
+hash = "114dd15f9d1a7f523486acd0c296e75503586d33d65911380ef4be338bd4b3da"

@@ -1,0 +1,8 @@
+name = "relic.json"
+filename = "relic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/3901ba69d3b074b3cc9cd4f29041d28b419c1b9be9cbf2657d9aac0dd5ae4673.json"
+hash-format = "sha256"
+hash = "cd306a932a95a07e194ba139bad20bad26869c1d28b822fc778b4d489d140088"

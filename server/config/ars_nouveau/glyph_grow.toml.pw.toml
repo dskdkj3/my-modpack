@@ -1,0 +1,8 @@
+name = "glyph_grow.toml"
+filename = "glyph_grow.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49da12b44cd6eeaf83b159806b86c2b78198fb5533d60954d11b871e971e7d35.toml"
+hash-format = "sha256"
+hash = "16196c2bfc1df9823079d6b80f820e7231ac96070adbe93e980ee3acb6fac008"

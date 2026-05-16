@@ -1,0 +1,8 @@
+name = "lionfishapi-2.7-fix-fix.jar"
+filename = "lionfishapi-2.7-fix-fix.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7941/57/lionfishapi-2.7-fix-fix.jar"
+hash-format = "sha256"
+hash = "0b01c90fc1f7d707d7bd11674de227e21e0879d4f600ba890f3d0a80356379c8"

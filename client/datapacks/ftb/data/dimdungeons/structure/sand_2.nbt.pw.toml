@@ -1,0 +1,8 @@
+name = "sand_2.nbt"
+filename = "sand_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/15267ab6aec9096d17aa5cbdc6f1e22741b6d19e46c055d93592deb3a5e2de37.nbt"
+hash-format = "sha256"
+hash = "1b17c98b62e215500f8fe05cb3fc7129bc3c74c7608dfcaeb3df3a0e24085522"

@@ -1,0 +1,8 @@
+name = "metalbarrels-neoforge-1.21.1-7.jar"
+filename = "metalbarrels-neoforge-1.21.1-7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6111/347/metalbarrels-neoforge-1.21.1-7.jar"
+hash-format = "sha256"
+hash = "78115b71ac5e7b4a82bc23b39ab0c19132cc909b6dba040624ddda0355e98da7"

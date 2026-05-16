@@ -1,0 +1,8 @@
+name = "initiator.nbt"
+filename = "initiator.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d0ca24a254643897da5a96cd3eca8ce198bbebcde4cbd815f77c3d6d70abc0a7.nbt"
+hash-format = "sha256"
+hash = "26226e2a20059db47a113715dee81d5f4b3b9953279ee9ae1548a284f2b71dee"

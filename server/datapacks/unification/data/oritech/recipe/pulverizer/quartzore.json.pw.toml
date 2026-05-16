@@ -1,0 +1,8 @@
+name = "quartzore.json"
+filename = "quartzore.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1b3b7ae53dba61059a365fa2b99837097144075613a732a55e493be0f22dc925.json"
+hash-format = "sha256"
+hash = "547ccfa033d79e36925a95b0393060233a54fa87b2f3969b604140e40ec01c62"

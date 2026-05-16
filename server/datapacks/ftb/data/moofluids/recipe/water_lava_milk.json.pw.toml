@@ -1,0 +1,8 @@
+name = "water_lava_milk.json"
+filename = "water_lava_milk.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/eac3c339bfac3cbc37bfc4010d265cf167179e901ffeb2da5d1466de12df81fb.json"
+hash-format = "sha256"
+hash = "e3967d1535fe6a7c9ad30efa9316f0d6f8cf7656074db04489028b781887999c"

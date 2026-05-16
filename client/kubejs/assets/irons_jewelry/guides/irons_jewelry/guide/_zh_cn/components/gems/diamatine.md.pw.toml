@@ -1,0 +1,8 @@
+name = "diamatine.md"
+filename = "diamatine.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d0/d037ad6ca0fba67f7be1d5a9d0eed7e37cb9e8da40a2c024ab056c0eae0b03f9.md"
+hash-format = "sha256"
+hash = "09d2463118380b545c6cf2ef4b5befd9b84c17703ec30a77d0eba80a3e296602"

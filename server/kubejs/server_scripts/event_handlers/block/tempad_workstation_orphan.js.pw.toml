@@ -1,0 +1,8 @@
+name = "tempad_workstation_orphan.js"
+filename = "tempad_workstation_orphan.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/8348f0f37533e6fb8d5deac9cc5973627cb248193e999d03b126ad46e207c5e9.js"
+hash-format = "sha256"
+hash = "edea95c6666bc9b6ce399cf7b5c5fb2633ea338b0b7d690371a187cbf093c872"

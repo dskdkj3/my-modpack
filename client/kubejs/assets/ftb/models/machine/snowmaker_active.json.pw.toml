@@ -1,0 +1,8 @@
+name = "snowmaker_active.json"
+filename = "snowmaker_active.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/265d11add50e8e967a2ef2ab3dd89ee110b2d855aecd1bcf990a0a56a12ace58.json"
+hash-format = "sha256"
+hash = "b552a0ac25aa0b55fca0581d594de501e9a763e3d07e781f35b78306e7117c22"

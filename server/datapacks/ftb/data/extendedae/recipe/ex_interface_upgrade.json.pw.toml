@@ -1,0 +1,8 @@
+name = "ex_interface_upgrade.json"
+filename = "ex_interface_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5fa81067b7c97028ffe0d10ea98672e6b08a4a5855fef2ed26c85c8246a2f338.json"
+hash-format = "sha256"
+hash = "7377ee0ce2a76c9b98be3a58d07a357a9a9b37c6351a0daba6ad3d67871c8f55"

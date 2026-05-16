@@ -1,0 +1,8 @@
+name = "steam_pressurizer_idle.png"
+filename = "steam_pressurizer_idle.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/61/61bf2b45847962bc9431e3c89ecf553d2ea371b01d26790f11944222f7a9b553.png"
+hash-format = "sha256"
+hash = "de7857ed624334ae2a6a998894b180ff4df1c3fa2b29dc35c2b9f15e0ba8397a"

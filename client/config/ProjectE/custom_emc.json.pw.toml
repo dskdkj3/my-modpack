@@ -1,0 +1,8 @@
+name = "custom_emc.json"
+filename = "custom_emc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/2689d2bc884ba3c12f8d22307e165e0df6bf7d0f75d70c4aeff1eed650663f73.json"
+hash-format = "sha256"
+hash = "a1c1a7695cb0b073dd74407cadc96ffb0ade55978c1816ec6a06a40094aad148"

@@ -1,0 +1,8 @@
+name = "frame-forgecorner_1x1_64x64.png"
+filename = "frame-forgecorner_1x1_64x64.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/20839c14f8a0c93ddcb8f14c7291f62c35836902c0125a8785dc090ebce86a2a.png"
+hash-format = "sha256"
+hash = "e2dd688ffeaa1f4fbd2ae1cc0b780902cdc96bef19badaf916d4e093547581ec"

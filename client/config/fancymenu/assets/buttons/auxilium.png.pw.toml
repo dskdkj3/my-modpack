@@ -1,0 +1,8 @@
+name = "auxilium.png"
+filename = "auxilium.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e7/e7d3901b8359861ff425d5977f3746132b2edeb12823fe4244a033aa103f43fa.png"
+hash-format = "sha256"
+hash = "c8bb60ad37ae9ce14e27f7833699fd87b91dcf96614199eed6b5a3df7d4a6ed0"

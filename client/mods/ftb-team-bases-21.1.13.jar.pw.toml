@@ -1,0 +1,8 @@
+name = "ftb-team-bases-21.1.13.jar"
+filename = "ftb-team-bases-21.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7973/62/ftb-team-bases-21.1.13.jar"
+hash-format = "sha256"
+hash = "63ddb21edde27bcf67f7d0b1236dee14ef1467aed5a8433312c80147ad6808c4"

@@ -1,0 +1,8 @@
+name = "certus-growth.md"
+filename = "certus-growth.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da8e5ae74377d3cdb43bcd5a8c2b3a9cef44d7550f017d4223aa590e6e847be7.md"
+hash-format = "sha256"
+hash = "e7e4a0decf7668f82fb2f33a00ff6d899cc1f7bdc9eee0bcbc8edd9e2be8bcb0"

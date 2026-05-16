@@ -1,0 +1,8 @@
+name = "chisel-1.21.1-NeoForge-1.3.2.jar"
+filename = "chisel-1.21.1-NeoForge-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7714/913/chisel-1.21.1-NeoForge-1.3.2.jar"
+hash-format = "sha256"
+hash = "7692333a040ff44b89ca3d10cc9724eea895d1415defd380cb75a39b3ce8caf0"

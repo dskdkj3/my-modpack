@@ -1,0 +1,8 @@
+name = "coalhall_3.nbt"
+filename = "coalhall_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b4/b4200eb08828c10c37d8bbaa0cb0803a2d388a0a71a090350168b4806407c2d3.nbt"
+hash-format = "sha256"
+hash = "f1577a1fc7467a04ebb083443d3d11da4d2b52176ecae8adb599ba1f02979f28"

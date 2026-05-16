@@ -1,0 +1,8 @@
+name = "armory-common.toml"
+filename = "armory-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/15/155d6ac2788c7193b37b8d9c3f0f46ddc97b524e5a5ef3346d35a92f073efdb1.toml"
+hash-format = "sha256"
+hash = "84c75af028bce0580111a0f2a89cfc7bdf850391501308080bcb4b20d5e4a6b0"

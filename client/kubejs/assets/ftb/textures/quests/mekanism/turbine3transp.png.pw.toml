@@ -1,0 +1,8 @@
+name = "turbine3transp.png"
+filename = "turbine3transp.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da2120c34a310c2c9cb29d07b4616aa8b4230a86e08c51b8e1a023301506718e.png"
+hash-format = "sha256"
+hash = "6d0d90670b24126dc33feb140e8af8fa4bf6770b1d6ad37990e0c8cc8e59d602"

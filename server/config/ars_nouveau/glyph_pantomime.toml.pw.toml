@@ -1,0 +1,8 @@
+name = "glyph_pantomime.toml"
+filename = "glyph_pantomime.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd7f75c9bb5b80da705e77b56ae7ee714fc3430240544a208f1201025d3c644f.toml"
+hash-format = "sha256"
+hash = "87e0fa71d54f11c99c165d95e2fa361fb5e4f8ef341313eedca2178766fdb983"

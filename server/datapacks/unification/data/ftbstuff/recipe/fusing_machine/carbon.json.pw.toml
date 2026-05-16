@@ -1,0 +1,8 @@
+name = "carbon.json"
+filename = "carbon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d3991a7c85fca2d7b01d283647ca82b6807dd6550b06d78b5afe8be2c3dcb2c.json"
+hash-format = "sha256"
+hash = "764b0146b216d31df9fe8a5e63fcf758547954abf77964abe01d02e7efe44c68"

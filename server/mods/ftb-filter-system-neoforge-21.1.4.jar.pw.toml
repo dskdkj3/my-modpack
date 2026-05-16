@@ -1,0 +1,8 @@
+name = "ftb-filter-system-neoforge-21.1.4.jar"
+filename = "ftb-filter-system-neoforge-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7429/11/ftb-filter-system-neoforge-21.1.4.jar"
+hash-format = "sha256"
+hash = "b8700e8bfd9c78b09bc7819cb28a6318b20d2bf68969bc6894a0bfa39581a99b"

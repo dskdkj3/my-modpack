@@ -1,0 +1,8 @@
+name = "ae2-common.toml"
+filename = "ae2-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/be/beef7f1ee2401aac54326a0b78617326eab3093949f6ea49cabba5c258b783b5.toml"
+hash-format = "sha256"
+hash = "31dc82bb31b97603cbf440039c2b3d18cb4991f306a0a2b0a585527a8576a589"

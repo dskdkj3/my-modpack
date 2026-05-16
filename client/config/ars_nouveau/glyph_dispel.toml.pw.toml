@@ -1,0 +1,8 @@
+name = "glyph_dispel.toml"
+filename = "glyph_dispel.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/685e33a1900cfcce9f324154aad11a729dca1ae2cbc98b1e71965b766b41716a.toml"
+hash-format = "sha256"
+hash = "8c8a8748076d9ca77aee9ea2e1c056c578f90c80c77b4eece0596f07d3d334d3"

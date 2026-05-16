@@ -1,0 +1,8 @@
+name = "goo_revive_tier_3.json"
+filename = "goo_revive_tier_3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/decb1ff7dd83e8a483e0c6b14ecaf911f36ba7562cef992682921767dbeff857.json"
+hash-format = "sha256"
+hash = "f5e78d724ce205de7f4b048b4cc0479b8a527248e2bba84434bd86743acf2018"

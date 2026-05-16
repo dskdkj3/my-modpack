@@ -1,0 +1,8 @@
+name = "skullcorner_1.nbt"
+filename = "skullcorner_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f3374fc9cdd50f237ec0d9f555475026a909a0e48a4f5536251bf8b6cb781d7.nbt"
+hash-format = "sha256"
+hash = "76275f09c3518e3b4c4c0b60dddb8bd3c5ee05974ab68526ef44785cd32306e5"

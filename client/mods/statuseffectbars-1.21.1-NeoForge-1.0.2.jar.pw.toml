@@ -1,0 +1,8 @@
+name = "statuseffectbars-1.21.1-NeoForge-1.0.2.jar"
+filename = "statuseffectbars-1.21.1-NeoForge-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/6707/544/statuseffectbars-1.21.1-NeoForge-1.0.2.jar"
+hash-format = "sha256"
+hash = "a631cd09277147bd40aac0392d3b3abe686b07db58cdac0833b16111e0c05ddf"

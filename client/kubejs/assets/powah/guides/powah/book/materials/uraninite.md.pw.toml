@@ -1,0 +1,8 @@
+name = "uraninite.md"
+filename = "uraninite.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b91f3c13d1cf7b81b0a662e5163f0574bf05b4c32a1fecc83cf232f2221347f2.md"
+hash-format = "sha256"
+hash = "1dbddb6ca37675c97a766d94b7646854ee7c4a4853a65c39dc73ab5e9558d98e"

@@ -1,0 +1,8 @@
+name = "camo_application.json"
+filename = "camo_application.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c561c19536d3f9074db3ebdf10b5a03b1d8e17161d81a572386e7416c921f78a.json"
+hash-format = "sha256"
+hash = "678cd2e0ed7e4a6a8994638e407ebb4c0227a7e964dcb218ce74819487fca3d1"

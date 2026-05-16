@@ -1,0 +1,8 @@
+name = "troll_cave.nbt"
+filename = "troll_cave.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/35fe990a7d7166b354112c6772ef058304648c2f4159e02a871da1e03a3ac946.nbt"
+hash-format = "sha256"
+hash = "7d42bd88e6f06427fc3fc223453d4f9bd7d46db0eaaa0061a34dcea8a1510527"

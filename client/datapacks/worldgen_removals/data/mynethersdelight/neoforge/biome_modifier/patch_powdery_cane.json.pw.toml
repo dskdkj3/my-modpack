@@ -1,0 +1,8 @@
+name = "patch_powdery_cane.json"
+filename = "patch_powdery_cane.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/22a7e93d834ebda65b187c993295024cddd43c6232038057db3a44fd6ecbbb7f.json"
+hash-format = "sha256"
+hash = "5a7bdda86256c57f54947dbf03df330a38db905ef6d3b42812414fee84cd8d29"

@@ -1,0 +1,8 @@
+name = "fallback.json"
+filename = "fallback.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a25077a0be102cd854c8b8fd21e4037afbf0cb7d553d94519188bb8a00b1573b.json"
+hash-format = "sha256"
+hash = "2d2c37760d85ffc1b46544098f085ae096db5e1d57ab3c7fc41fb06dd78c1496"

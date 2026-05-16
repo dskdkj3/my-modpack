@@ -1,0 +1,8 @@
+name = "better-advanced-tooltips-client.toml"
+filename = "better-advanced-tooltips-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0cf93b7751d53c6869b245da08f51ec526951f44a3c02d4f8866ef0d2d1bce4e.toml"
+hash-format = "sha256"
+hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"

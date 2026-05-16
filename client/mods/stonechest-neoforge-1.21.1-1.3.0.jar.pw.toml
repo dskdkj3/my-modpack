@@ -1,0 +1,8 @@
+name = "stonechest-neoforge-1.21.1-1.3.0.jar"
+filename = "stonechest-neoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7626/248/stonechest-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha256"
+hash = "d3fbdcb38c779d8acd93bb90b66f8a5faa4c0bb6d2283858ec548807ba15b3c2"

@@ -1,0 +1,8 @@
+name = "fortified_containment_device.png"
+filename = "fortified_containment_device.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/feea12995b6fa88eb3581ab639ef1ef4c9820995fb679ff6b28b40602029caeb.png"
+hash-format = "sha256"
+hash = "2c70d3d6a42d3e6f70a29faa9285cc511baa24704f4b7c588fb7c584d7666f81"

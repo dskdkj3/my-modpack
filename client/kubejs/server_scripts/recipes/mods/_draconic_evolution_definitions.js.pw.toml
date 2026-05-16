@@ -1,0 +1,8 @@
+name = "_draconic_evolution_definitions.js"
+filename = "_draconic_evolution_definitions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33ac1ff1081ccf6f6137435796c82bbe97bf886055c79c94247098b55b53067c.js"
+hash-format = "sha256"
+hash = "83cf818b242d62c5041667786f4cb36943416776a5dbabe381acf42e187534d5"

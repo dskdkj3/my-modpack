@@ -1,0 +1,8 @@
+name = "electrum.json"
+filename = "electrum.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fb/fb0ae04d47cefbe19fb68c740ee463470117a33d8bc99f176875fd4998aa4c7f.json"
+hash-format = "sha256"
+hash = "ca903df191ef351519e59f206187d741030867fa342a842e329b3182122e99c3"

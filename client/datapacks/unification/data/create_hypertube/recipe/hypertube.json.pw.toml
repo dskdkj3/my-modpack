@@ -1,0 +1,8 @@
+name = "hypertube.json"
+filename = "hypertube.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d3/d321b2d6c97d20f406b2d1eb222710773e6b402c7328c5b77d165bcec6c78e02.json"
+hash-format = "sha256"
+hash = "2d463a28868df3433b063ff2c372060a21f5129304fdaa9a5e408a50da6c80d7"

@@ -1,0 +1,8 @@
+name = "infinity_sword.json"
+filename = "infinity_sword.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c2/c2ac74ce5a5afff807f1394a6b0199072bb4eda6661f5aece514f323dfa2cbe3.json"
+hash-format = "sha256"
+hash = "ef6b0553cd11e2edb13c873ae5fba1fba32ea8f450da62f7653c53c0d5d7c9ad"

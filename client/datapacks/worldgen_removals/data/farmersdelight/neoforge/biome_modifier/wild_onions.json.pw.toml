@@ -1,0 +1,8 @@
+name = "wild_onions.json"
+filename = "wild_onions.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/743b421980bb1d66378986b453f49129901b05045d438202e92ad5f743389113.json"
+hash-format = "sha256"
+hash = "23c185d216556335958b1807f4c782d775507f975129b9bad4ef900056438317"

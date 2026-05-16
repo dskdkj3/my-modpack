@@ -1,0 +1,8 @@
+name = "tempad_portals.js"
+filename = "tempad_portals.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e9911ec629e65ed75e45dd6c53ff5711ad664a4ce73e5363fb4822cd7d22312.js"
+hash-format = "sha256"
+hash = "43c46091f24dc6c5c916c51fc8e59b634d20d3d7fcb27a20b7ff01422fb6e60f"

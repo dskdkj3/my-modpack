@@ -1,0 +1,8 @@
+name = "coins.json"
+filename = "coins.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ac/ac1a3fcaf3977e3ea96bdc9ef3fd1367a1293631bfeadbd58c50beb02dfb89f2.json"
+hash-format = "sha256"
+hash = "6d358f088fbc09188a43a51784909d6175ce99689663599d71908068d1d4d414"

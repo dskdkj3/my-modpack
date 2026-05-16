@@ -1,0 +1,8 @@
+name = "mossyhall_1.nbt"
+filename = "mossyhall_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4dba07fddfc4a5383491fabd1ef1bc4dff1f0a55867d43db12d75c25845aed7c.nbt"
+hash-format = "sha256"
+hash = "fe14212e6513f861435664fc751f1b238517ea47c7a2819d99a846bcb1d00535"

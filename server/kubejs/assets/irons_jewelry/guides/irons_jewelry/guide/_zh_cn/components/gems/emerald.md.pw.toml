@@ -1,0 +1,8 @@
+name = "emerald.md"
+filename = "emerald.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/31/31e179006d5e085878e3e04947240eb042e30210f9570b13baf244d2c8c68b66.md"
+hash-format = "sha256"
+hash = "2eb13299c5c2f3ca6437aa298bfa8d34c95b836b3132f666f8aa4c7a4d8897e0"

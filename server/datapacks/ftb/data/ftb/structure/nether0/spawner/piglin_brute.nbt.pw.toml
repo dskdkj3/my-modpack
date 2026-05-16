@@ -1,0 +1,8 @@
+name = "piglin_brute.nbt"
+filename = "piglin_brute.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f31b57ff78c9df69c65edb41d0afc1a3e5277b495d01799b3a79a6085c97648.nbt"
+hash-format = "sha256"
+hash = "73b88273270918d10b09d1e4ed3e15e087d068444e0682a2b367ef2069eea09e"

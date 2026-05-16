@@ -1,0 +1,8 @@
+name = "pink_slime_ingot.json"
+filename = "pink_slime_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/057f81c30c8a5c98d81fa6445d6c4a4fb7cafb5c0c5b91c1e409260b66b10b01.json"
+hash-format = "sha256"
+hash = "6860e2bc25fff3e1ff33a1673cf27e7e7ed93bb0c29f8d0f544c8522e281eddf"

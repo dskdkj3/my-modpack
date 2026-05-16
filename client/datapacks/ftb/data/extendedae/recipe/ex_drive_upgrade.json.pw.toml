@@ -1,0 +1,8 @@
+name = "ex_drive_upgrade.json"
+filename = "ex_drive_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/26/26e2e4c8a5db89683ebac6c5de0f4dc1be8a223f30fddb5ef626988358dad9dd.json"
+hash-format = "sha256"
+hash = "0555e28fd22f7f9eff62f5425f1307f619c661f15b602bea858b1956d72ba90a"

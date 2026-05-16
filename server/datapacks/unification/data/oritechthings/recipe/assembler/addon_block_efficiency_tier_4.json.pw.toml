@@ -1,0 +1,8 @@
+name = "addon_block_efficiency_tier_4.json"
+filename = "addon_block_efficiency_tier_4.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/71/711bfd786ccb7a0a19a432d81d007f158977f5cb035ee38074c229f1ccf6d86a.json"
+hash-format = "sha256"
+hash = "03a0cf2314afb97bf90db7861b334cea88ad7e7f4c1c28e8aac776567a5c777e"

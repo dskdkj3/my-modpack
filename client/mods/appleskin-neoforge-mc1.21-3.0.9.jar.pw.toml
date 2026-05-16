@@ -1,0 +1,8 @@
+name = "appleskin-neoforge-mc1.21-3.0.9.jar"
+filename = "appleskin-neoforge-mc1.21-3.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar"
+hash-format = "sha256"
+hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"

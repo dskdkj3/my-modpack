@@ -1,0 +1,8 @@
+name = "side_mode_button.png"
+filename = "side_mode_button.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f120705612eb1c2b7c3efec3a5ced0c928086228ee6bf1ef4ff762b99c49cb5.png"
+hash-format = "sha256"
+hash = "ce0487edbe99643d146a60dd1d9f4e7b86f68764565dbdf5e0c1f4a2063edb59"

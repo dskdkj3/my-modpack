@@ -1,0 +1,8 @@
+name = "config.yml"
+filename = "config.yml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2eaeaf9496e5db1a4c98ceec8dfce114ddbe43830826d8e4d5d22b32de643d12.yml"
+hash-format = "sha256"
+hash = "e54d6076b0a3ee5104d3001a85c2a0de4cc98366ed4d9621df0e6d61f25f5b9d"

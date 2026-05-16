@@ -1,0 +1,8 @@
+name = "refinedsticks-1.21.1-1.2.0.jar"
+filename = "refinedsticks-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7689/739/refinedsticks-1.21.1-1.2.0.jar"
+hash-format = "sha256"
+hash = "1a318683464acf5b861ad1194df91151e47a2da7bdf85f0e24bf60bd0db78d95"

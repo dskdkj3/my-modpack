@@ -1,0 +1,8 @@
+name = "ars_nouveau.perk.saturation.json"
+filename = "ars_nouveau.perk.saturation.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/84/84c60e9e64317cb7965055342cf3f6bf4ef89b6644fb453490e3aebdece7fada.json"
+hash-format = "sha256"
+hash = "fead7637d9e24d53ba947a7260fdbb1b8d7da59e0d46a480e2a5fb9bf2d4aeb1"

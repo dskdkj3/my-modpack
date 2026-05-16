@@ -1,0 +1,8 @@
+name = "hydra.json"
+filename = "hydra.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/16/166ad7dd785661c454c77eaf49997197129026260e3ece47b6b9d469c908b10b.json"
+hash-format = "sha256"
+hash = "ba4862876348698186245075d05f6d683cbd9fe03eee768704e1993d0c7117b7"

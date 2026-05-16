@@ -1,0 +1,8 @@
+name = "corner_5.nbt"
+filename = "corner_5.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/68/68abdfd0316a57dcffa33758ad32f24f039bc833b88b4b8bca28461af7d52a49.nbt"
+hash-format = "sha256"
+hash = "cfca557c9cd6b6d40b720847c353be638ce454591cac2a576b491fb66efe9ceb"

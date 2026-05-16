@@ -1,0 +1,8 @@
+name = "ground.json"
+filename = "ground.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/7642b1cfc221d63d5961c227dacce4ed535d2f55ecb0e1d5790ccbfdb6a82bf3.json"
+hash-format = "sha256"
+hash = "250b7bc172a86c52acd8bc62c6e311521405c1c7d94ae948287a1ce16072bfba"

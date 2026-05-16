@@ -1,0 +1,8 @@
+name = "white_bg.png"
+filename = "white_bg.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7f/7fb6a61964136e537c5f101d02ef8bcc7b7ba539a72ebf86140b6cf7c2630db1.png"
+hash-format = "sha256"
+hash = "6e8835778b5ae9c95b698d9a6173cd6b56076417a1372d665fe46f069e10b070"

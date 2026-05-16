@@ -1,0 +1,8 @@
+name = "mason.json"
+filename = "mason.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/398b191d829943bf75f16377beb464b22c29200f09b69d10270e64d36e44dafb.json"
+hash-format = "sha256"
+hash = "08a31a41d49d9c06c7f9f0b2ead9d475bd65188192663536b7dcfeaf7fd0ed49"

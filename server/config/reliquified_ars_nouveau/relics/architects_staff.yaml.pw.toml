@@ -1,0 +1,8 @@
+name = "architects_staff.yaml"
+filename = "architects_staff.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/30/30f6fb4e90fe8501386cd10f5c63dcaf4f23deeb88d6810318ac5071371165d9.yaml"
+hash-format = "sha256"
+hash = "51e03d034948f2442afc1043f70ea728e9ead5519efd603082a90aa912b23722"

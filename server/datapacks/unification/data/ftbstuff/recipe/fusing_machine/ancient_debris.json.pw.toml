@@ -1,0 +1,8 @@
+name = "ancient_debris.json"
+filename = "ancient_debris.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/625730dd985acc19630ded302a57d8cafa193f682bfb52df221afa7603fdca4b.json"
+hash-format = "sha256"
+hash = "9680d1b7c671f8bf2dbdb3b7c3151d1d799baec3841458a5d1440d8088d45e66"

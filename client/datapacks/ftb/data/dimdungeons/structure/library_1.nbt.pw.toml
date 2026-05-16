@@ -1,0 +1,8 @@
+name = "library_1.nbt"
+filename = "library_1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c1/c1e2d6e23b95a00cfdb1325444f3ef4e000efc48ca2b38a39407f22089a5493a.nbt"
+hash-format = "sha256"
+hash = "f2c881b36970d35f53c7c33b8122d141d6956fb3cc6c5b5d7e2f7e77e12c8acf"

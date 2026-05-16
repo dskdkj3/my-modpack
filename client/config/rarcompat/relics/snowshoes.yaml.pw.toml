@@ -1,0 +1,8 @@
+name = "snowshoes.yaml"
+filename = "snowshoes.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/40/40a7cfc47b17c91285bdf33d53327f8d726b8957a6b6336e01272daa4bdd6e16.yaml"
+hash-format = "sha256"
+hash = "36bdab350fc13b6a438368aee3211dbe34cd30582564667e471f918008410016"

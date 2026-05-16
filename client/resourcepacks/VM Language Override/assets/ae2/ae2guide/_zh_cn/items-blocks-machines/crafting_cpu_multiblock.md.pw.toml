@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crafting_cpu_multiblock.md"
+filename = "crafting_cpu_multiblock.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/ae2/ae2guide/_zh_cn/items-blocks-machines/crafting_cpu_multiblock.md"
+hash-format = "sha256"
+hash = "10b6185cce201f09be7b628d77c77af99dfdb790e596155258b74b37da72c872"

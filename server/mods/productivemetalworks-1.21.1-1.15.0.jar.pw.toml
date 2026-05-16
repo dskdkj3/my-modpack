@@ -1,0 +1,8 @@
+name = "productivemetalworks-1.21.1-1.15.0.jar"
+filename = "productivemetalworks-1.21.1-1.15.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7884/786/productivemetalworks-1.21.1-1.15.0.jar"
+hash-format = "sha256"
+hash = "1dcf9e10fc457c92d9ed466336104927169817cd509ca9ca69dec734f994d124"

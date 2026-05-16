@@ -1,0 +1,8 @@
+name = "options_test.png"
+filename = "options_test.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa4db43f2ea336d33ba1998762008001b5f627a099008bb21bf573d509609485.png"
+hash-format = "sha256"
+hash = "35754dd29889a878079faac05c395147c4167c338ef62ea282cf03c0e523c1ab"

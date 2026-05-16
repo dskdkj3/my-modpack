@@ -1,0 +1,8 @@
+name = "ender_shard.js"
+filename = "ender_shard.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e6f132b027954640f8a58179560a67aba71a9b7d37912929d3340b833b99c7f.js"
+hash-format = "sha256"
+hash = "a1d4ab982a449f203fc06f644ea0e1defb3294c6f7764eaaea34c76a7866c400"

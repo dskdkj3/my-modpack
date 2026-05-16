@@ -1,0 +1,8 @@
+name = "slotmachine_2.nbt"
+filename = "slotmachine_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a6/a644905b1ef9723f19c2ab346b65c2124f15da4e472a51d74a4af6f5043106c3.nbt"
+hash-format = "sha256"
+hash = "0608779f9be08612b038562ab6391f47667ee40e6886dd40a5471841c6d52f95"

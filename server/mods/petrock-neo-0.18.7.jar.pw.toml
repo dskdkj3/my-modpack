@@ -1,0 +1,8 @@
+name = "petrock-neo-0.18.7.jar"
+filename = "petrock-neo-0.18.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7195/748/petrock-neo-0.18.7.jar"
+hash-format = "sha256"
+hash = "f6f7911393d57ad91a767a12a07036ddb3f4aa9f1e5ce0ac18815a339d5b9ea5"

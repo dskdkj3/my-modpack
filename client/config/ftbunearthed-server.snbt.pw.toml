@@ -1,0 +1,8 @@
+name = "ftbunearthed-server.snbt"
+filename = "ftbunearthed-server.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/63de2bb95764d9e6a546c689b04dbb0bfde438dd8ff819ea5c3bd13f7592e8c1.snbt"
+hash-format = "sha256"
+hash = "baabe42e9aa984e5a22e99bf03b6dcd3353225f0ad73a04b19e01b27905ce63c"

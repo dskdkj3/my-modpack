@@ -1,0 +1,8 @@
+name = "start_zone.json"
+filename = "start_zone.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b833a1e53867076d17e6fd0e07124cb2ccb42a965e027e4fdccfbdda0902e74c.json"
+hash-format = "sha256"
+hash = "c95b06505e498b4c8f1508b6a42a40f8b3f311c3ca79ee8240f566380e703d90"

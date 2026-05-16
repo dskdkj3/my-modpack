@@ -1,0 +1,8 @@
+name = "enderium_ingot.md"
+filename = "enderium_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1c1bc90fd63b6d76f4b1f4f05edd06a0912c2d4ca9c8334feb8a53c8bb7d3f6d.md"
+hash-format = "sha256"
+hash = "57dfda00595a8d171a76bef63d942ebaba2cb85dc0af534a2917d4bc251f80be"

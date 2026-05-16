@@ -1,0 +1,8 @@
+name = "upgrade_golden_helmet_to_diamond_helmet.json"
+filename = "upgrade_golden_helmet_to_diamond_helmet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/471c616cd487748f3b5f22a13f6d03b6cefe66b2e40b3880bc3ee1d9ed60ea7a.json"
+hash-format = "sha256"
+hash = "549b5db0f98bedb3fa4254c689caef8d87ed5b8396c7d3287103e6174792e5f1"

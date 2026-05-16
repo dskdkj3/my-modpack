@@ -1,0 +1,8 @@
+name = "_minecraft_definitions.js"
+filename = "_minecraft_definitions.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/37/37f09ed64734230a5fedf7f5d2e9bde9a75cf20d7dbca1ecc14194caacad5a46.js"
+hash-format = "sha256"
+hash = "11bb10c1678292eba5efe6bfe81864cf5c51f1ff1f38de37d4475382a2570bf9"

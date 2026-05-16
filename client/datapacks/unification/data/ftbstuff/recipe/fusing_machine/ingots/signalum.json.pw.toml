@@ -1,0 +1,8 @@
+name = "signalum.json"
+filename = "signalum.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98e56e7c89208b9373f07193f158be39d2ec4e6fff675fb4e2fb64bad6695dd6.json"
+hash-format = "sha256"
+hash = "bfee7cbdc970155d1a72c624382aeb58e223c70c930b5c85a5a8f7d365d5047e"

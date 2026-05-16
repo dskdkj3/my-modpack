@@ -1,0 +1,8 @@
+name = "fortron.json"
+filename = "fortron.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee04a2635c622ea0a2c159cad345accdf078da7846a3bb201b72199b89575d97.json"
+hash-format = "sha256"
+hash = "2f042e7bb1821f96a23e149981eb6109a439b0110cebb31a821a8ac35cc3a460"

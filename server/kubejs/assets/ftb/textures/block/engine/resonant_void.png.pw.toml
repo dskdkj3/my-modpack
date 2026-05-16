@@ -1,0 +1,8 @@
+name = "resonant_void.png"
+filename = "resonant_void.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ea/ea98758647d9148d5381dbd5643776f5f67ac0d3a9c414c9de90f6d7185bccb0.png"
+hash-format = "sha256"
+hash = "369b1d8074260cac774c0107e1849f41b684514756033e1a85fe12aa394ff377"

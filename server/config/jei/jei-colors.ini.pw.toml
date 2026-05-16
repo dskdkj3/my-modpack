@@ -1,0 +1,8 @@
+name = "jei-colors.ini"
+filename = "jei-colors.ini"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5cc483dc1593da449d634cd46a1269593d6f9e266186b45ab501a20919eed69f.ini"
+hash-format = "sha256"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"

@@ -1,0 +1,8 @@
+name = "chemical_upgrade_2.json"
+filename = "chemical_upgrade_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/53/53475ec4961195b574b3c81fc181d9fd0acc3e293288bc808ee73b40d3509235.json"
+hash-format = "sha256"
+hash = "0c37532a772814170e329f7456852495bdc916a12c4f45970c3101c96c2ddf87"

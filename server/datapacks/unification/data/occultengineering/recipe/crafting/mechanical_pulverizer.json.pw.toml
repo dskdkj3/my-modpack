@@ -1,0 +1,8 @@
+name = "mechanical_pulverizer.json"
+filename = "mechanical_pulverizer.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a9f4c41761a8056561cf8e961dbf7b4c3567df136f750fc2ca8204438b1f3d1.json"
+hash-format = "sha256"
+hash = "694f6134406a4669840146244a7265b0febcda0edca8d4f2b6dc7dfbcd825c19"

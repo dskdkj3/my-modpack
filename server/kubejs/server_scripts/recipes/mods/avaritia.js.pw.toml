@@ -1,0 +1,8 @@
+name = "avaritia.js"
+filename = "avaritia.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/af/af7294df9c97219202530686f8aaa023cddef41ba7da797ba788c5f77338ef24.js"
+hash-format = "sha256"
+hash = "3acd5795d709f7cae815a7eee4eee082ca1b7b6b02c27882e80f376df09f1a86"

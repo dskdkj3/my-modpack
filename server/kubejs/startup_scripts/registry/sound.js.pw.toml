@@ -1,0 +1,8 @@
+name = "sound.js"
+filename = "sound.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b216e283bd89c9139cd464c20fb0dcb67eeed8eac93c71eab992b975f19dd36.js"
+hash-format = "sha256"
+hash = "7d33a067049313aad2950844d650b5d812b0ec4b5461d2c95af25cfb44c3f374"

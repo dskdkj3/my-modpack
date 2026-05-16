@@ -1,0 +1,8 @@
+name = "gold_spear.json"
+filename = "gold_spear.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/75/75d74bef26ae2ecde2b20c7373d6d91f8c7a08ba85deafb5abf887c538a73f38.json"
+hash-format = "sha256"
+hash = "895e052dc7de76dda8bb36e0ef759d2c0166392b35fa8df121d7dff50978bafd"

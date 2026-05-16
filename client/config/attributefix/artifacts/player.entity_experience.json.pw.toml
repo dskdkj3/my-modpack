@@ -1,0 +1,8 @@
+name = "player.entity_experience.json"
+filename = "player.entity_experience.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/7462342c1cb63320df6603067e3d8d45d51c8a0e1b95fa27ab7ef676a1b1ff69.json"
+hash-format = "sha256"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"

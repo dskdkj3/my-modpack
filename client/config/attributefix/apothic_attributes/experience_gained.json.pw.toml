@@ -1,0 +1,8 @@
+name = "experience_gained.json"
+filename = "experience_gained.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6c/6c3fe5f3feb53ea94ec2cabcd3212dc874201c1861321c6e35748c1df6886378.json"
+hash-format = "sha256"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"

@@ -1,0 +1,8 @@
+name = "pet_rock.js"
+filename = "pet_rock.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c555969b45f20eb8ab7b404ebb673c5a11e9d9814b1f5c82d44b73f5fbc6946.js"
+hash-format = "sha256"
+hash = "c6214caa0eaf9d19893a5f25bfd8ad74757e99adf640aaaa8993e3d6daed72c3"

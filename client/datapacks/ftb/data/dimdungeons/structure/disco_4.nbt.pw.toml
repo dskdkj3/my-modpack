@@ -1,0 +1,8 @@
+name = "disco_4.nbt"
+filename = "disco_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5e2b84a62a96e629fb6da9b16db75b4b0e293efe3c04901ee6303a0c87f22aa6.nbt"
+hash-format = "sha256"
+hash = "a483a4597dc2f36ebd8513217573df075ae2244d8a9d3722041722e867d61fda"

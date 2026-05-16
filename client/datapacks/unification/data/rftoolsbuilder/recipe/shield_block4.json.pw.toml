@@ -1,0 +1,8 @@
+name = "shield_block4.json"
+filename = "shield_block4.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f09ab5a5d4ae3b2ebcecb2e1f2b1702e448bff7a1edd8ea253c8ecde7c3db7b1.json"
+hash-format = "sha256"
+hash = "eb94b79274c2bb5f96f3701abd7a2366091cbc5ee10a2a887bd99250494e9fe2"

@@ -1,0 +1,8 @@
+name = "cherry.json"
+filename = "cherry.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d6f8bf84f71ac12c33cbe279d32e5ae150c04975bb0de3479bdd0b9e3ff7592.json"
+hash-format = "sha256"
+hash = "ab7b101a94106ffd243b45cc573e9b8889a111970ed7548127c7856259460a91"

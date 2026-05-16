@@ -1,0 +1,8 @@
+name = "star2.png"
+filename = "star2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02ca7d4adb9b1746a1f03815f3cbacedfe6a633768a7307d7adfcbe704daed3a.png"
+hash-format = "sha256"
+hash = "43fafbc7ba37573a5c916466b67b214ae471c0a0ac61a6ab129ebf8acbc29325"

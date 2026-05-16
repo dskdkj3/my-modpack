@@ -1,0 +1,8 @@
+name = "psi-client.toml"
+filename = "psi-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/115792eb6f996206328b1ca5801b622e1fbc86f7eed68f7e714273d8b265465c.toml"
+hash-format = "sha256"
+hash = "89f5d19026a356bd4f418c774ec599feb0e96242152206cb92d2f354ac609fba"

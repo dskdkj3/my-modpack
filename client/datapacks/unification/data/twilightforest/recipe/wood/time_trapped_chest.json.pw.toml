@@ -1,0 +1,8 @@
+name = "time_trapped_chest.json"
+filename = "time_trapped_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/95/95dc57a96ba156fe674544feb23e05e39ae5b84254878e88f31ecd79801ee768.json"
+hash-format = "sha256"
+hash = "5098513d845f11487c9c11ccb4233809755c58eeb190562abcaf258a70f29b65"

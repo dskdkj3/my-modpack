@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: resourcepacks/VM Language Override/assets/powah/guides/powah/book/_zh_cn/materials/dry_ice.md"
+filename = "dry_ice.md"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/resourcepacks/VM%20Language%20Override/assets/powah/guides/powah/book/_zh_cn/materials/dry_ice.md"
+hash-format = "sha256"
+hash = "5025dc327b02ab4a00fd207b25c0dec4fd98b6348d4379dbe25876fcf6225f9c"

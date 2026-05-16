@@ -1,0 +1,8 @@
+name = "blackout.json"
+filename = "blackout.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3aeaf07ef9b6732d0868bcc4b8752f217021d8877a19c2325e89d3c4b00988c9.json"
+hash-format = "sha256"
+hash = "0a393a5a61b497dcbbc83de45a14562f6a649b2e0d20b1b1febe151d183dfb68"

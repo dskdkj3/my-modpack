@@ -1,0 +1,8 @@
+name = "upgrade_golden_axe_to_diamond_axe.json"
+filename = "upgrade_golden_axe_to_diamond_axe.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bb/bbb194340db29be03756062b29ac710505c0dee25e520eba0e1557db042f2d91.json"
+hash-format = "sha256"
+hash = "e5e39578c19e0e3dab0265123cec0460b19267482027a20c6e5e168196be23e5"

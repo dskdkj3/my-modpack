@@ -1,0 +1,8 @@
+name = "antiexplosion.js"
+filename = "antiexplosion.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a7cd2020b976aa7e242fe1b4a360e491940d4d1ce2d7620691d7690fee65fddc.js"
+hash-format = "sha256"
+hash = "171b7a7d1d684fa2777df131664fd1206cd6c6edb429c1d76fa73674e0372b96"

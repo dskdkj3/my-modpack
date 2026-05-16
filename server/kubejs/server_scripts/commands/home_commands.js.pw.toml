@@ -1,0 +1,8 @@
+name = "home_commands.js"
+filename = "home_commands.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8f/8f6432f3f5e477a202b888a06ce1bb05098d8acfe8d556c9f1cd95fdb42fa0f5.js"
+hash-format = "sha256"
+hash = "eed8dcf3eb52bf2e1b635389fb63acd25c69c6c14f20d7c83d5113691ab66d21"

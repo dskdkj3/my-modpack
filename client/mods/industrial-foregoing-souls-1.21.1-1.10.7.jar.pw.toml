@@ -1,0 +1,8 @@
+name = "industrial-foregoing-souls-1.21.1-1.10.7.jar"
+filename = "industrial-foregoing-souls-1.21.1-1.10.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7441/306/industrial-foregoing-souls-1.21.1-1.10.7.jar"
+hash-format = "sha256"
+hash = "f4fb3640fdfca313688f2e0561b1875cbf740271dbcf5a276c4d67347d7b67ec"

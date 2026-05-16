@@ -1,0 +1,8 @@
+name = "importer_block.json"
+filename = "importer_block.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/12/122a39c9c77f04e1feec21e36287be3f38600aa4081b4f1da1a7b52eb0009dfa.json"
+hash-format = "sha256"
+hash = "1a7bc97afea9d050ee3963a1588dcaac584d6753bfbc0ee97726b17bc6224ba2"

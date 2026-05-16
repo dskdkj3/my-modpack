@@ -1,0 +1,8 @@
+name = "diamond.md"
+filename = "diamond.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91d965ff8feda6b3273904b52b95fd3e14e18e54ea21b08bf8b4e9c11dcadc65.md"
+hash-format = "sha256"
+hash = "b99eeaf0a7ec027526f5d0d7f9f7a06ce458d1eefe47a8df83598202cd9c1b84"

@@ -1,0 +1,8 @@
+name = "customizablemenus.txt"
+filename = "customizablemenus.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d22db1bfa6c203733574dc694a7abc52805e9966dd481acfd2d2127b88d165b.txt"
+hash-format = "sha256"
+hash = "fd5b4f7ef1e7e8166653418d6542a861fe837a11bb5b754956f32bb600f55014"

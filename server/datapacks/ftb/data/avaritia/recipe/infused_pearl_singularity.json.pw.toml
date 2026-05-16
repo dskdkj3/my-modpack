@@ -1,0 +1,8 @@
+name = "infused_pearl_singularity.json"
+filename = "infused_pearl_singularity.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/2562eecc1f55634116e99f745c98b0406d550049f1439cc771727f00e9167f44.json"
+hash-format = "sha256"
+hash = "f5a47c737ba60e08765c952d914b8b94b7c2b678ad966ea416d1f93fcffecd69"

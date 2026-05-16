@@ -1,0 +1,8 @@
+name = "ring_of_the_spectral_walker.yaml"
+filename = "ring_of_the_spectral_walker.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e8/e8321eb723e098eab312a4e31b8a8044cc8080602f0f44c21b2401867c18775d.yaml"
+hash-format = "sha256"
+hash = "543d0e6aa225d51b7179d3d35ac6bc882693f4c9e4dc08b1c027eb4f185890ff"

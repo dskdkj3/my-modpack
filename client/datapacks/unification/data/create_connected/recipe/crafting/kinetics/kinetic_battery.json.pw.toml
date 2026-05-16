@@ -1,0 +1,8 @@
+name = "kinetic_battery.json"
+filename = "kinetic_battery.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4fb767d9f0db3eb2eaa884fde894d24d3363d9b62082d2a6ae3fb81d1d610e15.json"
+hash-format = "sha256"
+hash = "e5de30366f3dcca59acc76fde4be7145e292b79826dc070740dd048bf7cae831"

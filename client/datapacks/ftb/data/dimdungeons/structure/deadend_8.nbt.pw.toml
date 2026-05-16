@@ -1,0 +1,8 @@
+name = "deadend_8.nbt"
+filename = "deadend_8.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/83a2aab85b4429f4b87dc1c3b88ece27dbbc5877480bf71534262ce6d489be40.nbt"
+hash-format = "sha256"
+hash = "fd562f3506c18c66243e2af1009374e5f3539aef58a056e41de8ec2988f2a825"

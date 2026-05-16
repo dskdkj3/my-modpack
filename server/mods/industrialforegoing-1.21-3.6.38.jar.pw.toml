@@ -1,0 +1,8 @@
+name = "industrialforegoing-1.21-3.6.38.jar"
+filename = "industrialforegoing-1.21-3.6.38.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7600/395/industrialforegoing-1.21-3.6.38.jar"
+hash-format = "sha256"
+hash = "e242dc05af2bc1e1316e1a8f7807ccc037b13e2594ce3967b77639a21deaf0a4"

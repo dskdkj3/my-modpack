@@ -1,0 +1,8 @@
+name = "chain_with_bow.json"
+filename = "chain_with_bow.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c0/c0ac5cce79d440218cd7d40904de577e9a6539abc764c6d2da0d9c42510b4937.json"
+hash-format = "sha256"
+hash = "9c9e62f4cc5ed7f9dd5b12b0c370ba3b970873b264d9ee75d37f1a6d19336308"

@@ -1,0 +1,8 @@
+name = "infinity_chest.json"
+filename = "infinity_chest.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6f/6fe028a51ed30f1b6d3e55e42cfab300757bb9f006c6b2e2ae20a4b1c8812c4e.json"
+hash-format = "sha256"
+hash = "ddeeef473ca35b3e8b190f3fd30798db13726aae1a8d3a5ce95bd8ffd0add6b2"

@@ -1,0 +1,8 @@
+name = "player_upgrade.json"
+filename = "player_upgrade.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab61ff0b70784ab8bff6aff9481ffab8c464e6ff2a9f6a6a4ad8bed124f8f0eb.json"
+hash-format = "sha256"
+hash = "aa40e5ad3b8998278c33f07fa1cabcb930a32d7506516b0db43806d382a1f4db"

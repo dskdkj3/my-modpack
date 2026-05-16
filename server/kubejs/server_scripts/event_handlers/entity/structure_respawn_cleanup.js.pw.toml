@@ -1,0 +1,8 @@
+name = "structure_respawn_cleanup.js"
+filename = "structure_respawn_cleanup.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/08/08d5a69caef1d30cc7613c6603778907719e20da0e384c511c1d0371ab38f9bf.js"
+hash-format = "sha256"
+hash = "e6701bc8328e5db1270aeac95cd73549fbb28055f50bf6a969b6cc4ae305cdb6"

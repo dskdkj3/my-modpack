@@ -1,0 +1,8 @@
+name = "spawn_oakwood_chicken.json"
+filename = "spawn_oakwood_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ab/ab485be478963bdcdd7f373bc7a501ef38addca5113c42a9d8cf4f0ce42ed040.json"
+hash-format = "sha256"
+hash = "de138d241bc2fa230d27a68f193336e80d3a1eeee8e5948806b00098f19cc401"

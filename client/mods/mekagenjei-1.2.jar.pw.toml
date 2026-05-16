@@ -1,0 +1,8 @@
+name = "mekagenjei-1.2.jar"
+filename = "mekagenjei-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7224/975/mekagenjei-1.2.jar"
+hash-format = "sha256"
+hash = "ac5e5a3600e1d45c5326fc28cbe71f62c2cdaaa2402886e238f2c462119a56c7"

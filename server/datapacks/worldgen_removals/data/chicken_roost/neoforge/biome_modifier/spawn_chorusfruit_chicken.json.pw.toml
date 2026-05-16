@@ -1,0 +1,8 @@
+name = "spawn_chorusfruit_chicken.json"
+filename = "spawn_chorusfruit_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/36/367efda4727533d9935213bd7c77efbb4c393558114a9b5258a4ea8bee0a0877.json"
+hash-format = "sha256"
+hash = "7653f359911c6f75eb1a2a3cf0460fe79ecdd646d42c35a5393c8a6cf65a2ca6"

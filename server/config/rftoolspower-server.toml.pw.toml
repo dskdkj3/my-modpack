@@ -1,0 +1,8 @@
+name = "rftoolspower-server.toml"
+filename = "rftoolspower-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9f382400f277b9b63e5e2624a0e1ed0fcc67eff6bbfcc07cb71033bf41e436b.toml"
+hash-format = "sha256"
+hash = "1279f120a45f7a5f796c1b167e86ea91e9c570b3facdaa49514784266a0f0741"

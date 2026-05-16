@@ -1,0 +1,8 @@
+name = "osmium.json"
+filename = "osmium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c7/c74b7e86d9d54abbd6b4cf7155c9c6fc152ddb9805319b01b954fd87e0cd03a6.json"
+hash-format = "sha256"
+hash = "fff8f399dd984f72d881a32a1ae4e4b7702dce4a6e529701ef024777e852f2ca"

@@ -1,0 +1,8 @@
+name = "chance_blocks.json"
+filename = "chance_blocks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1c/1cb70ed14eb30bc822a91d86823be4c5a1e8bd684dfe2cf4546fe4d253ce1e99.json"
+hash-format = "sha256"
+hash = "907c1ddc65cbdd5d0d945243d6f255f58acc3254ffeb28e42f4bad9a514e0d3f"

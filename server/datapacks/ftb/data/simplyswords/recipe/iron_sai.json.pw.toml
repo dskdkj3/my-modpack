@@ -1,0 +1,8 @@
+name = "iron_sai.json"
+filename = "iron_sai.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/69/691769cbf047bcbd2f21e4f8c50becc300d03ded4718d27b71f798f5f28a5262.json"
+hash-format = "sha256"
+hash = "c5dbf993ea7e08e646016cd52de10dab01fee7a7708595e087fb04b7d1ee1936"

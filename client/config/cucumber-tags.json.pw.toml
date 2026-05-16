@@ -1,0 +1,8 @@
+name = "cucumber-tags.json"
+filename = "cucumber-tags.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/58/580800882c80e9ea1a897fe4648da6aaff4360a8d51921d9ac6bcfc0c674d7c3.json"
+hash-format = "sha256"
+hash = "ab1a142b08e16556f6c81f073a4fe03623f183ab3b5a463872e395c253fcde5e"

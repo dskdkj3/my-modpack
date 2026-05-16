@@ -1,0 +1,8 @@
+name = "nature_heal.json"
+filename = "nature_heal.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e147efd4c8d3932da609452156d9b3be6cfcfe2617b657758e3dd0f887479b58.json"
+hash-format = "sha256"
+hash = "753bdbb0cff81ca77562a88ebcda6ae1c633d0042a12f2f9ec016a966c6ee6c7"

@@ -1,0 +1,8 @@
+name = "sapling.json"
+filename = "sapling.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7afec0dfbd6cef0be2aef08ebf26d667bd790b11cd20b733e2d3534c24d57612.json"
+hash-format = "sha256"
+hash = "5948c829c6fc1b31ecd97d6cd9e5692b274a546667cb38cd1e935673c6c8d81f"

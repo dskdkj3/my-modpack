@@ -1,0 +1,8 @@
+name = "blaze_lamp.png"
+filename = "blaze_lamp.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/765f35731c36badd43caf1e2f1700692f5e19ac756568b1090356d777eb126c4.png"
+hash-format = "sha256"
+hash = "68030b61832a09e6a5bbd88292e67befcc30d8eab832f14b2f3700290e45cfe5"

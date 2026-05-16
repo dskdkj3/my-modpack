@@ -1,0 +1,8 @@
+name = "zombified_piglin.json"
+filename = "zombified_piglin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e257f43cc85997bd1a3f2bc4da6088d3dc931b88b3a2bb5b03a2bc79a7dabf6.json"
+hash-format = "sha256"
+hash = "803cf94f9efd20c7dc6b16e64d34e6b0d5f8b1a216412e8c3b59513170dbff07"

@@ -1,0 +1,8 @@
+name = "scribetable.png"
+filename = "scribetable.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4c8aba57bc455e239d00d34f716acb43b2241e9979b87f89fd50dccec09af164.png"
+hash-format = "sha256"
+hash = "c5f655959c3d0df9b9c605c44e47feb94b07c918744e4eeb3fd37b199780cbab"

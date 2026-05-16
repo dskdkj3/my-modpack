@@ -1,0 +1,8 @@
+name = "lychee-common.yaml"
+filename = "lychee-common.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8d/8dd12215c7de94cfe28aff81e35706b613e54a0c562d9fced1b99e1a12dcdb65.yaml"
+hash-format = "sha256"
+hash = "eb6d83b30e2639c98d327e5c7a0f35699f56b42c4f3ec79e9fc7026e08c4189f"

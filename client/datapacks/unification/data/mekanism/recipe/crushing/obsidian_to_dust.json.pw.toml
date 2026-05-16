@@ -1,0 +1,8 @@
+name = "obsidian_to_dust.json"
+filename = "obsidian_to_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a7ff8ddab120b35d0c568e9f07dce12a6c3e286ed24005d58666b7b830ebde3c.json"
+hash-format = "sha256"
+hash = "4c31a9d38851df7f1da60361bae2b37b491ea600e001f9206de9fb758bc1bc92"

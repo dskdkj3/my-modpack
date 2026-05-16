@@ -1,0 +1,8 @@
+name = "theme2_hallway1.nbt"
+filename = "theme2_hallway1.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0c/0c7ea3c4d4a2b3bf3c89cbd5180a1b3fa0fdfb552e3c3a1e5752e08741a45267.nbt"
+hash-format = "sha256"
+hash = "17f70a696d2f41a591d4668ea5afb61a327d95223d4f02f57974f595b396be86"

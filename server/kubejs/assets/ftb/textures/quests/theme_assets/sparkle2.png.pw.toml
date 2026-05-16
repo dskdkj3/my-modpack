@@ -1,0 +1,8 @@
+name = "sparkle2.png"
+filename = "sparkle2.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/10/10e305a2b7f8e7d842b8facf74554d9df4b39b2e3b3ce8959c0fd55fcd73c249.png"
+hash-format = "sha256"
+hash = "a845cb5b433084d71d4e7c7b3757a905b20f1e2c5afbaf6af4a029d801251a1e"

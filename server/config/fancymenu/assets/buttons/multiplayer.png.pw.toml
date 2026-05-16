@@ -1,0 +1,8 @@
+name = "multiplayer.png"
+filename = "multiplayer.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cd73f7de4f342d123502b046ac8169a07f6d606c1f538bdaf0e8373166696b40.png"
+hash-format = "sha256"
+hash = "b258fe8e2d026b8157e6d2f5114584e30ac21dc643e303b337c5f3387c094e2c"

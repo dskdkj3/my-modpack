@@ -1,0 +1,8 @@
+name = "generic.invincibility_ticks.json"
+filename = "generic.invincibility_ticks.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e1/e11b2f173199b7a2fea081e4cf9ea75c37edb46169bc41eb911e7fff32899c27.json"
+hash-format = "sha256"
+hash = "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206"

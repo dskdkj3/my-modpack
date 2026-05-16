@@ -1,0 +1,8 @@
+name = "green_dye.json"
+filename = "green_dye.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/20/2060589cfe8efaf9337bff409591bf0f18f5171b7428107757c8462809ff1f08.json"
+hash-format = "sha256"
+hash = "d14f2acb8d6490334e2be9ba63d0ce53af84ad888e9d7efe0cb19bc4d2b30988"

@@ -1,0 +1,8 @@
+name = "music_disc.json"
+filename = "music_disc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2dde7ea87c49b12b96e0e96d6b40961fa91d290df3eadee1d3c404d0b28aee98.json"
+hash-format = "sha256"
+hash = "48e13ca0322c92ca070ef60723e30b04e24d4e767b9f1dfcd49cac53cabf760f"

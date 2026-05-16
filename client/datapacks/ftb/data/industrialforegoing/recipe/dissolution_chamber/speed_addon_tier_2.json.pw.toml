@@ -1,0 +1,8 @@
+name = "speed_addon_tier_2.json"
+filename = "speed_addon_tier_2.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/22/223eaaf235feb4b720d3b4679f67678c5fecee16d65334313243295148bfdb8c.json"
+hash-format = "sha256"
+hash = "b4061c9ffe0db0eab6705ac0c1bf1533b22311e549f7375397a8d70e8630f491"

@@ -1,0 +1,8 @@
+name = "scarf_of_invisibility.yaml"
+filename = "scarf_of_invisibility.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55c1e2a2eb5529fd28b1091dd24fcb993bc17c5d6e6e2e4a122715049d90d9a2.yaml"
+hash-format = "sha256"
+hash = "ca00411a529c579be176c9a4ca55f12f6612447a5a20e2aecdbaf396f4994b73"

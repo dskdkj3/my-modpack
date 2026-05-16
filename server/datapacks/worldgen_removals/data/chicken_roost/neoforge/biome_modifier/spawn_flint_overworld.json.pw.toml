@@ -1,0 +1,8 @@
+name = "spawn_flint_overworld.json"
+filename = "spawn_flint_overworld.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/91f544356771c736dbd284bf3bc232d3889491d5eca8574093b4950e161dad7a.json"
+hash-format = "sha256"
+hash = "bfe34f2d4026a970b377d202c7c1fe475d1d84a1bea2500dfbd7e27a90e9e0c4"

@@ -1,0 +1,8 @@
+name = "vampiric_glove.yaml"
+filename = "vampiric_glove.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7b/7b1b082426c241fffc05c0cd35dd50c2ccefe452c0924b76fcc20dc80e617b14.yaml"
+hash-format = "sha256"
+hash = "8d4ddbbbc5ee8eb94ae96610ed59599165107232ef2b2547bfba92c8d0e82833"

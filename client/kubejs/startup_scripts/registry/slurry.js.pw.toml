@@ -1,0 +1,8 @@
+name = "slurry.js"
+filename = "slurry.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/253056eed4094179b226a2a82efbdc32553cac63a6afc9468b2a7a041b4785d5.js"
+hash-format = "sha256"
+hash = "7fb74b96b1a9e479db43e6abe23fe4f95619fe52e3608cab96313e88d1092f42"

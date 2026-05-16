@@ -1,0 +1,8 @@
+name = "default-server.properties"
+filename = "default-server.properties"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e369d05ec9471fd01f10ecd2cd0f526ec8a03d5d2f9ca461f22626f00b0eeb5d.properties"
+hash-format = "sha256"
+hash = "d09c5a8fb25224dd965977fd9097897ceb5ccbf73197a643fff5c47aae95a315"

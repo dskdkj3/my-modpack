@@ -1,0 +1,8 @@
+name = "schematicenergistics-1.21.1-1.5.2.jar"
+filename = "schematicenergistics-1.21.1-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8012/530/schematicenergistics-1.21.1-1.5.2.jar"
+hash-format = "sha256"
+hash = "6c9984bd31c3fe4791bcfd4676fffb5ea3db9108f19b023bdb7b9f3776df6d00"

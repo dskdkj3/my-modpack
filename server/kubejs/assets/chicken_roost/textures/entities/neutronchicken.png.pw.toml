@@ -1,0 +1,8 @@
+name = "neutronchicken.png"
+filename = "neutronchicken.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/83/832c3d5a3628b2143056f548d107bdceaf429f50794285ff70a8059847164881.png"
+hash-format = "sha256"
+hash = "29a66134cb1e142ace0517aecbeb3ad91cad7e3cc7bde4119f3e10717e9b755b"

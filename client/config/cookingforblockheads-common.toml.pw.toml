@@ -1,0 +1,8 @@
+name = "cookingforblockheads-common.toml"
+filename = "cookingforblockheads-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/79/79dcd5223ca823b8cdda933a79ae5a25d8647b905383358ada4e0756e80cc3dd.toml"
+hash-format = "sha256"
+hash = "87ab882a4ecbe4c2d28407edb41b97cad011fb63fb66362144030dd57828c76a"

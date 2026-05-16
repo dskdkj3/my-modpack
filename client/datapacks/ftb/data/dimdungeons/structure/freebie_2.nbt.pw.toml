@@ -1,0 +1,8 @@
+name = "freebie_2.nbt"
+filename = "freebie_2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/969b3d61497d2a6c709a14b015ddb63875323c744e4b8df60fde2e3cce8afc2e.nbt"
+hash-format = "sha256"
+hash = "73ee80cd53d613fe73f9f725b8cce37d3598a194d5205fc7d1722efd87ec5303"

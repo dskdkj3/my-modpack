@@ -1,0 +1,8 @@
+name = "orange_candle.json"
+filename = "orange_candle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/286a74aad84a188f33ce8b8347df73c1262d3cd3b266e137a987b92029d3e14d.json"
+hash-format = "sha256"
+hash = "575fd9af4abce75abe3e7aba3edaec0cc297aacd62bff0533c79602aa6432f7f"

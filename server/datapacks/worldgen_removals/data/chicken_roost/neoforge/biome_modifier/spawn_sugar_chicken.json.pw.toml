@@ -1,0 +1,8 @@
+name = "spawn_sugar_chicken.json"
+filename = "spawn_sugar_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e5/e51d8ee8f498e383c95e59ae10f9257105375071b07cfe29287626b25d113097.json"
+hash-format = "sha256"
+hash = "db2de12ed601dea87e5b22d5ebbd52f0a1f1e48514182c97b0a8662f84278257"

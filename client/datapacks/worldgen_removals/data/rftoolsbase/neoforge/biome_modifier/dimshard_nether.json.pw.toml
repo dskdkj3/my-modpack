@@ -1,0 +1,8 @@
+name = "dimshard_nether.json"
+filename = "dimshard_nether.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/35/35b3219bf6cf21a2e2d65b46f772b9d2607eaac6555171a02c05827140a19cd3.json"
+hash-format = "sha256"
+hash = "d6020e4995b26c62432cb3554ae462250f072d11bd3be554fa2a616f0a6d9770"

@@ -1,0 +1,8 @@
+name = "glyph_duration_down.toml"
+filename = "glyph_duration_down.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/85/85cf7fda7f6f0ebc06e5ed48b1644abd151dae9d8449c557dcc9105ae956100b.toml"
+hash-format = "sha256"
+hash = "5782cfd9f26599d253253abc81c9a1cc7488707eaf97261926c7625d2e0063b2"

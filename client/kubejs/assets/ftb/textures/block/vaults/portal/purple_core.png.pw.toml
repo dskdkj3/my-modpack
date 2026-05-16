@@ -1,0 +1,8 @@
+name = "purple_core.png"
+filename = "purple_core.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/1906a151c00b9b35fac993dc5e919060eb51c8c080b19ab35189631cfe3c3d41.png"
+hash-format = "sha256"
+hash = "06d7890b37b0e0835db6e3b4fdb88721f3752fad5abb99be1b00ca4a973b8003"

@@ -1,0 +1,8 @@
+name = "module_template.json"
+filename = "module_template.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/023cdb33ad17ae6aebd37f82d50ecfaa426eaa6bb3b625c2111b5affcc8ad840.json"
+hash-format = "sha256"
+hash = "930d25aaf3d8ef8fb4fed3b00ed2b983dc81f06e30402653f63fa150012e866a"

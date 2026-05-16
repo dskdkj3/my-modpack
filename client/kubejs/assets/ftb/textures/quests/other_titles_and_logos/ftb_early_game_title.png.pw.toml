@@ -1,0 +1,8 @@
+name = "VM Chinese Translation: kubejs/assets/ftb/textures/quests/other_titles_and_logos/ftb_early_game_title.png"
+filename = "ftb_early_game_title.png"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/VM-Chinese-translate-group/StoneBlock4-Chinese/1.13.1/CNPack/kubejs/assets/ftb/textures/quests/other_titles_and_logos/ftb_early_game_title.png"
+hash-format = "sha256"
+hash = "cf4502efd3645262f8a8c42c8f07e152c15708825018a45d2f93766a8e4c11c7"

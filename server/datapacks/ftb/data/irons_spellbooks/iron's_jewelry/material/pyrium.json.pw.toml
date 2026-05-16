@@ -1,0 +1,8 @@
+name = "pyrium.json"
+filename = "pyrium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/643ff2bc734b8140641fe0ba66c4f46bd50f7d43ad8a526ad77dba90e7668074.json"
+hash-format = "sha256"
+hash = "0bc2c16777f45f1fd809ca0a784eb56dc19ef388b069db4d7e3dea2dfef6a492"

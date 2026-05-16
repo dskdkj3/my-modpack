@@ -1,0 +1,8 @@
+name = "t5_echo_radiance.json"
+filename = "t5_echo_radiance.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c48feb91e23c96369beb6c7fd2ed1ea8a074ceccac900889774dc6a0e51554f.json"
+hash-format = "sha256"
+hash = "b0349b6320c4ab8932db178e3fd9133ec01da8c94f6cc776ebad0c0d775fc8fc"

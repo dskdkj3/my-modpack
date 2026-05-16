@@ -1,0 +1,8 @@
+name = "portalframe.png"
+filename = "portalframe.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1a/1ac42d982043889b0a11455c7b4c694c3cd3530a24e75ed4efada693ac60d66a.png"
+hash-format = "sha256"
+hash = "de53d814adc217d614a6aa595974548d642f3170f447e160075ca89c43cd1286"

@@ -1,0 +1,8 @@
+name = "background.png.mcmeta"
+filename = "background.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f8/f8f51985aec45eede3189c04436918b38e16a5a44c366dcfc6338c8d0ef9be32.mcmeta"
+hash-format = "sha256"
+hash = "61d59922c0913b38f559a509f48d6e92748c35aca09c6b5613c523aa5ecf6ce4"

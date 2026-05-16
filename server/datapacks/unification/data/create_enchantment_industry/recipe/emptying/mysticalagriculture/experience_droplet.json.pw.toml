@@ -1,0 +1,8 @@
+name = "experience_droplet.json"
+filename = "experience_droplet.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/67/6772afa360dbd684ce6129ded02ad215ee8d09cc7c224d8cf914a72d9cebd837.json"
+hash-format = "sha256"
+hash = "82e37a4a63e96e9ad383d19f5070dea3178cf4d981131311d6d654968adabaf4"

@@ -1,0 +1,8 @@
+name = "bcc-common.toml"
+filename = "bcc-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f0/f0292dd6c49aa08757e4fd519f154c4250079752a096a82f42dcec28759081dc.toml"
+hash-format = "sha256"
+hash = "499eb3bc45fefda65ae5567ea67d1d3ed34af8e26994f6d70912e0b6c6184e82"

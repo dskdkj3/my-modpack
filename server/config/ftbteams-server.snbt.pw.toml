@@ -1,0 +1,8 @@
+name = "ftbteams-server.snbt"
+filename = "ftbteams-server.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1e/1e6ee871ae5273e88c10739dc981722017ada7bf9d7adf82a070c3f03b4e7fce.snbt"
+hash-format = "sha256"
+hash = "0cb54f6b7568ca7fff6b6a1320eb4ef455941c83a932f5dd8c6ad1c5741e0458"

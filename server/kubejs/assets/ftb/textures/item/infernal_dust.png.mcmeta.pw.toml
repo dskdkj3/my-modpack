@@ -1,0 +1,8 @@
+name = "infernal_dust.png.mcmeta"
+filename = "infernal_dust.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ae/ae9d0eb2ab4999885aafdd36d89690ae60a1f4309bb1b7de729899b26aa6ad31.mcmeta"
+hash-format = "sha256"
+hash = "7477a7cbb7d1fb2bb792130f13630828f4e1b2474261e2c72eb8794a5ed13356"

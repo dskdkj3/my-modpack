@@ -1,0 +1,8 @@
+name = "modernfix-neoforge-5.27.7+mc1.21.1.jar"
+filename = "modernfix-neoforge-5.27.7+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8055/632/modernfix-neoforge-5.27.7%2bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "67626d9d0a4519877927fee22acb1ee213f850cd1a7ca6eb10182c09b8909e75"

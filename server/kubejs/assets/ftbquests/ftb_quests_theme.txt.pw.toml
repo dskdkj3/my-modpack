@@ -1,0 +1,8 @@
+name = "ftb_quests_theme.txt"
+filename = "ftb_quests_theme.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0ba479c9a10db7307a30b0ef345a2f0e3ebfab0df2ecf32db9abf706a00de903.txt"
+hash-format = "sha256"
+hash = "07a9909fc71db5e3d6f93344be57dcb9fa6f1596040de573b9040a834e14ebbc"

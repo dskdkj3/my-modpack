@@ -1,0 +1,8 @@
+name = "spirit_block.md"
+filename = "spirit_block.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/54/5442274a2c5eb6f2d27a54112c7fb467f70c6ac97159d9daf1114762b5f25d86.md"
+hash-format = "sha256"
+hash = "53d1733693adfb924ac6df43134c76bb066fce64dae91456504eaeb5af47c42f"

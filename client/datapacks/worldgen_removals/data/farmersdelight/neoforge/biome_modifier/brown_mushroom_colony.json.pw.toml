@@ -1,0 +1,8 @@
+name = "brown_mushroom_colony.json"
+filename = "brown_mushroom_colony.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f3/f33c95c8fb9341cc654aae87f8e49859174cd24835f6bd634a590f3e56470404.json"
+hash-format = "sha256"
+hash = "b82c6b32025730886b3aabce2b1e7f13c8022fa4ca102ac105c55c5f13f86fe7"

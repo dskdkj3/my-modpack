@@ -1,0 +1,8 @@
+name = "structures_tweaker-1.21.1-NeoForge-2.1.7.jar"
+filename = "structures_tweaker-1.21.1-NeoForge-2.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7182/204/structures_tweaker-1.21.1-NeoForge-2.1.7.jar"
+hash-format = "sha256"
+hash = "1a6a3051183c967083aeb9e47dabca4a828119b21bca4e1e9e26aa4f1828053d"

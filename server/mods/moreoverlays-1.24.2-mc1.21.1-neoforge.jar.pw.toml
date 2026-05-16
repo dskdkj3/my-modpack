@@ -1,0 +1,8 @@
+name = "moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
+filename = "moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6981/252/moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "1ab0d1a49e31bbe5cf0cdfe5ba29fd923eca5ac60cdb51164780aa3db317c4b1"

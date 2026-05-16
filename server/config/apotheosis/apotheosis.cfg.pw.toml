@@ -1,0 +1,8 @@
+name = "apotheosis.cfg"
+filename = "apotheosis.cfg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b8/b86c73fadc445202ff3da86116d4bb4fdfbb9725107875ef8cbd195a323affbc.cfg"
+hash-format = "sha256"
+hash = "19f44ca4ccaf9514cb781f440524e377146b8393bfdebcfc50b795a83717eaf0"

@@ -1,0 +1,8 @@
+name = "fadingnightvision-1.3.0.jar"
+filename = "fadingnightvision-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7032/657/fadingnightvision-1.3.0.jar"
+hash-format = "sha256"
+hash = "293f0aa211245ddf6731b80f6e874580a334827671fca1a6c60086bb7c89f1dd"

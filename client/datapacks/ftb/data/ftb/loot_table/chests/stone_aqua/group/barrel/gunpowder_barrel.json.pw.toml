@@ -1,0 +1,8 @@
+name = "gunpowder_barrel.json"
+filename = "gunpowder_barrel.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/494784287a2cc838a363c0a444caff40752ef760fa6e0cb69416379c9e2b37eb.json"
+hash-format = "sha256"
+hash = "8a42278821075f2b66bbd4f4d62fbcfd24845750eb17a07a5b6e9effcdf813b9"

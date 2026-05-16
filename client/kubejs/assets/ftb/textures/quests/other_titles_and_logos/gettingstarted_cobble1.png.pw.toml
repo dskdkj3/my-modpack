@@ -1,0 +1,8 @@
+name = "gettingstarted_cobble1.png"
+filename = "gettingstarted_cobble1.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/90/90ce8d53cf07934942aafb623b7482b4711599e8bd0b69e2243496674942a3b2.png"
+hash-format = "sha256"
+hash = "6756a77495318320018a5ae9573b81eee956e2160dee2989f6ceb279a8550b61"

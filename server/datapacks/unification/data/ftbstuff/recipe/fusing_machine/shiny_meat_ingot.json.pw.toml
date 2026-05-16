@@ -1,0 +1,8 @@
+name = "shiny_meat_ingot.json"
+filename = "shiny_meat_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7e/7e0d73b6cbb4a95453ab0dbba6994b1771d8f7a5d352c3f34da9a0f5ddea7b9c.json"
+hash-format = "sha256"
+hash = "673c0222ba13f27671fb822b348f1dfd08ea9232a56992ca9cddb44403779afb"

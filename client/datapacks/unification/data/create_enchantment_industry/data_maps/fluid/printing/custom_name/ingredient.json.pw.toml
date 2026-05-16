@@ -1,0 +1,8 @@
+name = "ingredient.json"
+filename = "ingredient.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9ae98d5915e4085a4f6403f2ef5f62b3531d68d1039cb70b4c37b26eccf6e039.json"
+hash-format = "sha256"
+hash = "3f8cd6d4dea94093fdd0c7dbb012bb833951fac724cbe7af5ad4228b36d7d149"

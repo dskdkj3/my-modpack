@@ -1,0 +1,8 @@
+name = "molten_breach.json"
+filename = "molten_breach.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/23/2339eb5b48e9ec0218165120b845b33675c5f51e36f4675d145b1ce7750974b9.json"
+hash-format = "sha256"
+hash = "2ef237efdaa69c37efb763ec627c639167d3c1a2a01116d66568241958111e66"

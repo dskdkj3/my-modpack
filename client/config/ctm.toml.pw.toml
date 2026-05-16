@@ -1,0 +1,8 @@
+name = "ctm.toml"
+filename = "ctm.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de36755bab36094efda548bde19c1121ceb13eb0070a088c4c6db1bf47831e8d.toml"
+hash-format = "sha256"
+hash = "38f577900c2255b3dcf5a5e320ac641757304ee3bb7823589beaded342a2965e"

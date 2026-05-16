@@ -1,0 +1,8 @@
+name = "quantum_armor.md"
+filename = "quantum_armor.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/34/34bb97c64d4e3b161de23606d5d5e95ebc11ad45c3568388188d6719f30d204b.md"
+hash-format = "sha256"
+hash = "e78c344ee9bfdfe3a6c7c1e2737ff5b01ee7e3e91eace2e8733e2f1de1fbd10a"

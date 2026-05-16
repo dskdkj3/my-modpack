@@ -1,0 +1,8 @@
+name = "spectre_coil_genesis.json"
+filename = "spectre_coil_genesis.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5fc1cce6454124bc4073a4074afb37f7516c3c1404d3cae92fa5c343c0ab054.json"
+hash-format = "sha256"
+hash = "58c87af6d8d2ea3c8700ad214427730aea63053536b3db501636642a2e6ec4eb"

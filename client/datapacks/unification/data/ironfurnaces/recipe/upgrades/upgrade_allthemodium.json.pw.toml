@@ -1,0 +1,8 @@
+name = "upgrade_allthemodium.json"
+filename = "upgrade_allthemodium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/94/94172931099cbf9553c23d70093d9f1c0c5ac62625c9151a49a12c268b27135d.json"
+hash-format = "sha256"
+hash = "bcd544d07c5b5f8f0062a527c38fbba6f58b2eb34ec9fb13731fb2513c01a2b8"

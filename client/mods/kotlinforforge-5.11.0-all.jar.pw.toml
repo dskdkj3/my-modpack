@@ -1,0 +1,8 @@
+name = "kotlinforforge-5.11.0-all.jar"
+filename = "kotlinforforge-5.11.0-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7471/280/kotlinforforge-5.11.0-all.jar"
+hash-format = "sha256"
+hash = "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1"

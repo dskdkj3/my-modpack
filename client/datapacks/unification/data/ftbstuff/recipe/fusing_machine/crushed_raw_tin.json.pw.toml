@@ -1,0 +1,8 @@
+name = "crushed_raw_tin.json"
+filename = "crushed_raw_tin.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2b/2bb7f27f49540170a99f792c97cb5f240fae876a3018c0049b47a571ed6da97e.json"
+hash-format = "sha256"
+hash = "8a0f9c8dc11cac101736fb13a986ebb58608afb1f959b29f82e917985e21c0bc"

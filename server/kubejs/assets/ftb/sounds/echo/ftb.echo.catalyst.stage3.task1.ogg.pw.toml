@@ -1,0 +1,8 @@
+name = "ftb.echo.catalyst.stage3.task1.ogg"
+filename = "ftb.echo.catalyst.stage3.task1.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/55/55c7741ca10d76b06eae8e1a0af099f53fabb1311089b4153e2437c5f4665c2e.ogg"
+hash-format = "sha256"
+hash = "8fde87a554d40919bdc6da85b33ff892a6149a713abd30dd6e510cd371c7319a"

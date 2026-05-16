@@ -1,0 +1,8 @@
+name = "compacting_drawers.json"
+filename = "compacting_drawers.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/28e69cb8dffe6ebf827ea0dbd78a96a8135b41830a25be604ad2f86bf7bf21ba.json"
+hash-format = "sha256"
+hash = "b4bacfa64be55a0d4bcaea83b846a9e589801357843bf9849afc04653ae7718d"

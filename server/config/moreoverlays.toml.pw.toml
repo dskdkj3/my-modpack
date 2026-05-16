@@ -1,0 +1,8 @@
+name = "moreoverlays.toml"
+filename = "moreoverlays.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0bb2a3bda3a0d477fe6c44ee0d840e1a11695c810e3c6fad64edcca7e132518c.toml"
+hash-format = "sha256"
+hash = "e77fb658d9ddba0d36ee7fd7a442f8b27be17282d3aafba924911631c3c34990"

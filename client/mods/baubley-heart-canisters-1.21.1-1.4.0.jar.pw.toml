@@ -1,0 +1,8 @@
+name = "baubley-heart-canisters-1.21.1-1.4.0.jar"
+filename = "baubley-heart-canisters-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7773/889/baubley-heart-canisters-1.21.1-1.4.0.jar"
+hash-format = "sha256"
+hash = "cf0c406e54ffe470fff8e87e39a9c17590c99b3f181c73596329a1a2846a0d92"

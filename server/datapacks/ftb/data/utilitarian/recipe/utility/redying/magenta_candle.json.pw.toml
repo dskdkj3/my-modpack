@@ -1,0 +1,8 @@
+name = "magenta_candle.json"
+filename = "magenta_candle.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38b50a858a55d04f8895a88b3ee4e609af9c8394289c4b6af871a7b4a413d889.json"
+hash-format = "sha256"
+hash = "dc9d031644cf7b4b329927912300ea1574926eb498819b07f924d1ffacf3f7c1"

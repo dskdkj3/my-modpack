@@ -1,0 +1,8 @@
+name = "mekanism_unleashed-startup.toml"
+filename = "mekanism_unleashed-startup.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/45/4534315c55c7f10a4298d7d89adc8d3c5e8b9415470c34abcee18518cfdf550d.toml"
+hash-format = "sha256"
+hash = "bd422c4d387df9146407178281400587cc6e9f88ac2cbfcea80c9251b7304d7f"

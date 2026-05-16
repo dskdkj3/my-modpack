@@ -1,0 +1,8 @@
+name = "mekanism.snbt"
+filename = "mekanism.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d44f99102fe6cc1b5479b09fb8d9ff0b7b248d32ffdfcdcadb24c2139adfeccb.snbt"
+hash-format = "sha256"
+hash = "a350e3ecc5785549da9e9045920a7bcaa1389733a20452b23423eedfc748f330"

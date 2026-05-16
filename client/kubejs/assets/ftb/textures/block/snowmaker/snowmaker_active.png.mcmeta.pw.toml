@@ -1,0 +1,8 @@
+name = "snowmaker_active.png.mcmeta"
+filename = "snowmaker_active.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/eb/ebd4d94a410c8ceca0fc6bdd067158297ec979ee9ce5f5f76be685cd0fd3e226.mcmeta"
+hash-format = "sha256"
+hash = "cedb1e67aa152a161a26b225b5787021757e12d0ba0f5a2964632095cd801d19"

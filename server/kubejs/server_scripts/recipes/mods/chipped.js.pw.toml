@@ -1,0 +1,8 @@
+name = "chipped.js"
+filename = "chipped.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/13/13088ed6d51456f0eefefc1cbfd967708c997d6a80e3e68e790f38c1106b5590.js"
+hash-format = "sha256"
+hash = "f71f1697d3103da5ce8d3ad3bed6f916ac7660aadbc074efbdd1d617f9ff3a7f"

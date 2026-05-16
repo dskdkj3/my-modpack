@@ -1,0 +1,8 @@
+name = "replica.json"
+filename = "replica.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed5ee126fd860f78b51e291974fbaf0f68284801bcda1ee66fcdf119a42c0fae.json"
+hash-format = "sha256"
+hash = "9b48f52b47fbf57a64defd3463db17f228778892a1a1ed0f2005ef9a0a436e75"

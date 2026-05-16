@@ -1,0 +1,8 @@
+name = "water.json"
+filename = "water.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a7/a74303b6761fce7eba4bb13aa0cb9f4f83fea399e22aac72cd4a9b8e15430e38.json"
+hash-format = "sha256"
+hash = "d2f37aef9e342536355e6a9df8b1f989148c00ab0a5dc00630965f4148688a99"

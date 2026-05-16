@@ -1,0 +1,8 @@
+name = "stronghold_crossing.json"
+filename = "stronghold_crossing.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a881140744d84a3233534f473b9c27189ca802de946060ef8ddb3754b155747.json"
+hash-format = "sha256"
+hash = "4ebd1cc1d80ef9b458a3f87cc395c1a2ca5b041c94cf42688236f59f3d8e8b47"

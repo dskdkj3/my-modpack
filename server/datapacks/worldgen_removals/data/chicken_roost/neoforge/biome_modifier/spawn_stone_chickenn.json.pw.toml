@@ -1,0 +1,8 @@
+name = "spawn_stone_chickenn.json"
+filename = "spawn_stone_chickenn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c5/c52928412507a1b205047461cbf16a112dd559d7d77a73c1669f49b7b34ed2b9.json"
+hash-format = "sha256"
+hash = "531c40b4ae1ee46b298be722f19d9966646f4f90d5fc8592c7c87941e314e805"

@@ -1,0 +1,8 @@
+name = "hydra_heart.yaml"
+filename = "hydra_heart.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/245466d04e8cb25772efdc40c88e3fccb7ada7686fc6ffb3ab308906c55d71b6.yaml"
+hash-format = "sha256"
+hash = "6117a167dc2f43548a44d278a7431205692344fde2e850cd6176fc9dd9c3ab00"

@@ -1,0 +1,8 @@
+name = "appliedsticks-1.21.1-1.2.0.jar"
+filename = "appliedsticks-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7689/717/appliedsticks-1.21.1-1.2.0.jar"
+hash-format = "sha256"
+hash = "02a1cd4a9e3b522418314110330721fcddd69ff72709005d10399b3b5fcca229"

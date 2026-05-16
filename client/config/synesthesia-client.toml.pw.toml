@@ -1,0 +1,8 @@
+name = "synesthesia-client.toml"
+filename = "synesthesia-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/63/636fb374281feaba78d08d465b94176be47bcc2395838d92bb9035e9b636feef.toml"
+hash-format = "sha256"
+hash = "318777beed759587de8d0a6db9babf6fc553739bd3edc0def00b0e171f5a30eb"

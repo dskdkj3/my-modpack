@@ -1,0 +1,8 @@
+name = "world_engine_stage_checker.js"
+filename = "world_engine_stage_checker.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b1/b11eeb304fe7ec1b4a39bd37472b57fddd726897cb6783960f229e53a0b9a7a7.js"
+hash-format = "sha256"
+hash = "1b0da74f2b2c5898d98a90858ce2d817bd94aea44c7dc1eb00b53b0620eef5c9"

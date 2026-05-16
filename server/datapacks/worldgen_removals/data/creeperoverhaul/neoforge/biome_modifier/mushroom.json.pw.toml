@@ -1,0 +1,8 @@
+name = "mushroom.json"
+filename = "mushroom.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a3/a30e3d3391214285ed1c07cbd2a11cd92a3ceebc4a668e650784824a1d2dcedf.json"
+hash-format = "sha256"
+hash = "57940515dd8f930e8e6b3780450e9f600cc16edbdebc56fb5f39e837c00e5530"

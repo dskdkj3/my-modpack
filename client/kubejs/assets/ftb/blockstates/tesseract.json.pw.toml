@@ -1,0 +1,8 @@
+name = "tesseract.json"
+filename = "tesseract.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b3/b3a29c358739330a23f38ae52e6b3480e6d17d1322fb93aec3538cc9d2086130.json"
+hash-format = "sha256"
+hash = "d7198614182c3c2be665b991cbf7fa67eb3a93f7797f44217eac7f1936fe792d"

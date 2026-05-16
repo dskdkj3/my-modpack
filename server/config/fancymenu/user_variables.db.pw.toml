@@ -1,0 +1,8 @@
+name = "user_variables.db"
+filename = "user_variables.db"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6d4d86eaf13f3c0d070d3fe7322d89eb1145645fd4abc17b9090a4bc03d32095.db"
+hash-format = "sha256"
+hash = "d9330467cd25dd15f13af0258a74997fd49f1e5c33d10c2c36ef1e9b7702f307"

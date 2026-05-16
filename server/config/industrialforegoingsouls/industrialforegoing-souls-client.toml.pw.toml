@@ -1,0 +1,8 @@
+name = "industrialforegoing-souls-client.toml"
+filename = "industrialforegoing-souls-client.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9c/9c5ce8b587d775ae5cc3a1a0c807032dcf5e256e9820345a0153b0feeb452e3b.toml"
+hash-format = "sha256"
+hash = "1d6e1b2b673ac9e079a0744edcc023e7f56952234a10464d0aa0b7abf2d87af2"

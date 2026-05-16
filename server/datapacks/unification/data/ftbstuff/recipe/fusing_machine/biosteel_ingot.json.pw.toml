@@ -1,0 +1,8 @@
+name = "biosteel_ingot.json"
+filename = "biosteel_ingot.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b6/b673cf65bbec1eb1e5dc4ef49049b0eecf5ae78e6f67b858d78605b2d9e01b77.json"
+hash-format = "sha256"
+hash = "8e528c24ccffb80eeb4f8688084aea7013abe987dfccd93b5028d82861116f00"

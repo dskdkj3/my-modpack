@@ -1,0 +1,8 @@
+name = "industrial.png"
+filename = "industrial.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b2ecb2aeca195262cf80afde7cb0add82666f9545ab2e50b63f6e1a5ec503dba.png"
+hash-format = "sha256"
+hash = "aa462384b5ca82dc4d647dce31e6d6f98ba6d4d479f5a24e57c3511e1a66dc3e"

@@ -1,0 +1,8 @@
+name = "add_ore_iesnium.json"
+filename = "add_ore_iesnium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/1b/1bfe12fc92d6d83ca74bd9a44888787da959683edc31385ebf4e04b2c63ecbf7.json"
+hash-format = "sha256"
+hash = "84c7a1ab04baf98d75d49d5f7157b390dbe67298df18bf5666c9605d49a1d7f6"

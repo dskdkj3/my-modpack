@@ -1,0 +1,8 @@
+name = "biome.js"
+filename = "biome.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/7246c948e83b7ae352d449eac04b79d94ef3bf81abeea8aaa850e05df101b363.js"
+hash-format = "sha256"
+hash = "6af52b8e4eb6615385beb9a08e105ac4b899c08e2355784649393e624179f1bf"

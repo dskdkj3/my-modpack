@@ -1,0 +1,8 @@
+name = "data.snbt"
+filename = "data.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e9/e9655561a30f65297be436aa509141a2ecaba3df3efabb91fd3d7d9484e21257.snbt"
+hash-format = "sha256"
+hash = "1e1b985110f7064e4e308d252448105dd82a26c9858dab5b0aea737733b382c9"

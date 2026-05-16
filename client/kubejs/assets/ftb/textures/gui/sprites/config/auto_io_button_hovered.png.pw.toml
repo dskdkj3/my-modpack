@@ -1,0 +1,8 @@
+name = "auto_io_button_hovered.png"
+filename = "auto_io_button_hovered.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/07b93c82977e988aa623566252d54e1381d08c6cbd58a7520cc5260cb1cafe96.png"
+hash-format = "sha256"
+hash = "a8c045fe53cdc9b05b155aafa200193d5acf0b2c4a6a4a234b2c57c9cf903858"

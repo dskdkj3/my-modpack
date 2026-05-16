@@ -1,0 +1,8 @@
+name = "biodiesel_pnc.json"
+filename = "biodiesel_pnc.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a5/a5c793397088f8783fb834515c9085f548432901d65e7114e92e048dc3dd6fa6.json"
+hash-format = "sha256"
+hash = "b1f39f9e68c7a3d76b7bf7fbf1db0818ad9ed6804260dad3e3d897ef7216a8d9"

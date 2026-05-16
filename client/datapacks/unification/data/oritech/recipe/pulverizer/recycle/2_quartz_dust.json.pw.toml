@@ -1,0 +1,8 @@
+name = "2_quartz_dust.json"
+filename = "2_quartz_dust.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5d/5df408da2d7b013c479bfac8434829483b4ad2a7b31df4634aad70e1e20f9d4a.json"
+hash-format = "sha256"
+hash = "f6b9c3e882f0c9559f9e93894604a7b423735b945515c7fb6a6ada4304d3c2e6"

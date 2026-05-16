@@ -1,0 +1,8 @@
+name = "mods.png"
+filename = "mods.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5f4b2c0cc72d9d0f7238cb0d975bdc86019cb6c79d225b1374281b0effbaf555.png"
+hash-format = "sha256"
+hash = "9c262968a961d265b122e2e09113a5c08ff2a126f119c1e91f51e251dd7a1982"

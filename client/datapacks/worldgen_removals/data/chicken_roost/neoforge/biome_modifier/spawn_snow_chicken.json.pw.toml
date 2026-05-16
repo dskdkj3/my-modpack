@@ -1,0 +1,8 @@
+name = "spawn_snow_chicken.json"
+filename = "spawn_snow_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fe/fedce624a27243a8a8dfa0f4a144f3ee856ff8f3e84818a844610edf43c01211.json"
+hash-format = "sha256"
+hash = "32a7bb663bd9ed579b9f167e8d62886b46e7bf56cdffa7a34d996b1e73cd6234"

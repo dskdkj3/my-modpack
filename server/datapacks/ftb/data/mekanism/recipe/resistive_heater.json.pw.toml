@@ -1,0 +1,8 @@
+name = "resistive_heater.json"
+filename = "resistive_heater.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/095c59fb4525c7c528ca8af74c144cfb49f7e8843da62d728f82acd15dffad00.json"
+hash-format = "sha256"
+hash = "c2a2a70cce61eecdcb9d92845cb0bb318f6c7edaabf8fdd35a1c4bef14d997fa"

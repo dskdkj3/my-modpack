@@ -1,0 +1,8 @@
+name = "overworldian_nights.json"
+filename = "overworldian_nights.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/394ebf972fb7880735ce225000bad09f7376d09d5314a188f0596a9d7f116657.json"
+hash-format = "sha256"
+hash = "e6071533a0e00240f4a6f2aa97c74b02142708c27b7fad00d4a5bb8048df6b21"

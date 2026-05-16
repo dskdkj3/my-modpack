@@ -1,0 +1,8 @@
+name = "gaze-common.toml"
+filename = "gaze-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a8deab4f33db596a7abd7314f370c79b9b795a8d4b2261f69076c0aa20a6652.toml"
+hash-format = "sha256"
+hash = "654b9cc8b8d657c4d0488b9eb5b545c0b3f3918134974b19f795d5297e121164"

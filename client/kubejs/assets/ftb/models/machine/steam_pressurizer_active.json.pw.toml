@@ -1,0 +1,8 @@
+name = "steam_pressurizer_active.json"
+filename = "steam_pressurizer_active.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d08fa5baca6e89605b9dd04dfda3ba4759edd96e8231994c3a1379bb33ff1a3.json"
+hash-format = "sha256"
+hash = "ea1cb7fc2b3a7d0a8f0d532a22118dcdc5178117a406471de227b0e534b716ac"

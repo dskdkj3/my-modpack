@@ -1,0 +1,8 @@
+name = "world.toml"
+filename = "world.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f404cba285321e69570f5bd9336384f12f3a2ffe2b12b7f36d24672f169de7e.toml"
+hash-format = "sha256"
+hash = "5d0d7fd9009745a75dde4ab1fff43308e7e6d50074b8dc3538301ab718c6702b"

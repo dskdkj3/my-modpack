@@ -1,0 +1,8 @@
+name = "villagerconfig-neoforge-4.5.2+1.21.1.jar"
+filename = "villagerconfig-neoforge-4.5.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7332/114/villagerconfig-neoforge-4.5.2%2b1.21.1.jar"
+hash-format = "sha256"
+hash = "ce4380a3e16ef2cde6418659a6e934c88ffccbb5fdc874a8d2361eb36ba02bdb"

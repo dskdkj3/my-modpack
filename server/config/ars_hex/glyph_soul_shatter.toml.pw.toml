@@ -1,0 +1,8 @@
+name = "glyph_soul_shatter.toml"
+filename = "glyph_soul_shatter.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/bc/bc72bafff1874c5ca927d7b6317d75959dcce98e9fe79d6e2185e6a15216254f.toml"
+hash-format = "sha256"
+hash = "c5def340d5f91df02672df77dd884683ee4752f8d441986c2e0da4b0f2e07545"

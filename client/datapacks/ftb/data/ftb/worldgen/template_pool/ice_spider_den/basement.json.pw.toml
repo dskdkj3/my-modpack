@@ -1,0 +1,8 @@
+name = "basement.json"
+filename = "basement.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/39/399bbbbbf1c603bd39a19d63a6c87d408bcbc811e8ce3ae8b0c7007cd6b507bf.json"
+hash-format = "sha256"
+hash = "24f51d91cc9add1e59955ad5b8a69a93b9a498fa62e672efd39efc6755258f3c"

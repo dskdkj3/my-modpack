@@ -1,0 +1,8 @@
+name = "ftbunearthed-startup.snbt"
+filename = "ftbunearthed-startup.snbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4e/4e3e7194e7f3cb9f0be5283fff70d641fa4dfc838bf8789b30432b324a29a24c.snbt"
+hash-format = "sha256"
+hash = "fced200b868403ccbaee2256be3ae4b37ba76396c8c84561466ca5c7c61ee5dd"

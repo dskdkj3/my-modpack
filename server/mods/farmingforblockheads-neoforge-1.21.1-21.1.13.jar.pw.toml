@@ -1,0 +1,8 @@
+name = "farmingforblockheads-neoforge-1.21.1-21.1.13.jar"
+filename = "farmingforblockheads-neoforge-1.21.1-21.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7966/196/farmingforblockheads-neoforge-1.21.1-21.1.13.jar"
+hash-format = "sha256"
+hash = "12d8a9d3e93bfda0fc2cc74df1d56dcb01046fa309ae4610c1dcf722aba48fd2"

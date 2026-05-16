@@ -1,0 +1,8 @@
+name = "world_engine_wall_plating_side_tall.json"
+filename = "world_engine_wall_plating_side_tall.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/07/07a5b34a4d857710468a5a42d57c415ea7998970e46873d65e0b4551828f090b.json"
+hash-format = "sha256"
+hash = "1ddd957513f6292be374e43b2d33f11530b9825c8494eea7818eff9ec65c3934"

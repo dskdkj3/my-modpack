@@ -1,0 +1,8 @@
+name = "magmalith.png"
+filename = "magmalith.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f7a55395b8dd46e71ad455aaa21d59cf8d5c73d48425fc030ab9baa80c06e584.png"
+hash-format = "sha256"
+hash = "01e84a340200c8cb50265346bbf94056a41cb9a0d1599374130de68a684d7cd4"

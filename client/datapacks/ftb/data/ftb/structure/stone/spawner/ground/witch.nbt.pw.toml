@@ -1,0 +1,8 @@
+name = "witch.nbt"
+filename = "witch.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cb8549ac26b8560a9704bc7fc9f8c63854970afb3302123b61f51f236ed2ea9.nbt"
+hash-format = "sha256"
+hash = "4ad07882cc8b3206dc387a2608aea70cd9c33ff861603e0e4e1cb2ed6a50b7ae"

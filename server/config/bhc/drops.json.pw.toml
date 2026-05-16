@@ -1,0 +1,8 @@
+name = "drops.json"
+filename = "drops.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f1/f11275c2512822fadb05e9fc85f19ba46adcbe042244157401905bd44a549f7f.json"
+hash-format = "sha256"
+hash = "653af1ac1bbd46a260a389f6d98a4959f69fd743743bc39bfd2c6ef218a6183a"

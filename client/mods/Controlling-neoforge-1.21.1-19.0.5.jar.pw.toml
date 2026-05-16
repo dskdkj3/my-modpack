@@ -1,0 +1,8 @@
+name = "Controlling-neoforge-1.21.1-19.0.5.jar"
+filename = "Controlling-neoforge-1.21.1-19.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash-format = "sha256"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"

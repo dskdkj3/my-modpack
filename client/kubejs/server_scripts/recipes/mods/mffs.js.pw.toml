@@ -1,0 +1,8 @@
+name = "mffs.js"
+filename = "mffs.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/64/649061497ea4e49c01fa89903bd787e887d68402a857f7797ae418be7ea1531e.js"
+hash-format = "sha256"
+hash = "7a06272f1e46b5653bddd1ee7bfa35e5554b0cde40177d05a00b4923bae5e885"

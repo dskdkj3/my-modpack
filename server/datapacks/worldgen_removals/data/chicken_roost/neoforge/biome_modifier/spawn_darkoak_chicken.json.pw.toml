@@ -1,0 +1,8 @@
+name = "spawn_darkoak_chicken.json"
+filename = "spawn_darkoak_chicken.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3a/3ade4bbf1a17fb6544ec8b12ce5b2097541f53045b1e7299cfa71242f34dce33.json"
+hash-format = "sha256"
+hash = "af812f9757aeb3379326da4a6a8355605f300d7c92c31c87026a899d787e26d1"

@@ -1,0 +1,8 @@
+name = "getting_started.md"
+filename = "getting_started.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/fc/fc78d1e7a70ca07c2c910db0e5de14519c6cd1ccf14c9b78fddcff625b70b5f0.md"
+hash-format = "sha256"
+hash = "cdb0f96625d02c2566a2aad86b942f526fc343741e505d2c057f7fec66fa7c05"

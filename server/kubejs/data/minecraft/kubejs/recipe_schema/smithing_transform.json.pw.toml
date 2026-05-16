@@ -1,0 +1,8 @@
+name = "smithing_transform.json"
+filename = "smithing_transform.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/09/09249edee3dc7c52754397081ffa2cbb7047214a0f9ac210a4999a485422b994.json"
+hash-format = "sha256"
+hash = "c53c748e8f43979d567cffa39c3923af8509beb18fcf823d8fc645ef53c9cd94"

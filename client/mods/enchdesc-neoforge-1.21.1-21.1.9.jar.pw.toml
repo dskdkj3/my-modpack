@@ -1,0 +1,8 @@
+name = "enchdesc-neoforge-1.21.1-21.1.9.jar"
+filename = "enchdesc-neoforge-1.21.1-21.1.9.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7039/849/enchdesc-neoforge-1.21.1-21.1.9.jar"
+hash-format = "sha256"
+hash = "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"

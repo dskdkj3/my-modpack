@@ -1,0 +1,8 @@
+name = "treasure.nbt"
+filename = "treasure.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6d/6dc9d801d512b9e2a679f2e2e6a80eee80485338e36244f3a28a4cc282ff4467.nbt"
+hash-format = "sha256"
+hash = "ce1450f618b742f1c3b9682a5308ea98114f46f6a91d154c19571a6c9c0a4b30"

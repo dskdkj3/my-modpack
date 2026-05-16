@@ -1,0 +1,8 @@
+name = "nether0_dungeon.json"
+filename = "nether0_dungeon.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2a/2a1cd5e940cd8b3db9971b649538866425b5e16782e89dee989e591dc0f75eee.json"
+hash-format = "sha256"
+hash = "fdcff29cfb2ad243447512e24892067a3ecb2c7074a4a85573214dbce28c0831"

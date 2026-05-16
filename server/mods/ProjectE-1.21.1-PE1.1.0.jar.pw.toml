@@ -1,0 +1,8 @@
+name = "ProjectE-1.21.1-PE1.1.0.jar"
+filename = "ProjectE-1.21.1-PE1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6611/984/ProjectE-1.21.1-PE1.1.0.jar"
+hash-format = "sha256"
+hash = "fec9389d8b70fcf87331a0bcc41b78ada79c1e6326ef02a7bb6db9a1d5a4c48b"

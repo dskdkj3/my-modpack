@@ -1,0 +1,8 @@
+name = "collective.json5"
+filename = "collective.json5"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/339628f8430a12f37a6fec7ea21dbde25a894d2f2469623e92de2e38f4b2156a.json5"
+hash-format = "sha256"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"

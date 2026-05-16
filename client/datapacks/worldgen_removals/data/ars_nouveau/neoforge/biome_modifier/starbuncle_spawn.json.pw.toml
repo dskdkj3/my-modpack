@@ -1,0 +1,8 @@
+name = "starbuncle_spawn.json"
+filename = "starbuncle_spawn.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e9598ce8ed1f71f84fead85a4f1a6ff87dd2c144bc70f21011ef648d3e1d09c.json"
+hash-format = "sha256"
+hash = "cb6bfb80536f0b4cf3b4542d6c088a47ba36e8b22e88cd79b5890f3b8b42f047"

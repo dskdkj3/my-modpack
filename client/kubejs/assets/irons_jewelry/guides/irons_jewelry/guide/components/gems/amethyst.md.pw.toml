@@ -1,0 +1,8 @@
+name = "amethyst.md"
+filename = "amethyst.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/96/96d0d5d68651abd2be57f5a3e171be1d342e8919b8d514dc8a27021cb2c9e2e4.md"
+hash-format = "sha256"
+hash = "40b26d5e9576d8f7a7fa0c4b1ef1c696411e79a208dc83f5071dd047f1154204"

@@ -1,0 +1,8 @@
+name = "infinity.md"
+filename = "infinity.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/47/47016e35db72379f783d6a02857b189c2ebce93ae669694db1a1905a324d94fd.md"
+hash-format = "sha256"
+hash = "de445272d97db5c2429433ebf62fe2a95d3767225900f0ad9b3c7efa562fae15"

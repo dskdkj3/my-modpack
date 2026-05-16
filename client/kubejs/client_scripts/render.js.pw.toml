@@ -1,0 +1,8 @@
+name = "render.js"
+filename = "render.js"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0f/0f94aa20e859637c99c86a3bea924d95580c87813c630818d4ab0b218ff7753a.js"
+hash-format = "sha256"
+hash = "ec4096b23ade7e1ccf3f2b1486e8027cd7554df4cc2ab0d501cda1a9ece6202e"

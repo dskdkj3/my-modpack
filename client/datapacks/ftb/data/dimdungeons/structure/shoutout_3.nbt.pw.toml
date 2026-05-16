@@ -1,0 +1,8 @@
+name = "shoutout_3.nbt"
+filename = "shoutout_3.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/e3/e3fe54f2a03394e798888e40cb3b51eb668ad9210e3bf7a16d8c04eb816ef4ad.nbt"
+hash-format = "sha256"
+hash = "7a635ad353f344baf9b31d47464253a4ff08370729e6b95ca56079c77a1d023c"

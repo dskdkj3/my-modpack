@@ -1,0 +1,8 @@
+name = "timber_frame.json"
+filename = "timber_frame.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/19/191c8d70080384377a0f6a8811d3447b89f5cfb1cef0f0797aa7cea4e95af726.json"
+hash-format = "sha256"
+hash = "5be86223c347fc3a8cffb333e4f0943f85283e2342412c077b38ff2b58ca5ca1"

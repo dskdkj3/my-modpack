@@ -1,0 +1,8 @@
+name = "lingering_potion.json"
+filename = "lingering_potion.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5c/5c014a754919a29d8b0753cdefba6b054d07cd47578c9e56f6420cdcb9386041.json"
+hash-format = "sha256"
+hash = "87ae90c9738ea85d5c63aa51b137b38ca699ac57ece07019221c5790fd796446"

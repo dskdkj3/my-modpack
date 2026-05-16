@@ -1,0 +1,8 @@
+name = "spectre_ingot.md"
+filename = "spectre_ingot.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/48/4812f9787a3dac4a83710e9547cd7168f582624aa2d3521c495538476cfaf714.md"
+hash-format = "sha256"
+hash = "c88af962c03314a592b73503ab97e0a55c804b020195a74300e615a4d5bc8603"

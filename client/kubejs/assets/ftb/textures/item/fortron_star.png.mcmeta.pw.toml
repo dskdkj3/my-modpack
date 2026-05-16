@@ -1,0 +1,8 @@
+name = "fortron_star.png.mcmeta"
+filename = "fortron_star.png.mcmeta"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aa3cd83fe6d4c95a1f929e55cae5d0d26c62863747e70643636b525e60501b99.mcmeta"
+hash-format = "sha256"
+hash = "90a27f3977bb41cfbd40c881a6423115cf7384d1eab6373b1dca2fb15c1019a4"

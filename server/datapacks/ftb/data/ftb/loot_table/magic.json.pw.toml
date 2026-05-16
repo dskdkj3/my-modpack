@@ -1,0 +1,8 @@
+name = "magic.json"
+filename = "magic.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b9448ff02fcecc37f32341363e20031987115645b96e99445590c952944c6061.json"
+hash-format = "sha256"
+hash = "e2ec201494d1347f7a1d5ce62257fd86151ccde64a239d24ae58425107ff879f"

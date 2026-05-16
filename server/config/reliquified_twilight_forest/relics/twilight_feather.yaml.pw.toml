@@ -1,0 +1,8 @@
+name = "twilight_feather.yaml"
+filename = "twilight_feather.yaml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a0ad9db1d48f6e2dd5933eb2ac1b209bb01758610de185580ac7a036b873dc80.yaml"
+hash-format = "sha256"
+hash = "513e245e1a0e9586b2cd43732914504870441114f7cea05111fd753bc8575a3b"

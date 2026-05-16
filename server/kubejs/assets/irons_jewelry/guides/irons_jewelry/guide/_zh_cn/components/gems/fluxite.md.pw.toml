@@ -1,0 +1,8 @@
+name = "fluxite.md"
+filename = "fluxite.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/27/27b1e7a4a5f1cd6121330ff64b9462c547ef8d8c987d260eb5c463787ee98150.md"
+hash-format = "sha256"
+hash = "2667c6740dc835b5786f6adeea7836c56bcc428ff19527694bc798ae61cd8324"

@@ -1,0 +1,8 @@
+name = "goblin_knight.json"
+filename = "goblin_knight.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d4d9d35f832422c63d5ae6dc880d45f9c6b870f211c53db39c587f89943089e.json"
+hash-format = "sha256"
+hash = "d1ec8802ec1979dd10a525f99106e3b925bec8862ee6ee4cb42a04c0e63cdb1e"

@@ -1,0 +1,8 @@
+name = "base_dump.png"
+filename = "base_dump.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a0/a007b53b9b3982453356d3e137ebac3bba41c3ce99b26acc9fbf9f478ec3b427.png"
+hash-format = "sha256"
+hash = "560d3e93e885092230d593204da3a4ba65b4a53b0672d62de1cbed21a7a703db"

@@ -1,0 +1,8 @@
+name = "universal_layout.txt"
+filename = "universal_layout.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f44b4ce6ed052f320a1e86bb855bb2a65419d74b25be14380515975ed06ec3e.txt"
+hash-format = "sha256"
+hash = "18a7109ac9cc926ef41a253619d2678a61b98654de8fe4a48ab007ed90304be7"

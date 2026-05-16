@@ -1,0 +1,8 @@
+name = "uraninite_ore_poor.json"
+filename = "uraninite_ore_poor.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/25/251604952eeff5d7971000fe9f4d0c62da8d8a9cf85c67679aa5ace8ec31b5bb.json"
+hash-format = "sha256"
+hash = "6e70170157842c2886ddab3acbbcabe9e2d1d1bc299d09a3a49a73a0ad483d06"

@@ -1,0 +1,8 @@
+name = "create-enchantment-industry-2.3.1.jar"
+filename = "create-enchantment-industry-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar"
+hash-format = "sha256"
+hash = "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"

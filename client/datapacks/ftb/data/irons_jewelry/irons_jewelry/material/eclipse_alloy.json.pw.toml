@@ -1,0 +1,8 @@
+name = "eclipse_alloy.json"
+filename = "eclipse_alloy.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/81/818459a6c150104ab04fbd05e8a72806f20eefa48242eadb8b4113ea272d4679.json"
+hash-format = "sha256"
+hash = "073219e251adfd9f45fd5fc968dc9868534e27907950fbeb1f74ad3ad4323bae"

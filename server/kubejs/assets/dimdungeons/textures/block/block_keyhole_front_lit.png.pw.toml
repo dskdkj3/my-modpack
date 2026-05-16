@@ -1,0 +1,8 @@
+name = "block_keyhole_front_lit.png"
+filename = "block_keyhole_front_lit.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4a/4a8db3a9b3b4ceffcf58e78146ae0819564b6372dbefab26800d63366d41f988.png"
+hash-format = "sha256"
+hash = "7c6a43b29756942bd192a9abfdd19a156199ebbd276c5e92745b004e6d0bd962"

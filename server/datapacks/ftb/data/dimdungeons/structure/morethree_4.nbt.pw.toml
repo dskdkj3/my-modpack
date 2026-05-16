@@ -1,0 +1,8 @@
+name = "morethree_4.nbt"
+filename = "morethree_4.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/52/52da03704235d6f84a1b18b25d2e1de7fd63ca74978fd630c1f3787033aaf9b0.nbt"
+hash-format = "sha256"
+hash = "da22cd51702eccd00d7181ab1a728f9a31723ba044ee1ba52da84cdb3a539faf"

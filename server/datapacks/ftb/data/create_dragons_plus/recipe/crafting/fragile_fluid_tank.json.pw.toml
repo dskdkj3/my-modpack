@@ -1,0 +1,8 @@
+name = "fragile_fluid_tank.json"
+filename = "fragile_fluid_tank.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/28/28c529f035ab874a0bd70a44f3a090499a174782bf756433a9dc3950a7b88c27.json"
+hash-format = "sha256"
+hash = "9ca6da8f82001369572e2c7ff6e13252c85f42268282593169eac6038596d062"

@@ -1,0 +1,8 @@
+name = "sign.json"
+filename = "sign.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/49/49d436dc02da5420fb18de71295d760cb120a30376e4f030be386914a9023298.json"
+hash-format = "sha256"
+hash = "021fdc59acb94fb3ba803cb32a6fedfd25ed377bc176d6b603d43754caa3bf3f"

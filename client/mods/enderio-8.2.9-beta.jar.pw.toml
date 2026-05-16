@@ -1,0 +1,8 @@
+name = "enderio-8.2.9-beta.jar"
+filename = "enderio-8.2.9-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8064/52/enderio-8.2.9-beta.jar"
+hash-format = "sha256"
+hash = "f6632d1159c035ea0268fd13d154a68387df24b91923bb22bf245c1010ed871a"

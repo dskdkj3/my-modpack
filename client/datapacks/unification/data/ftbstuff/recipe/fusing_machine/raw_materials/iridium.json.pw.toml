@@ -1,0 +1,8 @@
+name = "iridium.json"
+filename = "iridium.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4c/4cca7ace1863086eb2fd0f20cf4e387913cd2602466a20114fd9b5545a24531a.json"
+hash-format = "sha256"
+hash = "38aa6e6437f384b780d1f5d05a47b9d7071aef1535ad5da358ca473e6a419d5a"

@@ -1,0 +1,8 @@
+name = "reliquified_ars_nouveau-1.21.1-0.6.1.jar"
+filename = "reliquified_ars_nouveau-1.21.1-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6882/233/reliquified_ars_nouveau-1.21.1-0.6.1.jar"
+hash-format = "sha256"
+hash = "35589debf65b4e458b6218c9894eea088b08239bf5028d65c7c4bf0f74cea388"

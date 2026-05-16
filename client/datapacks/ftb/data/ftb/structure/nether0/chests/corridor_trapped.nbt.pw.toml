@@ -1,0 +1,8 @@
+name = "corridor_trapped.nbt"
+filename = "corridor_trapped.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ee/ee00bfed08f1153c6dfc7f7e73702a8703a372e2687c285b4a1f254bd0fdf645.nbt"
+hash-format = "sha256"
+hash = "f3add0be739a4721e9f1a5ce3daa1bd0e0d3fa1cfb7fcdff7d08bc1c4fbb101e"

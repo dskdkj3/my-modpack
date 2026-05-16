@@ -1,0 +1,8 @@
+name = "chicken_roost-server.toml"
+filename = "chicken_roost-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/14/14e2b0b8e15e63af37be09577431cc96dc38ea29546d8c137e5f72c749d7411f.toml"
+hash-format = "sha256"
+hash = "71c7f714492f1a55c96df3b622cdb1a236d59a9377fc9821575aebe6c50904bc"

@@ -1,0 +1,8 @@
+name = "archaeologist.json"
+filename = "archaeologist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b15b41c68a3b3d9a3ee17f2685e3f9e5f7deac239c9fb7cb2767582c6c281fc.json"
+hash-format = "sha256"
+hash = "23b5f6e61794a0b1a085b515e7e1e55be07fb384f72db8688194904208fb3f21"

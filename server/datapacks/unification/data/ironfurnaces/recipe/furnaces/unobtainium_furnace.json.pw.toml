@@ -1,0 +1,8 @@
+name = "unobtainium_furnace.json"
+filename = "unobtainium_furnace.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/78208841341b8942c775b2f21e63575662b6d8a81a15ce48485d65dbbbf0170e.json"
+hash-format = "sha256"
+hash = "7bfbd1260b9adcc885312ec49f85dc2b1a3fe77b47db42d7fc61e73de1f6cf76"

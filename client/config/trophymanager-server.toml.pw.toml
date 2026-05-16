@@ -1,0 +1,8 @@
+name = "trophymanager-server.toml"
+filename = "trophymanager-server.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/62/6218d59c8fd1a435ad51efa7876868ff9e51e828fa418bd85d28beea51980b9b.toml"
+hash-format = "sha256"
+hash = "cb6de90cafbafe3b41b11e4b06d7b7d76905159c99d7f54f7da8994b65cad01c"

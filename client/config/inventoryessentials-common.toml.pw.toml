@@ -1,0 +1,8 @@
+name = "inventoryessentials-common.toml"
+filename = "inventoryessentials-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/99/99897c1a0da6938683518a1d3729821a5e562bab2f3fea913eea221edfb8ecdf.toml"
+hash-format = "sha256"
+hash = "f612205489955d6eecf076deeb7246877b6df1a5a7c90dd52d2dc6c46b7b16bd"

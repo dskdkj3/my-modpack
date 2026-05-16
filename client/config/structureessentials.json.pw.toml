@@ -1,0 +1,8 @@
+name = "structureessentials.json"
+filename = "structureessentials.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9a/9a8097f912fb88e126d33eaf4683c9e2db58f836e556af6bbf97439b14c63804.json"
+hash-format = "sha256"
+hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"

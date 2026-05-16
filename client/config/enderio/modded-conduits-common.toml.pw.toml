@@ -1,0 +1,8 @@
+name = "modded-conduits-common.toml"
+filename = "modded-conduits-common.toml"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2d/2d2ced3dbbdc32f9098894ac5ae65c4b87dbf63689f1abd220549c64c7f33d05.toml"
+hash-format = "sha256"
+hash = "1bf6d2c17d2aabb47790325e597439981f5bb145ef7432a6a84642fa8eee7695"

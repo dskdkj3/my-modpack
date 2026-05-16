@@ -1,0 +1,8 @@
+name = "revitalizer.md"
+filename = "revitalizer.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/ed/ed97410f655b04b588c0dda1e84bd2bda53805394eaf6ccd3d31e1c575e937e6.md"
+hash-format = "sha256"
+hash = "a27fd7c8f1acf7b81234f2db191f8aedb6820042a5670be964f4e3b973674a76"

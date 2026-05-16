@@ -1,0 +1,8 @@
+name = "deepslatecave.nbt"
+filename = "deepslatecave.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a9/a9079eece707ecd5ed9ed0847065099dadbcf601ae90924dc05e9e71a150ad96.nbt"
+hash-format = "sha256"
+hash = "bef64104b071c365239f1d10f0fdf76b698f92a28dc254ba13ec0eb2bf442873"

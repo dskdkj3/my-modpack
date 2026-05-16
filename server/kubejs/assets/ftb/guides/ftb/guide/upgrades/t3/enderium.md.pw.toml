@@ -1,0 +1,8 @@
+name = "enderium.md"
+filename = "enderium.md"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/df9395a99583c9151d3f1c3a24c652db75621eb41e0b3d608093324a16d41b50.md"
+hash-format = "sha256"
+hash = "9a4c7b0eb8158c19608569650827b9f12d3a74fbdba89fecd16a871351607ba4"

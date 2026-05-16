@@ -1,0 +1,8 @@
+name = "ars_hex-1.21.1-5.0.4b.jar"
+filename = "ars_hex-1.21.1-5.0.4b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7404/679/ars_hex-1.21.1-5.0.4b.jar"
+hash-format = "sha256"
+hash = "c87f061e964c2027ee6e5096b00e56421a336c8fd9ccbec35ed4fb435f4a8db5"

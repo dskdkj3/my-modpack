@@ -1,0 +1,8 @@
+name = "advanced_empowerer_idle.png"
+filename = "advanced_empowerer_idle.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/dc/dcdfb80f00387f459975f7b8f8ac293368407e37301467c04e52a46f5824c6d0.png"
+hash-format = "sha256"
+hash = "01abd9016510716e679a22e89e6befa70e48c76417e60b6bbd8c7283a066f051"

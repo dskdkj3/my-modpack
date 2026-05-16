@@ -1,0 +1,8 @@
+name = "machinist.json"
+filename = "machinist.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f7/f76da91317cecfe7856767126b2b95aa2e049bcd8c443b96297c7699c5e99b71.json"
+hash-format = "sha256"
+hash = "adef7ab0e47ec141cd8f85a9bad3382bef9888c836e782ca1d7436de2d5fd371"

@@ -1,0 +1,8 @@
+name = "smeltery_v2.nbt"
+filename = "smeltery_v2.nbt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5e/5ea7c0e53a14224ae03f3a7777f7e57cb5e65274290e70d04c491cd7feaded09.nbt"
+hash-format = "sha256"
+hash = "755153f3e49b5c42fca84ee97c560d3e696f773d3fba9820ac05a055370ea255"

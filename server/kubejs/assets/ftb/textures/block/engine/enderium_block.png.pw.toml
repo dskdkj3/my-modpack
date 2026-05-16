@@ -1,0 +1,8 @@
+name = "enderium_block.png"
+filename = "enderium_block.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/05/0545e09c56f8988a96496be4accb1ca4630c009836c28efc62952a2d1cdd5208.png"
+hash-format = "sha256"
+hash = "06a3b6af907fa4ad9095348c295be9220adeb277968dd4f9b0838f086a93f8a8"

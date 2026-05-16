@@ -1,0 +1,8 @@
+name = "diamond_sai.json"
+filename = "diamond_sai.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/df/dfde1ac656a38da14371b543a983399cfc8bbea8452dce818b324cb2afc45f0b.json"
+hash-format = "sha256"
+hash = "533efb80662fe1cd03add9a45d7a4ac5ed87505e90fbfee72c6020f161625bff"

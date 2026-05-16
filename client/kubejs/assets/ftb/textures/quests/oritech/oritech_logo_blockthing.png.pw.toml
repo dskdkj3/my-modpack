@@ -1,0 +1,8 @@
+name = "oritech_logo_blockthing.png"
+filename = "oritech_logo_blockthing.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/89/8969cc1aa7182b70d0f0fc76ef552732907a87fad1ee608234f2022f10188beb.png"
+hash-format = "sha256"
+hash = "e4705122546dde06c6a7e0a11b20dfaf409261d788cf47c96181f90ec8306ad0"

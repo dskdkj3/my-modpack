@@ -1,0 +1,8 @@
+name = "fluid_upgrade_3.json"
+filename = "fluid_upgrade_3.json"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/aa/aadf8ca6cf57bc97fc452cec5e08775830c8ed282ef6431859cdf22bdc43e042.json"
+hash-format = "sha256"
+hash = "d01855c9968d5d3d30e7d3f53e5f759f9d1e2254d314af2ebc63f4ae4fff7d97"
